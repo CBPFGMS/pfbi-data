@@ -1,0 +1,9 @@
+Id,Type,GenericPartnerTypeCode,GenericPartnerTypeName,PublicSubIPCode,PublicSubIPName
+1,BU,BU,National Partners,BU,BU
+2,DRP,DRP,National Partners,DRP,DRP
+3,Government,GOV,National Partners,GOV,Government
+4,International NGO,INGO,International NGO,INGO,International NGO
+5,NGOs,NGOs,National Partners,NGOs,NGOs
+6,National NGO,NNGO,National Partners,NNGO,National NGO
+7,Red Cross/Red Crescent Society,RedC,Red Cross/Red Crescent Society,RedC,Red Cross/Red Crescent Society
+8,UN Agency,UN,UN Agency,UN,UN Agency
