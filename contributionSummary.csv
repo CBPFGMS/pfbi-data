@@ -2131,6 +2131,8 @@ FiscalYear,PaidDate,PledgeDate,DonorId,PooledFundId,PaidAmt,PledgeAmt
 2020,12-2020,12-2020,France,Syria Cross border,2789725,0
 2020,12-2020,12-2020,Germany,80,2447510,0
 2020,12-2020,12-2020,Iceland,Afghanistan,235183,0
+2020,12-2020,12-2020,Italy,Iraq,597371,0
+2020,12-2020,12-2020,Jersey,18,128031,0
 2020,12-2020,12-2020,Norway,Afghanistan,574110,0
 2020,12-2020,12-2020,Norway,Ethiopia,568795,0
 2020,12-2020,12-2020,Norway,Nigeria,1472248,0
@@ -3437,7 +3439,7 @@ FiscalYear,PaidDate,PledgeDate,DonorId,PooledFundId,PaidAmt,PledgeAmt
 2021,12-2020,12-2020,Brunei Darussalam,CERF,0,50000
 2021,12-2020,12-2020,Canada,CERF,0,0
 2021,12-2020,12-2020,Catalan Agency for Development Cooperation,CERF,0,0
-2021,12-2020,12-2020,Czech Republic,CERF,0,227998
+2021,12-2020,12-2020,Czech Republic,CERF,230435,0
 2021,12-2020,12-2020,Equatorial Guinea ,CERF,0,0
 2021,12-2020,12-2020,Fiji,CERF,0,2392
 2021,12-2020,12-2020,Finland,CERF,0,0
