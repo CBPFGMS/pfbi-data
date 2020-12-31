@@ -5654,9 +5654,10 @@ AllocationYear,PartnerCode,PooledFundId,OrganizatinonId,ClusterId,AllocationSurc
 2020,11,72,3,Shelter and Non-Food Items,4,3716,1,1938000.0
 2020,11,79,3,Shelter and Non-Food Items,3,3442,1,802578.0
 2020,11,79,3,"Water, Sanitation and Hygiene",3,3442,1,200645.0
-2020,11,80,3,10,3,3474,1,14631311.0
+2020,11,80,3,7,3,3759,1,900000.0
+2020,11,80,3,10,3,3474##3759,2,15581311.0
 2020,11,80,3,Multi-Purpose Cash,3,3474,1,1492991.0
-2020,11,80,3,Shelter and Non-Food Items,3,3474,1,13735516.0
+2020,11,80,3,Shelter and Non-Food Items,3,3474##3759,2,14385516.0
 2020,11,87,3,10,3,3656,1,302597.0
 2020,11,87,3,Shelter and Non-Food Items,3,3625,1,2500486.0
 2020,11,88,3,10,3,3545,1,500000.0
@@ -5724,6 +5725,8 @@ AllocationYear,PartnerCode,PooledFundId,OrganizatinonId,ClusterId,AllocationSurc
 2020,2,66,3,9,3,3601,1,130280.0
 2020,2,66,3,Common Services,3,3601,1,859850.0
 2020,2,68,3,9,3,3452,1,500000.0
+2020,2,70,3,2,3,3764,1,504000.0
+2020,2,70,3,6,3,3764,1,396000.0
 2020,2,71,3,6,3,3606,1,1005027.0
 2020,2,71,3,6,4,3558,1,2275000.0
 2020,2,71,3,9,3,3606,1,495014.0
