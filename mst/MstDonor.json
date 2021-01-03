@@ -1150,5 +1150,23 @@
     "donorName": "ZIV Aplicaciones y Tecnología, S.L.",
     "donorType": "Private",
     "donorISO2Code": ""
-  }
+  },
+  {
+    "id": 193,
+    "donorName": "Fiji",
+    "donorType": "Member State",
+    "donorISO2Code": "FJ"
+  },
+  {
+    "id": 194,
+    "donorName": "Equatorial Guinea",
+    "donorType": "Member State",
+    "donorISO2Code": "GQ"
+  },
+  {
+    "id": 195,
+    "donorName": "Yemen",
+    "donorType": "Member State",
+    "donorISO2Code": "YE"
+  },
 ]
