@@ -1169,4 +1169,10 @@
     "donorType": "Member State",
     "donorISO2Code": "YE"
   },
+  {
+    "id": 196,
+    "donorName": "Uzbekistan",
+    "donorType": "Member State",
+    "donorISO2Code": "UZ"
+  },
 ]
