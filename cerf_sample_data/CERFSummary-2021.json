@@ -1,24 +1,31 @@
 {
-"odata.metadata":"https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
-	"donors":0,
-	"funds":0,
-	"contribTotalAmt":"0",
-	"contribPaidAmt":"0",
-	"contribPledgedAmt":"0",
-	"allocAmt":"0",
-	"underApprovalAmt":"0",
-	"year":"2021",
-	"projectsFunded":0,
-	"partnersFunded":0,
-    "partnersFundedByType":[
-    {
-      "partnerType":"International NGO","partnersFunded":0
-    },{
-      "partnerType":"National NGO","partnersFunded":0
-    },{
-      "partnerType":"Others","partnersFunded":0
-    },{
-      "partnerType":"UN Agency","partnersFunded":0
-    }
-  ]
+    "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
+    "donors": 34,
+    "funds": 0,
+    "contribTotalAmt": 326496824.2483,
+    "contribPaidAmt": 617668.94,
+    "contribPledgedAmt": 325879155.3083,
+    "allocAmt": "0",
+    "underApprovalAmt": "0",
+    "year": "2021",
+    "projectsFunded": 0,
+    "partnersFunded": 0,
+    "partnersFundedByType": [
+        {
+            "partnerType": "International NGO",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "National NGO",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "Others",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "UN Agency",
+            "partnersFunded": 0
+        }
+    ]
 }
