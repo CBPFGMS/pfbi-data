@@ -6622,8 +6622,8 @@ Burundi,2020,Underfunded Emergencies,3701,20-UF-IOM-026,Camp Coordination and Ca
 Burundi,2020,Underfunded Emergencies,3702,20-UF-FPA-033,Protection,Protection,100.0,700000.0
 Ethiopia,2020,Rapid Response,3661,20-RR-CEF-044,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,4300000.0
 Ethiopia,2020,Rapid Response,3662,20-RR-WHO-028,Health,Health,100.0,3700000.0
-Ethiopia,2020,Rapid Response,3768,20-RR-CEF-068,Education,Education,2.999991237916844,61629.0
-Ethiopia,2020,Rapid Response,3768,20-RR-CEF-068,Protection,Protection,97.00000876208316,1992677.0
+Ethiopia,2020,Rapid Response,3768,20-RR-CEF-068,Education,Education,97.00000876208316,1992677.0
+Ethiopia,2020,Rapid Response,3768,20-RR-CEF-068,Protection,Protection,2.999991237916844,61629.0
 Ethiopia,2020,Rapid Response,3769,20-RR-CEF-069,Nutrition,Nutrition,100.0,1000000.0
 Ethiopia,2020,Rapid Response,3771,20-RR-FAO-034,Agriculture,Agriculture,100.0,8000001.0
 Ethiopia,2020,Rapid Response,3772,20-RR-FPA-043,Protection,Protection,100.0,160284.0
@@ -6686,7 +6686,7 @@ Madagascar,2020,Rapid Response,3672,20-RR-CEF-047,Nutrition,Nutrition,20.0,37000
 Madagascar,2020,Rapid Response,3672,20-RR-CEF-047,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",27.0,499500.0
 Madagascar,2020,Rapid Response,3673,20-RR-FAO-027,Agriculture,Agriculture,100.0,599918.0
 Madagascar,2020,Rapid Response,3674,20-RR-FPA-028,Health,Health,50.0001249996875,200001.0
-Madagascar,2020,Rapid Response,3674,20-RR-FPA-028,Protection,Protection,49.9998750003125,200000.0
+Madagascar,2020,Rapid Response,3674,20-RR-FPA-028,Protection,Protection,50.0001249996875,200001.0
 Madagascar,2020,Rapid Response,3675,20-RR-WFP-040,Food Assistance,Food Assistance,44.0,506000.0
 Madagascar,2020,Rapid Response,3675,20-RR-WFP-040,Nutrition,Nutrition,22.0,253000.0
 Madagascar,2020,Rapid Response,3675,20-RR-WFP-040,Multi-sector refugee assistance,Multi-sector refugee assistance,34.0,391000.0
@@ -6912,7 +6912,7 @@ Burkina Faso,2020,Rapid Response,3552,20-RR-CEF-023,"Water, Sanitation and Hygie
 Burkina Faso,2020,Rapid Response,3552,20-RR-CEF-023,Protection,Protection,17.00001133334089,510000.0
 Burkina Faso,2020,Rapid Response,3553,20-RR-OPS-001,Protection,Protection,100.0,405350.0
 Mauritania,2020,Underfunded Emergencies,3492,20-UF-FAO-007,Agriculture,Agriculture,100.0,800000.0
-Mauritania,2020,Underfunded Emergencies,3493,20-UF-CEF-012,Nutrition,Nutrition,72.99995997518461,729547.0
+Mauritania,2020,Underfunded Emergencies,3493,20-UF-CEF-012,Nutrition,Nutrition,73.00006003722308,729548.0
 Mauritania,2020,Underfunded Emergencies,3493,20-UF-CEF-012,Education,Education,13.999979987592306,139913.0
 Mauritania,2020,Underfunded Emergencies,3493,20-UF-CEF-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",12.999959975184613,129919.0
 Mauritania,2020,Underfunded Emergencies,3494,20-UF-IOM-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",49.0,392000.0
@@ -7117,6 +7117,7 @@ Syrian Arab Republic,2020,Underfunded Emergencies,3539,20-UF-WFP-014,Agriculture
 Syrian Arab Republic,2020,Underfunded Emergencies,3540,20-UF-WHO-014,Health,Health,100.0,2700001.0
 Afghanistan,2021,Rapid Response,3775,20-RR-WFP-057,Food Assistance,Food Assistance,100.0,10000000.0
 Burkina Faso,2021,Rapid Response,3767,20-RR-WFP-055,Food Assistance,Food Assistance,100.0,6000000.0
+Nigeria,2021,Rapid Response,3773,20-RR-WFP-056,Food Assistance,Food Assistance,100.0,15000005.0
 Republic of the Sudan,2021,Rapid Response,3760,20-RR-CEF-066,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1500000.0
 South Sudan,2021,Rapid Response,3766,20-RR-WFP-054,Food Assistance,Food Assistance,100.0,7000000.0
 Eastern Africa,2021,Rapid Response,3777,20-RR-FAO-036,Agriculture,Agriculture,100.0,1500000.0
