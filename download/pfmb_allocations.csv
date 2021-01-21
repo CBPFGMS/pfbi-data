@@ -10075,6 +10075,11 @@ Ethiopia,2020,Standard,17500,ETH-20/DDA-3379/SA2/H-E/NGO/17500,Education,Livelih
 Ethiopia,2020,Standard,17500,ETH-20/DDA-3379/SA2/H-E/NGO/17500,Health,Gender Based Violence (GBV),55.0,364074.7605,CBPF
 Ethiopia,2020,Standard,17544,ETH-20/DDA-3379/SA2/H-N/INGO/17544,Health,Gender Based Violence (GBV),44.0,118800.0,CBPF
 Ethiopia,2020,Standard,17544,ETH-20/DDA-3379/SA2/H-N/INGO/17544,Nutrition,,56.0,151200.0,CBPF
+Ethiopia,2020,Standard,17538,ETH-20/DDA-3379/SA2/H-N-WASH-P-NFI/ES/INGO/17538,Emergency Shelter and NFI,Child protection,36.0,179190.0,CBPF
+Ethiopia,2020,Standard,17538,ETH-20/DDA-3379/SA2/H-N-WASH-P-NFI/ES/INGO/17538,Health,Gender Based Violence (GBV),25.0,124437.5,CBPF
+Ethiopia,2020,Standard,17538,ETH-20/DDA-3379/SA2/H-N-WASH-P-NFI/ES/INGO/17538,Nutrition,,3.0,14932.5,CBPF
+Ethiopia,2020,Standard,17538,ETH-20/DDA-3379/SA2/H-N-WASH-P-NFI/ES/INGO/17538,Protection,GBV,12.0,59730.0,CBPF
+Ethiopia,2020,Standard,17538,ETH-20/DDA-3379/SA2/H-N-WASH-P-NFI/ES/INGO/17538,Water Sanitation Hygiene,Child Protection in Emergencies,24.0,119460.0,CBPF
 Ethiopia,2020,Standard,17423,ETH-20/DDA-3379/SA2/H-WASH-NFI/ES/INGO/17423,Emergency Shelter and NFI,Child protection,58.0,348000.3712,CBPF
 Ethiopia,2020,Standard,17423,ETH-20/DDA-3379/SA2/H-WASH-NFI/ES/INGO/17423,Health,Gender Based Violence (GBV),23.0,138000.1472,CBPF
 Ethiopia,2020,Standard,17423,ETH-20/DDA-3379/SA2/H-WASH-NFI/ES/INGO/17423,Water Sanitation Hygiene,Child Protection in Emergencies,19.0,114000.1216,CBPF
@@ -18716,9 +18721,12 @@ Yemen,2020,Standard,17850,YEM-20/3420/SA1/Health-Nutrition/O/17850,Health,Child 
 Yemen,2020,Standard,17850,YEM-20/3420/SA1/Health-Nutrition/O/17850,Nutrition,Social Cohesion,10.0,169857.3,CBPF
 Yemen,2020,Standard,17907,YEM-20/3420/SA1/Health-WASH/NGO/17907,Health,Child protection,85.0,307386.4265,CBPF
 Yemen,2020,Standard,17907,YEM-20/3420/SA1/Health-WASH/NGO/17907,Water Sanitation Hygiene,Gender-based Violence (GBV),15.0,54244.6635,CBPF
+Yemen,2020,Standard,17877,YEM-20/3420/SA1/Protection/INGO/17877,Protection,Livelihood,100.0,543884.14,CBPF
 Yemen,2020,Standard,17910,YEM-20/3420/SA1/Protection/INGO/17910,Protection,Livelihood,100.0,649949.46,CBPF
+Yemen,2020,Standard,17924,YEM-20/3420/SA1/Protection/INGO/17924,Protection,Livelihood,100.0,1532292.33,CBPF
 Yemen,2020,Standard,17916,YEM-20/3420/SA1/RRM/INGO/17916,Multi-Sector,,100.0,971364.6,CBPF
 Yemen,2020,Standard,17858,YEM-20/3420/SA1/RRM/UN/17858,Multi-Sector,,100.0,1699998.45,CBPF
 Yemen,2020,Standard,17879,YEM-20/3420/SA1/RRM/UN/17879,Multi-Sector,,100.0,2016349.46,CBPF
 Yemen,2020,Standard,17931,YEM-20/3420/SA1/SHNFI/NGO/17931,Emergency Shelter and NFI,,100.0,478814.3,CBPF
 Yemen,2020,Standard,17886,YEM-20/3420/SA1/SHNFI/O/17886,Emergency Shelter and NFI,,100.0,1624558.32,CBPF
+Yemen,2020,Standard,17837,YEM-20/3420/SA1/WASH/NGO/17837,Water Sanitation Hygiene,Gender-based Violence (GBV),100.0,319884.03,CBPF
