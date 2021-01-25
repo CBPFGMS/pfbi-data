@@ -3,7 +3,7 @@
     "id": 1,
     "donorName": "Abu Dhabi National Energy Company \"TAQA",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 2,
@@ -14,20 +14,20 @@
   {
     "id": 3,
     "donorName": "African Union",
-    "donorType": "Private",
-    "donorISO2Code": ""
+    "donorType": "Member State",
+    "donorISO2Code": "XAU"
   },
   {
     "id": 4,
     "donorName": "AGFUND",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 5,
     "donorName": "Al Jisr Foundation",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 6,
@@ -39,7 +39,7 @@
     "id": 7,
     "donorName": "Alexander Bodini Foundation",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "id": 16,
     "donorName": "Baha'i International Community (National Spiritual Assembly)",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 17,
@@ -111,19 +111,19 @@
     "id": 19,
     "donorName": "BASF (Germany and South East Asia)",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 20,
     "donorName": "Basque Agency for Development Cooperation",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XBADC"
   },
   {
     "id": 21,
     "donorName": "Belgian Government of Flanders",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XBGF"
   },
   {
     "id": 22,
@@ -147,13 +147,13 @@
     "id": 25,
     "donorName": "Bilkent Holding AS",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 26,
     "donorName": "Bonne L. Domroe",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 27,
@@ -213,7 +213,7 @@
     "id": 36,
     "donorName": "Catalan Agency for Development Cooperation",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XCADC"
   },
   {
     "id": 37,
@@ -225,7 +225,7 @@
     "id": 38,
     "donorName": "Chih-Kun Chan",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 39,
@@ -243,19 +243,19 @@
     "id": 41,
     "donorName": "Chung Te Buddhist Association of New York, Inc.",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 42,
     "donorName": "CIGNA",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 43,
     "donorName": "Cmax Foundation",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 44,
@@ -267,7 +267,7 @@
     "id": 45,
     "donorName": "Coloplast",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 46,
@@ -303,7 +303,7 @@
     "id": 51,
     "donorName": "Daystar Christian Centre",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 52,
@@ -315,7 +315,7 @@
     "id": 53,
     "donorName": "Disaster Resource Network",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 54,
@@ -345,13 +345,13 @@
     "id": 58,
     "donorName": "ENDESA Peru",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 59,
     "donorName": "ENDESA Spain",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 60,
@@ -369,7 +369,7 @@
     "id": 62,
     "donorName": "European Commission",
     "donorType": "Member State",
-    "donorISO2Code": ""
+    "donorISO2Code": "XEC"
   },
   {
     "id": 63,
@@ -411,7 +411,7 @@
     "id": 69,
     "donorName": "GMC Services",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 70,
@@ -447,19 +447,19 @@
     "id": 75,
     "donorName": "Holy See (Vatican City State)",
     "donorType": "Observer",
-    "donorISO2Code": ""
+    "donorISO2Code": "XHS"
   },
   {
     "id": 76,
     "donorName": "HSBC Bank Middle East Limited",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 77,
     "donorName": "Humanity First USA",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 78,
@@ -471,7 +471,7 @@
     "id": 79,
     "donorName": "Hyogo Prefecture (Japan)",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XHP"
   },
   {
     "id": 80,
@@ -495,7 +495,7 @@
     "id": 83,
     "donorName": "International Maritime Orgnization (IMO)",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XIMO"
   },
   {
     "id": 84,
@@ -537,7 +537,7 @@
     "id": 90,
     "donorName": "Jan Egeland",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 91,
@@ -549,7 +549,7 @@
     "id": 92,
     "donorName": "Jefferies and Company",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 93,
@@ -573,13 +573,13 @@
     "id": 96,
     "donorName": "Kimse Yok Mu Association",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 97,
     "donorName": "KK Wind Solutions",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 98,
@@ -591,7 +591,7 @@
     "id": 99,
     "donorName": "Korean and Overseas Fans of Kim Hyun Joong",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 100,
@@ -609,13 +609,13 @@
     "id": 102,
     "donorName": "Late Barbara Cahill",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 103,
     "donorName": "Latin American Benevolent Foundation",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 104,
@@ -633,7 +633,7 @@
     "id": 106,
     "donorName": "Lenovo Next Generation Hope Fund",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 107,
@@ -759,7 +759,7 @@
     "id": 127,
     "donorName": "Nigerian Economic Summit Group LTD",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 128,
@@ -819,25 +819,25 @@
     "id": 137,
     "donorName": "PriceWaterhouseCoopers",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 138,
     "donorName": "Private donations outside UN Foundation (under $10,000)",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 139,
     "donorName": "Private donations through UN Foundation (under $10,000)",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 140,
     "donorName": "PRIVATE SECTOR",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 141,
@@ -891,7 +891,7 @@
     "id": 149,
     "donorName": "SCOR",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 150,
@@ -915,7 +915,7 @@
     "id": 153,
     "donorName": "Skanska USA Building Inc.",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 154,
@@ -939,7 +939,7 @@
     "id": 157,
     "donorName": "Sovereign Military Order of Malta",
     "donorType": "Observer",
-    "donorISO2Code": ""
+    "donorISO2Code": "XSMOM"
   },
   {
     "id": 158,
@@ -957,13 +957,13 @@
     "id": 160,
     "donorName": "State of South Australia",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": ""
+    "donorISO2Code": "XSSA"
   },
   {
     "id": 161,
     "donorName": "Stephanie Loose",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 162,
@@ -999,13 +999,13 @@
     "id": 167,
     "donorName": "The Estate of George Gary",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 168,
     "donorName": "The Red Crescent of the UAE",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 169,
@@ -1059,25 +1059,25 @@
     "id": 177,
     "donorName": "UN and Other Agencies",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 178,
     "donorName": "UN Foundation core fund",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 179,
     "donorName": "UN Spouses Bazaar",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 180,
     "donorName": "UNF",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 181,
@@ -1089,7 +1089,7 @@
     "id": 182,
     "donorName": "United Islamic Center",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 183,
@@ -1107,7 +1107,7 @@
     "id": 185,
     "donorName": "UNOCHA",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 186,
@@ -1131,25 +1131,25 @@
     "id": 189,
     "donorName": "Waterloo Foundation",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 190,
     "donorName": "Western Union",
     "donorType": "Private Contributions through UNF",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 191,
     "donorName": "World Mission Society Church of God",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 192,
     "donorName": "ZIV Aplicaciones y Tecnología, S.L.",
     "donorType": "Private",
-    "donorISO2Code": ""
+    "donorISO2Code": "XPRV"
   },
   {
     "id": 193,
