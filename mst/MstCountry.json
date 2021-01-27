@@ -1208,5 +1208,16 @@
 		"ISO2Code": "0SOA",
 		"latitude": -29.6099,
 		"longitude": 28.2336
+	},{
+		"id": 111,
+		"PooledFundName": "Azerbaijan",
+		"PooledFundNameAbbrv": "Azerbaijan",
+		"RegionName": "Western Asia",
+		"SubRegionName": "Western Asia",
+		"ContinentName": "Asia",
+		"CountryCode": "AZE",
+		"ISO2Code": "AZ",
+		"latitude": 40.409264,
+		"longitude": 49.867092
 	}
 ]
