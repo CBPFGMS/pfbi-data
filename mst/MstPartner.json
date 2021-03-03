@@ -9198,6 +9198,12 @@
         "shortName": ""
     },
     {
+        "id": "962583.934",
+        "orgType": "National NGO",
+        "fullName": "United Networks for Health",
+        "shortName": ""
+    },
+    {
         "id": "936310.57",
         "orgType": "National NGO",
         "fullName": "Impact Health Organization",
@@ -11901,6 +11907,12 @@
         "id": "4375842.1056",
         "orgType": "National NGO",
         "fullName": "Social Development Hodeidah Girls Foundation",
+        "shortName": ""
+    },
+    {
+        "id": "7960392.6912",
+        "orgType": "UN Agency",
+        "fullName": "United Nations Human Settlements Programme (UN-HABITAT)",
         "shortName": ""
     }
 ]
