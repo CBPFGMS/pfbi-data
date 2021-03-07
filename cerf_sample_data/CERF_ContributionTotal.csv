@@ -1148,6 +1148,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2020,Member State,5823817.29,0.0,Korea,KR,Member State,0,0,0,0,0,0
 2020,Member State,10000.0,0.0,Myanmar,MM,Member State,0,0,0,0,0,0
 2020,Member State,193462.5,0.0,Portugal,PT,Member State,0,0,0,0,0,0
+2020,Member State,150000.0,0.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2020,Member State,3584229.39,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2020,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2020,Member State,450000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
@@ -1170,7 +1171,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,0.0,2039428.9598,New Zealand,NZ,Member State,0,0,0,0,0,0
 2021,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
 2021,Member State,0.0,64643646.0876,Sweden,SE,Member State,0,0,0,0,0,0
-2021,Member State,0.0,7304116.8658,Australia,AU,Member State,0,0,0,0,0,0
+2021,Member State,8515088.39,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2021,Member State,0.0,25170269.4699,Denmark,DK,Member State,0,0,0,0,0,0
 2021,Member State,49797829.46,0.0,Norway,NO,Member State,0,0,0,0,0,0
 2021,Member State,148150.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
@@ -1181,7 +1182,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,181995.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
 2021,Member State,0.0,3000.0,Lao PDR,LA,Member State,0,0,0,0,0,0
 2021,Member State,224693.85,0.0,Liechtenstein,LI,Member State,0,0,0,0,0,0
-2021,Member State,0.0,5000.0,Maldives,MV,Member State,0,0,0,0,0,0
+2021,Member State,5000.0,0.0,Maldives,MV,Member State,0,0,0,0,0,0
 2021,Member State,0.0,10000.0,Mongolia,MN,Member State,0,0,0,0,0,0
 2021,Member State,3588.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
 2021,Member State,1500000.0,0.0,Russian Federation,RU,Member State,0,0,0,0,0,0
