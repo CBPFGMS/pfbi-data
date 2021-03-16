@@ -26,10 +26,20 @@
     },{
       "id":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
     },{
-      "id":14,"ClustNm":"Multi-purpose cash (not sector-specific)","ClustCode":"MPC"
+      "id":14,"ClustNm":"Multi-Purpose cash","ClustCode":"MPC"
     },{
       "id":15,"ClustNm":"Mine Action","ClustCode":"MA"
     },{
       "id":16,"ClustNm":"COVID-19","ClustCode":"COVID"
+    },{
+      "id":17,"ClustNm":"Agriculture","ClustCode":"AGR"
+    },{
+      "id":18,"ClustNm":"Food Assistance","ClustCode":"FA"
+    },{
+      "id":19,"ClustNm":"Shelter and Non-Food Items","ClustCode":"AGR"
+    },{
+      "id":20,"ClustNm":"Common Services","ClustCode":"CS"
+    },{
+      "id":21,"ClustNm":"Multi-Sector Refugee Assistance","ClustCode":"MSRA"
     }
 ]
