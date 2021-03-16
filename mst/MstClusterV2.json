@@ -1,0 +1,218 @@
+[
+  {
+    "cerfSectorID": 1,
+    "sectorName": "Agriculture",
+    "cerfSectorName": "Agriculture",
+    "iascSectorID": 1,
+    "iascSectorName": "Agriculture",
+    "clusterID": 1,
+    "clusterName": "Food Security"
+  },
+  {
+    "cerfSectorID": 2,
+    "sectorName": "Camp Coordination and Camp Management",
+    "cerfSectorName": "Camp Coordination and Camp Management",
+    "iascSectorID": 17,
+    "iascSectorName": "Camp Coordination / Management",
+    "clusterID": 2,
+    "clusterName": "Camp Coordination and Camp Management"
+  },
+  {
+    "cerfSectorID": 31,
+    "sectorName": "Common Services",
+    "cerfSectorName": "Common Services",
+    "iascSectorID": 2,
+    "iascSectorName": "Coordination and support services",
+    "clusterID": 13,
+    "clusterName": "Common Services"
+  },
+  {
+    "cerfSectorID": 4,
+    "sectorName": "Humanitarian Air Services",
+    "cerfSectorName": "Common Services - Humanitarian Air Services",
+    "iascSectorID": 2,
+    "iascSectorName": "Coordination and support services",
+    "clusterID": 13,
+    "clusterName": "Common Services"
+  },
+  {
+    "cerfSectorID": 5,
+    "sectorName": "Emergency Telecommunications",
+    "cerfSectorName": "Common Services - Emergency Telecommunications",
+    "iascSectorID": 18,
+    "iascSectorName": "Emergency Telecommunications",
+    "clusterID": 13,
+    "clusterName": "Common Services"
+  },
+  {
+    "cerfSectorID": 23,
+    "sectorName": "Safety and Security",
+    "cerfSectorName": "Common Services - Safety and Security",
+    "iascSectorID": 2,
+    "iascSectorName": "Coordination and support services",
+    "clusterID": 13,
+    "clusterName": "Common Services"
+  },
+  {
+    "cerfSectorID": 3,
+    "sectorName": "Logistics",
+    "cerfSectorName": "Common Services - Logistics",
+    "iascSectorID": 19,
+    "iascSectorName": "Logistics",
+    "clusterID": 13,
+    "clusterName": "Common Services"
+  },
+  {
+    "cerfSectorID": 6,
+    "sectorName": "Early Recovery",
+    "cerfSectorName": "Early Recovery",
+    "iascSectorID": 3,
+    "iascSectorName": "Early Recovery",
+    "clusterID": 4,
+    "clusterName": "Early Recovery"
+  },
+  {
+    "cerfSectorID": 7,
+    "sectorName": "Education",
+    "cerfSectorName": "Education",
+    "iascSectorID": 4,
+    "iascSectorName": "Education",
+    "clusterID": 5,
+    "clusterName": "Education"
+  },
+  {
+    "cerfSectorID": 29,
+    "sectorName": "Food Assistance",
+    "cerfSectorName": "Food Assistance",
+    "iascSectorID": 6,
+    "iascSectorName": "Food Security",
+    "clusterID": 1,
+    "clusterName": "Food Security"
+  },
+  {
+    "cerfSectorID": 9,
+    "sectorName": "Health",
+    "cerfSectorName": "Health",
+    "iascSectorID": 7,
+    "iascSectorName": "Health",
+    "clusterID": 6,
+    "clusterName": "Health"
+  },
+  {
+    "cerfSectorID": 32,
+    "sectorName": "Sexual and Reproductive Health",
+    "cerfSectorName": "Health - Sexual and Reproductive Health",
+    "iascSectorID": 7,
+    "iascSectorName": "Health",
+    "clusterID": 6,
+    "clusterName": "Health"
+  },
+  {
+    "cerfSectorID": 10,
+    "sectorName": "Nutrition",
+    "cerfSectorName": "Nutrition",
+    "iascSectorID": 15,
+    "iascSectorName": "Nutrition",
+    "clusterID": 7,
+    "clusterName": "Nutrition"
+  },
+  {
+    "cerfSectorID": 12,
+    "sectorName": "Mine Action",
+    "cerfSectorName": "Protection - Mine Action",
+    "iascSectorID": 8,
+    "iascSectorName": "Mine Action",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 30,
+    "sectorName": "Multi-Purpose Cash",
+    "cerfSectorName": "Multi-Purpose Cash",
+    "iascSectorID": 9,
+    "iascSectorName": "Multi-Sector",
+    "clusterID": 16,
+    "clusterName": "Multi-Purpose Cash"
+  },
+  {
+    "cerfSectorID": 13,
+    "sectorName": "Multi-Sector",
+    "cerfSectorName": "Multi-Sector",
+    "iascSectorID": 9,
+    "iascSectorName": "Multi-Sector",
+    "clusterID": 9,
+    "clusterName": "Multi-Sector"
+  },
+  {
+    "cerfSectorID": 24,
+    "sectorName": "Multi-Sector Refugee Assistance",
+    "cerfSectorName": "Multi-Sector Refugee Assistance",
+    "iascSectorID": 9,
+    "iascSectorName": "Multi-Sector",
+    "clusterID": 8,
+    "clusterName": "Multi-sector refugee assistance"
+  },
+  {
+    "cerfSectorID": 14,
+    "sectorName": "Protection",
+    "cerfSectorName": "Protection",
+    "iascSectorID": 10,
+    "iascSectorName": "Protection",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 25,
+    "sectorName": "Child Protection",
+    "cerfSectorName": "Protection - Child Protection",
+    "iascSectorID": 20,
+    "iascSectorName": "Child Protection",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 15,
+    "sectorName": "Human Rights",
+    "cerfSectorName": "Protection - Human Rights",
+    "iascSectorID": 10,
+    "iascSectorName": "Protection",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 20,
+    "sectorName": "Gender-Based Violence",
+    "cerfSectorName": "Protection - Gender-Based Violence",
+    "iascSectorID": 16,
+    "iascSectorName": "Gender Based Violence",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 26,
+    "sectorName": "Housing, Land and Property",
+    "cerfSectorName": "Protection - Housing, Land and Property",
+    "iascSectorID": 21,
+    "iascSectorName": "Housing, Land and Property",
+    "clusterID": 10,
+    "clusterName": "Protection"
+  },
+  {
+    "cerfSectorID": 27,
+    "sectorName": "Shelter and Non-Food Items",
+    "cerfSectorName": "Shelter and Non-Food Items",
+    "iascSectorID": 12,
+    "iascSectorName": "Emergency Shelter and NFI",
+    "clusterID": 11,
+    "clusterName": "Shelter and Non-Food Items"
+  },
+  {
+    "cerfSectorID": 18,
+    "sectorName": "Water, Sanitation and Hygiene",
+    "cerfSectorName": "Water, Sanitation and Hygiene",
+    "iascSectorID": 13,
+    "iascSectorName": "Water Sanitation Hygiene",
+    "clusterID": 12,
+    "clusterName": "Water, Sanitation and Hygiene"
+  }
+]
