@@ -1219,5 +1219,16 @@
 		"ISO2Code": "AZ",
 		"latitude": 40.409264,
 		"longitude": 49.867092
-	}
+	},{
+                "id": 112,
+                "PooledFundName": "Equatorial Guinea",
+                "PooledFundNameAbbrv": "Equatorial Guinea",
+                "RegionName": "Middle Africa",
+                "SubRegionName": "Middle Africa",
+                "ContinentName": "Africa",
+                "CountryCode": "GNQ",
+                "ISO2Code": "GQ",
+                "latitude": 1.6195,
+                "longitude": 10.3178
+        }
 ]
