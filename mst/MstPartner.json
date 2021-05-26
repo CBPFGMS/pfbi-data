@@ -6,16 +6,16 @@
         "shortName": "WHO"
     },
     {
-        "id": "11",
-        "orgType": "UN Agency",
-        "fullName": "United Nations High Commissioner for Refugees",
-        "shortName": "UNHCR"
-    },
-    {
         "id": "5",
         "orgType": "UN Agency",
         "fullName": "Food and Agriculture Organization",
         "shortName": "FAO"
+    },
+    {
+        "id": "11",
+        "orgType": "UN Agency",
+        "fullName": "United Nations High Commissioner for Refugees",
+        "shortName": "UNHCR"
     },
     {
         "id": "4",
@@ -24,16 +24,16 @@
         "shortName": "UNICEF"
     },
     {
-        "id": "1",
-        "orgType": "UN Agency",
-        "fullName": "United Nations Development Programme",
-        "shortName": "UNDP"
-    },
-    {
         "id": "2",
         "orgType": "UN Agency",
         "fullName": "World Food Programme",
         "shortName": "WFP"
+    },
+    {
+        "id": "1",
+        "orgType": "UN Agency",
+        "fullName": "United Nations Development Programme",
+        "shortName": "UNDP"
     },
     {
         "id": "6",
