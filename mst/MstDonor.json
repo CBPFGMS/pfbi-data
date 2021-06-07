@@ -1174,5 +1174,23 @@
     "donorName": "Uzbekistan",
     "donorType": "Member State",
     "donorISO2Code": "UZ"
+  },
+  {
+    "id": 197,
+    "donorName": "Angola",
+    "donorType": "Member State",
+    "donorISO2Code": "AO"
+  },
+  {
+    "id": 198,
+    "donorName": "Multi-Donor Funds",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 199,
+    "donorName": "OPEC",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
   }
 ]
