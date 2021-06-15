@@ -96,6 +96,12 @@
     "donorISO2Code": "XPRV"
   },
   {
+    "id": 16,
+    "donorName": "Baha'i International Community",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
     "id": 17,
     "donorName": "Bahamas",
     "donorType": "Member State",
@@ -1058,6 +1064,12 @@
   {
     "id": 177,
     "donorName": "UN and Other Agencies",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 177,
+    "donorName": "UN, NGOs and other entities",
     "donorType": "Private",
     "donorISO2Code": "XPRV"
   },
