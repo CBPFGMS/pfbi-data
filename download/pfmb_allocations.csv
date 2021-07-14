@@ -8077,9 +8077,13 @@ CAR,2020,Standard,17675,CAR-20/HCF10/SA1/NUT-HLT/NGO/17675,Nutrition,,50.0,24999
 CAR,2020,Standard,17725,CAR-20/HCF10/SA1/PROT/INGO/17725,Protection,,100.0,450000.63,CBPF
 CAR,2020,Standard,17679,CAR-20/HCF10/SA1/PROT/NGO/17679,Protection,,100.0,200000.0,CBPF
 CAR,2020,Standard,17681,CAR-20/HCF10/SA1/WaSH/INGO/17681,Water Sanitation Hygiene,,100.0,612000.0,CBPF
+CAR,2021,Standard,18897,CAR-21/HCF10/SA1/CCCM-NFI/INGO/18897,Camp Coordination / Management,,40.0,120000.0,CBPF
+CAR,2021,Standard,18897,CAR-21/HCF10/SA1/CCCM-NFI/INGO/18897,Emergency Shelter and NFI,,60.0,180000.0,CBPF
 CAR,2021,Standard,18916,CAR-21/HCF10/SA1/COORD/INGO/18916,Coordination and Support Services,,100.0,117600.0,CBPF
 CAR,2021,Standard,18935,CAR-21/HCF10/SA1/COORD/INGO/18935,Coordination and Support Services,,100.0,350000.0,CBPF
+CAR,2021,Standard,18855,CAR-21/HCF10/SA1/EDU/INGO/18855,Education,,100.0,275000.0,CBPF
 CAR,2021,Standard,18881,CAR-21/HCF10/SA1/EDU/INGO/18881,Education,,100.0,274881.93,CBPF
+CAR,2021,Standard,18880,CAR-21/HCF10/SA1/HLT/INGO/18880,Health,,100.0,200000.0,CBPF
 CAR,2021,Standard,18875,CAR-21/HCF10/SA1/HLT-NUT/NGO/18875,Health,,50.0,169996.535,CBPF
 CAR,2021,Standard,18875,CAR-21/HCF10/SA1/HLT-NUT/NGO/18875,Nutrition,,50.0,169996.535,CBPF
 CAR,2021,Standard,18854,CAR-21/HCF10/SA1/LOG/INGO/18854,Logistics,,100.0,150000.0,CBPF
@@ -10434,8 +10438,11 @@ Ethiopia,2021,Standard,18590,ETH-21/DDA-3379/SA1/N/NGO/18590,Nutrition,,100.0,27
 Ethiopia,2021,Standard,18559,ETH-21/DDA-3379/SA1/NFI/ES/INGO/18559,Emergency Shelter and NFI,Child protection,100.0,725000.0,CBPF
 Ethiopia,2021,Standard,18571,ETH-21/DDA-3379/SA1/NFI/ES/INGO/18571,Emergency Shelter and NFI,Child protection,100.0,365000.24,CBPF
 Ethiopia,2021,Standard,18579,ETH-21/DDA-3379/SA1/NFI/ES/INGO/18579,Emergency Shelter and NFI,Child protection,100.0,580863.99,CBPF
+Ethiopia,2021,Standard,18598,ETH-21/DDA-3379/SA1/NFI/ES/NGO/18598,Emergency Shelter and NFI,Child protection,100.0,310000.65,CBPF
 Ethiopia,2021,Standard,18614,ETH-21/DDA-3379/SA1/NFI/ES/NGO/18614,Emergency Shelter and NFI,Child protection,100.0,199999.4,CBPF
+Ethiopia,2021,Standard,18522,ETH-21/DDA-3379/SA1/NFI/ES/UN/18522,Emergency Shelter and NFI,Child protection,100.0,1313895.48,CBPF
 Ethiopia,2021,Standard,18583,ETH-21/DDA-3379/SA1/P/UN/18583,Protection,GBV,100.0,300000.0,CBPF
+Ethiopia,2021,Standard,18599,ETH-21/DDA-3379/SA1/WASH/UN/18599,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,1555000.0,CBPF
 Haiti,2013,Reserve,139,HTI-13/X/3416/ER/CSS/INGO/139,Coordination and Support Services,,100.0,197235.29,CBPF
 Haiti,2013,Reserve,133,HTI-13/X/3416/ER/H/INGO/133,Health,,100.0,248775.0,CBPF
 Haiti,2013,Reserve,134,HTI-13/X/3416/ER/SNS/INGO/134,Multi-Sector,,100.0,116248.0,CBPF
@@ -18230,6 +18237,26 @@ Syria Cross border,2021,Reserve,18505,TUR-21/3559/RA2/E-WASH/UN/18505,Education,
 Syria Cross border,2021,Reserve,18505,TUR-21/3559/RA2/E-WASH/UN/18505,Water Sanitation Hygiene,,80.0,2400000.488,CBPF
 Syria Cross border,2021,Reserve,18501,TUR-21/3559/RA2/H/UN/18501,Health,,100.0,973218.5,CBPF
 Syria Cross border,2021,Reserve,18502,TUR-21/3559/RA2/P/UN/18502,Protection,,100.0,1993341.47,CBPF
+Syria Cross border,2021,Reserve,18958,TUR-21/3559/RA3/CCM/NGO/18958,Camp Coordination / Management,Child Protection,100.0,412489.76,CBPF
+Syria Cross border,2021,Reserve,18964,TUR-21/3559/RA3/E-CCM-NFI/NGO/18964,Camp Coordination / Management,Child Protection,31.0,442481.7395,CBPF
+Syria Cross border,2021,Reserve,18964,TUR-21/3559/RA3/E-CCM-NFI/NGO/18964,Education,Basic Assistance,35.0,499576.1575,CBPF
+Syria Cross border,2021,Reserve,18964,TUR-21/3559/RA3/E-CCM-NFI/NGO/18964,Emergency Shelter and NFI,,34.0,485302.553,CBPF
+Syria Cross border,2021,Reserve,18973,TUR-21/3559/RA3/FS/INGO/18973,Food Security,,100.0,1200026.4,CBPF
+Syria Cross border,2021,Reserve,18963,TUR-21/3559/RA3/FS/NGO/18963,Food Security,,100.0,485378.57,CBPF
+Syria Cross border,2021,Reserve,18976,TUR-21/3559/RA3/FS/NGO/18976,Food Security,,100.0,498602.14,CBPF
+Syria Cross border,2021,Reserve,18974,TUR-21/3559/RA3/FS-E/NGO/18974,Education,Basic Assistance,38.0,493992.6128,CBPF
+Syria Cross border,2021,Reserve,18974,TUR-21/3559/RA3/FS-E/NGO/18974,Food Security,,62.0,805987.9472,CBPF
+Syria Cross border,2021,Reserve,18970,TUR-21/3559/RA3/NFI/NGO/18970,Emergency Shelter and NFI,,100.0,1483682.97,CBPF
+Syria Cross border,2021,Reserve,18971,TUR-21/3559/RA3/NFI/NGO/18971,Emergency Shelter and NFI,,100.0,1197036.34,CBPF
+Syria Cross border,2021,Reserve,18972,TUR-21/3559/RA3/NFI/NGO/18972,Emergency Shelter and NFI,,100.0,973032.43,CBPF
+Syria Cross border,2021,Reserve,18956,TUR-21/3559/RA3/NFI-CCM/INGO/18956,Camp Coordination / Management,Child Protection,16.0,287980.8448,CBPF
+Syria Cross border,2021,Reserve,18956,TUR-21/3559/RA3/NFI-CCM/INGO/18956,Emergency Shelter and NFI,,84.0,1511899.4352,CBPF
+Syria Cross border,2021,Reserve,18961,TUR-21/3559/RA3/NFI-CCM/NGO/18961,Camp Coordination / Management,Child Protection,37.5,288928.305,CBPF
+Syria Cross border,2021,Reserve,18961,TUR-21/3559/RA3/NFI-CCM/NGO/18961,Emergency Shelter and NFI,,62.5,481547.175,CBPF
+Syria Cross border,2021,Reserve,18983,TUR-21/3559/RA3/WASH/NGO/18983,Water Sanitation Hygiene,,100.0,802689.18,CBPF
+Syria Cross border,2021,Reserve,18984,TUR-21/3559/RA3/WASH/NGO/18984,Water Sanitation Hygiene,,100.0,677034.53,CBPF
+Syria Cross border,2021,Reserve,18985,TUR-21/3559/RA3/WASH/NGO/18985,Water Sanitation Hygiene,,100.0,799990.42,CBPF
+Syria Cross border,2021,Reserve,18987,TUR-21/3559/RA3/WASH/NGO/18987,Water Sanitation Hygiene,,100.0,736976.44,CBPF
 Syria Cross border,2021,Standard,18344,TUR-21/3559/SA1/CCM-NFI/NGO/18344,Camp Coordination / Management,Child Protection,50.0,392702.12,CBPF
 Syria Cross border,2021,Standard,18344,TUR-21/3559/SA1/CCM-NFI/NGO/18344,Emergency Shelter and NFI,,50.0,392702.12,CBPF
 Syria Cross border,2021,Standard,18341,TUR-21/3559/SA1/CCM-NFI-WASH/NGO/18341,Camp Coordination / Management,Child Protection,10.0,143946.988,CBPF
@@ -18301,6 +18328,8 @@ Syria Cross border,2021,Standard,18339,TUR-21/3559/SA1/P/NGO/18339,Protection,,1
 Syria Cross border,2021,Standard,18349,TUR-21/3559/SA1/P/NGO/18349,Protection,,100.0,918948.1,CBPF
 Syria Cross border,2021,Standard,18372,TUR-21/3559/SA1/P/NGO/18372,Protection,,100.0,415262.72,CBPF
 Syria Cross border,2021,Standard,18390,TUR-21/3559/SA1/P/NGO/18390,Protection,,100.0,295339.78,CBPF
+Syria Cross border,2021,Standard,18395,TUR-21/3559/SA1/P/NGO/18395,Protection,,100.0,261262.49,CBPF
+Syria Cross border,2021,Standard,18416,TUR-21/3559/SA1/P/NGO/18416,Protection,,100.0,663005.19,CBPF
 Syria Cross border,2021,Standard,18347,TUR-21/3559/SA1/P-ER/NGO/18347,Early Recovery,Aging and Disability,20.0,139823.938,CBPF
 Syria Cross border,2021,Standard,18347,TUR-21/3559/SA1/P-ER/NGO/18347,Protection,,80.0,559295.752,CBPF
 Syria Cross border,2021,Standard,18393,TUR-21/3559/SA1/WASH/INGO/18393,Water Sanitation Hygiene,,100.0,407328.5,CBPF
