@@ -6875,7 +6875,7 @@ Niger,2020,Rapid Response,3608,20-RR-HCR-019,Multi-Purpose Cash,Multi-Purpose Ca
 Niger,2020,Underfunded Emergencies,3554,20-UF-FAO-014,Agriculture,Agriculture,100.0,1099350.0,CERF
 Niger,2020,Underfunded Emergencies,3555,20-UF-FPA-018,Protection,Protection,100.0,699994.0,CERF
 Niger,2020,Underfunded Emergencies,3556,20-UF-HCR-013,Protection,Protection,79.99998571432653,1120003.0,CERF
-Niger,2020,Underfunded Emergencies,3556,20-UF-HCR-013,Multi-Purpose Cash,Multi-Purpose Cash,20.00001428567347,280001.0,CERF
+Niger,2020,Underfunded Emergencies,3556,20-UF-HCR-013,Multi-sector refugee assistance,Multi-sector refugee assistance,20.00001428567347,280001.0,CERF
 Niger,2020,Underfunded Emergencies,3557,20-UF-IOM-009,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1100000.0,CERF
 Niger,2020,Underfunded Emergencies,3558,20-UF-WFP-017,Food Assistance,Food Assistance,91.0,2275000.0,CERF
 Niger,2020,Underfunded Emergencies,3558,20-UF-WFP-017,Nutrition,Nutrition,9.0,225000.0,CERF
@@ -11071,12 +11071,15 @@ Iraq,2020,Standard,16429,IRQ-20/3884/SA1/P/INGO/16429,Protection,,100.0,893499.7
 Iraq,2020,Standard,16452,IRQ-20/3884/SA1/P/INGO/16452,Protection,,100.0,897612.82,CBPF
 Iraq,2020,Standard,16461,IRQ-20/3884/SA1/P/INGO/16461,Protection,,100.0,551999.09,CBPF
 Iraq,2020,Standard,16290,IRQ-20/3884/SA1/WASH/INGO/16290,Water Sanitation Hygiene,Social Cohesion,100.0,3000000.0,CBPF
+Iraq,2021,Standard,18554,IRQ-21/3884/SA1/EL/INGO/18554,Early Recovery,Basic Assistance,100.0,825000.0,CBPF
 Iraq,2021,Standard,18544,IRQ-21/3884/SA1/F/INGO/18544,Food Security,,100.0,794999.01,CBPF
 Iraq,2021,Standard,18651,IRQ-21/3884/SA1/F/INGO/18651,Food Security,,100.0,705000.0,CBPF
 Iraq,2021,Standard,18518,IRQ-21/3884/SA1/H/INGO/18518,Health,,100.0,4050000.0,CBPF
 Iraq,2021,Standard,18551,IRQ-21/3884/SA1/P/INGO/18551,Protection,,100.0,950000.06,CBPF
 Iraq,2021,Standard,18586,IRQ-21/3884/SA1/P/INGO/18586,Protection,,100.0,500000.0,CBPF
 Iraq,2021,Standard,18778,IRQ-21/3884/SA1/P/INGO/18778,Protection,,100.0,1300000.65,CBPF
+Iraq,2021,Standard,18791,IRQ-21/3884/SA1/P-H/INGO/18791,Health,,50.0,171629.35,CBPF
+Iraq,2021,Standard,18791,IRQ-21/3884/SA1/P-H/INGO/18791,Protection,,50.0,171629.35,CBPF
 Iraq,2021,Standard,18523,IRQ-21/3884/SA1/WASH/INGO/18523,Water Sanitation Hygiene,Social Cohesion,100.0,2000000.09,CBPF
 Jordan,2015,Standard,1131,JOR-14/DDA-3560/CP/NFI/INGO/1131,Emergency Shelter and NFI,,100.0,249741.32,CBPF
 Jordan,2015,Standard,1133,JOR-14/DDA-3560/CP/NFI/INGO/1133,Emergency Shelter and NFI,,100.0,237847.67,CBPF
@@ -14393,6 +14396,7 @@ Somalia,2020,Standard,15411,SOM-20/3485/SA1/WASH/INGO/15411,Water Sanitation Hyg
 Somalia,2020,Standard,15440,SOM-20/3485/SA1/WASH/INGO/15440,Water Sanitation Hygiene,,100.0,845755.05,CBPF
 Somalia,2020,Standard,15251,SOM-20/3485/SA1/WASH/NGO/15251,Water Sanitation Hygiene,,100.0,498249.99,CBPF
 Somalia,2020,Standard,15332,SOM-20/3485/SA1/WASH/NGO/15332,Water Sanitation Hygiene,,100.0,400002.27,CBPF
+Somalia,2021,Reserve,19687,SOM-21/3485/RA1/CCCM/UN/19687,Camp Coordination / Management,Teacher Incentives ,100.0,79999.99,CBPF
 Somalia,2021,Standard,18258,SOM-21/3485/SA1/CCCM/INGO/18258,Camp Coordination / Management,Teacher Incentives ,100.0,249972.33,CBPF
 Somalia,2021,Standard,18117,SOM-21/3485/SA1/CCCM/NGO/18117,Camp Coordination / Management,Teacher Incentives ,100.0,200000.0,CBPF
 Somalia,2021,Standard,18158,SOM-21/3485/SA1/CCCM/NGO/18158,Camp Coordination / Management,Teacher Incentives ,100.0,250000.0,CBPF
