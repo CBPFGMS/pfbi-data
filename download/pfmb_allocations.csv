@@ -7207,6 +7207,8 @@ Haiti,2021,Rapid Response,3877,21-RR-CEF-022,"Water, Sanitation and Hygiene","Wa
 Haiti,2021,Rapid Response,3877,21-RR-CEF-022,Protection,Protection,30.00004008289142,149690.0,CERF
 Haiti,2021,Rapid Response,3878,21-RR-IOM-012,Camp Coordination and Camp Management,Camp Coordination and Camp Management,25.0,125000.0,CERF
 Haiti,2021,Rapid Response,3878,21-RR-IOM-012,Protection,Protection,75.0,375000.0,CERF
+Haiti,2021,Rapid Response,3938,21-RR-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",55.9999969499909,1468848.0,CERF
+Haiti,2021,Rapid Response,3938,21-RR-CEF-034,Protection,Protection,44.0000030500091,1154095.0,CERF
 Haiti,2021,Rapid Response,3940,21-RR-WHO-024,Health,Health,100.0,1750000.0,CERF
 Saint Vincent and the Grenadines,2021,Rapid Response,3842,21-RR-CEF-014,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,400000.0,CERF
 Saint Vincent and the Grenadines,2021,Rapid Response,3843,21-RR-WFP-010,Multi-Purpose Cash,Multi-Purpose Cash,100.0,600000.0,CERF
@@ -14844,13 +14846,17 @@ South Sudan,2021,Standard,19442,SSD-21/HSS10/SA1/CCCM-P-NFI-WASH/UN/19442,Camp C
 South Sudan,2021,Standard,19442,SSD-21/HSS10/SA1/CCCM-P-NFI-WASH/UN/19442,Emergency Shelter and NFI,,24.1,565814.257,CBPF
 South Sudan,2021,Standard,19442,SSD-21/HSS10/SA1/CCCM-P-NFI-WASH/UN/19442,Protection,,14.35,336905.9995,CBPF
 South Sudan,2021,Standard,19442,SSD-21/HSS10/SA1/CCCM-P-NFI-WASH/UN/19442,Water Sanitation Hygiene,,37.64,883703.2628,CBPF
+South Sudan,2021,Standard,19430,SSD-21/HSS10/SA1/CCS/INGO/19430,Coordination and Support Services,,100.0,500000.0,CBPF
 South Sudan,2021,Standard,19702,SSD-21/HSS10/SA1/E/NGO/19702,Education,,100.0,268956.0,CBPF
 South Sudan,2021,Standard,19403,SSD-21/HSS10/SA1/E-NFI-P-WASH-N/INGO/19403,Education,,18.0,257297.9976,CBPF
 South Sudan,2021,Standard,19403,SSD-21/HSS10/SA1/E-NFI-P-WASH-N/INGO/19403,Emergency Shelter and NFI,,15.0,214414.998,CBPF
 South Sudan,2021,Standard,19403,SSD-21/HSS10/SA1/E-NFI-P-WASH-N/INGO/19403,Nutrition,,21.0,300180.9972,CBPF
 South Sudan,2021,Standard,19403,SSD-21/HSS10/SA1/E-NFI-P-WASH-N/INGO/19403,Protection,,21.0,300180.9972,CBPF
 South Sudan,2021,Standard,19403,SSD-21/HSS10/SA1/E-NFI-P-WASH-N/INGO/19403,Water Sanitation Hygiene,,25.0,357358.33,CBPF
+South Sudan,2021,Standard,19405,SSD-21/HSS10/SA1/E-P/INGO/19405,Education,,40.0,308411.132,CBPF
+South Sudan,2021,Standard,19405,SSD-21/HSS10/SA1/E-P/INGO/19405,Protection,,60.0,462616.698,CBPF
 South Sudan,2021,Standard,19669,SSD-21/HSS10/SA1/FSL/INGO/19669,Food Security,,100.0,408293.81,CBPF
+South Sudan,2021,Standard,19736,SSD-21/HSS10/SA1/FSL/UN/19736,Food Security,,100.0,499851.01,CBPF
 South Sudan,2021,Standard,19581,SSD-21/HSS10/SA1/H/INGO/19581,Health,,100.0,299999.94,CBPF
 South Sudan,2021,Standard,19389,SSD-21/HSS10/SA1/H/NGO/19389,Health,,100.0,499999.91,CBPF
 South Sudan,2021,Standard,19573,SSD-21/HSS10/SA1/H/UN/19573,Health,,100.0,599684.43,CBPF
@@ -14860,7 +14866,11 @@ South Sudan,2021,Standard,19444,SSD-21/HSS10/SA1/L-CCS/UN/19444,Coordination and
 South Sudan,2021,Standard,19444,SSD-21/HSS10/SA1/L-CCS/UN/19444,Logistics,,86.0,1404049.2182,CBPF
 South Sudan,2021,Standard,19653,SSD-21/HSS10/SA1/NFI-P/NGO/19653,Emergency Shelter and NFI,,76.0,379676.3008,CBPF
 South Sudan,2021,Standard,19653,SSD-21/HSS10/SA1/NFI-P/NGO/19653,Protection,,24.0,119897.7792,CBPF
+South Sudan,2021,Standard,19564,SSD-21/HSS10/SA1/NFI-WASH/INGO/19564,Emergency Shelter and NFI,,46.0,299551.5354,CBPF
+South Sudan,2021,Standard,19564,SSD-21/HSS10/SA1/NFI-WASH/INGO/19564,Water Sanitation Hygiene,,54.0,351647.4546,CBPF
 South Sudan,2021,Standard,19763,SSD-21/HSS10/SA1/P/INGO/19763,Protection,,100.0,750000.11,CBPF
+South Sudan,2021,Standard,19526,SSD-21/HSS10/SA1/P-FSL/NGO/19526,Food Security,,20.2,75948.3539,CBPF
+South Sudan,2021,Standard,19526,SSD-21/HSS10/SA1/P-FSL/NGO/19526,Protection,,79.8,300033.5961,CBPF
 South Sudan,2021,Standard,19570,SSD-21/HSS10/SA1/WASH/NGO/19570,Water Sanitation Hygiene,,100.0,292578.0,CBPF
 South Sudan,2015,Reserve,142,SSD-14/RA 3/WASH/UN/142,Water Sanitation Hygiene,,100.0,286546.0,CBPF
 South Sudan,2015,Reserve,492,SSD-15/HSS10/RA1/P/UN/492,Protection,,100.0,497193.5,CBPF
