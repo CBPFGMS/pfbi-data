@@ -8094,6 +8094,12 @@
         "shortName": " "
     },
     {
+        "id": "120712.158",
+        "orgType": "National NGO",
+        "fullName": "Active in Development Aid",
+        "shortName": " "
+    },
+    {
         "id": "336670.032",
         "orgType": "International NGO",
         "fullName": "Concern Worldwide",
@@ -8475,6 +8481,24 @@
         "id": "349403.248",
         "orgType": "National NGO",
         "fullName": "Mobile Humanitarian Agency",
+        "shortName": " "
+    },
+    {
+        "id": "353584.304",
+        "orgType": "National NGO",
+        "fullName": "Health Action Africa",
+        "shortName": " "
+    },
+    {
+        "id": "339805.824",
+        "orgType": "National NGO",
+        "fullName": "Rural Water and Sanitation Support Agency",
+        "shortName": " "
+    },
+    {
+        "id": "334294.432",
+        "orgType": "International NGO",
+        "fullName": "Adventist Development and Relief Agency",
         "shortName": " "
     },
     {
@@ -12195,6 +12219,12 @@
         "id": "3952475.4816",
         "orgType": "International NGO",
         "fullName": "MEDAIR",
+        "shortName": " "
+    },
+    {
+        "id": "3953448.5184",
+        "orgType": "International NGO",
+        "fullName": "The HALO Trust",
         "shortName": " "
     }
 ]
