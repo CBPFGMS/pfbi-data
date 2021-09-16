@@ -7220,9 +7220,9 @@ Guinea,2021,Rapid Response,3788,21-RR-CEF-002,Protection,Protection,15.0,270000.
 Guinea,2021,Rapid Response,3789,21-RR-WFP-002,Food Assistance,Food Assistance,28.000000000000004,252000.0,CERF
 Guinea,2021,Rapid Response,3789,21-RR-WFP-002,Common Services,Common Services,72.0,648000.0,CERF
 Guinea,2021,Rapid Response,3790,21-RR-WHO-002,Health,Health,100.0,2400000.0,CERF
-Haiti,2021,Rapid Response,3877,21-RR-CEF-022,Nutrition,Nutrition,39.00005210775885,194597.0,CERF
 Haiti,2021,Rapid Response,3877,21-RR-CEF-022,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.999907809349736,154679.0,CERF
 Haiti,2021,Rapid Response,3877,21-RR-CEF-022,Protection,Protection,30.00004008289142,149690.0,CERF
+Haiti,2021,Rapid Response,3877,21-RR-CEF-022,Nutrition,Nutrition,0.0,0.0,CERF
 Haiti,2021,Rapid Response,3878,21-RR-IOM-012,Camp Coordination and Camp Management,Camp Coordination and Camp Management,25.0,125000.0,CERF
 Haiti,2021,Rapid Response,3878,21-RR-IOM-012,Protection,Protection,75.0,375000.0,CERF
 Haiti,2021,Rapid Response,3937,21-RR-IOM-019,Shelter and Non-Food Items,Shelter and Non-Food Items,93.0,2325000.0,CERF
@@ -8171,6 +8171,8 @@ CAR,2020,Standard,17675,CAR-20/HCF10/SA1/NUT-HLT/NGO/17675,Nutrition,,50.0,24999
 CAR,2020,Standard,17725,CAR-20/HCF10/SA1/PROT/INGO/17725,Protection,,100.0,450000.63,CBPF
 CAR,2020,Standard,17679,CAR-20/HCF10/SA1/PROT/NGO/17679,Protection,,100.0,200000.0,CBPF
 CAR,2020,Standard,17681,CAR-20/HCF10/SA1/WaSH/INGO/17681,Water Sanitation Hygiene,,100.0,612000.0,CBPF
+CAR,2021,Reserve,19981,CAR-21/HCF10/RA1/HLT-PROT/UN/19981,Health,,60.0,540000.012,CBPF
+CAR,2021,Reserve,19981,CAR-21/HCF10/RA1/HLT-PROT/UN/19981,Protection,,40.0,360000.008,CBPF
 CAR,2021,Standard,19000,CAR-21/HCF10/SA1/CCCM-FSEC-NFI/INGO/19000,Camp Coordination / Management,,65.5,333856.1724,CBPF
 CAR,2021,Standard,19000,CAR-21/HCF10/SA1/CCCM-FSEC-NFI/INGO/19000,Emergency Shelter and NFI,,3.0,15291.1224,CBPF
 CAR,2021,Standard,19000,CAR-21/HCF10/SA1/CCCM-FSEC-NFI/INGO/19000,Food Security,,31.5,160556.7852,CBPF
