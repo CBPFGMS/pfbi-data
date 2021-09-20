@@ -1,10 +1,10 @@
 {
     "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
-    "donors": 52,
+    "donors": 51,
     "funds": 29,
-    "contribTotalAmt": 513603502.62340003,
+    "contribTotalAmt": 504045557.5816,
     "contribPaidAmt": 490592538.67,
-    "contribPledgedAmt": 23010963.953399997,
+    "contribPledgedAmt": 13453018.9116,
     "allocAmt": 318352763.0,
     "underApprovalAmt": "0",
     "year": "2021",
