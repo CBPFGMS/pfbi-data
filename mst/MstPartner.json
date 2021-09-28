@@ -6,16 +6,16 @@
         "shortName": "FAO"
     },
     {
-        "id": "11",
-        "orgType": "UN Agency",
-        "fullName": "United Nations High Commissioner for Refugees",
-        "shortName": "UNHCR"
-    },
-    {
         "id": "3",
         "orgType": "UN Agency",
         "fullName": "World Health Organization",
         "shortName": "WHO"
+    },
+    {
+        "id": "11",
+        "orgType": "UN Agency",
+        "fullName": "United Nations High Commissioner for Refugees",
+        "shortName": "UNHCR"
     },
     {
         "id": "4",
@@ -1878,6 +1878,12 @@
         "shortName": " "
     },
     {
+        "id": "486107.15",
+        "orgType": "National NGO",
+        "fullName": "Caritas Congo asbl",
+        "shortName": " "
+    },
+    {
         "id": "487146.475",
         "orgType": "National NGO",
         "fullName": "Caritas Butembo-Beni",
@@ -1887,6 +1893,12 @@
         "id": "499024.475",
         "orgType": "National NGO",
         "fullName": "Comit\u00e9 pour le D\u00e9veloppement et Assistance Humanitaire",
+        "shortName": " "
+    },
+    {
+        "id": "505557.375",
+        "orgType": "National NGO",
+        "fullName": "Umoja in Action",
         "shortName": " "
     },
     {
@@ -8571,6 +8583,12 @@
         "id": "342751.568",
         "orgType": "International NGO",
         "fullName": "Catholic Agency For Overseas Development",
+        "shortName": " "
+    },
+    {
+        "id": "331918.832",
+        "orgType": "International NGO",
+        "fullName": "International Aid Services",
         "shortName": " "
     },
     {
