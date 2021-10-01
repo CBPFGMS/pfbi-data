@@ -84,16 +84,16 @@
         "shortName": "UNAIDS"
     },
     {
-        "id": "18",
-        "orgType": "UN Agency",
-        "fullName": "United Nations Human Settlements Programme",
-        "shortName": "UN Habitat"
-    },
-    {
         "id": "20",
         "orgType": "UN Agency",
         "fullName": "Office of the High Commissioner for Human Rights",
         "shortName": "OHCHR"
+    },
+    {
+        "id": "18",
+        "orgType": "UN Agency",
+        "fullName": "United Nations Human Settlements Programme",
+        "shortName": "UN Habitat"
     },
     {
         "id": "21",
