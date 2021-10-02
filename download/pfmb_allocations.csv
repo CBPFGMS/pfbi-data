@@ -7158,6 +7158,10 @@ Syrian Arab Republic,2021,Underfunded Emergencies,3962,21-UF-FAO-017,Agriculture
 Syrian Arab Republic,2021,Underfunded Emergencies,3963,21-UF-UDP-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,3000000.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,3964,21-UF-HCR-021,Protection,Protection,23.0,368000.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,3964,21-UF-HCR-021,Shelter and Non-Food Items,Shelter and Non-Food Items,77.0,1232000.0,CERF
+Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",38.00000210509475,3610289.0,CERF
+Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,Health,Health,23.00000210509475,2185175.0,CERF
+Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,Nutrition,Nutrition,33.9999957898105,3230258.0,CERF
+Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,Protection,Protection,5.0,475038.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,3967,21-UF-WHO-027,Health,Health,100.0,3200000.0,CERF
 Armenia,2021,Rapid Response,3783,21-RR-IOM-001,Health,Health,100.0,219999.0,CERF
 Armenia,2021,Rapid Response,3784,21-RR-HCR-002,Protection,Protection,25.00001995213085,313250.0,CERF
@@ -7212,6 +7216,8 @@ Venezuela,2021,Underfunded Emergencies,3922,21-UF-IOM-016,Health,Health,6.0,6000
 Venezuela,2021,Underfunded Emergencies,3922,21-UF-IOM-016,Protection,Protection,51.0,510000.0,CERF
 Venezuela,2021,Underfunded Emergencies,3923,21-UF-WFP-023,Food Assistance,Food Assistance,100.0,400000.0,CERF
 Venezuela,2021,Underfunded Emergencies,3924,21-UF-WHO-022,Health,Health,100.0,899993.0,CERF
+Haiti,2021,Rapid Response,3983,21-RR-IOM-025,Shelter and Non-Food Items,Shelter and Non-Food Items,28.999999999999996,812000.0,CERF
+Haiti,2021,Rapid Response,3983,21-RR-IOM-025,Camp Coordination and Camp Management,Camp Coordination and Camp Management,71.0,1988000.0,CERF
 Haiti,2021,Rapid Response,3984,21-RR-UDP-005,Common Services,Common Services,100.0,211303.0,CERF
 Haiti,2021,Rapid Response,3986,21-RR-WFP-032,Common Services,Common Services,60.0,300000.0,CERF
 Haiti,2021,Rapid Response,3986,21-RR-WFP-032,Common Services,Common Services,40.0,200000.0,CERF
@@ -7318,9 +7324,9 @@ Cameroon,2021,Underfunded Emergencies,3946,21-UF-FAO-015,Agriculture,Agriculture
 Cameroon,2021,Underfunded Emergencies,3947,21-UF-IOM-020,Protection,Protection,100.0,499950.0,CERF
 Cameroon,2021,Underfunded Emergencies,3948,21-UF-HCR-019,Protection,Protection,100.0,550000.0,CERF
 Cameroon,2021,Underfunded Emergencies,3951,21-UF-WHO-026,Health,Health,100.0,998973.0,CERF
-Cameroon,2021,Underfunded Emergencies,3960,21-UF-WFP-029,Food Assistance,Food Assistance,100.0,849997.0,CERF
 Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,Nutrition,Nutrition,42.0,504000.0,CERF
 Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",57.99999999999999,696000.0,CERF
+Cameroon,2021,Underfunded Emergencies,3960,21-UF-WFP-029,Food Assistance,Food Assistance,100.0,849997.0,CERF
 South Sudan,2021,Rapid Response,3766,20-RR-WFP-054,Food Assistance,Food Assistance,100.0,7000000.0,CERF
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Nutrition,Nutrition,9.999997777778272,450000.0,CERF
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Protection,Protection,7.999998222222618,360000.0,CERF
