@@ -1,5 +1,11 @@
 [
     {
+        "id": "3",
+        "orgType": "UN Agency",
+        "fullName": "World Health Organization",
+        "shortName": "WHO"
+    },
+    {
         "id": "11",
         "orgType": "UN Agency",
         "fullName": "United Nations High Commissioner for Refugees",
@@ -12,28 +18,22 @@
         "shortName": "FAO"
     },
     {
-        "id": "3",
-        "orgType": "UN Agency",
-        "fullName": "World Health Organization",
-        "shortName": "WHO"
-    },
-    {
         "id": "4",
         "orgType": "UN Agency",
         "fullName": "United Nations Children\u2019s Fund",
         "shortName": "UNICEF"
     },
     {
-        "id": "1",
-        "orgType": "UN Agency",
-        "fullName": "United Nations Development Programme",
-        "shortName": "UNDP"
-    },
-    {
         "id": "2",
         "orgType": "UN Agency",
         "fullName": "World Food Programme",
         "shortName": "WFP"
+    },
+    {
+        "id": "1",
+        "orgType": "UN Agency",
+        "fullName": "United Nations Development Programme",
+        "shortName": "UNDP"
     },
     {
         "id": "6",
@@ -84,16 +84,16 @@
         "shortName": "UNAIDS"
     },
     {
-        "id": "20",
-        "orgType": "UN Agency",
-        "fullName": "Office of the High Commissioner for Human Rights",
-        "shortName": "OHCHR"
-    },
-    {
         "id": "18",
         "orgType": "UN Agency",
         "fullName": "United Nations Human Settlements Programme",
         "shortName": "UN Habitat"
+    },
+    {
+        "id": "20",
+        "orgType": "UN Agency",
+        "fullName": "Office of the High Commissioner for Human Rights",
+        "shortName": "OHCHR"
     },
     {
         "id": "21",
