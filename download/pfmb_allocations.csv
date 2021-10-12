@@ -7277,6 +7277,7 @@ Nigeria,2021,Underfunded Emergencies,3959,21-UF-FPA-022,Health,Health,52.0000182
 Niger,2021,Rapid Response,3989,21-RR-CEF-042,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,284576.0,CERF
 Niger,2021,Rapid Response,3990,21-RR-WHO-030,Health,Health,100.0,1084493.0,CERF
 Niger,2021,Rapid Response,3991,21-RR-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2130930.0,CERF
+Niger,2021,Rapid Response,4012,21-RR-IOM-028,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2021000.0,CERF
 Republic of the Sudan,2021,Rapid Response,3760,20-RR-CEF-066,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1500000.0,CERF
 Republic of the Sudan,2021,Rapid Response,3815,21-RR-FAO-005,Agriculture,Agriculture,100.0,550000.0,CERF
 Republic of the Sudan,2021,Rapid Response,3816,21-RR-FPA-005,Protection,Protection,100.0,300000.0,CERF
@@ -7435,6 +7436,10 @@ Ethiopia,2021,Rapid Response,3867,21-RR-UDP-003,Common Services,Common Services,
 Ethiopia,2021,Underfunded Emergencies,3971,21-UF-FAO-018,Agriculture,Agriculture,100.0,4000000.0,CERF
 Ethiopia,2021,Underfunded Emergencies,3972,21-UF-IOM-023,Camp Coordination and Camp Management,Camp Coordination and Camp Management,77.0,2310000.0,CERF
 Ethiopia,2021,Underfunded Emergencies,3972,21-UF-IOM-023,Shelter and Non-Food Items,Shelter and Non-Food Items,23.0,690000.0,CERF
+Ethiopia,2021,Underfunded Emergencies,3973,21-UF-HCR-022,Camp Coordination and Camp Management,Camp Coordination and Camp Management,34.0,680000.0,CERF
+Ethiopia,2021,Underfunded Emergencies,3973,21-UF-HCR-022,Protection,Protection,33.0,660000.0,CERF
+Ethiopia,2021,Underfunded Emergencies,3973,21-UF-HCR-022,Shelter and Non-Food Items,Shelter and Non-Food Items,18.0,360000.0,CERF
+Ethiopia,2021,Underfunded Emergencies,3973,21-UF-HCR-022,Protection,Protection,15.0,300000.0,CERF
 Ethiopia,2021,Underfunded Emergencies,3974,21-UF-WHO-029,Health,Health,100.0,4000000.0,CERF
 Burundi,2021,Rapid Response,3874,21-RR-CEF-021,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,225000.0,CERF
 Burundi,2021,Rapid Response,3875,21-RR-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,750000.0,CERF
@@ -10685,11 +10690,15 @@ Ethiopia,2020,Standard,17442,ETH-20/DDA-3379/SA2/WASH-P-NFI/ES-N/INGO/17442,Wate
 Ethiopia,2021,Reserve,18097,ETH-21/DDA-3379/RA1/CSS/UN/18097,Coordination and Support Services,,100.0,565816.0,CBPF
 Ethiopia,2021,Reserve,19933,ETH-21/DDA-3379/RA1/CSS/UN/19933,Coordination and Support Services,,100.0,137195.4,CBPF
 Ethiopia,2021,Reserve,20016,ETH-21/DDA-3379/RA2/H/INGO/20016,Health,Gender Based Violence (GBV),100.0,245000.01,CBPF
+Ethiopia,2021,Reserve,20040,ETH-21/DDA-3379/RA2/H/INGO/20040,Health,Gender Based Violence (GBV),100.0,200000.23,CBPF
+Ethiopia,2021,Reserve,20091,ETH-21/DDA-3379/RA2/H/INGO/20091,Health,Gender Based Violence (GBV),100.0,200000.23,CBPF
 Ethiopia,2021,Reserve,20023,ETH-21/DDA-3379/RA2/H/NGO/20023,Health,Gender Based Violence (GBV),100.0,220000.01,CBPF
+Ethiopia,2021,Reserve,20039,ETH-21/DDA-3379/RA2/N/INGO/20039,Nutrition,,100.0,350024.98,CBPF
 Ethiopia,2021,Reserve,20044,ETH-21/DDA-3379/RA2/N/INGO/20044,Nutrition,,100.0,170000.33,CBPF
 Ethiopia,2021,Reserve,20102,ETH-21/DDA-3379/RA2/N/INGO/20102,Nutrition,,100.0,250000.08,CBPF
 Ethiopia,2021,Reserve,20088,ETH-21/DDA-3379/RA2/N/NGO/20088,Nutrition,,100.0,256443.51,CBPF
 Ethiopia,2021,Reserve,20098,ETH-21/DDA-3379/RA2/N/UN/20098,Nutrition,,100.0,400003.16,CBPF
+Ethiopia,2021,Reserve,20079,ETH-21/DDA-3379/RA2/NFI/ES/INGO/20079,Emergency Shelter and NFI,Child protection,100.0,430000.0,CBPF
 Ethiopia,2021,Reserve,20074,ETH-21/DDA-3379/RA2/NFI/ES/NGO/20074,Emergency Shelter and NFI,Child protection,100.0,160000.02,CBPF
 Ethiopia,2021,Standard,18548,ETH-21/DDA-3379/SA1/A/INGO/18548,Food Security,Protection de l'enfance,100.0,350000.37,CBPF
 Ethiopia,2021,Standard,18567,ETH-21/DDA-3379/SA1/A/INGO/18567,Food Security,Protection de l'enfance,100.0,349640.98,CBPF
