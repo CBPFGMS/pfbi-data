@@ -276,32 +276,31 @@ Myanmar,2006,Rapid Response,307,06-IOM-301,Health,Health,100,52645.0
 Myanmar,2006,Rapid Response,328,06-WFP-304,Food Assistance,Food Assistance,100,970546.5
 Myanmar,2006,Rapid Response,331,06-UDP-302,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,230050.0
 Myanmar,2006,Rapid Response,330,06-CEF-300,Health,Health,100,1550000.0
-Philippines,2006,Rapid Response,322,06-IOM-333,Shelter and Non-Food Items,Shelter and Non-Food Items,100,250000.0
+Philippines,2006,Rapid Response,318,06-UDP-329,Multi-Sector,Multi-Sector,100,350000.0
 Philippines,2006,Rapid Response,317,06-WFP-328,Food Assistance,Food Assistance,100,497550.0
 Philippines,2006,Rapid Response,320,06-FAO-331,Agriculture,Agriculture,100,100000.0
-Philippines,2006,Rapid Response,318,06-UDP-329,Multi-Sector,Multi-Sector,100,350000.0
+Philippines,2006,Rapid Response,322,06-IOM-333,Shelter and Non-Food Items,Shelter and Non-Food Items,100,250000.0
 Philippines,2006,Rapid Response,315,06-WHO-326,Health,Health,100,357499.84
 Philippines,2006,Rapid Response,316,06-CEF-327,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,450000.0
 Philippines,2006,Rapid Response,319,06-FPA-330,Health,Health,100,243255.0
 Philippines,2006,Rapid Response,321,06-CEF-332,Shelter and Non-Food Items,Shelter and Non-Food Items,100,350000.0
 Iraq,2006,Rapid Response,324,06-HCR-335,Multi-Sector,Multi-Sector,100,3998590.0
 Jordan,2006,Rapid Response,326,06-HCR-338,Multi-Sector,Multi-Sector,100,1000000.0
-Syrian Arab Republic,2006,Rapid Response,327,06-HCR-339,Multi-Sector,Multi-Sector,100,1000000.0
 Syrian Arab Republic,2006,Rapid Response,325,06-WFP-337,Food Assistance,Food Assistance,100,177096.0
+Syrian Arab Republic,2006,Rapid Response,327,06-HCR-339,Multi-Sector,Multi-Sector,100,1000000.0
 Lebanon,2006,Rapid Response,123,06-WHO-148,Health,Health,100,1000000.0
 Lebanon,2006,Rapid Response,68,06-CEF-150,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000000.0
 Lebanon,2006,Rapid Response,95,06-WFP-145,Common Services,Common Services,100,500000.0
 Lebanon,2006,Rapid Response,96,06-WFP-146,Common Services,Common Services,100,2500000.0
 occupied Palestinian territory,2006,Rapid Response,305,06-WHO-316,Health,Health,100,1530100.0
 occupied Palestinian territory,2006,Rapid Response,294,06-UDP-307,Early Recovery,Early Recovery,100,3299302.2
+Lebanon,2007,Rapid Response,576,07-RWA-004-F,Education,Education,100,253953.0
 occupied Palestinian territory,2007,Rapid Response,415,07-CEF-026,Protection,Protection,100,201588.0
 occupied Palestinian territory,2007,Underfunded Emergencies,653,07-WHO-043,Health,Health,100,2000000.0
 occupied Palestinian territory,2007,Underfunded Emergencies,654,07-CEF-056,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,509510.0
 occupied Palestinian territory,2007,Underfunded Emergencies,655,07-RWA-013,Food Assistance,Food Assistance,100,1000000.0
 occupied Palestinian territory,2007,Underfunded Emergencies,679,07-FEM-001,Health,Health,100,150000.0
-Lebanon,2007,Rapid Response,576,07-RWA-004-F,Education,Education,100,253953.0
 occupied Palestinian territory,2007,Rapid Response,348,07-RWA-003,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2324361.0
-Yemen,2007,Rapid Response,787,07-CEF-064,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,586493.0
 Lebanon,2007,Rapid Response,574,07-UDP-019,Common Services,Common Services,100,419975.0
 Lebanon,2007,Rapid Response,562,07-RWA-004-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,433350.0
 Lebanon,2007,Rapid Response,563,07-RWA-004-D,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,698175.0
@@ -313,8 +312,8 @@ Lebanon,2007,Rapid Response,560,07-RWA-004-A,Food Assistance,Food Assistance,100
 Lebanon,2007,Rapid Response,571,07-RWA-004-B,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1104347.0
 Georgia,2007,Rapid Response,852,07-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,161599.0
 Armenia,2007,Rapid Response,850,07-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,299787.0
-Indonesia,2007,Rapid Response,341,06-CEF-349,Shelter and Non-Food Items,Shelter and Non-Food Items,100,770383.0
 Iraq,2007,Rapid Response,505,07-IOM-006,Shelter and Non-Food Items,Shelter and Non-Food Items,100,3533359.0
+Indonesia,2007,Rapid Response,341,06-CEF-349,Shelter and Non-Food Items,Shelter and Non-Food Items,100,770383.0
 Indonesia,2007,Rapid Response,339,06-IOM-347,Multi-Sector,Multi-Sector,100,250000.0
 Indonesia,2007,Rapid Response,340,06-WFP-348,Food Assistance,Food Assistance,100,884481.0
 Indonesia,2007,Rapid Response,351,07-WHO-002,Health,Health,100,535000.0
@@ -354,6 +353,7 @@ Sri Lanka,2007,Rapid Response,769,07-UDP-021,Agriculture,Agriculture,100,237433.
 Sri Lanka,2007,Rapid Response,772,07-HCR-017-A,Protection,Protection,100,680000.0
 Sri Lanka,2007,Rapid Response,418,07-HCR-010,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1512500.0
 Yemen,2007,Rapid Response,788,07-WHO-049,Health,Health,100,415973.0
+Yemen,2007,Rapid Response,787,07-CEF-064,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,586493.0
 Yemen,2007,Rapid Response,586,07-FAO-022,Agriculture,Agriculture,100,2432110.0
 Afghanistan,2007,Rapid Response,555,07-CEF-043,Multi-Sector,Multi-Sector,100,762803.0
 Afghanistan,2007,Rapid Response,589,07-WFP-037,Food Assistance,Food Assistance,100,1075552.0
@@ -1220,8 +1220,6 @@ Myanmar,2008,Rapid Response,1188,08-HCR-022,Shelter and Non-Food Items,Shelter a
 Myanmar,2008,Rapid Response,1189,08-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1200000.0
 Myanmar,2008,Rapid Response,1224,08-WFP-057,Common Services,Common Services,100,1300005.0
 Myanmar,2008,Rapid Response,1298,08-IOM-019,Health,Health,100,300000.0
-Myanmar,2008,Underfunded Emergencies,1053,08-FPA-009,Health,Health,100,120000.0
-Myanmar,2008,Rapid Response,1296,08-WFP-079,Food Assistance,Food Assistance,100,1750000.0
 Myanmar,2008,Underfunded Emergencies,1054,08-FPA-010,Health,Health,100,411442.0
 Myanmar,2008,Rapid Response,1197,08-WFP-050,Common Services,Common Services,100,275399.0
 Myanmar,2008,Rapid Response,1201,08-CEF-040,Common Services,Common Services,100,224216.0
@@ -1230,6 +1228,7 @@ Myanmar,2008,Rapid Response,1297,08-IOM-018,Shelter and Non-Food Items,Shelter a
 Philippines,2008,Rapid Response,1407,08-CEF-072-A,Protection,Protection,100,212788.0
 Philippines,2008,Rapid Response,1408,08-CEF-072-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,330630.0
 Philippines,2008,Rapid Response,1410,08-IOM-024,Multi-Sector,Multi-Sector,100,399998.0
+Philippines,2008,Rapid Response,1409,08-FPA-024,Health,Health,100,158324.0
 Lao People's Democratic Republic,2008,Rapid Response,1352,08-CEF-065-A,Nutrition,Nutrition,100,200497.0
 Lao People's Democratic Republic,2008,Rapid Response,1353,08-CEF-065-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100028.0
 Lao People's Democratic Republic,2008,Rapid Response,1354,08-CEF-065-C,Education,Education,100,100045.0
@@ -1238,7 +1237,8 @@ Lao People's Democratic Republic,2008,Rapid Response,1356,08-FAO-046,Agriculture
 Lao People's Democratic Republic,2008,Rapid Response,1357,08-WFP-090,Food Assistance,Food Assistance,100,1000000.6
 Lao People's Democratic Republic,2008,Rapid Response,1358,08-WHO-056,Health,Health,100,223630.0
 Lao People's Democratic Republic,2008,Rapid Response,1360,08-HAB-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100580.0
-Philippines,2008,Rapid Response,1409,08-FPA-024,Health,Health,100,158324.0
+Myanmar,2008,Underfunded Emergencies,1053,08-FPA-009,Health,Health,100,120000.0
+Myanmar,2008,Rapid Response,1296,08-WFP-079,Food Assistance,Food Assistance,100,1750000.0
 Philippines,2008,Rapid Response,1411,08-WFP-097,Food Assistance,Food Assistance,100,619448.0
 Philippines,2008,Rapid Response,1412,08-WHO-060,Health,Health,100,359104.0
 Iraq,2008,Rapid Response,945,08-WFP-007,Food Assistance,Food Assistance,100,5076123.0
@@ -1252,10 +1252,10 @@ Georgia,2008,Rapid Response,1369,08-FPA-033,Protection,Protection,100,150000.0
 Georgia,2008,Rapid Response,1371,08-IOM-022,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0
 Georgia,2008,Rapid Response,1372,08-WFP-092,Food Assistance,Food Assistance,100,1570000.0
 Georgia,2008,Rapid Response,1373,08-WHO-058,Health,Health,100,149800.0
-Syrian Arab Republic,2008,Rapid Response,1454,08-CEF-079,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,251450.0
 Syrian Arab Republic,2008,Rapid Response,928,08-WFP-003,Food Assistance,Food Assistance,100,4999654.0
 Syrian Arab Republic,2008,Rapid Response,1455,08-FAO-056,Agriculture,Agriculture,100,750070.0
 Syrian Arab Republic,2008,Rapid Response,1456,08-WFP-102,Food Assistance,Food Assistance,100,965001.0
+Syrian Arab Republic,2008,Rapid Response,1454,08-CEF-079,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,251450.0
 Syrian Arab Republic,2008,Underfunded Emergencies,1429,08-WHO-062,Health,Health,100,500000.0
 Lebanon,2008,Rapid Response,1506,08-RWA-004,Food Assistance,Food Assistance,100,1008582.0
 Syrian Arab Republic,2008,Underfunded Emergencies,1428,08-FPA-037,Health,Health,100,124741.0
@@ -1269,19 +1269,20 @@ occupied Palestinian territory,2009,Rapid Response,1585,09-RWA-002,Shelter and N
 occupied Palestinian territory,2009,Rapid Response,1586,09-RWA-003,Common Services,Common Services,100,497550.0
 occupied Palestinian territory,2009,Rapid Response,1599,09-WFP-008,Common Services,Common Services,100,1000000.0
 occupied Palestinian territory,2009,Rapid Response,1638,09-WHO-009,Health,Health,100,1374724.0
-occupied Palestinian territory,2009,Rapid Response,1583,09-WFP-005,Food Assistance,Food Assistance,100,1999981.0
-Yemen,2009,Rapid Response,1825,09-CEF-036-D,Education,Education,100,156220.0
-Syrian Arab Republic,2009,Rapid Response,1979,09-UDP-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0
 Syrian Arab Republic,2009,Rapid Response,1975,09-CEF-058-A,Nutrition,Nutrition,100,263327.0
+Yemen,2009,Rapid Response,1825,09-CEF-036-D,Education,Education,100,156220.0
+occupied Palestinian territory,2009,Rapid Response,1583,09-WFP-005,Food Assistance,Food Assistance,100,1999981.0
+Syrian Arab Republic,2009,Rapid Response,1979,09-UDP-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0
 Syrian Arab Republic,2009,Rapid Response,1977,09-FAO-034,Agriculture,Agriculture,100,1400000.0
 Syrian Arab Republic,2009,Rapid Response,1981,09-WFP-067,Food Assistance,Food Assistance,100,1424137.0
 Georgia,2009,Rapid Response,2014,09-HCR-042,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000450.0
-Indonesia,2009,Rapid Response,1987,09-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,203809.0
 Iraq,2009,Rapid Response,1651,09-WHO-013,Health,Health,100,1004837.0
 Indonesia,2009,Rapid Response,1983,09-CEF-059-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,535000.0
 Indonesia,2009,Rapid Response,1985,09-FPA-030,Health,Health,100,367545.0
 Indonesia,2009,Rapid Response,1986,09-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100,203809.0
+Indonesia,2009,Rapid Response,1987,09-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,203809.0
 Philippines,2009,Rapid Response,1813,09-CEF-035-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,860280.0
+Philippines,2009,Rapid Response,1814,09-CEF-035-C,Protection,Protection,100,313424.0
 Philippines,2009,Rapid Response,1953,09-WFP-061,Food Assistance,Food Assistance,100,2268103.0
 Philippines,2009,Rapid Response,1954,09-WFP-062,Common Services,Common Services,100,228000.0
 Philippines,2009,Rapid Response,1956,09-WHO-056,Health,Health,100,557061.0
@@ -1293,6 +1294,10 @@ Indonesia,2009,Rapid Response,1990,09-WHO-061,Health,Health,100,600249.0
 Indonesia,2009,Rapid Response,1992,09-UDP-015,Early Recovery,Early Recovery,100,864270.0
 Indonesia,2009,Rapid Response,2005,09-CEF-059-C,Education,Education,100,53500.0
 Indonesia,2009,Rapid Response,2012,09-UDP-020,Early Recovery,Early Recovery,100,214000.0
+Lao People's Democratic Republic,2009,Rapid Response,2004,09-HAB-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,114062.0
+Lao People's Democratic Republic,2009,Rapid Response,1993,09-CEF-060-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200069.0
+Lao People's Democratic Republic,2009,Rapid Response,1994,09-CEF-060-B,Education,Education,100,99510.0
+Lao People's Democratic Republic,2009,Rapid Response,1995,09-CEF-060-C,Nutrition,Nutrition,100,200020.0
 Lao People's Democratic Republic,2009,Rapid Response,1996,09-CEF-060-D,Protection,Protection,100,99831.0
 Lao People's Democratic Republic,2009,Rapid Response,1997,09-FAO-036,Agriculture,Agriculture,100,589735.0
 Lao People's Democratic Republic,2009,Rapid Response,1998,09-FPA-031,Health,Health,100,125393.0
@@ -1301,8 +1306,6 @@ Lao People's Democratic Republic,2009,Rapid Response,2003,09-HAB-004,Shelter and
 Lao People's Democratic Republic,2009,Rapid Response,1999,09-WFP-070,Food Assistance,Food Assistance,100,1398055.0
 Lao People's Democratic Republic,2009,Rapid Response,2001,09-UDP-016,Early Recovery,Early Recovery,100,125000.0
 Lao People's Democratic Republic,2009,Rapid Response,2002,09-UDP-017,Protection,Protection,100,278600.0
-Lao People's Democratic Republic,2009,Rapid Response,1994,09-CEF-060-B,Education,Education,100,99510.0
-Lao People's Democratic Republic,2009,Rapid Response,1995,09-CEF-060-C,Nutrition,Nutrition,100,200020.0
 Philippines,2009,Rapid Response,1812,09-CEF-035-A,Nutrition,Nutrition,100,345822.0
 Philippines,2009,Rapid Response,1815,09-CEF-035-D,Education,Education,100,209527.0
 Philippines,2009,Rapid Response,1816,09-FPA-019,Health,Health,100,173233.0
@@ -1314,9 +1317,6 @@ Philippines,2009,Rapid Response,1950,09-FPA-028,Health,Health,100,183847.0
 Philippines,2009,Rapid Response,1951,09-IOM-025,Shelter and Non-Food Items,Shelter and Non-Food Items,100,776693.0
 Philippines,2009,Rapid Response,1952,09-IOM-026,Shelter and Non-Food Items,Shelter and Non-Food Items,100,447102.0
 Philippines,2009,Rapid Response,1955,09-WFP-063,Common Services,Common Services,100,500000.0
-Philippines,2009,Rapid Response,1814,09-CEF-035-C,Protection,Protection,100,313424.0
-Lao People's Democratic Republic,2009,Rapid Response,2004,09-HAB-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,114062.0
-Lao People's Democratic Republic,2009,Rapid Response,1993,09-CEF-060-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200069.0
 Philippines,2009,Rapid Response,1820,09-WHO-035,Health,Health,100,433147.0
 Philippines,2009,Rapid Response,1819,09-WFP-040,Food Assistance,Food Assistance,100,1616042.0
 Myanmar,2009,Underfunded Emergencies,1656,09-HCR-008,Health,Health,100,267618.0
@@ -2070,17 +2070,17 @@ Yemen,2010,Underfunded Emergencies,2482,10-FAO-041,Agriculture,Agriculture,100,3
 Yemen,2010,Rapid Response,2317,10-WFP-036,Common Services,Common Services,100,375926.0
 Yemen,2010,Underfunded Emergencies,2161,10-WFP-016,Nutrition,Nutrition,100,1999770.0
 Yemen,2010,Underfunded Emergencies,2168,10-IOM-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100011.0
-Yemen,2010,Underfunded Emergencies,2486,10-FPA-038,Health,Health,100,110015.0
-Yemen,2010,Underfunded Emergencies,2487,10-FPA-039,Protection,Protection,100,200090.0
-Yemen,2010,Underfunded Emergencies,2492,10-WFP-068,Food Assistance,Food Assistance,100,2500000.0
+Yemen,2010,Underfunded Emergencies,2483,10-IOM-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,450005.0
+Yemen,2010,Underfunded Emergencies,2484,10-IOM-025,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,91977.0
 Yemen,2010,Underfunded Emergencies,2488,10-CEF-053-A,Education,Education,100,502040.0
 Yemen,2010,Underfunded Emergencies,2489,10-CEF-053-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,405530.0
 Yemen,2010,Underfunded Emergencies,2491,10-CEF-053-D,Protection,Protection,100,195292.0
 Yemen,2010,Underfunded Emergencies,2493,10-WHO-063,Health,Health,100,754469.0
 Yemen,2010,Underfunded Emergencies,2494,10-HCR-037,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000001.0
 Yemen,2010,Underfunded Emergencies,2495,10-HCR-038,Protection,Protection,100,200000.0
-Yemen,2010,Underfunded Emergencies,2483,10-IOM-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,450005.0
-Yemen,2010,Underfunded Emergencies,2484,10-IOM-025,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,91977.0
+Yemen,2010,Underfunded Emergencies,2486,10-FPA-038,Health,Health,100,110015.0
+Yemen,2010,Underfunded Emergencies,2487,10-FPA-039,Protection,Protection,100,200090.0
+Yemen,2010,Underfunded Emergencies,2492,10-WFP-068,Food Assistance,Food Assistance,100,2500000.0
 Sri Lanka,2010,Rapid Response,2254,10-WFP-026,Food Assistance,Food Assistance,100,2400001.0
 Nepal,2010,Underfunded Emergencies,2517,10-WHO-067,Health,Health,100,221556.0
 Nepal,2010,Underfunded Emergencies,2518,10-CEF-056-A,Nutrition,Nutrition,100,415327.0
@@ -2187,10 +2187,10 @@ Myanmar,2010,Rapid Response,2598,10-UDP-025,Shelter and Non-Food Items,Shelter a
 Myanmar,2010,Rapid Response,2596,10-WFP-078,Food Assistance,Food Assistance,100,2235597.0
 Myanmar,2010,Rapid Response,2597,10-WHO-076,Health,Health,100,215153.0
 Myanmar,2010,Rapid Response,2601,10-WFP-079,Common Services,Common Services,100,360269.0
-Myanmar,2010,Rapid Response,2600,10-UDP-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,93625.0
 Philippines,2010,Underfunded Emergencies,2204,10-FPA-013,Multi-Sector,Multi-Sector,100,147462.0
 Philippines,2010,Underfunded Emergencies,2271,10-HCR-016,Protection,Protection,100,101082.0
 Philippines,2010,Underfunded Emergencies,2198,10-WFP-022,Food Assistance,Food Assistance,100,713032.0
+Myanmar,2010,Rapid Response,2600,10-UDP-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,93625.0
 Philippines,2010,Underfunded Emergencies,2199,10-FAO-014,Agriculture,Agriculture,100,210536.0
 Philippines,2010,Underfunded Emergencies,2200,10-WHO-017,Health,Health,100,288552.0
 Philippines,2010,Underfunded Emergencies,2201,10-IOM-009,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,373568.0
@@ -2207,9 +2207,9 @@ Syrian Arab Republic,2011,Rapid Response,3094,11-CEF-058-B,Protection,Protection
 Syrian Arab Republic,2011,Rapid Response,3096,11-FAO-040,Agriculture,Agriculture,100,435966.0
 Syrian Arab Republic,2011,Rapid Response,3097,11-FPA-047,Health,Health,100,181134.0
 Syrian Arab Republic,2011,Rapid Response,3100,11-WHO-062,Health,Health,100,253590.0
-Syrian Arab Republic,2011,Rapid Response,3099,11-WFP-065,Food Assistance,Food Assistance,100,799783.0
 Syrian Arab Republic,2011,Rapid Response,2872,11-WHO-034,Health,Health,100,348071.0
 Yemen,2011,Rapid Response,2896,11-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1393675.0
+Syrian Arab Republic,2011,Rapid Response,3099,11-WFP-065,Food Assistance,Food Assistance,100,799783.0
 Syrian Arab Republic,2011,Rapid Response,3101,11-UDP-012,Protection,Protection,100,321000.0
 occupied Palestinian territory,2011,Underfunded Emergencies,2668,11-FAO-006,Agriculture,Agriculture,100,800003.0
 occupied Palestinian territory,2011,Underfunded Emergencies,2669,11-WFP-005,Food Assistance,Food Assistance,100,900372.0
@@ -2322,7 +2322,11 @@ Sri Lanka,2011,Underfunded Emergencies,2724,11-FAO-010,Agriculture,Agriculture,1
 Sri Lanka,2011,Rapid Response,2646,11-FAO-003,Agriculture,Agriculture,100,500000.0
 Nepal,2011,Underfunded Emergencies,3043,11-WFP-057,Food Assistance,Food Assistance,100,1000003.0
 Sri Lanka,2011,Underfunded Emergencies,2727,11-IOM-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100,199995.0
-Yemen,2011,Rapid Response,2898,11-HCR-031,Protection,Protection,100,823900.0
+Yemen,2011,Rapid Response,2895,11-WFP-035,Food Assistance,Food Assistance,100,73635.0
+Yemen,2011,Rapid Response,2902,11-FPA-029,Health,Health,100,199996.0
+Yemen,2011,Rapid Response,2903,11-FPA-030,Protection,Protection,100,204370.0
+Yemen,2011,Rapid Response,2904,11-IOM-023,Multi-Sector,Multi-Sector,100,884770.0
+Yemen,2011,Rapid Response,2905,11-WHO-038,Health,Health,100,2200984.0
 Yemen,2011,Rapid Response,2859,11-CEF-026,Protection,Protection,100,250000.0
 Yemen,2011,Rapid Response,2860,11-FPA-027,Protection,Protection,100,123591.0
 Yemen,2011,Rapid Response,2861,11-HCR-022,Protection,Protection,100,320176.0
@@ -2330,15 +2334,11 @@ Yemen,2011,Rapid Response,2862,11-WHO-032,Health,Health,100,1586332.0
 Yemen,2011,Rapid Response,2897,11-HCR-030,Protection,Protection,100,283550.0
 Yemen,2011,Rapid Response,2900,11-CEF-032-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,553939.0
 Yemen,2011,Rapid Response,2901,11-CEF-032-B,Nutrition,Nutrition,100,447260.0
-Yemen,2011,Rapid Response,2895,11-WFP-035,Food Assistance,Food Assistance,100,73635.0
-Yemen,2011,Rapid Response,2902,11-FPA-029,Health,Health,100,199996.0
-Yemen,2011,Rapid Response,2903,11-FPA-030,Protection,Protection,100,204370.0
-Yemen,2011,Rapid Response,2904,11-IOM-023,Multi-Sector,Multi-Sector,100,884770.0
-Yemen,2011,Rapid Response,2905,11-WHO-038,Health,Health,100,2200984.0
-Yemen,2011,Rapid Response,2864,11-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,932517.0
-Yemen,2011,Rapid Response,2865,11-IOM-018,Multi-Sector,Multi-Sector,100,1270465.0
+Yemen,2011,Rapid Response,2898,11-HCR-031,Protection,Protection,100,823900.0
 Yemen,2011,Rapid Response,2899,11-WFP-036,Food Assistance,Food Assistance,100,1477089.0
 Yemen,2011,Rapid Response,2863,11-WFP-030,Food Assistance,Food Assistance,100,1808332.0
+Yemen,2011,Rapid Response,2864,11-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,932517.0
+Yemen,2011,Rapid Response,2865,11-IOM-018,Multi-Sector,Multi-Sector,100,1270465.0
 Nepal,2011,Underfunded Emergencies,3042,11-HCR-044,Multi-Sector,Multi-Sector,100,999991.0
 Democratic People's Republic of Korea,2011,Rapid Response,2868,11-WFP-031,Food Assistance,Food Assistance,100,7199174.0
 Democratic People's Republic of Korea,2011,Rapid Response,2869,11-WHO-033,Health,Health,100,379850.0
@@ -3031,6 +3031,19 @@ Afghanistan,2012,Underfunded Emergencies,3606,12-WHO-065,Health,Health,100,10037
 Afghanistan,2012,Underfunded Emergencies,3607,12-WFP-066,Nutrition,Nutrition,100,647999.0
 Afghanistan,2012,Underfunded Emergencies,3608,12-WHO-066,Nutrition,Nutrition,100,194825.0
 Afghanistan,2012,Underfunded Emergencies,3609,12-CEF-109,Protection,Protection,100,239616.0
+Yemen,2012,Rapid Response,3374,12-FPA-019,Protection,Protection,100,280276.0
+Yemen,2012,Rapid Response,3373,12-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2656836.0
+Yemen,2012,Rapid Response,3375,12-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1724089.0
+Yemen,2012,Rapid Response,3376,12-IOM-009,Multi-Sector,Multi-Sector,100,1902431.0
+Yemen,2012,Rapid Response,3377,12-WFP-033,Food Assistance,Food Assistance,100,2611919.0
+Yemen,2012,Rapid Response,3378,12-WHO-030,Health,Health,100,796709.0
+Yemen,2012,Rapid Response,3351,12-CEF-028,Health,Health,100,2420116.0
+Yemen,2012,Rapid Response,3352,12-WHO-024,Health,Health,100,2564985.0
+Yemen,2012,Rapid Response,3545,12-CEF-093,Nutrition,Nutrition,100,406332.0
+Yemen,2012,Rapid Response,3550,12-IOM-023,Nutrition,Nutrition,100,343342.0
+Yemen,2012,Rapid Response,3543,12-CEF-091,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1839642.0
+Yemen,2012,Rapid Response,3544,12-CEF-092,Protection,Protection,100,261754.0
+Yemen,2012,Rapid Response,3551,12-UDP-009,Protection,Protection,100,250000.0
 Yemen,2012,Rapid Response,3546,12-FPA-035,Multi-Sector,Multi-Sector,100,429081.0
 Yemen,2012,Rapid Response,3547,12-HCR-038,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2400023.0
 Yemen,2012,Rapid Response,3548,12-IOM-021,Shelter and Non-Food Items,Shelter and Non-Food Items,100,518629.0
@@ -3038,21 +3051,6 @@ Yemen,2012,Rapid Response,3549,12-IOM-022,Health,Health,100,407970.0
 Yemen,2012,Rapid Response,3552,12-WHO-056,Health,Health,100,844551.0
 Yemen,2012,Rapid Response,3563,12-IOM-025,Protection,Protection,100,335338.0
 Yemen,2012,Rapid Response,3562,12-IOM-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,466413.0
-Yemen,2012,Rapid Response,3374,12-FPA-019,Protection,Protection,100,280276.0
-Yemen,2012,Rapid Response,3373,12-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2656836.0
-Yemen,2012,Rapid Response,3375,12-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1724089.0
-Yemen,2012,Rapid Response,3376,12-IOM-009,Multi-Sector,Multi-Sector,100,1902431.0
-Yemen,2012,Rapid Response,3377,12-WFP-033,Food Assistance,Food Assistance,100,2611919.0
-Yemen,2012,Rapid Response,3378,12-WHO-030,Health,Health,100,796709.0
-Yemen,2012,Rapid Response,3545,12-CEF-093,Nutrition,Nutrition,100,406332.0
-Yemen,2012,Rapid Response,3550,12-IOM-023,Nutrition,Nutrition,100,343342.0
-Yemen,2012,Rapid Response,3543,12-CEF-091,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1839642.0
-Yemen,2012,Rapid Response,3544,12-CEF-092,Protection,Protection,100,261754.0
-Yemen,2012,Rapid Response,3551,12-UDP-009,Protection,Protection,100,250000.0
-occupied Palestinian territory,2012,Rapid Response,3745,13-CEF-004,Protection,Protection,100,1250004.0
-occupied Palestinian territory,2012,Rapid Response,3746,13-OPS-001,Protection,Protection,100,303708.0
-Yemen,2012,Rapid Response,3351,12-CEF-028,Health,Health,100,2420116.0
-Yemen,2012,Rapid Response,3352,12-WHO-024,Health,Health,100,2564985.0
 Nepal,2012,Underfunded Emergencies,3267,12-CEF-013-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,472141.0
 Nepal,2012,Underfunded Emergencies,3270,12-WHO-014,Health,Health,100,297353.0
 Nepal,2012,Underfunded Emergencies,3271,12-HAB-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,211244.0
@@ -3119,15 +3117,15 @@ Myanmar,2012,Rapid Response,3554,12-CEF-095,Protection,Protection,100,89940.0
 Myanmar,2012,Rapid Response,3555,12-CEF-096,Nutrition,Nutrition,100,126502.0
 Myanmar,2012,Rapid Response,3685,12-CEF-129,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,444050.0
 Myanmar,2012,Rapid Response,3173,12-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,125190.0
-Myanmar,2012,Rapid Response,3688,12-WFP-078,Food Assistance,Food Assistance,100,2000091.0
-Myanmar,2012,Rapid Response,3690,12-WHO-080,Health,Health,100,140108.0
-Myanmar,2012,Rapid Response,3691,12-FPA-045,Health,Health,100,282842.0
 Myanmar,2012,Rapid Response,3559,12-HCR-039,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2705663.0
 Myanmar,2012,Rapid Response,3560,12-HCR-040,Protection,Protection,100,124545.0
 Myanmar,2012,Rapid Response,3561,12-WFP-056,Food Assistance,Food Assistance,100,1000000.0
 Myanmar,2012,Rapid Response,3686,12-CEF-130,Nutrition,Nutrition,100,243150.0
 Myanmar,2012,Rapid Response,3687,12-HCR-054,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2008989.0
 Myanmar,2012,Rapid Response,3689,12-CEF-131,Health,Health,100,142832.0
+Myanmar,2012,Rapid Response,3688,12-WFP-078,Food Assistance,Food Assistance,100,2000091.0
+Myanmar,2012,Rapid Response,3690,12-WHO-080,Health,Health,100,140108.0
+Myanmar,2012,Rapid Response,3691,12-FPA-045,Health,Health,100,282842.0
 Philippines,2012,Underfunded Emergencies,3235,12-CEF-010,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,800253.0
 Philippines,2012,Underfunded Emergencies,3236,12-FAO-008,Agriculture,Agriculture,100,297548.0
 Philippines,2012,Underfunded Emergencies,3237,12-FPA-005,Health,Health,100,192306.0
@@ -3148,13 +3146,11 @@ Philippines,2012,Rapid Response,3736,12-UDP-014,Early Recovery,Early Recovery,10
 Philippines,2012,Rapid Response,3737,13-ILO-001,Agriculture,Agriculture,100,597060.0
 Philippines,2012,Rapid Response,3728,12-CEF-145,Nutrition,Nutrition,100,200000.0
 Philippines,2012,Rapid Response,3733,12-WFP-083,Nutrition,Nutrition,100,224610.0
+Iraq,2012,Rapid Response,3643,12-WHO-072,Health,Health,100,274825.0
 Iraq,2012,Rapid Response,3639,12-CEF-117,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,751793.0
 Iraq,2012,Rapid Response,3641,12-IOM-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,245779.0
 Iraq,2012,Rapid Response,3640,12-HCR-049,Shelter and Non-Food Items,Shelter and Non-Food Items,100,715922.0
 Iraq,2012,Rapid Response,3642,12-WFP-071,Food Assistance,Food Assistance,100,579385.0
-Iraq,2012,Rapid Response,3643,12-WHO-072,Health,Health,100,274825.0
-Jordan,2012,Rapid Response,3451,12-FPA-026,Health,Health,100,100024.0
-Jordan,2012,Rapid Response,3454,12-WFP-041,Food Assistance,Food Assistance,100,2005006.0
 Jordan,2012,Rapid Response,3448,12-CEF-063,Protection,Protection,100,185057.0
 Jordan,2012,Rapid Response,3449,12-CEF-064,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,427626.0
 Jordan,2012,Rapid Response,3450,12-FPA-025,Protection,Protection,100,100377.0
@@ -3169,6 +3165,10 @@ occupied Palestinian territory,2012,Rapid Response,3744,13-CEF-003,"Water, Sanit
 Lebanon,2012,Rapid Response,3752,13-RWA-002,Multi-Sector,Multi-Sector,100,1000000.0
 occupied Palestinian territory,2012,Rapid Response,3748,13-RWA-001,Multi-Sector,Multi-Sector,100,3630111.0
 occupied Palestinian territory,2012,Rapid Response,3749,13-UDP-001,Multi-Sector,Multi-Sector,100,649683.0
+occupied Palestinian territory,2012,Rapid Response,3745,13-CEF-004,Protection,Protection,100,1250004.0
+occupied Palestinian territory,2012,Rapid Response,3746,13-OPS-001,Protection,Protection,100,303708.0
+Jordan,2012,Rapid Response,3451,12-FPA-026,Health,Health,100,100024.0
+Jordan,2012,Rapid Response,3454,12-WFP-041,Food Assistance,Food Assistance,100,2005006.0
 Syrian Arab Republic,2012,Rapid Response,3610,12-FAO-034,Agriculture,Agriculture,100,2000000.0
 Syrian Arab Republic,2012,Rapid Response,3611,12-HCR-044,Shelter and Non-Food Items,Shelter and Non-Food Items,100,999971.0
 Syrian Arab Republic,2012,Rapid Response,3612,12-RWA-003,Multi-Sector,Multi-Sector,100,2020544.0
@@ -3250,9 +3250,6 @@ Lebanon,2013,Rapid Response,4212,13-RR-CEF-127,Multi-Sector,Multi-Sector,100,449
 Lebanon,2013,Rapid Response,4215,13-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500362.0
 occupied Palestinian territory,2013,Rapid Response,3751,13-WHO-002,Health,Health,100,1206178.0
 Yemen,2013,Rapid Response,4030,13-RR-WHO-042,Health,Health,100,1742087.0
-Yemen,2013,Underfunded Emergencies,3889,13-UDP-006,Protection,Protection,100,2301225.0
-Yemen,2013,Underfunded Emergencies,3875,13-CEF-044,Nutrition,Nutrition,100,450001.0
-Yemen,2013,Underfunded Emergencies,3885,13-IOM-012,Nutrition,Nutrition,100,148715.0
 Yemen,2013,Underfunded Emergencies,3883,13-IOM-010,Multi-Sector,Multi-Sector,100,1395553.0
 Yemen,2013,Underfunded Emergencies,3884,13-IOM-011,Health,Health,100,402320.0
 Yemen,2013,Underfunded Emergencies,3886,13-IOM-013,Agriculture,Agriculture,100,300000.0
@@ -3338,7 +3335,6 @@ Philippines,2013,Rapid Response,4284,13-RR-WFP-074,Food Assistance,Food Assistan
 Philippines,2013,Rapid Response,4286,13-RR-WHO-075,Health,Health,100,799906.0
 Philippines,2013,Rapid Response,4285,13-RR-WFP-075,Common Services,Common Services,100,200000.0
 Lao People's Democratic Republic,2013,Rapid Response,4039,13-RR-WHO-044,Health,Health,100,753504.0
-Myanmar,2013,Rapid Response,3952,13-HCR-033,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2500000.0
 Myanmar,2013,Rapid Response,3943,13-CEF-057,Health,Health,100,199020.0
 Myanmar,2013,Rapid Response,3944,13-CEF-058,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2000044.0
 Myanmar,2013,Underfunded Emergencies,4166,13-UF-FAO-035,Agriculture,Agriculture,100,274512.0
@@ -3351,6 +3347,7 @@ Myanmar,2013,Rapid Response,3945,13-FPA-020,Health,Health,100,150099.0
 Myanmar,2013,Rapid Response,3953,13-WHO-026,Health,Health,100,150453.0
 Myanmar,2013,Underfunded Emergencies,4164,13-UF-CEF-114,Health,Health,100,99971.0
 Myanmar,2013,Underfunded Emergencies,4165,13-UF-CEF-115,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,550000.0
+Myanmar,2013,Rapid Response,3952,13-HCR-033,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2500000.0
 Pakistan,2013,Underfunded Emergencies,4071,13-UF-IOM-020,Protection,Protection,100,199983.0
 Pakistan,2013,Underfunded Emergencies,4072,13-UF-IOM-021,Shelter and Non-Food Items,Shelter and Non-Food Items,100,225000.0
 Pakistan,2013,Underfunded Emergencies,4073,13-UF-WFP-040,Food Assistance,Food Assistance,100,3599287.0
@@ -3385,6 +3382,9 @@ Pakistan,2013,Underfunded Emergencies,4067,13-UF-FPA-028,Health,Health,100,19993
 Pakistan,2013,Rapid Response,3997,13-HAB-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100000.0
 Pakistan,2013,Rapid Response,3998,13-HAB-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,399999.0
 Yemen,2013,Underfunded Emergencies,3874,13-CEF-043,Education,Education,100,894477.0
+Yemen,2013,Underfunded Emergencies,3889,13-UDP-006,Protection,Protection,100,2301225.0
+Yemen,2013,Underfunded Emergencies,3875,13-CEF-044,Nutrition,Nutrition,100,450001.0
+Yemen,2013,Underfunded Emergencies,3885,13-IOM-012,Nutrition,Nutrition,100,148715.0
 Marshall Islands,2013,Rapid Response,4017,13-IOM-018,Multi-Sector,Multi-Sector,100,1000000.0
 Afghanistan,2013,Underfunded Emergencies,3818,13-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000022.0
 Afghanistan,2013,Underfunded Emergencies,3820,13-CEF-029,Protection,Protection,100,516987.0
@@ -5186,13 +5186,13 @@ Myanmar,2016,Rapid Response,1961,16-RR-FPA-041,Health,Health,100,623195.0
 Myanmar,2016,Rapid Response,1962,16-RR-FPA-042,Protection,Protection,100,450010.0
 Myanmar,2016,Rapid Response,1964,16-RR-FAO-024,Agriculture,Agriculture,100,1000842.0
 Myanmar,2016,Rapid Response,1965,16-RR-WFP-060,Food Assistance,Food Assistance,100,1496410.0
+Lao People's Democratic Republic,2016,Rapid Response,1660,16-RR-FAO-006,Agriculture,Agriculture,100,328811.0
 Viet Nam,2016,Rapid Response,1790,16-RR-WOM-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,405151.0
 Viet Nam,2016,Rapid Response,1791,16-RR-UDP-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,784300.0
 Viet Nam,2016,Rapid Response,1792,16-RR-CEF-061,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,945008.0
 Viet Nam,2016,Rapid Response,1793,16-RR-CEF-062,Nutrition,Nutrition,100,542321.0
 Viet Nam,2016,Rapid Response,1794,16-RR-WHO-026,Health,Health,100,556079.0
 Viet Nam,2016,Rapid Response,1795,16-RR-FAO-016,Agriculture,Agriculture,100,665005.0
-Lao People's Democratic Republic,2016,Rapid Response,1660,16-RR-FAO-006,Agriculture,Agriculture,100,328811.0
 Jordan,2016,Rapid Response,2029,16-RR-IOM-039,Common Services,Common Services,100,600001.0
 Jordan,2016,Rapid Response,2030,16-RR-CEF-124,Health,Health,100,1000000.0
 Jordan,2016,Rapid Response,2031,16-RR-CEF-125,Nutrition,Nutrition,100,500018.0
@@ -7170,6 +7170,9 @@ occupied Palestinian territory,2021,Rapid Response,3870,21-RR-OPS-001,Protection
 Azerbaijan,2021,Rapid Response,3780,21-RR-HCR-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,700000.0
 Azerbaijan,2021,Rapid Response,3781,21-RR-UDP-001,Protection,Protection,100.0,700000.0
 Azerbaijan,2021,Rapid Response,3782,21-RR-WHO-001,Health,Health,0.0,0.0
+Myanmar,2021,Rapid Response,4014,21-RR-FPA-029,Health,Health,40.0,403424.0
+Myanmar,2021,Rapid Response,4014,21-RR-FPA-029,Protection,Protection,60.0,605136.0
+Myanmar,2021,Rapid Response,4015,21-RR-CEF-048,Health,Health,100.0,1800000.0
 Myanmar,2021,Rapid Response,4016,21-RR-WFP-036,Food Assistance,Food Assistance,100.0,3000000.0
 Nepal,2021,Rapid Response,3888,21-RR-WFP-017,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1864626.0
 Nepal,2021,Rapid Response,3889,21-RR-CEF-025,Multi-Purpose Cash,Multi-Purpose Cash,51.99996994785954,276852.0
