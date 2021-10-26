@@ -7201,6 +7201,7 @@ Afghanistan,2021,Underfunded Emergencies,3969,21-UF-WHO-028,"Water, Sanitation a
 Afghanistan,2021,Rapid Response,3987,21-RR-FAO-020,Agriculture,Agriculture,100.0,8000002.0,CERF
 Afghanistan,2021,Rapid Response,3988,21-RR-IOM-026,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,3500000.0,CERF
 Afghanistan,2021,Rapid Response,4005,21-RR-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,3727499.0,CERF
+Afghanistan,2021,Rapid Response,4006,21-RR-WFP-035,Common Services,Common Services,100.0,5000000.0,CERF
 Afghanistan,2021,Rapid Response,3997,21-RR-CEF-044,Health,Health,100.0,21924000.0,CERF
 Afghanistan,2021,Rapid Response,3998,21-RR-WHO-031,Health,Health,100.0,23076000.0,CERF
 Bangladesh,2021,Rapid Response,3811,21-RR-CEF-008,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1474920.0,CERF
@@ -7332,6 +7333,9 @@ Democratic Republic of the Congo,2021,Underfunded Emergencies,4018,21-UF-FAO-024
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4019,21-UF-IOM-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0,CERF
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4020,21-UF-FPA-030,Health,Health,49.000026344100185,911400.0,CERF
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4020,21-UF-FPA-030,Protection,Protection,50.99997365589981,948599.0,CERF
+Democratic Republic of the Congo,2021,Underfunded Emergencies,4021,21-UF-HCR-026,Shelter and Non-Food Items,Shelter and Non-Food Items,51.99999913050605,2392196.0,CERF
+Democratic Republic of the Congo,2021,Underfunded Emergencies,4021,21-UF-HCR-026,Protection,Protection,22.000001304240936,1012083.0,CERF
+Democratic Republic of the Congo,2021,Underfunded Emergencies,4021,21-UF-HCR-026,Multi-sector refugee assistance,Multi-sector refugee assistance,25.999999565253024,1196098.0,CERF
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4022,21-UF-CEF-049,Nutrition,Nutrition,37.99999887165276,2694206.0,CERF
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4022,21-UF-CEF-049,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",20.99999492243741,1488903.0,CERF
 Democratic Republic of the Congo,2021,Underfunded Emergencies,4022,21-UF-CEF-049,Protection,Protection,13.999996614958274,992602.0,CERF
@@ -9189,7 +9193,10 @@ DRC,2021,Reserve,20131,DRC-21/HCG10/RA3/NFI/NGO/20131,Emergency Shelter and NFI,
 DRC,2021,Reserve,20134,DRC-21/HCG10/RA3/NFI/UN/20134,Emergency Shelter and NFI,,100.0,1362843.86,CBPF
 DRC,2021,Reserve,20139,DRC-21/HCG10/RA3/NFI-PROT/INGO/20139,Emergency Shelter and NFI,,70.0,833000.0,CBPF
 DRC,2021,Reserve,20139,DRC-21/HCG10/RA3/NFI-PROT/INGO/20139,Protection,,30.0,357000.0,CBPF
+DRC,2021,Reserve,20138,DRC-21/HCG10/RA3/NUT-CP/INGO/20138,Nutrition,,54.0,248248.8,CBPF
+DRC,2021,Reserve,20138,DRC-21/HCG10/RA3/NUT-CP/INGO/20138,Protection,,46.0,211471.2,CBPF
 DRC,2021,Reserve,20113,DRC-21/HCG10/RA3/PROT/INGO/20113,Protection,,100.0,240000.0,CBPF
+DRC,2021,Reserve,20140,DRC-21/HCG10/RA3/WaSH/INGO/20140,Water Sanitation Hygiene,,100.0,500000.0,CBPF
 DRC,2021,Standard,18840,DRC-21/HCG10/SA1/CP/INGO/18840,Protection,,100.0,200000.0,CBPF
 DRC,2021,Standard,19397,DRC-21/HCG10/SA1/CP/NGO/19397,Protection,,100.0,249999.08,CBPF
 DRC,2021,Standard,19076,DRC-21/HCG10/SA1/CP-GBV/INGO/19076,Protection,,41.0,153749.9795,CBPF
