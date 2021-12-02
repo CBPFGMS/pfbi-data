@@ -5286,6 +5286,12 @@
         "shortName": " "
     },
     {
+        "id": "9589187.8404",
+        "orgType": "International NGO",
+        "fullName": "Conseil Norv\u00e9gien pour les R\u00e9fugi\u00e9s",
+        "shortName": " "
+    },
+    {
         "id": "9612112.0284",
         "orgType": "International NGO",
         "fullName": "International Rescue Committee",
@@ -5298,9 +5304,33 @@
         "shortName": " "
     },
     {
+        "id": "9641913.4728",
+        "orgType": "International NGO",
+        "fullName": "Mercy Corps",
+        "shortName": " "
+    },
+    {
         "id": "9568556.0712",
         "orgType": "International NGO",
         "fullName": "GOAL",
+        "shortName": " "
+    },
+    {
+        "id": "9621281.7036",
+        "orgType": "International NGO",
+        "fullName": "D\u00e9veloppement - Equit\u00e9 - Durabilit\u00e9 et Innovation",
+        "shortName": " "
+    },
+    {
+        "id": "9669422.4984",
+        "orgType": "International NGO",
+        "fullName": "Premi\u00e8re Urgence Internationale",
+        "shortName": " "
+    },
+    {
+        "id": "9731317.806",
+        "orgType": "International NGO",
+        "fullName": "Catholic Relief Services",
         "shortName": " "
     },
     {
@@ -5319,6 +5349,18 @@
         "id": "9628158.96",
         "orgType": "National NGO",
         "fullName": "Association pour le Secours aux Populations Vuln\u00e9rables",
+        "shortName": " "
+    },
+    {
+        "id": "9609819.6096",
+        "orgType": "International NGO",
+        "fullName": "Welt Hunger Hilfe",
+        "shortName": " "
+    },
+    {
+        "id": "9566263.6524",
+        "orgType": "International NGO",
+        "fullName": "Agence d'Aide \u00e0 la Coop\u00e9ration et au D\u00e9veloppement",
         "shortName": " "
     },
     {
