@@ -1229,6 +1229,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,5000.0,0.0,Armenia,AM,Member State,0,0,0,0,0,0
 2021,Member State,0.0,9009009.009,Finland,FI,Member State,0,0,0,0,0,0
 2021,Member State,0.0,345144.9608,Iceland,IS,Member State,0,0,0,0,0,0
+2021,Member State,0.0,4504504.5045,Italy,IT,Member State,0,0,0,0,0,0
 2021,Member State,0.0,4973474.801,Norway,NO,Member State,0,0,0,0,0,0
 2021,Member State,0.0,56306.3063,Slovenia,SI,Member State,0,0,0,0,0,0
 2021,Member State,4856571.55,0.0,Sweden,SE,Member State,0,0,0,0,0,0
@@ -1245,8 +1246,14 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,0.0,30000.0,Croatia,HR,Member State,0,0,0,0,0,0
 2022,Member State,0.0,76280102.8758,Sweden,SE,Member State,0,0,0,0,0,0
 2022,Member State,0.0,84779706.27489999,United Kingdom,GB,Member State,0,0,0,0,0,0
+2022,Member State,0.0,25000.0,Bangladesh,BD,Member State,0,0,0,0,0,0
+2022,Regional/ Local Authorities,0.0,675675.6756,Belgian Government of Flanders,XBGF,Regional/ Local Authorities,0,0,0,0,0,0
 2022,Member State,0.0,220070.4225,Czech Republic,CZ,Member State,0,0,0,0,0,0
 2022,Member State,0.0,9009009.009,Finland,FI,Member State,0,0,0,0,0,0
+2022,Member State,0.0,11261261.2612,Italy,IT,Member State,0,0,0,0,0,0
+2022,CERF,0.0,500.0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,0,0,0,0,0,0
+2022,Member State,0.0,10000.0,Mongolia,MN,Member State,0,0,0,0,0,0
+2022,Member State,0.0,240384.6153,Poland,PL,Member State,0,0,0,0,0,0
 2023,Member State,0.0,60827250.6082,Germany,DE,Member State,0,0,0,0,0,0
 2023,Member State,0.0,394913.5139,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,0.0,23241106.7193,Canada,CA,Member State,0,0,0,0,0,0
