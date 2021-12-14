@@ -1204,7 +1204,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
 2021,Member State,100000.0,0.0,Turkmenistan,TM,Member State,0,0,0,0,0,0
 2021,Member State,450000.0,0.0,China,CN,Member State,0,0,0,0,0,0
-2021,Member State,0.0,1126126.1261,Ireland,IE,Member State,0,0,0,0,0,0
+2021,Member State,1122580.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2021,Private Contributions,78635.63,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2021,Member State,12081979.92,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2021,Member State,0.0,25000.0,Bangladesh,BD,Member State,0,0,0,0,0,0
@@ -1244,6 +1244,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,181995.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
 2022,Member State,33675.0,0.0,Bulgaria,BG,Member State,0,0,0,0,0,0
 2022,Member State,0.0,30000.0,Croatia,HR,Member State,0,0,0,0,0,0
+2022,Member State,202230.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2022,Member State,0.0,76280102.8758,Sweden,SE,Member State,0,0,0,0,0,0
 2022,Member State,0.0,84779706.27489999,United Kingdom,GB,Member State,0,0,0,0,0,0
 2022,Member State,0.0,25000.0,Bangladesh,BD,Member State,0,0,0,0,0,0
@@ -1251,6 +1252,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,0.0,220070.4225,Czech Republic,CZ,Member State,0,0,0,0,0,0
 2022,Member State,0.0,9009009.009,Finland,FI,Member State,0,0,0,0,0,0
 2022,Member State,0.0,11261261.2612,Italy,IT,Member State,0,0,0,0,0,0
+2022,Member State,0.0,6000000.0,Korea,KR,Member State,0,0,0,0,0,0
 2022,CERF,0.0,500.0,Kyrgyzstan,Kyrgyzstan,Kyrgyzstan,0,0,0,0,0,0
 2022,Member State,0.0,10000.0,Mongolia,MN,Member State,0,0,0,0,0,0
 2022,Member State,0.0,240384.6153,Poland,PL,Member State,0,0,0,0,0,0
