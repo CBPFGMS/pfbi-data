@@ -145,8 +145,8 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2010,183,87,6100000,0
 2010,183,105,792393,0
 2010,188,45,130000,0
-2010,Private donations (through UNF),45,187766,0
-2010,Private donations (through UNF),74,121053,0
+2010,200,45,187766,0
+2010,200,74,121053,0
 2011,13,27,4268000,0
 2011,13,80,4062400,0
 2011,13,87,3098400,0
@@ -204,8 +204,8 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2011,183,80,78255000,0
 2011,183,87,32648522,0
 2011,183,105,2438729,0
-2011,Private donations (through UNF),36,93,0
-2011,Private donations (through UNF),74,26493,0
+2011,200,36,93,0
+2011,200,74,26493,0
 2012,13,67,1047200,0
 2012,13,80,2121600,0
 2012,13,87,9154900,0
@@ -264,7 +264,7 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2012,183,87,25086400,0
 2012,183,88,49695300,0
 2012,183,105,3466108,0
-2012,Private donations (through UNF),45,302,0
+2012,200,45,302,0
 2013,3,87,1999978,0
 2013,13,27,2049400,0
 2013,13,87,3689200,0
@@ -328,7 +328,7 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2013,183,87,28977300,0
 2013,183,88,77014064,0
 2013,183,105,3826632,0
-2013,Private donations (through UNF),45,200,0
+2013,200,45,200,0
 2014,13,1,371040,0
 2014,13,67,1881400,0
 2014,13,87,4383984,0
@@ -427,7 +427,7 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2014,183,105,7913519,0
 2014,183,108,5329153,0
 2014,185,1,1087230,0
-2014,Private donations (through UNF),36,4108,0
+2014,200,36,4108,0
 2015,13,1,6143577,0
 2015,13,67,1127385,0
 2015,13,87,3594485,0
@@ -842,16 +842,16 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2017,183,108,12911603,0
 2017,184,36,29500000,0
 2017,184,105,5000000,0
-2017,Private donations (through UNF),22,470,0
-2017,Private donations (through UNF),36,950,0
-2017,Private donations (through UNF),49,258,0
-2017,Private donations (through UNF),55,78,0
-2017,Private donations (through UNF),67,2213,0
-2017,Private donations (through UNF),72,7751,0
-2017,Private donations (through UNF),73,4287,0
-2017,Private donations (through UNF),74,887,0
-2017,Private donations (through UNF),91,98421,0
-2017,Private donations (through UNF),105,86532,0
+2017,200,22,470,0
+2017,200,36,950,0
+2017,200,49,258,0
+2017,200,55,78,0
+2017,200,67,2213,0
+2017,200,72,7751,0
+2017,200,73,4287,0
+2017,200,74,887,0
+2017,200,91,98421,0
+2017,200,105,86532,0
 2018,9,105,5636,0
 2018,13,1,764291,0
 2018,13,67,2287436,0
@@ -1033,12 +1033,12 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2018,184,49,10000000,0
 2018,184,67,4250000,0
 2018,184,105,5000000,0
-2018,Private donations (through UNF),1,2339,0
-2018,Private donations (through UNF),18,10823,0
-2018,Private donations (through UNF),27,887,0
-2018,Private donations (through UNF),80,3491,0
-2018,Private donations (through UNF),87,100158,0
-2018,Private donations (through UNF),88,142709,0
+2018,200,1,2339,0
+2018,200,18,10823,0
+2018,200,27,887,0
+2018,200,80,3491,0
+2018,200,87,100158,0
+2018,200,88,142709,0
 2019,13,1,3593985,0
 2019,13,67,3538018,0
 2019,13,87,5289228,0
@@ -1451,23 +1451,23 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2020,183,108,33638847,0
 2020,184,36,8000000,0
 2020,184,67,2000000,0
-2020,Private donations (through UNF),1,3090,0
-2020,Private donations (through UNF),18,3332,0
-2020,Private donations (through UNF),27,20813,0
-2020,Private donations (through UNF),36,9156,0
-2020,Private donations (through UNF),49,9647,0
-2020,Private donations (through UNF),51,97,0
-2020,Private donations (through UNF),55,312,0
-2020,Private donations (through UNF),67,39452,0
-2020,Private donations (through UNF),72,6898,0
-2020,Private donations (through UNF),73,3460,0
-2020,Private donations (through UNF),80,2913,0
-2020,Private donations (through UNF),87,23134,0
-2020,Private donations (through UNF),88,17899,0
-2020,Private donations (through UNF),91,23973,0
-2020,Private donations (through UNF),98,253,0
-2020,Private donations (through UNF),105,212887,0
-2020,Private donations (through UNF),108,180,0
+2020,200,1,3090,0
+2020,200,18,3332,0
+2020,200,27,20813,0
+2020,200,36,9156,0
+2020,200,49,9647,0
+2020,200,51,97,0
+2020,200,55,312,0
+2020,200,67,39452,0
+2020,200,72,6898,0
+2020,200,73,3460,0
+2020,200,80,2913,0
+2020,200,87,23134,0
+2020,200,88,17899,0
+2020,200,91,23973,0
+2020,200,98,253,0
+2020,200,105,212887,0
+2020,200,108,180,0
 2021,4,91,0,150000
 2021,4,105,0,150000
 2021,13,1,1572815,0
@@ -1697,24 +1697,24 @@ contributionYear,donorId,fundId,paidAmount,pledgedAmount
 2021,184,80,7610000,0
 2021,184,98,1000000,0
 2021,184,105,5801104,0
-2021,Private donations (through UNF),1,143760,0
-2021,Private donations (through UNF),18,1431,0
-2021,Private donations (through UNF),27,13991,0
-2021,Private donations (through UNF),36,3775,0
-2021,Private donations (through UNF),49,3188,0
-2021,Private donations (through UNF),51,149,0
-2021,Private donations (through UNF),55,33199,0
-2021,Private donations (through UNF),67,6654,0
-2021,Private donations (through UNF),72,4372,0
-2021,Private donations (through UNF),73,9262,0
-2021,Private donations (through UNF),74,24,0
-2021,Private donations (through UNF),80,11340,0
-2021,Private donations (through UNF),87,5222,0
-2021,Private donations (through UNF),88,8882,0
-2021,Private donations (through UNF),91,10885,0
-2021,Private donations (through UNF),98,2080,0
-2021,Private donations (through UNF),105,153652,0
-2021,Private donations (through UNF),108,2593,0
+2021,200,1,143760,0
+2021,200,18,1431,0
+2021,200,27,13991,0
+2021,200,36,3775,0
+2021,200,49,3188,0
+2021,200,51,149,0
+2021,200,55,33199,0
+2021,200,67,6654,0
+2021,200,72,4372,0
+2021,200,73,9262,0
+2021,200,74,24,0
+2021,200,80,11340,0
+2021,200,87,5222,0
+2021,200,88,8882,0
+2021,200,91,10885,0
+2021,200,98,2080,0
+2021,200,105,153652,0
+2021,200,108,2593,0
 2022,13,1,3287995,0
 2022,13,67,3865829,0
 2022,22,27,0,10290556

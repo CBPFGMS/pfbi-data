@@ -1210,5 +1210,12 @@
     "donorName": "Private donations (through UNF)",
     "donorType": "Private Contributions through UNF",
     "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 201,
+    "donorName": "Kyrgyzstan",
+    "donorType": "Member State",
+    "donorISO2Code": "KG"
   }
 ]
