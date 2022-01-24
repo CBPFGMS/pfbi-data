@@ -1,11 +1,5 @@
 [
     {
-        "id": "5",
-        "orgType": "UN Agency",
-        "fullName": "Food and Agriculture Organization",
-        "shortName": "FAO"
-    },
-    {
         "id": "3",
         "orgType": "UN Agency",
         "fullName": "World Health Organization",
@@ -18,22 +12,28 @@
         "shortName": "UNHCR"
     },
     {
+        "id": "5",
+        "orgType": "UN Agency",
+        "fullName": "Food and Agriculture Organization",
+        "shortName": "FAO"
+    },
+    {
         "id": "4",
         "orgType": "UN Agency",
         "fullName": "United Nations Children\u2019s Fund",
         "shortName": "UNICEF"
     },
     {
-        "id": "2",
-        "orgType": "UN Agency",
-        "fullName": "World Food Programme",
-        "shortName": "WFP"
-    },
-    {
         "id": "1",
         "orgType": "UN Agency",
         "fullName": "United Nations Development Programme",
         "shortName": "UNDP"
+    },
+    {
+        "id": "2",
+        "orgType": "UN Agency",
+        "fullName": "World Food Programme",
+        "shortName": "WFP"
     },
     {
         "id": "6",

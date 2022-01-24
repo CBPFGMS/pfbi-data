@@ -1273,7 +1273,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,48741.26,192307.6923,Poland,PL,Member State,0,0,0,0,0,0
 2022,Member State,28267.5,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2022,Member State,3500000.0,0.0,Russian Federation,RU,Member State,0,0,0,0,0,0
-2022,Member State,0.0,100000.0,Turkmenistan,TM,Member State,0,0,0,0,0,0
+2022,Member State,100000.0,0.0,Turkmenistan,TM,Member State,0,0,0,0,0,0
 2023,Member State,0.0,60827250.6082,Germany,DE,Member State,0,0,0,0,0,0
 2023,Member State,0.0,394913.5139,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,0.0,23241106.7193,Canada,CA,Member State,0,0,0,0,0,0
