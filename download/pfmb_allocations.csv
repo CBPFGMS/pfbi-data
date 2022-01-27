@@ -11607,6 +11607,8 @@ Iraq,2020,Standard,16290,IRQ-20/3884/SA1/WASH/INGO/16290,Water Sanitation Hygien
 Iraq,2021,Reserve,20924,IRQ-21/3884/RA1/CASH/INGO/20924,Multi-Sector,Child Protection,100.0,899999.99,CBPF
 Iraq,2021,Reserve,20961,IRQ-21/3884/RA1/H/NGO/20961,Health,,100.0,1867887.66,CBPF
 Iraq,2021,Reserve,20887,IRQ-21/3884/RA1/P/INGO/20887,Protection,,100.0,950000.0,CBPF
+Iraq,2021,Reserve,20897,IRQ-21/3884/RA1/P/INGO/20897,Protection,,100.0,452749.7,CBPF
+Iraq,2021,Reserve,20895,IRQ-21/3884/RA1/WASH/INGO/20895,Water Sanitation Hygiene,Social Cohesion,100.0,600000.63,CBPF
 Iraq,2021,Standard,18537,IRQ-21/3884/SA1/EL/INGO/18537,Early Recovery,Basic Assistance,100.0,675000.0,CBPF
 Iraq,2021,Standard,18554,IRQ-21/3884/SA1/EL/INGO/18554,Early Recovery,Basic Assistance,100.0,825000.0,CBPF
 Iraq,2021,Standard,18544,IRQ-21/3884/SA1/F/INGO/18544,Food Security,,100.0,794999.01,CBPF
@@ -19652,12 +19654,16 @@ Syria Cross border,2021,Standard,18383,TUR-21/3559/SA1/WASH-NFI/NGO/18383,Emerge
 Syria Cross border,2021,Standard,18383,TUR-21/3559/SA1/WASH-NFI/NGO/18383,Water Sanitation Hygiene,,95.0,1261906.185,CBPF
 Syria Cross border,2021,Standard,18366,TUR-21/3559/SA1/WASH-P/INGO/18366,Protection,,30.0,296210.7,CBPF
 Syria Cross border,2021,Standard,18366,TUR-21/3559/SA1/WASH-P/INGO/18366,Water Sanitation Hygiene,,70.0,691158.3,CBPF
+Syria Cross border,2021,Standard,20691,TUR-21/3559/SA2/ER-FS/INGO/20691,Early Recovery,Aging and Disability,30.0,401424.687,CBPF
+Syria Cross border,2021,Standard,20691,TUR-21/3559/SA2/ER-FS/INGO/20691,Food Security,,70.0,936657.603,CBPF
 Syria Cross border,2021,Standard,20581,TUR-21/3559/SA2/ER-FS/NGO/20581,Early Recovery,Aging and Disability,21.28,136674.411216,CBPF
 Syria Cross border,2021,Standard,20581,TUR-21/3559/SA2/ER-FS/NGO/20581,Food Security,,78.72,505592.558784,CBPF
 Syria Cross border,2021,Standard,20640,TUR-21/3559/SA2/ER-FS-E-P/UN/20640,Early Recovery,Aging and Disability,45.0,992598.903,CBPF
 Syria Cross border,2021,Standard,20640,TUR-21/3559/SA2/ER-FS-E-P/UN/20640,Education,Basic Assistance,15.0,330866.301,CBPF
 Syria Cross border,2021,Standard,20640,TUR-21/3559/SA2/ER-FS-E-P/UN/20640,Food Security,,35.0,772021.369,CBPF
 Syria Cross border,2021,Standard,20640,TUR-21/3559/SA2/ER-FS-E-P/UN/20640,Protection,,5.0,110288.767,CBPF
+Syria Cross border,2021,Standard,20730,TUR-21/3559/SA2/ER-P/NGO/20730,Early Recovery,Aging and Disability,80.0,206741.12,CBPF
+Syria Cross border,2021,Standard,20730,TUR-21/3559/SA2/ER-P/NGO/20730,Protection,,20.0,51685.28,CBPF
 Syria Cross border,2021,Standard,20611,TUR-21/3559/SA2/ER-WASH/NGO/20611,Early Recovery,Aging and Disability,70.0,438458.685,CBPF
 Syria Cross border,2021,Standard,20611,TUR-21/3559/SA2/ER-WASH/NGO/20611,Water Sanitation Hygiene,,30.0,187910.865,CBPF
 Syria Cross border,2021,Standard,20566,TUR-21/3559/SA2/FS/NGO/20566,Food Security,,100.0,511071.48,CBPF
@@ -19670,8 +19676,12 @@ Syria Cross border,2021,Standard,20556,TUR-21/3559/SA2/H/NGO/20556,Health,,100.0
 Syria Cross border,2021,Standard,20847,TUR-21/3559/SA2/H/NGO/20847,Health,,100.0,772725.52,CBPF
 Syria Cross border,2021,Standard,20729,TUR-21/3559/SA2/NFI/INGO/20729,Emergency Shelter and NFI,,100.0,1499042.18,CBPF
 Syria Cross border,2021,Standard,20752,TUR-21/3559/SA2/NFI/NGO/20752,Emergency Shelter and NFI,,100.0,692346.38,CBPF
+Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Early Recovery,Aging and Disability,18.0,250115.5512,CBPF
+Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Emergency Shelter and NFI,,72.0,1000462.2048,CBPF
+Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Water Sanitation Hygiene,,10.0,138953.084,CBPF
 Syria Cross border,2021,Standard,20544,TUR-21/3559/SA2/WASH/NGO/20544,Water Sanitation Hygiene,,100.0,318317.51,CBPF
 Syria Cross border,2021,Standard,20569,TUR-21/3559/SA2/WASH/NGO/20569,Water Sanitation Hygiene,,100.0,345480.53,CBPF
+Syria Cross border,2021,Standard,20706,TUR-21/3559/SA2/WASH/NGO/20706,Water Sanitation Hygiene,,100.0,958026.65,CBPF
 Syria Cross border,2021,Standard,20743,TUR-21/3559/SA2/WASH/NGO/20743,Water Sanitation Hygiene,,100.0,708747.67,CBPF
 Syria Cross border,2021,Standard,20848,TUR-21/3559/SA2/WASH/NGO/20848,Water Sanitation Hygiene,,100.0,770866.97,CBPF
 Ukraine,2019,Standard,13624,UKR-19/UKR_CBPF/SA1/FSL/NGO/13624,Food Security,,100.0,208896.41,CBPF
