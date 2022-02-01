@@ -5292,6 +5292,18 @@
         "shortName": " "
     },
     {
+        "id": "1410054.9948",
+        "orgType": "National NGO",
+        "fullName": "Swe Tha Har",
+        "shortName": " "
+    },
+    {
+        "id": "180409.9581",
+        "orgType": "National NGO",
+        "fullName": "Wunpawng Ninghtoi",
+        "shortName": " "
+    },
+    {
         "id": "2812410.72",
         "orgType": "International NGO",
         "fullName": "Coop\u00e9ration Internationale",
@@ -11901,6 +11913,12 @@
         "id": "1658249.6256",
         "orgType": "UN Agency",
         "fullName": "United Nations Children's Fund",
+        "shortName": " "
+    },
+    {
+        "id": "1685177.3952",
+        "orgType": "International NGO",
+        "fullName": "Danish Refugee Council",
         "shortName": " "
     },
     {
