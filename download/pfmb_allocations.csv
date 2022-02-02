@@ -11623,10 +11623,12 @@ Iraq,2020,Standard,16290,IRQ-20/3884/SA1/WASH/INGO/16290,Water Sanitation Hygien
 Iraq,2021,Reserve,20924,IRQ-21/3884/RA1/CASH/INGO/20924,Multi-Sector,Child Protection,100.0,899999.99,CBPF
 Iraq,2021,Reserve,20880,IRQ-21/3884/RA1/H/INGO/20880,Health,,100.0,787500.0,CBPF
 Iraq,2021,Reserve,20961,IRQ-21/3884/RA1/H/NGO/20961,Health,,100.0,1867887.66,CBPF
+Iraq,2021,Reserve,20872,IRQ-21/3884/RA1/P/INGO/20872,Protection,,100.0,1261887.22,CBPF
 Iraq,2021,Reserve,20887,IRQ-21/3884/RA1/P/INGO/20887,Protection,,100.0,950000.0,CBPF
 Iraq,2021,Reserve,20897,IRQ-21/3884/RA1/P/INGO/20897,Protection,,100.0,452749.7,CBPF
 Iraq,2021,Reserve,20881,IRQ-21/3884/RA1/WASH/INGO/20881,Water Sanitation Hygiene,Social Cohesion,100.0,1350000.0,CBPF
 Iraq,2021,Reserve,20895,IRQ-21/3884/RA1/WASH/INGO/20895,Water Sanitation Hygiene,Social Cohesion,100.0,600000.63,CBPF
+Iraq,2021,Reserve,20960,IRQ-21/3884/RA1/WASH/INGO/20960,Water Sanitation Hygiene,Social Cohesion,100.0,400000.4,CBPF
 Iraq,2021,Standard,18537,IRQ-21/3884/SA1/EL/INGO/18537,Early Recovery,Basic Assistance,100.0,675000.0,CBPF
 Iraq,2021,Standard,18554,IRQ-21/3884/SA1/EL/INGO/18554,Early Recovery,Basic Assistance,100.0,825000.0,CBPF
 Iraq,2021,Standard,18544,IRQ-21/3884/SA1/F/INGO/18544,Food Security,,100.0,794999.01,CBPF
@@ -20886,12 +20888,21 @@ Yemen,2021,Reserve,21138,YEM-21/3420/RA4/Protection-Health/NGO/21138,Protection,
 Yemen,2021,Reserve,21153,YEM-21/3420/RA4/WASH-Education/NGO/21153,Education,Non-food Items,40.0,544400.0,CBPF
 Yemen,2021,Reserve,21153,YEM-21/3420/RA4/WASH-Education/NGO/21153,Water Sanitation Hygiene,Gender-based Violence (GBV),60.0,816600.0,CBPF
 Yemen,2021,Standard,20717,YEM-21/3420/SA 2/CCM/NGO/20717,Camp Coordination / Management,Gender Based Violence (GBV),100.0,242531.55,CBPF
+Yemen,2021,Standard,20527,YEM-21/3420/SA 2/CCM-Health-Protection-WASH/UN/20527,Camp Coordination / Management,Gender Based Violence (GBV),24.0,912720.0072,CBPF
+Yemen,2021,Standard,20527,YEM-21/3420/SA 2/CCM-Health-Protection-WASH/UN/20527,Health,Child protection,18.0,684540.0054,CBPF
+Yemen,2021,Standard,20527,YEM-21/3420/SA 2/CCM-Health-Protection-WASH/UN/20527,Protection,Livelihood,17.0,646510.0051,CBPF
+Yemen,2021,Standard,20527,YEM-21/3420/SA 2/CCM-Health-Protection-WASH/UN/20527,Water Sanitation Hygiene,Gender-based Violence (GBV),41.0,1559230.0123,CBPF
 Yemen,2021,Standard,20539,YEM-21/3420/SA 2/CCM-Health-SHNFI-WASH/INGO/20539,Camp Coordination / Management,Gender Based Violence (GBV),24.0,302230.164,CBPF
 Yemen,2021,Standard,20539,YEM-21/3420/SA 2/CCM-Health-SHNFI-WASH/INGO/20539,Emergency Shelter and NFI,,32.0,402973.552,CBPF
 Yemen,2021,Standard,20539,YEM-21/3420/SA 2/CCM-Health-SHNFI-WASH/INGO/20539,Health,Child protection,27.0,340008.9345,CBPF
 Yemen,2021,Standard,20539,YEM-21/3420/SA 2/CCM-Health-SHNFI-WASH/INGO/20539,Water Sanitation Hygiene,Gender-based Violence (GBV),17.0,214079.6995,CBPF
 Yemen,2021,Standard,20657,YEM-21/3420/SA 2/CCM-SHNFI/NGO/20657,Camp Coordination / Management,Gender Based Violence (GBV),21.0,66338.2251,CBPF
 Yemen,2021,Standard,20657,YEM-21/3420/SA 2/CCM-SHNFI/NGO/20657,Emergency Shelter and NFI,,79.0,249558.0849,CBPF
+Yemen,2021,Standard,20530,YEM-21/3420/SA 2/CCM-WASH-SHNFI-Protection-Education/INGO/20530,Camp Coordination / Management,Gender Based Violence (GBV),15.6,1135880.81412,CBPF
+Yemen,2021,Standard,20530,YEM-21/3420/SA 2/CCM-WASH-SHNFI-Protection-Education/INGO/20530,Education,Non-food Items,10.6,771816.45062,CBPF
+Yemen,2021,Standard,20530,YEM-21/3420/SA 2/CCM-WASH-SHNFI-Protection-Education/INGO/20530,Emergency Shelter and NFI,,32.1,2337293.21367,CBPF
+Yemen,2021,Standard,20530,YEM-21/3420/SA 2/CCM-WASH-SHNFI-Protection-Education/INGO/20530,Protection,Livelihood,12.6,917442.19602,CBPF
+Yemen,2021,Standard,20530,YEM-21/3420/SA 2/CCM-WASH-SHNFI-Protection-Education/INGO/20530,Water Sanitation Hygiene,Gender-based Violence (GBV),29.1,2118854.59557,CBPF
 Yemen,2021,Standard,20529,YEM-21/3420/SA 2/Education/NGO/20529,Education,Non-food Items,100.0,179532.95,CBPF
 Yemen,2021,Standard,20666,YEM-21/3420/SA 2/Education/NGO/20666,Education,Non-food Items,100.0,199579.5,CBPF
 Yemen,2021,Standard,20637,YEM-21/3420/SA 2/Education-Protection/NGO/20637,Education,Non-food Items,99.1,431162.77368,CBPF
@@ -20918,6 +20929,13 @@ Yemen,2021,Standard,20542,YEM-21/3420/SA 2/Health-Nutrition-SHNFI-WASH/O/20542,N
 Yemen,2021,Standard,20542,YEM-21/3420/SA 2/Health-Nutrition-SHNFI-WASH/O/20542,Water Sanitation Hygiene,Gender-based Violence (GBV),20.0,399725.892,CBPF
 Yemen,2021,Standard,20617,YEM-21/3420/SA 2/Health-Protection/NGO/20617,Health,Child protection,50.0,124950.525,CBPF
 Yemen,2021,Standard,20617,YEM-21/3420/SA 2/Health-Protection/NGO/20617,Protection,Livelihood,50.0,124950.525,CBPF
+Yemen,2021,Standard,20594,YEM-21/3420/SA 2/Health-WASH-Education/NGO/20594,Education,Non-food Items,10.0,57491.357,CBPF
+Yemen,2021,Standard,20594,YEM-21/3420/SA 2/Health-WASH-Education/NGO/20594,Health,Child protection,40.0,229965.428,CBPF
+Yemen,2021,Standard,20594,YEM-21/3420/SA 2/Health-WASH-Education/NGO/20594,Water Sanitation Hygiene,Gender-based Violence (GBV),50.0,287456.785,CBPF
+Yemen,2021,Standard,20665,YEM-21/3420/SA 2/Health-WASH-Education-SHNFI/NGO/20665,Education,Non-food Items,10.0,124275.279,CBPF
+Yemen,2021,Standard,20665,YEM-21/3420/SA 2/Health-WASH-Education-SHNFI/NGO/20665,Emergency Shelter and NFI,,20.0,248550.558,CBPF
+Yemen,2021,Standard,20665,YEM-21/3420/SA 2/Health-WASH-Education-SHNFI/NGO/20665,Health,Child protection,40.0,497101.116,CBPF
+Yemen,2021,Standard,20665,YEM-21/3420/SA 2/Health-WASH-Education-SHNFI/NGO/20665,Water Sanitation Hygiene,Gender-based Violence (GBV),30.0,372825.837,CBPF
 Yemen,2021,Standard,20551,YEM-21/3420/SA 2/Protection/INGO/20551,Protection,Livelihood,100.0,579308.15,CBPF
 Yemen,2021,Standard,20740,YEM-21/3420/SA 2/Protection/INGO/20740,Protection,Livelihood,100.0,1540000.0,CBPF
 Yemen,2021,Standard,20690,YEM-21/3420/SA 2/RRM/UN/20690,Multi-Sector,,100.0,499904.0,CBPF
@@ -20938,6 +20956,9 @@ Yemen,2021,Standard,20533,YEM-21/3420/SA 2/WASH-FSAC/INGO/20533,Water Sanitation
 Yemen,2021,Standard,20677,YEM-21/3420/SA 2/WASH-FSAC-Protection/INGO/20677,Food Security,Gender Based Violence,40.0,799781.72,CBPF
 Yemen,2021,Standard,20677,YEM-21/3420/SA 2/WASH-FSAC-Protection/INGO/20677,Protection,Livelihood,10.0,199945.43,CBPF
 Yemen,2021,Standard,20677,YEM-21/3420/SA 2/WASH-FSAC-Protection/INGO/20677,Water Sanitation Hygiene,Gender-based Violence (GBV),50.0,999727.15,CBPF
+Yemen,2021,Standard,20620,YEM-21/3420/SA 2/WASH-Health-Protection/NGO/20620,Health,Child protection,30.0,224999.703,CBPF
+Yemen,2021,Standard,20620,YEM-21/3420/SA 2/WASH-Health-Protection/NGO/20620,Protection,Livelihood,25.0,187499.7525,CBPF
+Yemen,2021,Standard,20620,YEM-21/3420/SA 2/WASH-Health-Protection/NGO/20620,Water Sanitation Hygiene,Gender-based Violence (GBV),45.0,337499.5545,CBPF
 Yemen,2021,Standard,19406,YEM-21/3420/SA1/CCM/NGO/19406,Camp Coordination / Management,Gender Based Violence (GBV),100.0,473727.18,CBPF
 Yemen,2021,Standard,19251,YEM-21/3420/SA1/CCM/UN/19251,Camp Coordination / Management,Gender Based Violence (GBV),100.0,849999.79,CBPF
 Yemen,2021,Standard,19350,YEM-21/3420/SA1/CCM-FSAC-Protection-SHNFI/INGO/19350,Camp Coordination / Management,Gender Based Violence (GBV),23.0,775819.0858,CBPF
