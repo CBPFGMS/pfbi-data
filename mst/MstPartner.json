@@ -5760,6 +5760,12 @@
         "shortName": " "
     },
     {
+        "id": "2212513.3875",
+        "orgType": "International NGO",
+        "fullName": "Translators Without Borders",
+        "shortName": " "
+    },
+    {
         "id": "915930.075",
         "orgType": "National NGO",
         "fullName": "GRASSROOT LIFE SAVING OUTREACH",
@@ -5781,12 +5787,6 @@
         "id": "2215734.7125",
         "orgType": "National NGO",
         "fullName": "Yobe Peace and Community Development Initiative",
-        "shortName": " "
-    },
-    {
-        "id": "2212513.3875",
-        "orgType": "International NGO",
-        "fullName": "Translators Without Borders",
         "shortName": " "
     },
     {
@@ -11815,6 +11815,12 @@
     },
     {
         "id": "731925.46",
+        "orgType": "National NGO",
+        "fullName": "National NGO",
+        "shortName": " "
+    },
+    {
+        "id": "851184.88",
         "orgType": "National NGO",
         "fullName": "National NGO",
         "shortName": " "
