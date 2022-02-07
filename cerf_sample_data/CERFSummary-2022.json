@@ -2,9 +2,9 @@
     "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
     "donors": 34,
     "funds": 34,
-    "contribTotalAmt": 389250228,
-    "contribPaidAmt": 64765687,
-    "contribPledgedAmt": 324484541,
+    "contribTotalAmt": 389133308.4031,
+    "contribPaidAmt": 64765686.99000001,
+    "contribPledgedAmt": 324367621.4131,
     "allocAmt": 44646259,
     "underApprovalAmt": "0",
     "year": "2022",
@@ -25,9 +25,7 @@
         },
         {
             "partnerType": "UN Agency",
-            "partnersFunded": 44646259 
+            "partnersFunded": 44646259
         }
     ]
 }
-
-
