@@ -7383,12 +7383,6 @@ Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,Nutrition,Nutrition,42.
 Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",57.99999999999999,696000.0,CERF
 Equatorial Guinea,2021,Rapid Response,3809,21-RR-WFP-004,Common Services,Common Services,100.0,599984.0,CERF
 Equatorial Guinea,2021,Rapid Response,3810,21-RR-FPA-004,Protection,Protection,100.0,394480.0,CERF
-South Sudan,2021,Underfunded Emergencies,3925,21-UF-IOM-017,Protection,Protection,100.0,1500000.0,CERF
-South Sudan,2021,Underfunded Emergencies,3926,21-UF-HCR-016,Protection,Protection,100.0,3999937.0,CERF
-South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Education,Education,77.00000688014266,3805154.0,CERF
-South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Protection,Protection,22.999993119857347,1136604.0,CERF
-South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Health,Health,39.99998000026,800010.0,CERF
-South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Protection,Protection,60.000019999740005,1200016.0,CERF
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,Camp Coordination and Camp Management,Camp Coordination and Camp Management,13.0,377000.0,CERF
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",49.0,1421000.0,CERF
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,38.0,1102000.0,CERF
@@ -7398,6 +7392,12 @@ South Sudan,2021,Rapid Response,4050,21-RR-CEF-056,Protection,Protection,17.0000
 South Sudan,2021,Rapid Response,4051,21-RR-WFP-039,Food Assistance,Food Assistance,81.0,4195800.0,CERF
 South Sudan,2021,Rapid Response,4051,21-RR-WFP-039,Common Services,Common Services,19.0,984200.0,CERF
 South Sudan,2021,Rapid Response,4052,21-RR-WHO-039,Health,Health,100.0,2080000.0,CERF
+South Sudan,2021,Underfunded Emergencies,3925,21-UF-IOM-017,Protection,Protection,100.0,1500000.0,CERF
+South Sudan,2021,Underfunded Emergencies,3926,21-UF-HCR-016,Protection,Protection,100.0,3999937.0,CERF
+South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Education,Education,77.00000688014266,3805154.0,CERF
+South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Protection,Protection,22.999993119857347,1136604.0,CERF
+South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Health,Health,39.99998000026,800010.0,CERF
+South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Protection,Protection,60.000019999740005,1200016.0,CERF
 South Sudan,2021,Rapid Response,3766,20-RR-WFP-054,Food Assistance,Food Assistance,100.0,7000000.0,CERF
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Nutrition,Nutrition,9.999997777778272,450000.0,CERF
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Protection,Protection,7.999998222222618,360000.0,CERF
@@ -7570,6 +7570,9 @@ Mali,2022,Rapid Response,4081,22-RR-FAO-002,Agriculture,Agriculture,100.0,249999
 Mali,2022,Rapid Response,4082,22-RR-CEF-003,Nutrition,Nutrition,100.0,2999993.0,CERF
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Food Assistance,Food Assistance,55.00000000000001,2475000.0,CERF
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Nutrition,Nutrition,45.0,2025000.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0,CERF
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Shelter and Non-Food Items,Shelter and Non-Food Items,60.999995000024995,1830009.0,CERF
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Camp Coordination and Camp Management,Camp Coordination and Camp Management,39.000004999975005,1170006.0,CERF
 Philippines,2022,Rapid Response,4065,21-RR-FPA-035,Protection,Protection,77.00000853039185,1985841.0,CERF
@@ -12551,6 +12554,10 @@ Myanmar,2021,Standard,18662,MM-21/DDA-3415/SA1/WASH-SNFI-P-N-FS/INGO/18662,Nutri
 Myanmar,2021,Standard,18662,MM-21/DDA-3415/SA1/WASH-SNFI-P-N-FS/INGO/18662,Protection,,8.5,85000.0,CBPF
 Myanmar,2021,Standard,18662,MM-21/DDA-3415/SA1/WASH-SNFI-P-N-FS/INGO/18662,Water Sanitation Hygiene,,53.0,530000.0,CBPF
 Myanmar,2021,Standard,20819,MM-21/DDA-3415/SA2/E/NGO/20819,Education,,100.0,202999.64,CBPF
+Myanmar,2021,Standard,20764,MM-21/DDA-3415/SA2/E-P-SNFI-WASH/INGO/20764,Education,,28.0,116028.1416,CBPF
+Myanmar,2021,Standard,20764,MM-21/DDA-3415/SA2/E-P-SNFI-WASH/INGO/20764,Emergency Shelter and NFI,,14.0,58014.0708,CBPF
+Myanmar,2021,Standard,20764,MM-21/DDA-3415/SA2/E-P-SNFI-WASH/INGO/20764,Protection,,46.0,190617.6612,CBPF
+Myanmar,2021,Standard,20764,MM-21/DDA-3415/SA2/E-P-SNFI-WASH/INGO/20764,Water Sanitation Hygiene,,12.0,49726.3464,CBPF
 Myanmar,2021,Standard,20708,MM-21/DDA-3415/SA2/E-WASH/NGO/20708,Education,,55.0,162055.256,CBPF
 Myanmar,2021,Standard,20708,MM-21/DDA-3415/SA2/E-WASH/NGO/20708,Water Sanitation Hygiene,,45.0,132590.664,CBPF
 Myanmar,2021,Standard,20599,MM-21/DDA-3415/SA2/E-WASH-N-H-P-FS/NGO/20599,Education,,6.0,30076.7064,CBPF
@@ -12559,6 +12566,9 @@ Myanmar,2021,Standard,20599,MM-21/DDA-3415/SA2/E-WASH-N-H-P-FS/NGO/20599,Health,
 Myanmar,2021,Standard,20599,MM-21/DDA-3415/SA2/E-WASH-N-H-P-FS/NGO/20599,Nutrition,,14.0,70178.9816,CBPF
 Myanmar,2021,Standard,20599,MM-21/DDA-3415/SA2/E-WASH-N-H-P-FS/NGO/20599,Protection,,12.0,60153.4128,CBPF
 Myanmar,2021,Standard,20599,MM-21/DDA-3415/SA2/E-WASH-N-H-P-FS/NGO/20599,Water Sanitation Hygiene,,12.0,60153.4128,CBPF
+Myanmar,2021,Standard,20561,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20561,Education,,42.0,223032.3606,CBPF
+Myanmar,2021,Standard,20561,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20561,Emergency Shelter and NFI,,42.0,223032.3606,CBPF
+Myanmar,2021,Standard,20561,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20561,Water Sanitation Hygiene,,16.0,84964.7088,CBPF
 Myanmar,2021,Standard,20818,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20818,Education,,52.0,220274.5272,CBPF
 Myanmar,2021,Standard,20818,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20818,Emergency Shelter and NFI,,8.0,33888.3888,CBPF
 Myanmar,2021,Standard,20818,MM-21/DDA-3415/SA2/E-WASH-SNFI/INGO/20818,Water Sanitation Hygiene,,40.0,169441.944,CBPF
@@ -19828,6 +19838,8 @@ Syria Cross border,2021,Standard,20699,TUR-21/3559/SA2/H/NGO/20699,Health,,100.0
 Syria Cross border,2021,Standard,20820,TUR-21/3559/SA2/H/NGO/20820,Health,,100.0,1150256.96,CBPF
 Syria Cross border,2021,Standard,20829,TUR-21/3559/SA2/H/NGO/20829,Health,,100.0,1302566.94,CBPF
 Syria Cross border,2021,Standard,20847,TUR-21/3559/SA2/H/NGO/20847,Health,,100.0,772725.52,CBPF
+Syria Cross border,2021,Standard,20564,TUR-21/3559/SA2/H-NFI/NGO/20564,Emergency Shelter and NFI,,56.89,428210.381454,CBPF
+Syria Cross border,2021,Standard,20564,TUR-21/3559/SA2/H-NFI/NGO/20564,Health,,43.11,324488.478546,CBPF
 Syria Cross border,2021,Standard,20729,TUR-21/3559/SA2/NFI/INGO/20729,Emergency Shelter and NFI,,100.0,1499042.18,CBPF
 Syria Cross border,2021,Standard,20752,TUR-21/3559/SA2/NFI/NGO/20752,Emergency Shelter and NFI,,100.0,692346.38,CBPF
 Syria Cross border,2021,Standard,20765,TUR-21/3559/SA2/NFI/NGO/20765,Emergency Shelter and NFI,,100.0,622811.79,CBPF
@@ -19836,6 +19848,13 @@ Syria Cross border,2021,Standard,20716,TUR-21/3559/SA2/NFI-ER/INGO/20716,Early R
 Syria Cross border,2021,Standard,20716,TUR-21/3559/SA2/NFI-ER/INGO/20716,Emergency Shelter and NFI,,45.0,267393.42,CBPF
 Syria Cross border,2021,Standard,20631,TUR-21/3559/SA2/NFI-ER/UN/20631,Early Recovery,Aging and Disability,5.0,131762.919,CBPF
 Syria Cross border,2021,Standard,20631,TUR-21/3559/SA2/NFI-ER/UN/20631,Emergency Shelter and NFI,,95.0,2503495.461,CBPF
+Syria Cross border,2021,Standard,20663,TUR-21/3559/SA2/NFI-ER-WASH/INGO/20663,Early Recovery,Aging and Disability,24.0,144150.3936,CBPF
+Syria Cross border,2021,Standard,20663,TUR-21/3559/SA2/NFI-ER-WASH/INGO/20663,Emergency Shelter and NFI,,46.0,276288.2544,CBPF
+Syria Cross border,2021,Standard,20663,TUR-21/3559/SA2/NFI-ER-WASH/INGO/20663,Water Sanitation Hygiene,,30.0,180187.992,CBPF
+Syria Cross border,2021,Standard,20714,TUR-21/3559/SA2/NFI-L/O/20714,Emergency Shelter and NFI,,40.0,593021.812,CBPF
+Syria Cross border,2021,Standard,20714,TUR-21/3559/SA2/NFI-L/O/20714,Logistics,,60.0,889532.718,CBPF
+Syria Cross border,2021,Standard,20832,TUR-21/3559/SA2/NFI-WASH/NGO/20832,Emergency Shelter and NFI,,80.0,854479.464,CBPF
+Syria Cross border,2021,Standard,20832,TUR-21/3559/SA2/NFI-WASH/NGO/20832,Water Sanitation Hygiene,,20.0,213619.866,CBPF
 Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Early Recovery,Aging and Disability,18.0,250115.5512,CBPF
 Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Emergency Shelter and NFI,,72.0,1000462.2048,CBPF
 Syria Cross border,2021,Standard,20574,TUR-21/3559/SA2/NFI-WASH-ER/NGO/20574,Water Sanitation Hygiene,,10.0,138953.084,CBPF

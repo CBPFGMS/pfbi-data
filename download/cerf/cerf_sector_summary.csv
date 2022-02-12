@@ -7383,12 +7383,6 @@ Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,Nutrition,Nutrition,42.
 Cameroon,2021,Underfunded Emergencies,3970,21-UF-CEF-040,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",57.99999999999999,696000.0
 Equatorial Guinea,2021,Rapid Response,3809,21-RR-WFP-004,Common Services,Common Services,100.0,599984.0
 Equatorial Guinea,2021,Rapid Response,3810,21-RR-FPA-004,Protection,Protection,100.0,394480.0
-South Sudan,2021,Underfunded Emergencies,3925,21-UF-IOM-017,Protection,Protection,100.0,1500000.0
-South Sudan,2021,Underfunded Emergencies,3926,21-UF-HCR-016,Protection,Protection,100.0,3999937.0
-South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Education,Education,77.00000688014266,3805154.0
-South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Protection,Protection,22.999993119857347,1136604.0
-South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Health,Health,39.99998000026,800010.0
-South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Protection,Protection,60.000019999740005,1200016.0
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,Camp Coordination and Camp Management,Camp Coordination and Camp Management,13.0,377000.0
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",49.0,1421000.0
 South Sudan,2021,Rapid Response,4048,21-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,38.0,1102000.0
@@ -7398,6 +7392,12 @@ South Sudan,2021,Rapid Response,4050,21-RR-CEF-056,Protection,Protection,17.0000
 South Sudan,2021,Rapid Response,4051,21-RR-WFP-039,Food Assistance,Food Assistance,81.0,4195800.0
 South Sudan,2021,Rapid Response,4051,21-RR-WFP-039,Common Services,Common Services,19.0,984200.0
 South Sudan,2021,Rapid Response,4052,21-RR-WHO-039,Health,Health,100.0,2080000.0
+South Sudan,2021,Underfunded Emergencies,3925,21-UF-IOM-017,Protection,Protection,100.0,1500000.0
+South Sudan,2021,Underfunded Emergencies,3926,21-UF-HCR-016,Protection,Protection,100.0,3999937.0
+South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Education,Education,77.00000688014266,3805154.0
+South Sudan,2021,Underfunded Emergencies,3927,21-UF-CEF-032,Protection,Protection,22.999993119857347,1136604.0
+South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Health,Health,39.99998000026,800010.0
+South Sudan,2021,Underfunded Emergencies,3928,21-UF-FPA-020,Protection,Protection,60.000019999740005,1200016.0
 South Sudan,2021,Rapid Response,3766,20-RR-WFP-054,Food Assistance,Food Assistance,100.0,7000000.0
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Nutrition,Nutrition,9.999997777778272,450000.0
 South Sudan,2021,Rapid Response,3820,21-RR-CEF-010,Protection,Protection,7.999998222222618,360000.0
@@ -7570,6 +7570,9 @@ Mali,2022,Rapid Response,4081,22-RR-FAO-002,Agriculture,Agriculture,100.0,249999
 Mali,2022,Rapid Response,4082,22-RR-CEF-003,Nutrition,Nutrition,100.0,2999993.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Food Assistance,Food Assistance,55.00000000000001,2475000.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Nutrition,Nutrition,45.0,2025000.0
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Shelter and Non-Food Items,Shelter and Non-Food Items,60.999995000024995,1830009.0
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Camp Coordination and Camp Management,Camp Coordination and Camp Management,39.000004999975005,1170006.0
 Philippines,2022,Rapid Response,4065,21-RR-FPA-035,Protection,Protection,77.00000853039185,1985841.0
