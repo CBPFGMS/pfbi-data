@@ -7014,6 +7014,10 @@ Democratic People's Republic of Korea,2020,Underfunded Emergencies,3566,20-UF-WF
 Democratic People's Republic of Korea,2020,Underfunded Emergencies,3567,20-UF-FPA-019,Health,Health,100.0,700069.0
 Democratic People's Republic of Korea,2020,Underfunded Emergencies,3568,20-UF-FAO-015,Agriculture,Agriculture,100.0,700000.0
 Democratic People's Republic of Korea,2020,Underfunded Emergencies,3569,20-UF-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500000.0
+Fiji,2020,Rapid Response,3630,20-RR-CEF-038,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,200077.0
+Fiji,2020,Rapid Response,3631,20-RR-IOM-018,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,100000.0
+Fiji,2020,Rapid Response,3632,20-RR-WFP-032,Food Assistance,Food Assistance,100.0,599843.0
+Fiji,2020,Rapid Response,3633,20-RR-WHO-026,Health,Health,100.0,102828.0
 Global,2020,Rapid Response,3639,20-RR-IOM-019,Health,Health,59.00000199405373,14793985.0
 Global,2020,Rapid Response,3639,20-RR-IOM-019,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",36.0,9026838.0
 Global,2020,Rapid Response,3639,20-RR-IOM-019,Protection,Protection,3.000001994053732,752237.0
@@ -7041,10 +7045,6 @@ Global,2020,Rapid Response,3595,20-RR-CEF-030,Protection,Protection,15.0,1642500
 Global,2020,Rapid Response,3595,20-RR-CEF-030,Education,Education,15.0,1642500.0
 Global,2020,Rapid Response,3604,20-RR-WFP-025,Common Services,Common Services,100.0,20000000.0
 Global,2020,Rapid Response,3602,20-RR-HAB-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,49996.0
-Fiji,2020,Rapid Response,3630,20-RR-CEF-038,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,200077.0
-Fiji,2020,Rapid Response,3631,20-RR-IOM-018,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,100000.0
-Fiji,2020,Rapid Response,3632,20-RR-WFP-032,Food Assistance,Food Assistance,100.0,599843.0
-Fiji,2020,Rapid Response,3633,20-RR-WHO-026,Health,Health,100.0,102828.0
 Vanuatu,2020,Rapid Response,3609,20-RR-CEF-033,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",77.9999550526446,694145.0
 Vanuatu,2020,Rapid Response,3609,20-RR-CEF-033,Nutrition,Nutrition,22.00004494735541,195785.0
 Vanuatu,2020,Rapid Response,3610,20-RR-FAO-021,Agriculture,Agriculture,100.0,440000.0
@@ -7570,6 +7570,7 @@ Mali,2022,Rapid Response,4081,22-RR-FAO-002,Agriculture,Agriculture,100.0,249999
 Mali,2022,Rapid Response,4082,22-RR-CEF-003,Nutrition,Nutrition,100.0,2999993.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Food Assistance,Food Assistance,55.00000000000001,2475000.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Nutrition,Nutrition,45.0,2025000.0
+Tonga,2022,Rapid Response,4096,22-RR-CEF-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500600.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0
