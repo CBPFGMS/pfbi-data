@@ -7410,7 +7410,6 @@ South Sudan,2021,Rapid Response,3823,21-RR-HCR-006,Protection,Protection,54.0000
 South Sudan,2021,Rapid Response,3823,21-RR-HCR-006,Protection,Protection,45.999980012392314,276171.0
 South Sudan,2021,Rapid Response,3824,21-RR-WHO-008,Health,Health,100.0,1300031.0
 South Sudan,2021,Rapid Response,3825,21-RR-WFP-006,Food Assistance,Food Assistance,62.000018750761754,991960.0
-South Sudan,2021,Rapid Response,3825,21-RR-WFP-006,Common Services,Common Services,37.99998124923825,607975.0
 Somalia,2021,Rapid Response,4039,21-RR-IOM-033,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1750000.0
 Somalia,2021,Rapid Response,4040,21-RR-FPA-033,Health,Health,100.0,500000.0
 Somalia,2021,Rapid Response,4040,21-RR-FPA-033,Protection,Protection,0.0,0.0
@@ -7571,6 +7570,8 @@ Mali,2022,Rapid Response,4081,22-RR-FAO-002,Agriculture,Agriculture,100.0,249999
 Mali,2022,Rapid Response,4082,22-RR-CEF-003,Nutrition,Nutrition,100.0,2999993.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Food Assistance,Food Assistance,55.00000000000001,2475000.0
 Mali,2022,Rapid Response,4083,22-RR-WFP-004,Nutrition,Nutrition,45.0,2025000.0
+Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Health,Health,58.99999882468951,1003990.0
+Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Protection,Protection,41.00000117531049,697688.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0
 Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0
@@ -7578,6 +7579,11 @@ Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Health,Health,46.0,368000.0
 Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Nutrition,Nutrition,54.0,432000.0
 Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Shelter and Non-Food Items,Shelter and Non-Food Items,76.0,3040190.0
 Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Protection,Protection,24.0,960060.0
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Health,Health,15.000013808825102,760384.0
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Nutrition,Nutrition,40.0000039453786,2027689.0
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Protection,Protection,13.99999842184856,709691.0
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",19.999992109242797,1013844.0
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Shelter and Non-Food Items,Shelter and Non-Food Items,10.999991714704938,557614.0
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Shelter and Non-Food Items,Shelter and Non-Food Items,60.999995000024995,1830009.0
 Philippines,2022,Rapid Response,4064,21-RR-IOM-037,Camp Coordination and Camp Management,Camp Coordination and Camp Management,39.000004999975005,1170006.0
 Philippines,2022,Rapid Response,4065,21-RR-FPA-035,Protection,Protection,77.00000853039185,1985841.0
