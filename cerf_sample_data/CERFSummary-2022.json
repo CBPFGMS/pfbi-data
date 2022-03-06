@@ -1,15 +1,15 @@
 {
     "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
-    "donors": 36,
-    "funds": 8,
-    "contribTotalAmt": 388105527.5626999,
-    "contribPaidAmt": 93328528.96000001,
-    "contribPledgedAmt": 294776998.60269994,
-    "allocAmt": 71469281.0,
+    "donors": 37,
+    "funds": 12,
+    "contribTotalAmt": 389105527.5626999,
+    "contribPaidAmt": 93358528.96000001,
+    "contribPledgedAmt": 295746998.60269994,
+    "allocAmt": 113471678.0,
     "underApprovalAmt": "0",
     "year": "2022",
-    "projectsFunded": 35,
-    "partnersFunded": 8,
+    "projectsFunded": 63,
+    "partnersFunded": 9,
     "partnersFundedByType": [
         {
             "partnerType": "International NGO",
