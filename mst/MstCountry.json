@@ -36,7 +36,8 @@
     "CountryCode": "AGO",
     "ISO2Code": "AO",
     "latitude": -11.202692,
-    "longitude": 17.873887
+    "longitude": 17.873887,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 4,
@@ -309,7 +310,8 @@
     "CountryCode": "CIV",
     "ISO2Code": "CI",
     "latitude": 7.539989,
-    "longitude": -5.54708
+    "longitude": -5.54708,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 25,
@@ -621,7 +623,8 @@
     "CountryCode": "IDN",
     "ISO2Code": "ID",
     "latitude": -0.789275,
-    "longitude": 113.921327
+    "longitude": 113.921327,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 49,
@@ -673,7 +676,8 @@
     "CountryCode": "KEN",
     "ISO2Code": "KE",
     "latitude": -0.023559,
-    "longitude": 37.906193
+    "longitude": 37.906193,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 53,
@@ -738,7 +742,8 @@
     "CountryCode": "LBR",
     "ISO2Code": "LR",
     "latitude": 6.428055,
-    "longitude": -9.429499
+    "longitude": -9.429499,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 58,
@@ -894,7 +899,8 @@
     "CountryCode": "NPL",
     "ISO2Code": "NP",
     "latitude": 28.394857,
-    "longitude": 84.124008
+    "longitude": 84.124008,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 70,
@@ -1258,7 +1264,8 @@
     "CountryCode": "UGA",
     "ISO2Code": "UG",
     "latitude": 1.373333,
-    "longitude": 32.290275
+    "longitude": 32.290275,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 98,
@@ -1388,7 +1395,8 @@
     "CountryCode": "ZWE",
     "ISO2Code": "ZW",
     "latitude": -19.015438,
-    "longitude": 29.154857
+    "longitude": 29.154857,
+    "CBPFFundStatus":"Closed"
   },
   {
     "id": 108,
