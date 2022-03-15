@@ -10,7 +10,8 @@
     "CountryCode": "AFG",
     "ISO2Code": "AF",
     "latitude": 33.93911,
-    "longitude": 67.709953
+    "longitude": 67.709953,
+    "CBPFFundStatus":""
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "CountryCode": "DZA",
     "ISO2Code": "DZ",
     "latitude": 28.033886,
-    "longitude": 1.659626
+    "longitude": 1.659626,
+    "CBPFFundStatus":""
   },
   {
     "id": 3,
@@ -50,7 +52,8 @@
     "CountryCode": "ATG",
     "ISO2Code": "AG",
     "latitude": 17.060816,
-    "longitude": -61.796428
+    "longitude": -61.796428,
+    "CBPFFundStatus":""
   },
   {
     "id": 5,
@@ -63,7 +66,8 @@
     "CountryCode": "ARM",
     "ISO2Code": "AM",
     "latitude": 40.069099,
-    "longitude": 45.038189
+    "longitude": 45.038189,
+    "CBPFFundStatus":""
   },
   {
     "id": 6,
@@ -76,7 +80,8 @@
     "CountryCode": "BHS",
     "ISO2Code": "BS",
     "latitude": 25.03428,
-    "longitude": -77.39628
+    "longitude": -77.39628,
+    "CBPFFundStatus":""
   },
   {
     "id": 7,
@@ -89,7 +94,8 @@
     "CountryCode": "BGD",
     "ISO2Code": "BD",
     "latitude": 23.684994,
-    "longitude": 90.356331
+    "longitude": 90.356331,
+    "CBPFFundStatus":""
   },
   {
     "id": 8,
@@ -102,7 +108,8 @@
     "CountryCode": "BEN",
     "ISO2Code": "BJ",
     "latitude": 9.30769,
-    "longitude": 2.315834
+    "longitude": 2.315834,
+    "CBPFFundStatus":""
   },
   {
     "id": 9,
@@ -115,7 +122,8 @@
     "CountryCode": "BTN",
     "ISO2Code": "BT",
     "latitude": 27.514162,
-    "longitude": 90.433601
+    "longitude": 90.433601,
+    "CBPFFundStatus":""
   },
   {
     "id": 10,
@@ -128,7 +136,8 @@
     "CountryCode": "BOL",
     "ISO2Code": "BO",
     "latitude": -16.290154,
-    "longitude": -63.588653
+    "longitude": -63.588653,
+    "CBPFFundStatus":""
   },
   {
     "id": 11,
@@ -141,7 +150,8 @@
     "CountryCode": "BIH",
     "ISO2Code": "BA",
     "latitude": 43.915886,
-    "longitude": 17.679076
+    "longitude": 17.679076,
+    "CBPFFundStatus":""
   },
   {
     "id": 12,
@@ -154,7 +164,8 @@
     "CountryCode": "BRA",
     "ISO2Code": "BR",
     "latitude": -14.235004,
-    "longitude": -51.92528
+    "longitude": -51.92528,
+    "CBPFFundStatus":""
   },
   {
     "id": 13,
@@ -167,7 +178,8 @@
     "CountryCode": "BFA",
     "ISO2Code": "BF",
     "latitude": 12.238333,
-    "longitude": -1.561593
+    "longitude": -1.561593,
+    "CBPFFundStatus":""
   },
   {
     "id": 14,
@@ -180,7 +192,8 @@
     "CountryCode": "BDI",
     "ISO2Code": "BI",
     "latitude": -3.373056,
-    "longitude": 29.918886
+    "longitude": 29.918886,
+    "CBPFFundStatus":""
   },
   {
     "id": 15,
@@ -193,7 +206,8 @@
     "CountryCode": "KHM",
     "ISO2Code": "KH",
     "latitude": 12.565679,
-    "longitude": 104.990963
+    "longitude": 104.990963,
+    "CBPFFundStatus":""
   },
   {
     "id": 16,
@@ -206,7 +220,8 @@
     "CountryCode": "CMR",
     "ISO2Code": "CM",
     "latitude": 7.369722,
-    "longitude": 12.354722
+    "longitude": 12.354722,
+    "CBPFFundStatus":""
   },
   {
     "id": 17,
@@ -219,7 +234,8 @@
     "CountryCode": "CPV",
     "ISO2Code": "CV",
     "latitude": 16.002082,
-    "longitude": -24.013197
+    "longitude": -24.013197,
+    "CBPFFundStatus":""
   },
   {
     "id": 18,
@@ -232,7 +248,8 @@
     "CountryCode": "CAF",
     "ISO2Code": "CF",
     "latitude": 6.611111,
-    "longitude": 20.939444
+    "longitude": 20.939444,
+    "CBPFFundStatus":""
   },
   {
     "id": 19,
@@ -245,7 +262,8 @@
     "CountryCode": "TCD",
     "ISO2Code": "TD",
     "latitude": 15.454166,
-    "longitude": 18.732207
+    "longitude": 18.732207,
+    "CBPFFundStatus":""
   },
   {
     "id": 20,
@@ -258,7 +276,8 @@
     "CountryCode": "CHL",
     "ISO2Code": "CL",
     "latitude": -35.675147,
-    "longitude": -71.542969
+    "longitude": -71.542969,
+    "CBPFFundStatus":""
   },
   {
     "id": 21,
@@ -271,7 +290,8 @@
     "CountryCode": "CHN",
     "ISO2Code": "CN",
     "latitude": 35.86166,
-    "longitude": 104.195397
+    "longitude": 104.195397,
+    "CBPFFundStatus":""
   },
   {
     "id": 22,
@@ -284,7 +304,8 @@
     "CountryCode": "COL",
     "ISO2Code": "CO",
     "latitude": 4.570868,
-    "longitude": -74.297333
+    "longitude": -74.297333,
+    "CBPFFundStatus":""
   },
   {
     "id": 23,
@@ -297,7 +318,8 @@
     "CountryCode": "COM",
     "ISO2Code": "KM",
     "latitude": -11.875001,
-    "longitude": 43.872219
+    "longitude": 43.872219,
+    "CBPFFundStatus":""
   },
   {
     "id": 24,
@@ -324,7 +346,8 @@
     "CountryCode": "CUB",
     "ISO2Code": "CU",
     "latitude": 21.521757,
-    "longitude": -77.781167
+    "longitude": -77.781167,
+    "CBPFFundStatus":""
   },
   {
     "id": 26,
@@ -337,7 +360,8 @@
     "CountryCode": "PRK",
     "ISO2Code": "KP",
     "latitude": 40.339852,
-    "longitude": 127.510093
+    "longitude": 127.510093,
+    "CBPFFundStatus":""
   },
   {
     "id": 27,
@@ -350,7 +374,8 @@
     "CountryCode": "COD",
     "ISO2Code": "CD",
     "latitude": -4.038333,
-    "longitude": 21.758664
+    "longitude": 21.758664,
+    "CBPFFundStatus":""
   },
   {
     "id": 28,
@@ -363,7 +388,8 @@
     "CountryCode": "DJI",
     "ISO2Code": "DJ",
     "latitude": 11.825138,
-    "longitude": 42.590275
+    "longitude": 42.590275,
+    "CBPFFundStatus":""
   },
   {
     "id": 29,
@@ -376,7 +402,8 @@
     "CountryCode": "DMA",
     "ISO2Code": "DM",
     "latitude": 15.414999,
-    "longitude": -61.370976
+    "longitude": -61.370976,
+    "CBPFFundStatus":""
   },
   {
     "id": 30,
@@ -389,7 +416,8 @@
     "CountryCode": "DOM",
     "ISO2Code": "DO",
     "latitude": 18.735693,
-    "longitude": -70.162651
+    "longitude": -70.162651,
+    "CBPFFundStatus":""
   },
   {
     "id": 31,
@@ -402,7 +430,8 @@
     "CountryCode": "EAF",
     "ISO2Code": "0E",
     "latitude": "#N/A",
-    "longitude": "#N/A"
+    "longitude": "#N/A",
+    "CBPFFundStatus":""
   },
   {
     "id": 32,
@@ -415,7 +444,8 @@
     "CountryCode": "ECU",
     "ISO2Code": "EC",
     "latitude": -1.831239,
-    "longitude": -78.183406
+    "longitude": -78.183406,
+    "CBPFFundStatus":""
   },
   {
     "id": 33,
@@ -428,7 +458,8 @@
     "CountryCode": "EGY",
     "ISO2Code": "EG",
     "latitude": 26.820553,
-    "longitude": 30.802498
+    "longitude": 30.802498,
+    "CBPFFundStatus":""
   },
   {
     "id": 34,
@@ -441,7 +472,8 @@
     "CountryCode": "SLV",
     "ISO2Code": "SV",
     "latitude": 13.794185,
-    "longitude": -88.89653
+    "longitude": -88.89653,
+    "CBPFFundStatus":""
   },
   {
     "id": 35,
@@ -454,7 +486,8 @@
     "CountryCode": "ERI",
     "ISO2Code": "ER",
     "latitude": 15.179384,
-    "longitude": 39.782334
+    "longitude": 39.782334,
+    "CBPFFundStatus":""
   },
   {
     "id": 36,
@@ -467,7 +500,8 @@
     "CountryCode": "ETH",
     "ISO2Code": "ET",
     "latitude": 9.145,
-    "longitude": 40.489673
+    "longitude": 40.489673,
+    "CBPFFundStatus":""
   },
   {
     "id": 37,
@@ -480,7 +514,8 @@
     "CountryCode": "FJI",
     "ISO2Code": "FJ",
     "latitude": -16.578193,
-    "longitude": 179.414413
+    "longitude": 179.414413,
+    "CBPFFundStatus":""
   },
   {
     "id": 38,
@@ -493,7 +528,8 @@
     "CountryCode": "GMB",
     "ISO2Code": "GM",
     "latitude": 13.443182,
-    "longitude": -15.310139
+    "longitude": -15.310139,
+    "CBPFFundStatus":""
   },
   {
     "id": 39,
@@ -506,7 +542,8 @@
     "CountryCode": "GEO",
     "ISO2Code": "GE",
     "latitude": 42.315407,
-    "longitude": 43.356892
+    "longitude": 43.356892,
+    "CBPFFundStatus":""
   },
   {
     "id": 40,
@@ -519,7 +556,8 @@
     "CountryCode": "GHA",
     "ISO2Code": "GH",
     "latitude": 7.946527,
-    "longitude": -1.023194
+    "longitude": -1.023194,
+    "CBPFFundStatus":""
   },
   {
     "id": 41,
@@ -532,7 +570,8 @@
     "CountryCode": "GLB",
     "ISO2Code": "0G",
     "latitude": "#N/A",
-    "longitude": "#N/A"
+    "longitude": "#N/A",
+    "CBPFFundStatus":""
   },
   {
     "id": 42,
@@ -545,7 +584,8 @@
     "CountryCode": "GTM",
     "ISO2Code": "GT",
     "latitude": 15.783471,
-    "longitude": -90.230759
+    "longitude": -90.230759,
+    "CBPFFundStatus":""
   },
   {
     "id": 43,
@@ -558,7 +598,8 @@
     "CountryCode": "GIN",
     "ISO2Code": "GN",
     "latitude": 9.945587,
-    "longitude": -9.696645
+    "longitude": -9.696645,
+    "CBPFFundStatus":""
   },
   {
     "id": 44,
@@ -571,7 +612,8 @@
     "CountryCode": "GNB",
     "ISO2Code": "GW",
     "latitude": 11.803749,
-    "longitude": -15.180413
+    "longitude": -15.180413,
+    "CBPFFundStatus":""
   },
   {
     "id": 45,
@@ -584,7 +626,8 @@
     "CountryCode": "HTI",
     "ISO2Code": "HT",
     "latitude": 18.971187,
-    "longitude": -72.285215
+    "longitude": -72.285215,
+    "CBPFFundStatus":""
   },
   {
     "id": 46,
@@ -597,7 +640,8 @@
     "CountryCode": "HND",
     "ISO2Code": "HN",
     "latitude": 15.199999,
-    "longitude": -86.241905
+    "longitude": -86.241905,
+    "CBPFFundStatus":""
   },
   {
     "id": 47,
@@ -610,7 +654,8 @@
     "CountryCode": "IND",
     "ISO2Code": "IN",
     "latitude": 20.593684,
-    "longitude": 78.96288
+    "longitude": 78.96288,
+    "CBPFFundStatus":""
   },
   {
     "id": 48,
@@ -637,7 +682,8 @@
     "CountryCode": "IRQ",
     "ISO2Code": "IQ",
     "latitude": 33.223191,
-    "longitude": 43.679291
+    "longitude": 43.679291,
+    "CBPFFundStatus":""
   },
   {
     "id": 50,
@@ -650,7 +696,8 @@
     "CountryCode": "IRN",
     "ISO2Code": "IR",
     "latitude": 32.427908,
-    "longitude": 53.688046
+    "longitude": 53.688046,
+    "CBPFFundStatus":""
   },
   {
     "id": 51,
@@ -663,7 +710,8 @@
     "CountryCode": "JOR",
     "ISO2Code": "JO",
     "latitude": 30.585164,
-    "longitude": 36.238414
+    "longitude": 36.238414,
+    "CBPFFundStatus":""
   },
   {
     "id": 52,
@@ -690,7 +738,8 @@
     "CountryCode": "KGZ",
     "ISO2Code": "KG",
     "latitude": 41.20438,
-    "longitude": 74.766098
+    "longitude": 74.766098,
+    "CBPFFundStatus":""
   },
   {
     "id": 54,
@@ -703,7 +752,8 @@
     "CountryCode": "LAO",
     "ISO2Code": "LA",
     "latitude": 19.85627,
-    "longitude": 102.495496
+    "longitude": 102.495496,
+    "CBPFFundStatus":""
   },
   {
     "id": 55,
@@ -716,7 +766,8 @@
     "CountryCode": "LBN",
     "ISO2Code": "LB",
     "latitude": 33.854721,
-    "longitude": 35.862285
+    "longitude": 35.862285,
+    "CBPFFundStatus":""
   },
   {
     "id": 56,
@@ -729,7 +780,8 @@
     "CountryCode": "LSO",
     "ISO2Code": "LS",
     "latitude": -29.609988,
-    "longitude": 28.233608
+    "longitude": 28.233608,
+    "CBPFFundStatus":""
   },
   {
     "id": 57,
@@ -756,7 +808,8 @@
     "CountryCode": "LBY",
     "ISO2Code": "LY",
     "latitude": 26.3351,
-    "longitude": 17.228331
+    "longitude": 17.228331,
+    "CBPFFundStatus":""
   },
   {
     "id": 59,
@@ -769,7 +822,8 @@
     "CountryCode": "MDG",
     "ISO2Code": "MG",
     "latitude": -18.766947,
-    "longitude": 46.869107
+    "longitude": 46.869107,
+    "CBPFFundStatus":""
   },
   {
     "id": 60,
@@ -782,7 +836,8 @@
     "CountryCode": "MWI",
     "ISO2Code": "MW",
     "latitude": -13.254308,
-    "longitude": 34.301525
+    "longitude": 34.301525,
+    "CBPFFundStatus":""
   },
   {
     "id": 61,
@@ -795,7 +850,8 @@
     "CountryCode": "MLI",
     "ISO2Code": "ML",
     "latitude": 17.570692,
-    "longitude": -3.996166
+    "longitude": -3.996166,
+    "CBPFFundStatus":""
   },
   {
     "id": 62,
@@ -808,7 +864,8 @@
     "CountryCode": "MHL",
     "ISO2Code": "MH",
     "latitude": 7.131474,
-    "longitude": 171.184478
+    "longitude": 171.184478,
+    "CBPFFundStatus":""
   },
   {
     "id": 63,
@@ -821,7 +878,8 @@
     "CountryCode": "MRT",
     "ISO2Code": "MR",
     "latitude": 21.00789,
-    "longitude": -10.940835
+    "longitude": -10.940835,
+    "CBPFFundStatus":""
   },
   {
     "id": 64,
@@ -834,7 +892,8 @@
     "CountryCode": "MEX",
     "ISO2Code": "MX",
     "latitude": 23.634501,
-    "longitude": -102.552784
+    "longitude": -102.552784,
+    "CBPFFundStatus":""
   },
   {
     "id": 65,
@@ -847,7 +906,8 @@
     "CountryCode": "MNG",
     "ISO2Code": "MN",
     "latitude": 46.862496,
-    "longitude": 103.846656
+    "longitude": 103.846656,
+    "CBPFFundStatus":""
   },
   {
     "id": 66,
@@ -860,7 +920,8 @@
     "CountryCode": "MOZ",
     "ISO2Code": "MZ",
     "latitude": -18.665695,
-    "longitude": 35.529562
+    "longitude": 35.529562,
+    "CBPFFundStatus":""
   },
   {
     "id": 67,
@@ -873,7 +934,8 @@
     "CountryCode": "MMR",
     "ISO2Code": "MM",
     "latitude": 21.913965,
-    "longitude": 95.956223
+    "longitude": 95.956223,
+    "CBPFFundStatus":""
   },
   {
     "id": 68,
@@ -886,7 +948,8 @@
     "CountryCode": "NAM",
     "ISO2Code": "NA",
     "latitude": -22.95764,
-    "longitude": 18.49041
+    "longitude": 18.49041,
+    "CBPFFundStatus":""
   },
   {
     "id": 69,
@@ -913,7 +976,8 @@
     "CountryCode": "NIC",
     "ISO2Code": "NI",
     "latitude": 12.865416,
-    "longitude": -85.207229
+    "longitude": -85.207229,
+    "CBPFFundStatus":""
   },
   {
     "id": 71,
@@ -926,7 +990,8 @@
     "CountryCode": "NER",
     "ISO2Code": "NE",
     "latitude": 17.607789,
-    "longitude": 8.081666
+    "longitude": 8.081666,
+    "CBPFFundStatus":""
   },
   {
     "id": 72,
@@ -939,7 +1004,8 @@
     "CountryCode": "NGA",
     "ISO2Code": "NG",
     "latitude": 9.081999,
-    "longitude": 8.675277
+    "longitude": 8.675277,
+    "CBPFFundStatus":""
   },
   {
     "id": 73,
@@ -952,7 +1018,8 @@
     "CountryCode": "PSE",
     "ISO2Code": "PS",
     "latitude": 31.952162,
-    "longitude": 35.233154
+    "longitude": 35.233154,
+    "CBPFFundStatus":""
   },
   {
     "id": 74,
@@ -965,7 +1032,8 @@
     "CountryCode": "PAK",
     "ISO2Code": "PK",
     "latitude": 30.375321,
-    "longitude": 69.345116
+    "longitude": 69.345116,
+    "CBPFFundStatus":""
   },
   {
     "id": 75,
@@ -978,7 +1046,8 @@
     "CountryCode": "PNG",
     "ISO2Code": "PG",
     "latitude": -6.314993,
-    "longitude": 143.95555
+    "longitude": 143.95555,
+    "CBPFFundStatus":""
   },
   {
     "id": 76,
@@ -991,7 +1060,8 @@
     "CountryCode": "PRY",
     "ISO2Code": "PY",
     "latitude": -23.442503,
-    "longitude": -58.443832
+    "longitude": -58.443832,
+    "CBPFFundStatus":""
   },
   {
     "id": 77,
@@ -1004,7 +1074,8 @@
     "CountryCode": "PER",
     "ISO2Code": "PE",
     "latitude": -9.189967,
-    "longitude": -75.015152
+    "longitude": -75.015152,
+    "CBPFFundStatus":""
   },
   {
     "id": 78,
@@ -1017,7 +1088,8 @@
     "CountryCode": "PHL",
     "ISO2Code": "PH",
     "latitude": 12.879721,
-    "longitude": 121.774017
+    "longitude": 121.774017,
+    "CBPFFundStatus":""
   },
   {
     "id": 79,
@@ -1030,7 +1102,8 @@
     "CountryCode": "COG",
     "ISO2Code": "CG",
     "latitude": -0.228021,
-    "longitude": 15.827659
+    "longitude": 15.827659,
+    "CBPFFundStatus":""
   },
   {
     "id": 80,
@@ -1043,7 +1116,8 @@
     "CountryCode": "SDN",
     "ISO2Code": "SD",
     "latitude": 12.862807,
-    "longitude": 30.217636
+    "longitude": 30.217636,
+    "CBPFFundStatus":""
   },
   {
     "id": 81,
@@ -1056,7 +1130,8 @@
     "CountryCode": "RWA",
     "ISO2Code": "RW",
     "latitude": -1.940278,
-    "longitude": 29.873888
+    "longitude": 29.873888,
+    "CBPFFundStatus":""
   },
   {
     "id": 82,
@@ -1069,7 +1144,8 @@
     "CountryCode": "WSM",
     "ISO2Code": "WS",
     "latitude": -13.759029,
-    "longitude": -172.104629
+    "longitude": -172.104629,
+    "CBPFFundStatus":""
   },
   {
     "id": 83,
@@ -1082,7 +1158,8 @@
     "CountryCode": "SEN",
     "ISO2Code": "SN",
     "latitude": 14.497401,
-    "longitude": -14.452362
+    "longitude": -14.452362,
+    "CBPFFundStatus":""
   },
   {
     "id": 84,
@@ -1095,7 +1172,8 @@
     "CountryCode": "SRB",
     "ISO2Code": "RS",
     "latitude": 44.016521,
-    "longitude": 21.005859
+    "longitude": 21.005859,
+    "CBPFFundStatus":""
   },
   {
     "id": 85,
@@ -1108,7 +1186,8 @@
     "CountryCode": "SLE",
     "ISO2Code": "SL",
     "latitude": 8.460555,
-    "longitude": -11.779889
+    "longitude": -11.779889,
+    "CBPFFundStatus":""
   },
   {
     "id": 86,
@@ -1121,7 +1200,8 @@
     "CountryCode": "SLB",
     "ISO2Code": "SB",
     "latitude": -9.64571,
-    "longitude": 160.156194
+    "longitude": 160.156194,
+    "CBPFFundStatus":""
   },
   {
     "id": 87,
@@ -1134,7 +1214,8 @@
     "CountryCode": "SOM",
     "ISO2Code": "SO",
     "latitude": 5.152149,
-    "longitude": 46.199616
+    "longitude": 46.199616,
+    "CBPFFundStatus":""
   },
   {
     "id": 88,
@@ -1147,7 +1228,8 @@
     "CountryCode": "SSD",
     "ISO2Code": "SS",
     "latitude": 4.85165,
-    "longitude": 31.58247
+    "longitude": 31.58247,
+    "CBPFFundStatus":""
   },
   {
     "id": 89,
@@ -1160,7 +1242,8 @@
     "CountryCode": "LKA",
     "ISO2Code": "LK",
     "latitude": 7.873054,
-    "longitude": 80.771797
+    "longitude": 80.771797,
+    "CBPFFundStatus":""
   },
   {
     "id": 90,
@@ -1173,7 +1256,8 @@
     "CountryCode": "SWZ",
     "ISO2Code": "SZ",
     "latitude": -26.522503,
-    "longitude": 31.465866
+    "longitude": 31.465866,
+    "CBPFFundStatus":""
   },
   {
     "id": 91,
@@ -1186,7 +1270,8 @@
     "CountryCode": "SYR",
     "ISO2Code": "SY",
     "latitude": 34.802075,
-    "longitude": 38.996815
+    "longitude": 38.996815,
+    "CBPFFundStatus":""
   },
   {
     "id": 92,
@@ -1199,7 +1284,8 @@
     "CountryCode": "TJK",
     "ISO2Code": "TJ",
     "latitude": 38.861034,
-    "longitude": 71.276093
+    "longitude": 71.276093,
+    "CBPFFundStatus":""
   },
   {
     "id": 93,
@@ -1212,7 +1298,8 @@
     "CountryCode": "TLS",
     "ISO2Code": "TL",
     "latitude": -8.874217,
-    "longitude": 125.727539
+    "longitude": 125.727539,
+    "CBPFFundStatus":""
   },
   {
     "id": 94,
@@ -1225,7 +1312,8 @@
     "CountryCode": "TGO",
     "ISO2Code": "TG",
     "latitude": 8.619543,
-    "longitude": 0.824782
+    "longitude": 0.824782,
+    "CBPFFundStatus":""
   },
   {
     "id": 95,
@@ -1238,7 +1326,8 @@
     "CountryCode": "TUN",
     "ISO2Code": "TN",
     "latitude": 33.886917,
-    "longitude": 9.537499
+    "longitude": 9.537499,
+    "CBPFFundStatus":""
   },
   {
     "id": 96,
@@ -1251,7 +1340,8 @@
     "CountryCode": "TUR",
     "ISO2Code": "TR",
     "latitude": 38.963745,
-    "longitude": 35.243322
+    "longitude": 35.243322,
+    "CBPFFundStatus":""
   },
   {
     "id": 97,
@@ -1278,7 +1368,8 @@
     "CountryCode": "UKR",
     "ISO2Code": "UA",
     "latitude": 48.379433,
-    "longitude": 31.16558
+    "longitude": 31.16558,
+    "CBPFFundStatus":""
   },
   {
     "id": 99,
@@ -1291,7 +1382,8 @@
     "CountryCode": "TZA",
     "ISO2Code": "TZ",
     "latitude": -6.369028,
-    "longitude": 34.888822
+    "longitude": 34.888822,
+    "CBPFFundStatus":""
   },
   {
     "id": 100,
@@ -1304,7 +1396,8 @@
     "CountryCode": "UZB",
     "ISO2Code": "UZ",
     "latitude": 41.377491,
-    "longitude": 64.585262
+    "longitude": 64.585262,
+    "CBPFFundStatus":""
   },
   {
     "id": 101,
@@ -1317,7 +1410,8 @@
     "CountryCode": "VUT",
     "ISO2Code": "VU",
     "latitude": -15.376706,
-    "longitude": 166.959158
+    "longitude": 166.959158,
+    "CBPFFundStatus":""
   },
   {
     "id": 102,
@@ -1330,7 +1424,8 @@
     "CountryCode": "VEN",
     "ISO2Code": "VE",
     "latitude": 6.42375,
-    "longitude": -66.58973
+    "longitude": -66.58973,
+    "CBPFFundStatus":""
   },
   {
     "id": 103,
@@ -1343,7 +1438,8 @@
     "CountryCode": "VZR",
     "ISO2Code": "0V",
     "latitude": "#N/A",
-    "longitude": "#N/A"
+    "longitude": "#N/A",
+    "CBPFFundStatus":""
   },
   {
     "id": 104,
@@ -1356,7 +1452,8 @@
     "CountryCode": "VNM",
     "ISO2Code": "VN",
     "latitude": 14.058324,
-    "longitude": 108.277199
+    "longitude": 108.277199,
+    "CBPFFundStatus":""
   },
   {
     "id": 105,
@@ -1369,7 +1466,8 @@
     "CountryCode": "YEM",
     "ISO2Code": "YE",
     "latitude": 15.552727,
-    "longitude": 48.516388
+    "longitude": 48.516388,
+    "CBPFFundStatus":""
   },
   {
     "id": 106,
@@ -1382,7 +1480,8 @@
     "CountryCode": "ZMB",
     "ISO2Code": "ZM",
     "latitude": -13.133897,
-    "longitude": 27.849332
+    "longitude": 27.849332,
+    "CBPFFundStatus":""
   },
   {
     "id": 107,
@@ -1409,7 +1508,8 @@
     "CountryCode": "XX",
     "ISO2Code": "XX",
     "latitude": 37.065378,
-    "longitude": 37.393274
+    "longitude": 37.393274,
+    "CBPFFundStatus":""
   },
   {
     "id": 109,
@@ -1422,7 +1522,8 @@
     "CountryCode": "CERF",
     "ISO2Code": "CERF",
     "latitude": 40.71427,
-    "longitude": -74.00597
+    "longitude": -74.00597,
+    "CBPFFundStatus":""
   },
   {
     "id": 110,
@@ -1435,7 +1536,8 @@
     "CountryCode": "XX",
     "ISO2Code": "0SOA",
     "latitude": -29.6099,
-    "longitude": 28.2336
+    "longitude": 28.2336,
+    "CBPFFundStatus":""
   },
   {
     "id": 111,
@@ -1448,7 +1550,8 @@
     "CountryCode": "AZE",
     "ISO2Code": "AZ",
     "latitude": 40.409264,
-    "longitude": 49.867092
+    "longitude": 49.867092,
+    "CBPFFundStatus":""
   },
   {
     "id": 112,
@@ -1461,7 +1564,8 @@
     "CountryCode": "GNQ",
     "ISO2Code": "GQ",
     "latitude": 1.6195,
-    "longitude": 10.3178
+    "longitude": 10.3178,
+    "CBPFFundStatus":""
   },
   {
     "id": 113,
@@ -1474,7 +1578,8 @@
     "CountryCode": "ALA",
     "ISO2Code": "AX",
     "latitude": "#N/A",
-    "longitude": "#N/A"
+    "longitude": "#N/A",
+    "CBPFFundStatus":""
   },
   {
     "id": 114,
@@ -1487,7 +1592,8 @@
     "CountryCode": "ALB",
     "ISO2Code": "AL",
     "latitude": 41.153332,
-    "longitude": 20.168331
+    "longitude": 20.168331,
+    "CBPFFundStatus":""
   },
   {
     "id": 115,
@@ -1500,7 +1606,8 @@
     "CountryCode": "ASM",
     "ISO2Code": "AS",
     "latitude": -14.270972,
-    "longitude": -170.132217
+    "longitude": -170.132217,
+    "CBPFFundStatus":""
   },
   {
     "id": 116,
@@ -1513,7 +1620,8 @@
     "CountryCode": "AND",
     "ISO2Code": "AD",
     "latitude": 42.546245,
-    "longitude": 1.601554
+    "longitude": 1.601554,
+    "CBPFFundStatus":""
   },
   {
     "id": 117,
@@ -1526,7 +1634,8 @@
     "CountryCode": "AIA",
     "ISO2Code": "AI",
     "latitude": 18.220554,
-    "longitude": -63.068615
+    "longitude": -63.068615,
+    "CBPFFundStatus":""
   },
   {
     "id": 118,
@@ -1539,7 +1648,8 @@
     "CountryCode": "ARG",
     "ISO2Code": "AR",
     "latitude": -38.416097,
-    "longitude": -63.616672
+    "longitude": -63.616672,
+    "CBPFFundStatus":""
   },
   {
     "id": 119,
@@ -1552,7 +1662,8 @@
     "CountryCode": "ABW",
     "ISO2Code": "AW",
     "latitude": 12.52111,
-    "longitude": -69.968338
+    "longitude": -69.968338,
+    "CBPFFundStatus":""
   },
   {
     "id": 120,
@@ -1565,7 +1676,8 @@
     "CountryCode": "AUS",
     "ISO2Code": "AU",
     "latitude": -25.274398,
-    "longitude": 133.775136
+    "longitude": 133.775136,
+    "CBPFFundStatus":""
   },
   {
     "id": 121,
@@ -1578,7 +1690,8 @@
     "CountryCode": "AUT",
     "ISO2Code": "AT",
     "latitude": 47.516231,
-    "longitude": 14.550072
+    "longitude": 14.550072,
+    "CBPFFundStatus":""
   },
   {
     "id": 122,
@@ -1591,7 +1704,8 @@
     "CountryCode": "BHR",
     "ISO2Code": "BH",
     "latitude": 25.930414,
-    "longitude": 50.637772
+    "longitude": 50.637772,
+    "CBPFFundStatus":""
   },
   {
     "id": 123,
@@ -1604,7 +1718,8 @@
     "CountryCode": "BRB",
     "ISO2Code": "BB",
     "latitude": 13.193887,
-    "longitude": -59.543198
+    "longitude": -59.543198,
+    "CBPFFundStatus":""
   },
   {
     "id": 124,
@@ -1617,7 +1732,8 @@
     "CountryCode": "BLR",
     "ISO2Code": "BY",
     "latitude": 53.709807,
-    "longitude": 27.953389
+    "longitude": 27.953389,
+    "CBPFFundStatus":""
   },
   {
     "id": 125,
@@ -1630,7 +1746,8 @@
     "CountryCode": "BEL",
     "ISO2Code": "BE",
     "latitude": 50.503887,
-    "longitude": 4.469936
+    "longitude": 4.469936,
+    "CBPFFundStatus":""
   },
   {
     "id": 126,
@@ -1643,7 +1760,8 @@
     "CountryCode": "BLZ",
     "ISO2Code": "BZ",
     "latitude": 17.189877,
-    "longitude": -88.49765
+    "longitude": -88.49765,
+    "CBPFFundStatus":""
   },
   {
     "id": 127,
@@ -1656,7 +1774,8 @@
     "CountryCode": "BMU",
     "ISO2Code": "BM",
     "latitude": 32.321384,
-    "longitude": -64.75737
+    "longitude": -64.75737,
+    "CBPFFundStatus":""
   },
   {
     "id": 128,
@@ -1669,7 +1788,8 @@
     "CountryCode": "BWA",
     "ISO2Code": "BW",
     "latitude": -22.328474,
-    "longitude": 24.684866
+    "longitude": 24.684866,
+    "CBPFFundStatus":""
   },
   {
     "id": 129,
@@ -1682,7 +1802,8 @@
     "CountryCode": "BVT",
     "ISO2Code": "BV",
     "latitude": -54.423199,
-    "longitude": 3.413194
+    "longitude": 3.413194,
+    "CBPFFundStatus":""
   },
   {
     "id": 130,
@@ -1695,7 +1816,8 @@
     "CountryCode": "IOT",
     "ISO2Code": "IO",
     "latitude": -6.343194,
-    "longitude": 71.876519
+    "longitude": 71.876519,
+    "CBPFFundStatus":""
   },
   {
     "id": 131,
@@ -1708,7 +1830,8 @@
     "CountryCode": "VGB",
     "ISO2Code": "VG",
     "latitude": 18.420695,
-    "longitude": -64.639968
+    "longitude": -64.639968,
+    "CBPFFundStatus":""
   },
   {
     "id": 132,
@@ -1721,7 +1844,8 @@
     "CountryCode": "BRN",
     "ISO2Code": "BN",
     "latitude": 4.535277,
-    "longitude": 114.727669
+    "longitude": 114.727669,
+    "CBPFFundStatus":""
   },
   {
     "id": 133,
@@ -1734,7 +1858,8 @@
     "CountryCode": "BGR",
     "ISO2Code": "BG",
     "latitude": 42.733883,
-    "longitude": 25.48583
+    "longitude": 25.48583,
+    "CBPFFundStatus":""
   },
   {
     "id": 134,
@@ -1747,7 +1872,8 @@
     "CountryCode": "CAN",
     "ISO2Code": "CA",
     "latitude": 56.130366,
-    "longitude": -106.346771
+    "longitude": -106.346771,
+    "CBPFFundStatus":""
   },
   {
     "id": 135,
@@ -1760,7 +1886,8 @@
     "CountryCode": "CYM",
     "ISO2Code": "KY",
     "latitude": 19.513469,
-    "longitude": -80.566956
+    "longitude": -80.566956,
+    "CBPFFundStatus":""
   },
   {
     "id": 136,
@@ -1773,7 +1900,8 @@
     "CountryCode": "CXR",
     "ISO2Code": "CX",
     "latitude": -10.447525,
-    "longitude": 105.690449
+    "longitude": 105.690449,
+    "CBPFFundStatus":""
   },
   {
     "id": 137,
@@ -1786,7 +1914,8 @@
     "CountryCode": "CCK",
     "ISO2Code": "CC",
     "latitude": -12.164165,
-    "longitude": 96.870956
+    "longitude": 96.870956,
+    "CBPFFundStatus":""
   },
   {
     "id": 138,
@@ -1799,7 +1928,8 @@
     "CountryCode": "COK",
     "ISO2Code": "CK",
     "latitude": -21.236736,
-    "longitude": -159.777671
+    "longitude": -159.777671,
+    "CBPFFundStatus":""
   },
   {
     "id": 139,
@@ -1812,7 +1942,8 @@
     "CountryCode": "CRI",
     "ISO2Code": "CR",
     "latitude": 9.748917,
-    "longitude": -83.753428
+    "longitude": -83.753428,
+    "CBPFFundStatus":""
   },
   {
     "id": 140,
@@ -1825,7 +1956,8 @@
     "CountryCode": "HRV",
     "ISO2Code": "HR",
     "latitude": 45.1,
-    "longitude": 15.2
+    "longitude": 15.2,
+    "CBPFFundStatus":""
   },
   {
     "id": 141,
@@ -1838,7 +1970,8 @@
     "CountryCode": "CYP",
     "ISO2Code": "CY",
     "latitude": 35.126413,
-    "longitude": 33.429859
+    "longitude": 33.429859,
+    "CBPFFundStatus":""
   },
   {
     "id": 142,
@@ -1851,7 +1984,8 @@
     "CountryCode": "CZE",
     "ISO2Code": "CZ",
     "latitude": 49.817492,
-    "longitude": 15.472962
+    "longitude": 15.472962,
+    "CBPFFundStatus":""
   },
   {
     "id": 143,
@@ -1864,7 +1998,8 @@
     "CountryCode": "DNK",
     "ISO2Code": "DK",
     "latitude": 56.26392,
-    "longitude": 9.501785
+    "longitude": 9.501785,
+    "CBPFFundStatus":""
   },
   {
     "id": 144,
@@ -1877,7 +2012,8 @@
     "CountryCode": "EST",
     "ISO2Code": "EE",
     "latitude": 58.595272,
-    "longitude": 25.013607
+    "longitude": 25.013607,
+    "CBPFFundStatus":""
   },
   {
     "id": 145,
@@ -1890,7 +2026,8 @@
     "CountryCode": "FLK",
     "ISO2Code": "FK",
     "latitude": -51.796253,
-    "longitude": -59.523613
+    "longitude": -59.523613,
+    "CBPFFundStatus":""
   },
   {
     "id": 146,
@@ -1903,7 +2040,8 @@
     "CountryCode": "FRO",
     "ISO2Code": "FO",
     "latitude": 61.892635,
-    "longitude": -6.911806
+    "longitude": -6.911806,
+    "CBPFFundStatus":""
   },
   {
     "id": 147,
@@ -1916,7 +2054,8 @@
     "CountryCode": "FSM",
     "ISO2Code": "FM",
     "latitude": 7.425554,
-    "longitude": 150.550812
+    "longitude": 150.550812,
+    "CBPFFundStatus":""
   },
   {
     "id": 148,
@@ -1929,7 +2068,8 @@
     "CountryCode": "FIN",
     "ISO2Code": "FI",
     "latitude": 61.92411,
-    "longitude": 25.748151
+    "longitude": 25.748151,
+    "CBPFFundStatus":""
   },
   {
     "id": 149,
@@ -1942,7 +2082,8 @@
     "CountryCode": "MKD",
     "ISO2Code": "MK",
     "latitude": 41.608635,
-    "longitude": 21.745275
+    "longitude": 21.745275,
+    "CBPFFundStatus":""
   },
   {
     "id": 150,
@@ -1955,7 +2096,8 @@
     "CountryCode": "FRA",
     "ISO2Code": "FR",
     "latitude": 46.227638,
-    "longitude": 2.213749
+    "longitude": 2.213749,
+    "CBPFFundStatus":""
   },
   {
     "id": 151,
@@ -1968,7 +2110,8 @@
     "CountryCode": "GUF",
     "ISO2Code": "GF",
     "latitude": 3.933889,
-    "longitude": -53.125782
+    "longitude": -53.125782,
+    "CBPFFundStatus":""
   },
   {
     "id": 152,
@@ -1981,7 +2124,8 @@
     "CountryCode": "PYF",
     "ISO2Code": "PF",
     "latitude": -17.679742,
-    "longitude": -149.406843
+    "longitude": -149.406843,
+    "CBPFFundStatus":""
   },
   {
     "id": 153,
@@ -1994,7 +2138,8 @@
     "CountryCode": "GAB",
     "ISO2Code": "GA",
     "latitude": -0.803689,
-    "longitude": 11.609444
+    "longitude": 11.609444,
+    "CBPFFundStatus":""
   },
   {
     "id": 154,
@@ -2007,7 +2152,8 @@
     "CountryCode": "DEU",
     "ISO2Code": "DE",
     "latitude": 51.165691,
-    "longitude": 10.451526
+    "longitude": 10.451526,
+    "CBPFFundStatus":""
   },
   {
     "id": 155,
@@ -2020,7 +2166,8 @@
     "CountryCode": "GIB",
     "ISO2Code": "GI",
     "latitude": 36.137741,
-    "longitude": -5.345374
+    "longitude": -5.345374,
+    "CBPFFundStatus":""
   },
   {
     "id": 156,
@@ -2033,7 +2180,8 @@
     "CountryCode": "GRC",
     "ISO2Code": "GR",
     "latitude": 39.074208,
-    "longitude": 21.824312
+    "longitude": 21.824312,
+    "CBPFFundStatus":""
   },
   {
     "id": 157,
@@ -2046,7 +2194,8 @@
     "CountryCode": "GRL",
     "ISO2Code": "GL",
     "latitude": 71.706936,
-    "longitude": -42.604303
+    "longitude": -42.604303,
+    "CBPFFundStatus":""
   },
   {
     "id": 158,
@@ -2059,7 +2208,8 @@
     "CountryCode": "GRD",
     "ISO2Code": "GD",
     "latitude": 12.262776,
-    "longitude": -61.604171
+    "longitude": -61.604171,
+    "CBPFFundStatus":""
   },
   {
     "id": 159,
@@ -2072,7 +2222,8 @@
     "CountryCode": "GLP",
     "ISO2Code": "GP",
     "latitude": 16.995971,
-    "longitude": -62.067641
+    "longitude": -62.067641,
+    "CBPFFundStatus":""
   },
   {
     "id": 160,
@@ -2085,7 +2236,8 @@
     "CountryCode": "GUM",
     "ISO2Code": "GU",
     "latitude": 13.444304,
-    "longitude": 144.793731
+    "longitude": 144.793731,
+    "CBPFFundStatus":""
   },
   {
     "id": 161,
@@ -2098,7 +2250,8 @@
     "CountryCode": "GGY",
     "ISO2Code": "GG",
     "latitude": 49.465691,
-    "longitude": -2.585278
+    "longitude": -2.585278,
+    "CBPFFundStatus":""
   },
   {
     "id": 162,
@@ -2111,7 +2264,8 @@
     "CountryCode": "GUY",
     "ISO2Code": "GY",
     "latitude": 4.860416,
-    "longitude": -58.93018
+    "longitude": -58.93018,
+    "CBPFFundStatus":""
   },
   {
     "id": 163,
@@ -2124,7 +2278,8 @@
     "CountryCode": "VAT",
     "ISO2Code": "VA",
     "latitude": 41.902916,
-    "longitude": 12.453389
+    "longitude": 12.453389,
+    "CBPFFundStatus":""
   },
   {
     "id": 164,
@@ -2137,7 +2292,8 @@
     "CountryCode": "HKG",
     "ISO2Code": "HK",
     "latitude": 22.396428,
-    "longitude": 114.109497
+    "longitude": 114.109497,
+    "CBPFFundStatus":""
   },
   {
     "id": 165,
@@ -2150,7 +2306,8 @@
     "CountryCode": "HUN",
     "ISO2Code": "HU",
     "latitude": 47.162494,
-    "longitude": 19.503304
+    "longitude": 19.503304,
+    "CBPFFundStatus":""
   },
   {
     "id": 166,
@@ -2163,7 +2320,8 @@
     "CountryCode": "ISL",
     "ISO2Code": "IS",
     "latitude": 64.963051,
-    "longitude": -19.020835
+    "longitude": -19.020835,
+    "CBPFFundStatus":""
   },
   {
     "id": 167,
@@ -2176,7 +2334,8 @@
     "CountryCode": "IRL",
     "ISO2Code": "IE",
     "latitude": 53.41291,
-    "longitude": -8.24389
+    "longitude": -8.24389,
+    "CBPFFundStatus":""
   },
   {
     "id": 168,
@@ -2189,7 +2348,8 @@
     "CountryCode": "IMN",
     "ISO2Code": "IM",
     "latitude": 54.236107,
-    "longitude": -4.548056
+    "longitude": -4.548056,
+    "CBPFFundStatus":""
   },
   {
     "id": 169,
@@ -2202,7 +2362,8 @@
     "CountryCode": "ISR",
     "ISO2Code": "IL",
     "latitude": 31.046051,
-    "longitude": 34.851612
+    "longitude": 34.851612,
+    "CBPFFundStatus":""
   },
   {
     "id": 170,
@@ -2215,7 +2376,8 @@
     "CountryCode": "ITA",
     "ISO2Code": "IT",
     "latitude": 41.87194,
-    "longitude": 12.56738
+    "longitude": 12.56738,
+    "CBPFFundStatus":""
   },
   {
     "id": 171,
@@ -2228,7 +2390,8 @@
     "CountryCode": "JAM",
     "ISO2Code": "JM",
     "latitude": 18.109581,
-    "longitude": -77.297508
+    "longitude": -77.297508,
+    "CBPFFundStatus":""
   },
   {
     "id": 172,
@@ -2241,7 +2404,8 @@
     "CountryCode": "JPN",
     "ISO2Code": "JP",
     "latitude": 36.204824,
-    "longitude": 138.252924
+    "longitude": 138.252924,
+    "CBPFFundStatus":""
   },
   {
     "id": 173,
@@ -2254,7 +2418,8 @@
     "CountryCode": "JEY",
     "ISO2Code": "JE",
     "latitude": 49.214439,
-    "longitude": -2.13125
+    "longitude": -2.13125,
+    "CBPFFundStatus":""
   },
   {
     "id": 174,
@@ -2267,7 +2432,8 @@
     "CountryCode": "KAZ",
     "ISO2Code": "KZ",
     "latitude": 48.019573,
-    "longitude": 66.923684
+    "longitude": 66.923684,
+    "CBPFFundStatus":""
   },
   {
     "id": 175,
@@ -2280,7 +2446,8 @@
     "CountryCode": "KIR",
     "ISO2Code": "KI",
     "latitude": -3.370417,
-    "longitude": -168.734039
+    "longitude": -168.734039,
+    "CBPFFundStatus":""
   },
   {
     "id": 176,
@@ -2293,7 +2460,8 @@
     "CountryCode": "KWT",
     "ISO2Code": "KW",
     "latitude": 29.31166,
-    "longitude": 47.481766
+    "longitude": 47.481766,
+    "CBPFFundStatus":""
   },
   {
     "id": 177,
@@ -2306,7 +2474,8 @@
     "CountryCode": "LVA",
     "ISO2Code": "LV",
     "latitude": 56.879635,
-    "longitude": 24.603189
+    "longitude": 24.603189,
+    "CBPFFundStatus":""
   },
   {
     "id": 178,
@@ -2319,7 +2488,8 @@
     "CountryCode": "LIE",
     "ISO2Code": "LI",
     "latitude": 47.166,
-    "longitude": 9.555373
+    "longitude": 9.555373,
+    "CBPFFundStatus":""
   },
   {
     "id": 179,
@@ -2332,7 +2502,8 @@
     "CountryCode": "LTU",
     "ISO2Code": "LT",
     "latitude": 55.169438,
-    "longitude": 23.881275
+    "longitude": 23.881275,
+    "CBPFFundStatus":""
   },
   {
     "id": 180,
@@ -2345,7 +2516,8 @@
     "CountryCode": "LUX",
     "ISO2Code": "LU",
     "latitude": 49.815273,
-    "longitude": 6.129583
+    "longitude": 6.129583,
+    "CBPFFundStatus":""
   },
   {
     "id": 181,
@@ -2358,7 +2530,8 @@
     "CountryCode": "MAC",
     "ISO2Code": "MO",
     "latitude": 22.198745,
-    "longitude": 113.543873
+    "longitude": 113.543873,
+    "CBPFFundStatus":""
   },
   {
     "id": 182,
@@ -2371,7 +2544,8 @@
     "CountryCode": "MYS",
     "ISO2Code": "MY",
     "latitude": 4.210484,
-    "longitude": 101.975766
+    "longitude": 101.975766,
+    "CBPFFundStatus":""
   },
   {
     "id": 183,
@@ -2384,7 +2558,8 @@
     "CountryCode": "MDV",
     "ISO2Code": "MV",
     "latitude": 3.202778,
-    "longitude": 73.22068
+    "longitude": 73.22068,
+    "CBPFFundStatus":""
   },
   {
     "id": 184,
@@ -2397,7 +2572,8 @@
     "CountryCode": "MLT",
     "ISO2Code": "MT",
     "latitude": 35.937496,
-    "longitude": 14.375416
+    "longitude": 14.375416,
+    "CBPFFundStatus":""
   },
   {
     "id": 185,
@@ -2410,7 +2586,8 @@
     "CountryCode": "MTQ",
     "ISO2Code": "MQ",
     "latitude": 14.641528,
-    "longitude": -61.024174
+    "longitude": -61.024174,
+    "CBPFFundStatus":""
   },
   {
     "id": 186,
@@ -2423,7 +2600,8 @@
     "CountryCode": "MUS",
     "ISO2Code": "MU",
     "latitude": -20.348404,
-    "longitude": 57.552152
+    "longitude": 57.552152,
+    "CBPFFundStatus":""
   },
   {
     "id": 187,
@@ -2436,7 +2614,8 @@
     "CountryCode": "MYT",
     "ISO2Code": "YT",
     "latitude": -12.8275,
-    "longitude": 45.166244
+    "longitude": 45.166244,
+    "CBPFFundStatus":""
   },
   {
     "id": 188,
@@ -2449,7 +2628,8 @@
     "CountryCode": "MCO",
     "ISO2Code": "MC",
     "latitude": 43.750298,
-    "longitude": 7.412841
+    "longitude": 7.412841,
+    "CBPFFundStatus":""
   },
   {
     "id": 189,
@@ -2462,7 +2642,8 @@
     "CountryCode": "MNE",
     "ISO2Code": "ME",
     "latitude": 42.708678,
-    "longitude": 19.37439
+    "longitude": 19.37439,
+    "CBPFFundStatus":""
   },
   {
     "id": 190,
@@ -2475,7 +2656,8 @@
     "CountryCode": "MSR",
     "ISO2Code": "MS",
     "latitude": 16.742498,
-    "longitude": -62.187366
+    "longitude": -62.187366,
+    "CBPFFundStatus":""
   },
   {
     "id": 191,
@@ -2488,7 +2670,8 @@
     "CountryCode": "MAR",
     "ISO2Code": "MA",
     "latitude": 31.791702,
-    "longitude": -7.09262
+    "longitude": -7.09262,
+    "CBPFFundStatus":""
   },
   {
     "id": 192,
@@ -2501,7 +2684,8 @@
     "CountryCode": "NRU",
     "ISO2Code": "NR",
     "latitude": -0.522778,
-    "longitude": 166.931503
+    "longitude": 166.931503,
+    "CBPFFundStatus":""
   },
   {
     "id": 193,
@@ -2514,7 +2698,8 @@
     "CountryCode": "NLD",
     "ISO2Code": "NL",
     "latitude": 52.132633,
-    "longitude": 5.291266
+    "longitude": 5.291266,
+    "CBPFFundStatus":""
   },
   {
     "id": 194,
@@ -2527,7 +2712,8 @@
     "CountryCode": "ANT",
     "ISO2Code": "AN",
     "latitude": 12.226079,
-    "longitude": -69.060087
+    "longitude": -69.060087,
+    "CBPFFundStatus":""
   },
   {
     "id": 195,
@@ -2540,7 +2726,8 @@
     "CountryCode": "NCL",
     "ISO2Code": "NC",
     "latitude": -20.904305,
-    "longitude": 165.618042
+    "longitude": 165.618042,
+    "CBPFFundStatus":""
   },
   {
     "id": 196,
@@ -2553,7 +2740,8 @@
     "CountryCode": "NZL",
     "ISO2Code": "NZ",
     "latitude": -40.900557,
-    "longitude": 174.885971
+    "longitude": 174.885971,
+    "CBPFFundStatus":""
   },
   {
     "id": 197,
@@ -2566,7 +2754,8 @@
     "CountryCode": "NIU",
     "ISO2Code": "NU",
     "latitude": -19.054445,
-    "longitude": -169.867233
+    "longitude": -169.867233,
+    "CBPFFundStatus":""
   },
   {
     "id": 198,
@@ -2579,7 +2768,8 @@
     "CountryCode": "NFK",
     "ISO2Code": "NF",
     "latitude": -29.040835,
-    "longitude": 167.954712
+    "longitude": 167.954712,
+    "CBPFFundStatus":""
   },
   {
     "id": 199,
@@ -2592,7 +2782,8 @@
     "CountryCode": "MNP",
     "ISO2Code": "MP",
     "latitude": 17.33083,
-    "longitude": 145.38469
+    "longitude": 145.38469,
+    "CBPFFundStatus":""
   },
   {
     "id": 200,
@@ -2605,7 +2796,8 @@
     "CountryCode": "NOR",
     "ISO2Code": "NO",
     "latitude": 60.472024,
-    "longitude": 8.468946
+    "longitude": 8.468946,
+    "CBPFFundStatus":""
   },
   {
     "id": 201,
@@ -2618,7 +2810,8 @@
     "CountryCode": "OMN",
     "ISO2Code": "OM",
     "latitude": 21.512583,
-    "longitude": 55.923255
+    "longitude": 55.923255,
+    "CBPFFundStatus":""
   },
   {
     "id": 202,
@@ -2631,7 +2824,8 @@
     "CountryCode": "PLW",
     "ISO2Code": "PW",
     "latitude": 7.51498,
-    "longitude": 134.58252
+    "longitude": 134.58252,
+    "CBPFFundStatus":""
   },
   {
     "id": 203,
@@ -2644,7 +2838,8 @@
     "CountryCode": "PAN",
     "ISO2Code": "PA",
     "latitude": 8.537981,
-    "longitude": -80.782127
+    "longitude": -80.782127,
+    "CBPFFundStatus":""
   },
   {
     "id": 204,
@@ -2657,7 +2852,8 @@
     "CountryCode": "PCN",
     "ISO2Code": "PN",
     "latitude": -24.703615,
-    "longitude": -127.439308
+    "longitude": -127.439308,
+    "CBPFFundStatus":""
   },
   {
     "id": 205,
@@ -2670,7 +2866,8 @@
     "CountryCode": "POL",
     "ISO2Code": "PL",
     "latitude": 51.919438,
-    "longitude": 19.145136
+    "longitude": 19.145136,
+    "CBPFFundStatus":""
   },
   {
     "id": 206,
@@ -2683,7 +2880,8 @@
     "CountryCode": "PRT",
     "ISO2Code": "PT",
     "latitude": 39.399872,
-    "longitude": -8.224454
+    "longitude": -8.224454,
+    "CBPFFundStatus":""
   },
   {
     "id": 207,
@@ -2696,7 +2894,8 @@
     "CountryCode": "PRI",
     "ISO2Code": "PR",
     "latitude": 18.220833,
-    "longitude": -66.590149
+    "longitude": -66.590149,
+    "CBPFFundStatus":""
   },
   {
     "id": 208,
@@ -2709,7 +2908,8 @@
     "CountryCode": "QAT",
     "ISO2Code": "QA",
     "latitude": 25.354826,
-    "longitude": 51.183884
+    "longitude": 51.183884,
+    "CBPFFundStatus":""
   },
   {
     "id": 209,
@@ -2722,7 +2922,8 @@
     "CountryCode": "KOR",
     "ISO2Code": "KR",
     "latitude": 35.907757,
-    "longitude": 127.766922
+    "longitude": 127.766922,
+    "CBPFFundStatus":""
   },
   {
     "id": 210,
@@ -2735,7 +2936,8 @@
     "CountryCode": "MDA",
     "ISO2Code": "MD",
     "latitude": 47.411631,
-    "longitude": 28.369885
+    "longitude": 28.369885,
+    "CBPFFundStatus":""
   },
   {
     "id": 211,
@@ -2748,7 +2950,8 @@
     "CountryCode": "REU",
     "ISO2Code": "RE",
     "latitude": -21.115141,
-    "longitude": 55.536384
+    "longitude": 55.536384,
+    "CBPFFundStatus":""
   },
   {
     "id": 212,
@@ -2761,7 +2964,8 @@
     "CountryCode": "ROU",
     "ISO2Code": "RO",
     "latitude": 45.943161,
-    "longitude": 24.96676
+    "longitude": 24.96676,
+    "CBPFFundStatus":""
   },
   {
     "id": 213,
@@ -2774,7 +2978,8 @@
     "CountryCode": "RUS",
     "ISO2Code": "RU",
     "latitude": 61.52401,
-    "longitude": 105.318756
+    "longitude": 105.318756,
+    "CBPFFundStatus":""
   },
   {
     "id": 214,
@@ -2787,7 +2992,8 @@
     "CountryCode": "SHN",
     "ISO2Code": "SH",
     "latitude": -24.143474,
-    "longitude": -10.030696
+    "longitude": -10.030696,
+    "CBPFFundStatus":""
   },
   {
     "id": 215,
@@ -2800,7 +3006,8 @@
     "CountryCode": "KNA",
     "ISO2Code": "KN",
     "latitude": 17.357822,
-    "longitude": -62.782998
+    "longitude": -62.782998,
+    "CBPFFundStatus":""
   },
   {
     "id": 216,
@@ -2813,7 +3020,8 @@
     "CountryCode": "LCA",
     "ISO2Code": "LC",
     "latitude": 13.909444,
-    "longitude": -60.978893
+    "longitude": -60.978893,
+    "CBPFFundStatus":""
   },
   {
     "id": 217,
@@ -2826,7 +3034,8 @@
     "CountryCode": "SPM",
     "ISO2Code": "PM",
     "latitude": 46.941936,
-    "longitude": -56.27111
+    "longitude": -56.27111,
+    "CBPFFundStatus":""
   },
   {
     "id": 218,
@@ -2839,7 +3048,8 @@
     "CountryCode": "VCT",
     "ISO2Code": "VC",
     "latitude": 12.984305,
-    "longitude": -61.287228
+    "longitude": -61.287228,
+    "CBPFFundStatus":""
   },
   {
     "id": 219,
@@ -2852,7 +3062,8 @@
     "CountryCode": "SMR",
     "ISO2Code": "SM",
     "latitude": 43.94236,
-    "longitude": 12.457777
+    "longitude": 12.457777,
+    "CBPFFundStatus":""
   },
   {
     "id": 220,
@@ -2865,7 +3076,8 @@
     "CountryCode": "STP",
     "ISO2Code": "ST",
     "latitude": 0.18636,
-    "longitude": 6.613081
+    "longitude": 6.613081,
+    "CBPFFundStatus":""
   },
   {
     "id": 221,
@@ -2878,7 +3090,8 @@
     "CountryCode": "SAU",
     "ISO2Code": "SA",
     "latitude": 23.885942,
-    "longitude": 45.079162
+    "longitude": 45.079162,
+    "CBPFFundStatus":""
   },
   {
     "id": 222,
@@ -2891,7 +3104,8 @@
     "CountryCode": "SYC",
     "ISO2Code": "SC",
     "latitude": -4.679574,
-    "longitude": 55.491977
+    "longitude": 55.491977,
+    "CBPFFundStatus":""
   },
   {
     "id": 223,
@@ -2904,7 +3118,8 @@
     "CountryCode": "SGP",
     "ISO2Code": "SG",
     "latitude": 1.352083,
-    "longitude": 103.819836
+    "longitude": 103.819836,
+    "CBPFFundStatus":""
   },
   {
     "id": 224,
@@ -2917,7 +3132,8 @@
     "CountryCode": "SVK",
     "ISO2Code": "SK",
     "latitude": 48.669026,
-    "longitude": 19.699024
+    "longitude": 19.699024,
+    "CBPFFundStatus":""
   },
   {
     "id": 225,
@@ -2930,7 +3146,8 @@
     "CountryCode": "SVN",
     "ISO2Code": "SI",
     "latitude": 46.151241,
-    "longitude": 14.995463
+    "longitude": 14.995463,
+    "CBPFFundStatus":""
   },
   {
     "id": 226,
@@ -2943,7 +3160,8 @@
     "CountryCode": "ZAF",
     "ISO2Code": "ZA",
     "latitude": -30.559482,
-    "longitude": 22.937506
+    "longitude": 22.937506,
+    "CBPFFundStatus":""
   },
   {
     "id": 227,
@@ -2956,7 +3174,8 @@
     "CountryCode": "ESP",
     "ISO2Code": "ES",
     "latitude": 40.463667,
-    "longitude": -3.74922
+    "longitude": -3.74922,
+    "CBPFFundStatus":""
   },
   {
     "id": 228,
@@ -2969,7 +3188,8 @@
     "CountryCode": "SUR",
     "ISO2Code": "SR",
     "latitude": 3.919305,
-    "longitude": -56.027783
+    "longitude": -56.027783,
+    "CBPFFundStatus":""
   },
   {
     "id": 229,
@@ -2982,7 +3202,8 @@
     "CountryCode": "SJM",
     "ISO2Code": "SJ",
     "latitude": 77.553604,
-    "longitude": 23.670272
+    "longitude": 23.670272,
+    "CBPFFundStatus":""
   },
   {
     "id": 230,
@@ -2995,7 +3216,8 @@
     "CountryCode": "SWE",
     "ISO2Code": "SE",
     "latitude": 60.128161,
-    "longitude": 18.643501
+    "longitude": 18.643501,
+    "CBPFFundStatus":""
   },
   {
     "id": 231,
@@ -3008,7 +3230,8 @@
     "CountryCode": "CHE",
     "ISO2Code": "CH",
     "latitude": 46.818188,
-    "longitude": 8.227512
+    "longitude": 8.227512,
+    "CBPFFundStatus":""
   },
   {
     "id": 232,
@@ -3021,7 +3244,8 @@
     "CountryCode": "TWN",
     "ISO2Code": "TW",
     "latitude": 23.69781,
-    "longitude": 120.960515
+    "longitude": 120.960515,
+    "CBPFFundStatus":""
   },
   {
     "id": 233,
@@ -3034,7 +3258,8 @@
     "CountryCode": "THA",
     "ISO2Code": "TH",
     "latitude": 15.870032,
-    "longitude": 100.992541
+    "longitude": 100.992541,
+    "CBPFFundStatus":""
   },
   {
     "id": 234,
@@ -3047,7 +3272,8 @@
     "CountryCode": "TKL",
     "ISO2Code": "TK",
     "latitude": -8.967363,
-    "longitude": -171.855881
+    "longitude": -171.855881,
+    "CBPFFundStatus":""
   },
   {
     "id": 235,
@@ -3060,7 +3286,8 @@
     "CountryCode": "TON",
     "ISO2Code": "TO",
     "latitude": -21.178986,
-    "longitude": -175.198242
+    "longitude": -175.198242,
+    "CBPFFundStatus":""
   },
   {
     "id": 236,
@@ -3073,7 +3300,8 @@
     "CountryCode": "TTO",
     "ISO2Code": "TT",
     "latitude": 10.691803,
-    "longitude": -61.222503
+    "longitude": -61.222503,
+    "CBPFFundStatus":""
   },
   {
     "id": 237,
@@ -3086,7 +3314,8 @@
     "CountryCode": "TKM",
     "ISO2Code": "TM",
     "latitude": 38.969719,
-    "longitude": 59.556278
+    "longitude": 59.556278,
+    "CBPFFundStatus":""
   },
   {
     "id": 238,
@@ -3099,7 +3328,8 @@
     "CountryCode": "TCA",
     "ISO2Code": "TC",
     "latitude": 21.694025,
-    "longitude": -71.797928
+    "longitude": -71.797928,
+    "CBPFFundStatus":""
   },
   {
     "id": 239,
@@ -3112,7 +3342,8 @@
     "CountryCode": "TUV",
     "ISO2Code": "TV",
     "latitude": -7.109535,
-    "longitude": 177.64933
+    "longitude": 177.64933,
+    "CBPFFundStatus":""
   },
   {
     "id": 240,
@@ -3125,7 +3356,8 @@
     "CountryCode": "VIR",
     "ISO2Code": "VI",
     "latitude": 18.335765,
-    "longitude": -64.896335
+    "longitude": -64.896335,
+    "CBPFFundStatus":""
   },
   {
     "id": 241,
@@ -3138,7 +3370,8 @@
     "CountryCode": "ARE",
     "ISO2Code": "AE",
     "latitude": 23.424076,
-    "longitude": 53.847818
+    "longitude": 53.847818,
+    "CBPFFundStatus":""
   },
   {
     "id": 242,
@@ -3151,7 +3384,8 @@
     "CountryCode": "GBR",
     "ISO2Code": "GB",
     "latitude": 55.378051,
-    "longitude": -3.435973
+    "longitude": -3.435973,
+    "CBPFFundStatus":""
   },
   {
     "id": 243,
@@ -3164,7 +3398,8 @@
     "CountryCode": "USA",
     "ISO2Code": "US",
     "latitude": 37.09024,
-    "longitude": -95.712891
+    "longitude": -95.712891,
+    "CBPFFundStatus":""
   },
   {
     "id": 244,
@@ -3177,7 +3412,8 @@
     "CountryCode": "UMI",
     "ISO2Code": "UM",
     "latitude": "#N/A",
-    "longitude": "#N/A"
+    "longitude": "#N/A",
+    "CBPFFundStatus":""
   },
   {
     "id": 245,
@@ -3190,7 +3426,8 @@
     "CountryCode": "URY",
     "ISO2Code": "UY",
     "latitude": -32.522779,
-    "longitude": -55.765835
+    "longitude": -55.765835,
+    "CBPFFundStatus":""
   },
   {
     "id": 246,
@@ -3203,7 +3440,8 @@
     "CountryCode": "WLF",
     "ISO2Code": "WF",
     "latitude": -13.768752,
-    "longitude": -177.156097
+    "longitude": -177.156097,
+    "CBPFFundStatus":""
   },
   {
     "id": 247,
@@ -3216,7 +3454,8 @@
     "CountryCode": "ESH",
     "ISO2Code": "EH",
     "latitude": 24.215527,
-    "longitude": -12.885834
+    "longitude": -12.885834,
+    "CBPFFundStatus":""
   },
   {
     "id": 248,
@@ -3229,7 +3468,8 @@
     "CountryCode": "BFA",
     "ISO2Code": "BF",
     "latitude": 12.24000000,
-    "longitude": 1.56000000
+    "longitude": 1.56000000,
+    "CBPFFundStatus":""
   },
   {
     "id": 249,
@@ -3242,7 +3482,8 @@
     "CountryCode": "NER",
     "ISO2Code": "NE",
     "latitude": 17.61000000,
-    "longitude": 8.08000000
+    "longitude": 8.08000000,
+    "CBPFFundStatus":""
   },
   {
     "id": 248,
@@ -3255,7 +3496,8 @@
     "CountryCode": "BFA",
     "ISO2Code": "BF",
     "latitude": 12.24000000,
-    "longitude": 1.56000000
+    "longitude": 1.56000000,
+    "CBPFFundStatus":""
   },
   {
     "id": 249,
@@ -3268,6 +3510,7 @@
     "CountryCode": "NER",
     "ISO2Code": "NE",
     "latitude": 17.61000000,
-    "longitude": 8.08000000
+    "longitude": 8.08000000,
+    "CBPFFundStatus":""
   }
 ]
