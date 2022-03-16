@@ -18,16 +18,16 @@
         "shortName": "WHO"
     },
     {
-        "id": "2",
-        "orgType": "UN Agency",
-        "fullName": "World Food Programme",
-        "shortName": "WFP"
-    },
-    {
         "id": "1",
         "orgType": "UN Agency",
         "fullName": "United Nations Development Programme",
         "shortName": "UNDP"
+    },
+    {
+        "id": "2",
+        "orgType": "UN Agency",
+        "fullName": "World Food Programme",
+        "shortName": "WFP"
     },
     {
         "id": "4",
@@ -6561,6 +6561,12 @@
         "id": "1685922.0586",
         "orgType": "International NGO",
         "fullName": "ASSOCIAZIONE VENTO DI TERRA ONLUS",
+        "shortName": " "
+    },
+    {
+        "id": "1746950.9114",
+        "orgType": "National NGO",
+        "fullName": "Palestinian Environmental Friends",
         "shortName": " "
     },
     {
