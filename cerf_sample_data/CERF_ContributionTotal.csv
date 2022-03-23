@@ -1250,6 +1250,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,0.0,100000.0,Nigeria,NG,Member State,0,0,0,0,0,0
 2022,Member State,0.0,394913.5139,Iceland,IS,Member State,0,0,0,0,0,0
 2022,Member State,0.0,227031.9358,Iceland,IS,Member State,0,0,0,0,0,0
+2022,Private Contributions,200.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2022,Member State,200000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
 2022,Member State,0.0,5861664.7127,Luxembourg,LU,Member State,0,0,0,0,0,0
 2022,Member State,8005789.08,0.0,Australia,AU,Member State,0,0,0,0,0,0
