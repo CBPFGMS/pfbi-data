@@ -11212,6 +11212,7 @@ Ethiopia,2021,Reserve,20103,ETH-21/DDA-3379/RA2/NFI/ES/UN/20103,Emergency Shelte
 Ethiopia,2021,Reserve,20020,ETH-21/DDA-3379/RA2/P/INGO/20020,Protection,GBV,100.0,148998.56,CBPF
 Ethiopia,2021,Reserve,20057,ETH-21/DDA-3379/RA2/P/INGO/20057,Protection,GBV,100.0,448920.05,CBPF
 Ethiopia,2021,Reserve,20089,ETH-21/DDA-3379/RA2/P/INGO/20089,Protection,GBV,100.0,364055.12,CBPF
+Ethiopia,2021,Reserve,20092,ETH-21/DDA-3379/RA2/P/INGO/20092,Protection,GBV,100.0,435177.77,CBPF
 Ethiopia,2021,Reserve,20106,ETH-21/DDA-3379/RA2/P/INGO/20106,Protection,GBV,100.0,387000.0,CBPF
 Ethiopia,2021,Reserve,20038,ETH-21/DDA-3379/RA2/P/NGO/20038,Protection,GBV,100.0,430000.09,CBPF
 Ethiopia,2021,Reserve,20053,ETH-21/DDA-3379/RA2/P/UN/20053,Protection,GBV,100.0,300000.0,CBPF
@@ -11338,6 +11339,7 @@ Ethiopia,2021,Standard,21185,ETH-21/DDA-3379/SA2/A/INGO/21185,Food Security,Prot
 Ethiopia,2021,Standard,21209,ETH-21/DDA-3379/SA2/A/INGO/21209,Food Security,Protection de l'enfance,100.0,400000.0,CBPF
 Ethiopia,2021,Standard,21192,ETH-21/DDA-3379/SA2/A/NGO/21192,Food Security,Protection de l'enfance,100.0,150000.0,CBPF
 Ethiopia,2021,Standard,21212,ETH-21/DDA-3379/SA2/CCCM/INGO/21212,Camp Coordination / Management,,100.0,250000.16,CBPF
+Ethiopia,2021,Standard,21276,ETH-21/DDA-3379/SA2/CCCM/INGO/21276,Camp Coordination / Management,,100.0,400000.0,CBPF
 Ethiopia,2021,Standard,21250,ETH-21/DDA-3379/SA2/CCCM/NGO/21250,Camp Coordination / Management,,100.0,449999.8,CBPF
 Ethiopia,2021,Standard,21149,ETH-21/DDA-3379/SA2/CCCM/UN/21149,Camp Coordination / Management,,100.0,900000.06,CBPF
 Ethiopia,2021,Standard,21087,ETH-21/DDA-3379/SA2/E/NGO/21087,Education,,100.0,300000.0,CBPF
@@ -11372,6 +11374,8 @@ Ethiopia,2021,Standard,21164,ETH-21/DDA-3379/SA2/NFI/ES/NGO/21164,Emergency Shel
 Ethiopia,2021,Standard,21206,ETH-21/DDA-3379/SA2/NFI/ES/NGO/21206,Emergency Shelter and NFI,Child protection,100.0,164997.69,CBPF
 Ethiopia,2021,Standard,21273,ETH-21/DDA-3379/SA2/NFI/ES/NGO/21273,Emergency Shelter and NFI,Child protection,100.0,180000.0,CBPF
 Ethiopia,2021,Standard,21148,ETH-21/DDA-3379/SA2/NFI/ES/UN/21148,Emergency Shelter and NFI,Child protection,100.0,444000.01,CBPF
+Ethiopia,2021,Standard,21166,ETH-21/DDA-3379/SA2/NFI/ES-P/UN/21166,Emergency Shelter and NFI,Child protection,64.0,448000.0064,CBPF
+Ethiopia,2021,Standard,21166,ETH-21/DDA-3379/SA2/NFI/ES-P/UN/21166,Protection,GBV,36.0,252000.0036,CBPF
 Ethiopia,2021,Standard,21241,ETH-21/DDA-3379/SA2/N-H/INGO/21241,Health,Gender Based Violence (GBV),0.0,0.0,CBPF
 Ethiopia,2021,Standard,21241,ETH-21/DDA-3379/SA2/N-H/INGO/21241,Nutrition,,100.0,270000.0,CBPF
 Ethiopia,2021,Standard,21100,ETH-21/DDA-3379/SA2/P/INGO/21100,Protection,GBV,100.0,800000.04,CBPF
@@ -11385,6 +11389,9 @@ Ethiopia,2021,Standard,21253,ETH-21/DDA-3379/SA2/P/UN/21253,Protection,GBV,100.0
 Ethiopia,2021,Standard,21261,ETH-21/DDA-3379/SA2/P/UN/21261,Protection,GBV,100.0,100006.48,CBPF
 Ethiopia,2021,Standard,21097,ETH-21/DDA-3379/SA2/WASH/INGO/21097,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,600000.02,CBPF
 Ethiopia,2021,Standard,21285,ETH-21/DDA-3379/SA2/WASH/INGO/21285,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,394243.96,CBPF
+Ethiopia,2021,Standard,21146,ETH-21/DDA-3379/SA2/WASH/UN/21146,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,311378.93,CBPF
+Ethiopia,2021,Standard,21119,ETH-21/DDA-3379/SA2/WASH-P/INGO/21119,Protection,GBV,24.0,121317.9528,CBPF
+Ethiopia,2021,Standard,21119,ETH-21/DDA-3379/SA2/WASH-P/INGO/21119,Water Sanitation Hygiene,Child Protection in Emergencies,76.0,384173.5172,CBPF
 Ethiopia,2021,Standard,21182,ETH-21/DDA-3379/SA2/WASH-P/NGO/21182,Protection,GBV,17.0,97457.6748,CBPF
 Ethiopia,2021,Standard,21182,ETH-21/DDA-3379/SA2/WASH-P/NGO/21182,Water Sanitation Hygiene,Child Protection in Emergencies,83.0,475822.7652,CBPF
 Haiti,2013,Reserve,139,HTI-13/X/3416/ER/CSS/INGO/139,Coordination and Support Services,,100.0,197235.29,CBPF
@@ -15724,6 +15731,14 @@ Somalia,2021,Standard,18133,SOM-21/3485/SA1/WASH/NGO/18133,Water Sanitation Hygi
 Somalia,2021,Standard,18216,SOM-21/3485/SA1/WASH/NGO/18216,Water Sanitation Hygiene,,100.0,380000.0,CBPF
 Somalia,2021,Standard,18271,SOM-21/3485/SA1/WASH-H/INGO/18271,Health,,50.0,200000.0,CBPF
 Somalia,2021,Standard,18271,SOM-21/3485/SA1/WASH-H/INGO/18271,Water Sanitation Hygiene,,50.0,200000.0,CBPF
+Somalia,2022,Standard,21494,SOM-22/3485/SA1/CCCM-HLP/NGO/21494,Camp Coordination / Management,Teacher Incentives ,65.0,259937.769,CBPF
+Somalia,2022,Standard,21494,SOM-22/3485/SA1/CCCM-HLP/NGO/21494,Protection,Learning Materials (Assorted) ,35.0,139966.491,CBPF
+Somalia,2022,Standard,21498,SOM-22/3485/SA1/FSC/INGO/21498,Food Security,,100.0,349959.94,CBPF
+Somalia,2022,Standard,21534,SOM-22/3485/SA1/FSC/INGO/21534,Food Security,,100.0,219999.92,CBPF
+Somalia,2022,Standard,21518,SOM-22/3485/SA1/FSC/NGO/21518,Food Security,,100.0,199999.05,CBPF
+Somalia,2022,Standard,21538,SOM-22/3485/SA1/FSC/NGO/21538,Food Security,,100.0,199999.4,CBPF
+Somalia,2022,Standard,21493,SOM-22/3485/SA1/HLP-Shelter/NGO/21493,Emergency Shelter and NFI,,91.3,684705.39082,CBPF
+Somalia,2022,Standard,21493,SOM-22/3485/SA1/HLP-Shelter/NGO/21493,Protection,Learning Materials (Assorted) ,8.7,65245.74918,CBPF
 South Sudan,2020,Reserve,16404,SSD-20/HSS10/RA1/H/UN/16404,Health,,100.0,4999500.01,CBPF
 South Sudan,2020,Reserve,17639,SSD-20/HSS10/RA2/CCS/UN/17639,Coordination and Support Services,,100.0,500000.0,CBPF
 South Sudan,2020,Reserve,17630,SSD-20/HSS10/RA2/FSL/INGO/17630,Food Security,,100.0,282255.65,CBPF
