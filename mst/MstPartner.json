@@ -6,16 +6,16 @@
         "shortName": "FAO"
     },
     {
-        "id": "3",
-        "orgType": "UN Agency",
-        "fullName": "World Health Organization",
-        "shortName": "WHO"
-    },
-    {
         "id": "11",
         "orgType": "UN Agency",
         "fullName": "United Nations High Commissioner for Refugees",
         "shortName": "UNHCR"
+    },
+    {
+        "id": "3",
+        "orgType": "UN Agency",
+        "fullName": "World Health Organization",
+        "shortName": "WHO"
     },
     {
         "id": "1",
@@ -11946,9 +11946,33 @@
         "shortName": " "
     },
     {
+        "id": "20607379.8165",
+        "orgType": "International NGO",
+        "fullName": "INTERSOS",
+        "shortName": " "
+    },
+    {
+        "id": "20574632.5614",
+        "orgType": "UN Agency",
+        "fullName": "World Food Programme",
+        "shortName": " "
+    },
+    {
         "id": "20612057.9958",
         "orgType": "International NGO",
         "fullName": "Estonian Refugee Council",
+        "shortName": " "
+    },
+    {
+        "id": "20677552.506",
+        "orgType": "International NGO",
+        "fullName": "Foundazione di Religione \u201cOpera San Francesco Saverio\u201d - Collegio Universitario Aspiranti Medici Missionari - C.U.A.M.M.",
+        "shortName": " "
+    },
+    {
+        "id": "20593345.2786",
+        "orgType": "International NGO",
+        "fullName": "Solidarit\u00e9s International",
         "shortName": " "
     },
     {
