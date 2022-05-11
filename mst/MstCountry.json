@@ -11,7 +11,9 @@
     "ISO2Code": "AF",
     "latitude": 33.93911,
     "longitude": 67.709953,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 23,
+    "AreaType": "Country"
   },
   {
     "id": 2,
@@ -25,7 +27,9 @@
     "ISO2Code": "DZ",
     "latitude": 28.033886,
     "longitude": 1.659626,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 3,
@@ -39,7 +43,9 @@
     "ISO2Code": "AO",
     "latitude": -11.202692,
     "longitude": 17.873887,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 91,
+    "AreaType": "Country"
   },
   {
     "id": 4,
@@ -53,7 +59,9 @@
     "ISO2Code": "AG",
     "latitude": 17.060816,
     "longitude": -61.796428,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 5,
@@ -67,7 +75,9 @@
     "ISO2Code": "AM",
     "latitude": 40.069099,
     "longitude": 45.038189,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 6,
@@ -81,7 +91,9 @@
     "ISO2Code": "BS",
     "latitude": 25.03428,
     "longitude": -77.39628,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 7,
@@ -95,7 +107,9 @@
     "ISO2Code": "BD",
     "latitude": 23.684994,
     "longitude": 90.356331,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 8,
@@ -109,7 +123,9 @@
     "ISO2Code": "BJ",
     "latitude": 9.30769,
     "longitude": 2.315834,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 9,
@@ -123,7 +139,9 @@
     "ISO2Code": "BT",
     "latitude": 27.514162,
     "longitude": 90.433601,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 10,
@@ -137,7 +155,9 @@
     "ISO2Code": "BO",
     "latitude": -16.290154,
     "longitude": -63.588653,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 11,
@@ -151,7 +171,9 @@
     "ISO2Code": "BA",
     "latitude": 43.915886,
     "longitude": 17.679076,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 12,
@@ -165,7 +187,9 @@
     "ISO2Code": "BR",
     "latitude": -14.235004,
     "longitude": -51.92528,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 13,
@@ -179,7 +203,9 @@
     "ISO2Code": "BF",
     "latitude": 12.238333,
     "longitude": -1.561593,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 85,
+    "AreaType": "Country"
   },
   {
     "id": 14,
@@ -193,7 +219,9 @@
     "ISO2Code": "BI",
     "latitude": -3.373056,
     "longitude": 29.918886,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 15,
@@ -207,7 +235,9 @@
     "ISO2Code": "KH",
     "latitude": 12.565679,
     "longitude": 104.990963,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 16,
@@ -221,7 +251,9 @@
     "ISO2Code": "CM",
     "latitude": 7.369722,
     "longitude": 12.354722,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 17,
@@ -235,7 +267,9 @@
     "ISO2Code": "CV",
     "latitude": 16.002082,
     "longitude": -24.013197,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 18,
@@ -249,7 +283,9 @@
     "ISO2Code": "CF",
     "latitude": 6.611111,
     "longitude": 20.939444,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 17,
+    "AreaType": "Country"
   },
   {
     "id": 19,
@@ -263,7 +299,9 @@
     "ISO2Code": "TD",
     "latitude": 15.454166,
     "longitude": 18.732207,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 20,
@@ -277,7 +315,9 @@
     "ISO2Code": "CL",
     "latitude": -35.675147,
     "longitude": -71.542969,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 21,
@@ -291,7 +331,9 @@
     "ISO2Code": "CN",
     "latitude": 35.86166,
     "longitude": 104.195397,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 22,
@@ -305,7 +347,9 @@
     "ISO2Code": "CO",
     "latitude": 4.570868,
     "longitude": -74.297333,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 52,
+    "AreaType": "Country"
   },
   {
     "id": 23,
@@ -319,7 +363,9 @@
     "ISO2Code": "KM",
     "latitude": -11.875001,
     "longitude": 43.872219,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 24,
@@ -333,7 +379,9 @@
     "ISO2Code": "CI",
     "latitude": 7.539989,
     "longitude": -5.54708,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 92,
+    "AreaType": "Country"
   },
   {
     "id": 25,
@@ -347,7 +395,9 @@
     "ISO2Code": "CU",
     "latitude": 21.521757,
     "longitude": -77.781167,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 26,
@@ -361,7 +411,9 @@
     "ISO2Code": "KP",
     "latitude": 40.339852,
     "longitude": 127.510093,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 27,
@@ -375,7 +427,9 @@
     "ISO2Code": "CD",
     "latitude": -4.038333,
     "longitude": 21.758664,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 24,
+    "AreaType": "Country"
   },
   {
     "id": 28,
@@ -389,7 +443,9 @@
     "ISO2Code": "DJ",
     "latitude": 11.825138,
     "longitude": 42.590275,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 29,
@@ -403,7 +459,9 @@
     "ISO2Code": "DM",
     "latitude": 15.414999,
     "longitude": -61.370976,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 30,
@@ -417,7 +475,9 @@
     "ISO2Code": "DO",
     "latitude": 18.735693,
     "longitude": -70.162651,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 31,
@@ -431,7 +491,9 @@
     "ISO2Code": "0E",
     "latitude": "#N/A",
     "longitude": "#N/A",
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Regional"
   },
   {
     "id": 32,
@@ -445,7 +507,9 @@
     "ISO2Code": "EC",
     "latitude": -1.831239,
     "longitude": -78.183406,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 33,
@@ -459,7 +523,9 @@
     "ISO2Code": "EG",
     "latitude": 26.820553,
     "longitude": 30.802498,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 34,
@@ -473,7 +539,9 @@
     "ISO2Code": "SV",
     "latitude": 13.794185,
     "longitude": -88.89653,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 35,
@@ -487,7 +555,9 @@
     "ISO2Code": "ER",
     "latitude": 15.179384,
     "longitude": 39.782334,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 36,
@@ -501,7 +571,9 @@
     "ISO2Code": "ET",
     "latitude": 9.145,
     "longitude": 40.489673,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 53,
+    "AreaType": "Country"
   },
   {
     "id": 37,
@@ -515,7 +587,9 @@
     "ISO2Code": "FJ",
     "latitude": -16.578193,
     "longitude": 179.414413,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 38,
@@ -529,7 +603,9 @@
     "ISO2Code": "GM",
     "latitude": 13.443182,
     "longitude": -15.310139,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 39,
@@ -543,7 +619,9 @@
     "ISO2Code": "GE",
     "latitude": 42.315407,
     "longitude": 43.356892,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 40,
@@ -557,7 +635,9 @@
     "ISO2Code": "GH",
     "latitude": 7.946527,
     "longitude": -1.023194,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 41,
@@ -571,7 +651,9 @@
     "ISO2Code": "0G",
     "latitude": "#N/A",
     "longitude": "#N/A",
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Regional"
   },
   {
     "id": 42,
@@ -585,7 +667,9 @@
     "ISO2Code": "GT",
     "latitude": 15.783471,
     "longitude": -90.230759,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 43,
@@ -599,7 +683,9 @@
     "ISO2Code": "GN",
     "latitude": 9.945587,
     "longitude": -9.696645,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 44,
@@ -613,7 +699,9 @@
     "ISO2Code": "GW",
     "latitude": 11.803749,
     "longitude": -15.180413,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 45,
@@ -627,7 +715,9 @@
     "ISO2Code": "HT",
     "latitude": 18.971187,
     "longitude": -72.285215,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 54,
+    "AreaType": "Country"
   },
   {
     "id": 46,
@@ -641,7 +731,9 @@
     "ISO2Code": "HN",
     "latitude": 15.199999,
     "longitude": -86.241905,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 47,
@@ -655,7 +747,9 @@
     "ISO2Code": "IN",
     "latitude": 20.593684,
     "longitude": 78.96288,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 48,
@@ -669,7 +763,9 @@
     "ISO2Code": "ID",
     "latitude": -0.789275,
     "longitude": 113.921327,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 55,
+    "AreaType": "Country"
   },
   {
     "id": 49,
@@ -683,7 +779,9 @@
     "ISO2Code": "IQ",
     "latitude": 33.223191,
     "longitude": 43.679291,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 72,
+    "AreaType": "Country"
   },
   {
     "id": 50,
@@ -697,7 +795,9 @@
     "ISO2Code": "IR",
     "latitude": 32.427908,
     "longitude": 53.688046,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 51,
@@ -711,7 +811,9 @@
     "ISO2Code": "JO",
     "latitude": 30.585164,
     "longitude": 36.238414,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 73,
+    "AreaType": "Country"
   },
   {
     "id": 52,
@@ -725,7 +827,9 @@
     "ISO2Code": "KE",
     "latitude": -0.023559,
     "longitude": 37.906193,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 57,
+    "AreaType": "Country"
   },
   {
     "id": 53,
@@ -739,7 +843,9 @@
     "ISO2Code": "KG",
     "latitude": 41.20438,
     "longitude": 74.766098,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 54,
@@ -753,7 +859,9 @@
     "ISO2Code": "LA",
     "latitude": 19.85627,
     "longitude": 102.495496,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 55,
@@ -767,7 +875,9 @@
     "ISO2Code": "LB",
     "latitude": 33.854721,
     "longitude": 35.862285,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 71,
+    "AreaType": "Country"
   },
   {
     "id": 56,
@@ -781,7 +891,9 @@
     "ISO2Code": "LS",
     "latitude": -29.609988,
     "longitude": 28.233608,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 57,
@@ -795,7 +907,9 @@
     "ISO2Code": "LR",
     "latitude": 6.428055,
     "longitude": -9.429499,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 93,
+    "AreaType": "Country"
   },
   {
     "id": 58,
@@ -809,7 +923,9 @@
     "ISO2Code": "LY",
     "latitude": 26.3351,
     "longitude": 17.228331,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 59,
@@ -823,7 +939,9 @@
     "ISO2Code": "MG",
     "latitude": -18.766947,
     "longitude": 46.869107,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 60,
@@ -837,7 +955,9 @@
     "ISO2Code": "MW",
     "latitude": -13.254308,
     "longitude": 34.301525,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 61,
@@ -851,7 +971,9 @@
     "ISO2Code": "ML",
     "latitude": 17.570692,
     "longitude": -3.996166,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 62,
@@ -865,7 +987,9 @@
     "ISO2Code": "MH",
     "latitude": 7.131474,
     "longitude": 171.184478,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 63,
@@ -879,7 +1003,9 @@
     "ISO2Code": "MR",
     "latitude": 21.00789,
     "longitude": -10.940835,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 64,
@@ -893,7 +1019,9 @@
     "ISO2Code": "MX",
     "latitude": 23.634501,
     "longitude": -102.552784,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 65,
@@ -907,7 +1035,9 @@
     "ISO2Code": "MN",
     "latitude": 46.862496,
     "longitude": 103.846656,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 66,
@@ -921,7 +1051,9 @@
     "ISO2Code": "MZ",
     "latitude": -18.665695,
     "longitude": 35.529562,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 67,
@@ -935,7 +1067,9 @@
     "ISO2Code": "MM",
     "latitude": 21.913965,
     "longitude": 95.956223,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 59,
+    "AreaType": "Country"
   },
   {
     "id": 68,
@@ -949,7 +1083,9 @@
     "ISO2Code": "NA",
     "latitude": -22.95764,
     "longitude": 18.49041,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 69,
@@ -963,7 +1099,9 @@
     "ISO2Code": "NP",
     "latitude": 28.394857,
     "longitude": 84.124008,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 68,
+    "AreaType": "Country"
   },
   {
     "id": 70,
@@ -977,7 +1115,9 @@
     "ISO2Code": "NI",
     "latitude": 12.865416,
     "longitude": -85.207229,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 71,
@@ -991,7 +1131,9 @@
     "ISO2Code": "NE",
     "latitude": 17.607789,
     "longitude": 8.081666,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 84,
+    "AreaType": "Country"
   },
   {
     "id": 72,
@@ -1005,7 +1147,9 @@
     "ISO2Code": "NG",
     "latitude": 9.081999,
     "longitude": 8.675277,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 75,
+    "AreaType": "Country"
   },
   {
     "id": 73,
@@ -1019,7 +1163,9 @@
     "ISO2Code": "PS",
     "latitude": 31.952162,
     "longitude": 35.233154,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 67,
+    "AreaType": "Country"
   },
   {
     "id": 74,
@@ -1033,7 +1179,9 @@
     "ISO2Code": "PK",
     "latitude": 30.375321,
     "longitude": 69.345116,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 60,
+    "AreaType": "Country"
   },
   {
     "id": 75,
@@ -1047,7 +1195,9 @@
     "ISO2Code": "PG",
     "latitude": -6.314993,
     "longitude": 143.95555,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 76,
@@ -1061,7 +1211,9 @@
     "ISO2Code": "PY",
     "latitude": -23.442503,
     "longitude": -58.443832,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 77,
@@ -1075,7 +1227,9 @@
     "ISO2Code": "PE",
     "latitude": -9.189967,
     "longitude": -75.015152,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 78,
@@ -1089,7 +1243,9 @@
     "ISO2Code": "PH",
     "latitude": 12.879721,
     "longitude": 121.774017,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 79,
@@ -1103,7 +1259,9 @@
     "ISO2Code": "CG",
     "latitude": -0.228021,
     "longitude": 15.827659,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 80,
@@ -1117,7 +1275,9 @@
     "ISO2Code": "SD",
     "latitude": 12.862807,
     "longitude": 30.217636,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 15,
+    "AreaType": "Country"
   },
   {
     "id": 81,
@@ -1131,7 +1291,9 @@
     "ISO2Code": "RW",
     "latitude": -1.940278,
     "longitude": 29.873888,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 82,
@@ -1145,7 +1307,9 @@
     "ISO2Code": "WS",
     "latitude": -13.759029,
     "longitude": -172.104629,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 83,
@@ -1159,7 +1323,9 @@
     "ISO2Code": "SN",
     "latitude": 14.497401,
     "longitude": -14.452362,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 84,
@@ -1173,7 +1339,9 @@
     "ISO2Code": "RS",
     "latitude": 44.016521,
     "longitude": 21.005859,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 85,
@@ -1187,7 +1355,9 @@
     "ISO2Code": "SL",
     "latitude": 8.460555,
     "longitude": -11.779889,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 86,
@@ -1201,7 +1371,9 @@
     "ISO2Code": "SB",
     "latitude": -9.64571,
     "longitude": 160.156194,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 87,
@@ -1215,7 +1387,9 @@
     "ISO2Code": "SO",
     "latitude": 5.152149,
     "longitude": 46.199616,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 21,
+    "AreaType": "Country"
   },
   {
     "id": 88,
@@ -1229,7 +1403,9 @@
     "ISO2Code": "SS",
     "latitude": 4.85165,
     "longitude": 31.58247,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 19,
+    "AreaType": "Country"
   },
   {
     "id": 89,
@@ -1243,7 +1419,9 @@
     "ISO2Code": "LK",
     "latitude": 7.873054,
     "longitude": 80.771797,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 90,
@@ -1257,7 +1435,9 @@
     "ISO2Code": "SZ",
     "latitude": -26.522503,
     "longitude": 31.465866,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 91,
@@ -1271,7 +1451,9 @@
     "ISO2Code": "SY",
     "latitude": 34.802075,
     "longitude": 38.996815,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 62,
+    "AreaType": "Country"
   },
   {
     "id": 92,
@@ -1285,7 +1467,9 @@
     "ISO2Code": "TJ",
     "latitude": 38.861034,
     "longitude": 71.276093,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 93,
@@ -1299,7 +1483,9 @@
     "ISO2Code": "TL",
     "latitude": -8.874217,
     "longitude": 125.727539,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 94,
@@ -1313,7 +1499,9 @@
     "ISO2Code": "TG",
     "latitude": 8.619543,
     "longitude": 0.824782,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 95,
@@ -1327,7 +1515,9 @@
     "ISO2Code": "TN",
     "latitude": 33.886917,
     "longitude": 9.537499,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 96,
@@ -1341,7 +1531,9 @@
     "ISO2Code": "TR",
     "latitude": 38.963745,
     "longitude": 35.243322,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 97,
@@ -1355,7 +1547,9 @@
     "ISO2Code": "UG",
     "latitude": 1.373333,
     "longitude": 32.290275,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 98,
@@ -1369,7 +1563,9 @@
     "ISO2Code": "UA",
     "latitude": 48.379433,
     "longitude": 31.16558,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 81,
+    "AreaType": "Country"
   },
   {
     "id": 99,
@@ -1383,7 +1579,9 @@
     "ISO2Code": "TZ",
     "latitude": -6.369028,
     "longitude": 34.888822,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 100,
@@ -1397,7 +1595,9 @@
     "ISO2Code": "UZ",
     "latitude": 41.377491,
     "longitude": 64.585262,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 101,
@@ -1411,7 +1611,9 @@
     "ISO2Code": "VU",
     "latitude": -15.376706,
     "longitude": 166.959158,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 102,
@@ -1425,7 +1627,9 @@
     "ISO2Code": "VE",
     "latitude": 6.42375,
     "longitude": -66.58973,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 83,
+    "AreaType": "Country"
   },
   {
     "id": 103,
@@ -1439,7 +1643,9 @@
     "ISO2Code": "0V",
     "latitude": "#N/A",
     "longitude": "#N/A",
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Regional"
   },
   {
     "id": 104,
@@ -1453,7 +1659,9 @@
     "ISO2Code": "VN",
     "latitude": 14.058324,
     "longitude": 108.277199,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 105,
@@ -1467,7 +1675,9 @@
     "ISO2Code": "YE",
     "latitude": 15.552727,
     "longitude": 48.516388,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 64,
+    "AreaType": "Country"
   },
   {
     "id": 106,
@@ -1481,7 +1691,9 @@
     "ISO2Code": "ZM",
     "latitude": -13.133897,
     "longitude": 27.849332,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 107,
@@ -1495,7 +1707,9 @@
     "ISO2Code": "ZW",
     "latitude": -19.015438,
     "longitude": 29.154857,
-    "CBPFFundStatus":"Closed"
+    "CBPFFundStatus":"Closed",
+    "CBPFId": 66,
+    "AreaType": "Country"
   },
   {
     "id": 108,
@@ -1509,7 +1723,9 @@
     "ISO2Code": "XX",
     "latitude": 37.065378,
     "longitude": 37.393274,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 70,
+    "AreaType": "Country"
   },
   {
     "id": 109,
@@ -1523,7 +1739,9 @@
     "ISO2Code": "CERF",
     "latitude": 40.71427,
     "longitude": -74.00597,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 110,
@@ -1537,7 +1755,9 @@
     "ISO2Code": "0SOA",
     "latitude": -29.6099,
     "longitude": 28.2336,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Regional"
   },
   {
     "id": 111,
@@ -1551,7 +1771,9 @@
     "ISO2Code": "AZ",
     "latitude": 40.409264,
     "longitude": 49.867092,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 112,
@@ -1565,7 +1787,9 @@
     "ISO2Code": "GQ",
     "latitude": 1.6195,
     "longitude": 10.3178,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 113,
@@ -1579,7 +1803,9 @@
     "ISO2Code": "AX",
     "latitude": "#N/A",
     "longitude": "#N/A",
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 114,
@@ -1593,7 +1819,9 @@
     "ISO2Code": "AL",
     "latitude": 41.153332,
     "longitude": 20.168331,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 115,
@@ -1607,7 +1835,9 @@
     "ISO2Code": "AS",
     "latitude": -14.270972,
     "longitude": -170.132217,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 116,
@@ -1621,7 +1851,9 @@
     "ISO2Code": "AD",
     "latitude": 42.546245,
     "longitude": 1.601554,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 117,
@@ -1635,7 +1867,9 @@
     "ISO2Code": "AI",
     "latitude": 18.220554,
     "longitude": -63.068615,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 118,
@@ -1649,7 +1883,9 @@
     "ISO2Code": "AR",
     "latitude": -38.416097,
     "longitude": -63.616672,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 119,
@@ -1663,7 +1899,9 @@
     "ISO2Code": "AW",
     "latitude": 12.52111,
     "longitude": -69.968338,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 120,
@@ -1677,7 +1915,9 @@
     "ISO2Code": "AU",
     "latitude": -25.274398,
     "longitude": 133.775136,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 121,
@@ -1691,7 +1931,9 @@
     "ISO2Code": "AT",
     "latitude": 47.516231,
     "longitude": 14.550072,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 122,
@@ -1705,7 +1947,9 @@
     "ISO2Code": "BH",
     "latitude": 25.930414,
     "longitude": 50.637772,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 123,
@@ -1719,7 +1963,9 @@
     "ISO2Code": "BB",
     "latitude": 13.193887,
     "longitude": -59.543198,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 124,
@@ -1733,7 +1979,9 @@
     "ISO2Code": "BY",
     "latitude": 53.709807,
     "longitude": 27.953389,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 125,
@@ -1747,7 +1995,9 @@
     "ISO2Code": "BE",
     "latitude": 50.503887,
     "longitude": 4.469936,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 126,
@@ -1761,7 +2011,9 @@
     "ISO2Code": "BZ",
     "latitude": 17.189877,
     "longitude": -88.49765,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 127,
@@ -1775,7 +2027,9 @@
     "ISO2Code": "BM",
     "latitude": 32.321384,
     "longitude": -64.75737,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 128,
@@ -1789,7 +2043,9 @@
     "ISO2Code": "BW",
     "latitude": -22.328474,
     "longitude": 24.684866,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 129,
@@ -1803,7 +2059,9 @@
     "ISO2Code": "BV",
     "latitude": -54.423199,
     "longitude": 3.413194,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 130,
@@ -1817,7 +2075,9 @@
     "ISO2Code": "IO",
     "latitude": -6.343194,
     "longitude": 71.876519,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 131,
@@ -1831,7 +2091,9 @@
     "ISO2Code": "VG",
     "latitude": 18.420695,
     "longitude": -64.639968,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 132,
@@ -1845,7 +2107,9 @@
     "ISO2Code": "BN",
     "latitude": 4.535277,
     "longitude": 114.727669,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 133,
@@ -1859,7 +2123,9 @@
     "ISO2Code": "BG",
     "latitude": 42.733883,
     "longitude": 25.48583,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 134,
@@ -1873,7 +2139,9 @@
     "ISO2Code": "CA",
     "latitude": 56.130366,
     "longitude": -106.346771,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 135,
@@ -1887,7 +2155,9 @@
     "ISO2Code": "KY",
     "latitude": 19.513469,
     "longitude": -80.566956,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 136,
@@ -1901,7 +2171,9 @@
     "ISO2Code": "CX",
     "latitude": -10.447525,
     "longitude": 105.690449,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 137,
@@ -1915,7 +2187,9 @@
     "ISO2Code": "CC",
     "latitude": -12.164165,
     "longitude": 96.870956,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 138,
@@ -1929,7 +2203,9 @@
     "ISO2Code": "CK",
     "latitude": -21.236736,
     "longitude": -159.777671,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 139,
@@ -1943,7 +2219,9 @@
     "ISO2Code": "CR",
     "latitude": 9.748917,
     "longitude": -83.753428,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 140,
@@ -1957,7 +2235,9 @@
     "ISO2Code": "HR",
     "latitude": 45.1,
     "longitude": 15.2,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 141,
@@ -1971,7 +2251,9 @@
     "ISO2Code": "CY",
     "latitude": 35.126413,
     "longitude": 33.429859,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 142,
@@ -1985,7 +2267,9 @@
     "ISO2Code": "CZ",
     "latitude": 49.817492,
     "longitude": 15.472962,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 143,
@@ -1999,7 +2283,9 @@
     "ISO2Code": "DK",
     "latitude": 56.26392,
     "longitude": 9.501785,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 144,
@@ -2013,7 +2299,9 @@
     "ISO2Code": "EE",
     "latitude": 58.595272,
     "longitude": 25.013607,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 145,
@@ -2027,7 +2315,9 @@
     "ISO2Code": "FK",
     "latitude": -51.796253,
     "longitude": -59.523613,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 146,
@@ -2041,7 +2331,9 @@
     "ISO2Code": "FO",
     "latitude": 61.892635,
     "longitude": -6.911806,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 147,
@@ -2055,7 +2347,9 @@
     "ISO2Code": "FM",
     "latitude": 7.425554,
     "longitude": 150.550812,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 148,
@@ -2069,7 +2363,9 @@
     "ISO2Code": "FI",
     "latitude": 61.92411,
     "longitude": 25.748151,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 149,
@@ -2083,7 +2379,9 @@
     "ISO2Code": "MK",
     "latitude": 41.608635,
     "longitude": 21.745275,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 150,
@@ -2097,7 +2395,9 @@
     "ISO2Code": "FR",
     "latitude": 46.227638,
     "longitude": 2.213749,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 151,
@@ -2111,7 +2411,9 @@
     "ISO2Code": "GF",
     "latitude": 3.933889,
     "longitude": -53.125782,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 152,
@@ -2125,7 +2427,9 @@
     "ISO2Code": "PF",
     "latitude": -17.679742,
     "longitude": -149.406843,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 153,
@@ -2139,7 +2443,9 @@
     "ISO2Code": "GA",
     "latitude": -0.803689,
     "longitude": 11.609444,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 154,
@@ -2153,7 +2459,9 @@
     "ISO2Code": "DE",
     "latitude": 51.165691,
     "longitude": 10.451526,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 155,
@@ -2167,7 +2475,9 @@
     "ISO2Code": "GI",
     "latitude": 36.137741,
     "longitude": -5.345374,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 156,
@@ -2181,7 +2491,9 @@
     "ISO2Code": "GR",
     "latitude": 39.074208,
     "longitude": 21.824312,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 157,
@@ -2195,7 +2507,9 @@
     "ISO2Code": "GL",
     "latitude": 71.706936,
     "longitude": -42.604303,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 158,
@@ -2209,7 +2523,9 @@
     "ISO2Code": "GD",
     "latitude": 12.262776,
     "longitude": -61.604171,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 159,
@@ -2223,7 +2539,9 @@
     "ISO2Code": "GP",
     "latitude": 16.995971,
     "longitude": -62.067641,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 160,
@@ -2237,7 +2555,9 @@
     "ISO2Code": "GU",
     "latitude": 13.444304,
     "longitude": 144.793731,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 161,
@@ -2251,7 +2571,9 @@
     "ISO2Code": "GG",
     "latitude": 49.465691,
     "longitude": -2.585278,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 162,
@@ -2265,7 +2587,9 @@
     "ISO2Code": "GY",
     "latitude": 4.860416,
     "longitude": -58.93018,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 163,
@@ -2279,7 +2603,9 @@
     "ISO2Code": "VA",
     "latitude": 41.902916,
     "longitude": 12.453389,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 164,
@@ -2293,7 +2619,9 @@
     "ISO2Code": "HK",
     "latitude": 22.396428,
     "longitude": 114.109497,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 165,
@@ -2307,7 +2635,9 @@
     "ISO2Code": "HU",
     "latitude": 47.162494,
     "longitude": 19.503304,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 166,
@@ -2321,7 +2651,9 @@
     "ISO2Code": "IS",
     "latitude": 64.963051,
     "longitude": -19.020835,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 167,
@@ -2335,7 +2667,9 @@
     "ISO2Code": "IE",
     "latitude": 53.41291,
     "longitude": -8.24389,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 168,
@@ -2349,7 +2683,9 @@
     "ISO2Code": "IM",
     "latitude": 54.236107,
     "longitude": -4.548056,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 169,
@@ -2363,7 +2699,9 @@
     "ISO2Code": "IL",
     "latitude": 31.046051,
     "longitude": 34.851612,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 170,
@@ -2377,7 +2715,9 @@
     "ISO2Code": "IT",
     "latitude": 41.87194,
     "longitude": 12.56738,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 171,
@@ -2391,7 +2731,9 @@
     "ISO2Code": "JM",
     "latitude": 18.109581,
     "longitude": -77.297508,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 172,
@@ -2405,7 +2747,9 @@
     "ISO2Code": "JP",
     "latitude": 36.204824,
     "longitude": 138.252924,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 173,
@@ -2419,7 +2763,9 @@
     "ISO2Code": "JE",
     "latitude": 49.214439,
     "longitude": -2.13125,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 174,
@@ -2433,7 +2779,9 @@
     "ISO2Code": "KZ",
     "latitude": 48.019573,
     "longitude": 66.923684,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 175,
@@ -2447,7 +2795,9 @@
     "ISO2Code": "KI",
     "latitude": -3.370417,
     "longitude": -168.734039,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 176,
@@ -2461,7 +2811,9 @@
     "ISO2Code": "KW",
     "latitude": 29.31166,
     "longitude": 47.481766,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 177,
@@ -2475,7 +2827,9 @@
     "ISO2Code": "LV",
     "latitude": 56.879635,
     "longitude": 24.603189,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 178,
@@ -2489,7 +2843,9 @@
     "ISO2Code": "LI",
     "latitude": 47.166,
     "longitude": 9.555373,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 179,
@@ -2503,7 +2859,9 @@
     "ISO2Code": "LT",
     "latitude": 55.169438,
     "longitude": 23.881275,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 180,
@@ -2517,7 +2875,9 @@
     "ISO2Code": "LU",
     "latitude": 49.815273,
     "longitude": 6.129583,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 181,
@@ -2531,7 +2891,9 @@
     "ISO2Code": "MO",
     "latitude": 22.198745,
     "longitude": 113.543873,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 182,
@@ -2545,7 +2907,9 @@
     "ISO2Code": "MY",
     "latitude": 4.210484,
     "longitude": 101.975766,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 183,
@@ -2559,7 +2923,9 @@
     "ISO2Code": "MV",
     "latitude": 3.202778,
     "longitude": 73.22068,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 184,
@@ -2573,7 +2939,9 @@
     "ISO2Code": "MT",
     "latitude": 35.937496,
     "longitude": 14.375416,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 185,
@@ -2587,7 +2955,9 @@
     "ISO2Code": "MQ",
     "latitude": 14.641528,
     "longitude": -61.024174,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 186,
@@ -2601,7 +2971,9 @@
     "ISO2Code": "MU",
     "latitude": -20.348404,
     "longitude": 57.552152,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 187,
@@ -2615,7 +2987,9 @@
     "ISO2Code": "YT",
     "latitude": -12.8275,
     "longitude": 45.166244,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 188,
@@ -2629,7 +3003,9 @@
     "ISO2Code": "MC",
     "latitude": 43.750298,
     "longitude": 7.412841,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 189,
@@ -2643,7 +3019,9 @@
     "ISO2Code": "ME",
     "latitude": 42.708678,
     "longitude": 19.37439,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 190,
@@ -2657,7 +3035,9 @@
     "ISO2Code": "MS",
     "latitude": 16.742498,
     "longitude": -62.187366,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 191,
@@ -2671,7 +3051,9 @@
     "ISO2Code": "MA",
     "latitude": 31.791702,
     "longitude": -7.09262,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 192,
@@ -2685,7 +3067,9 @@
     "ISO2Code": "NR",
     "latitude": -0.522778,
     "longitude": 166.931503,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 193,
@@ -2699,7 +3083,9 @@
     "ISO2Code": "NL",
     "latitude": 52.132633,
     "longitude": 5.291266,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 194,
@@ -2713,7 +3099,9 @@
     "ISO2Code": "AN",
     "latitude": 12.226079,
     "longitude": -69.060087,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 195,
@@ -2727,7 +3115,9 @@
     "ISO2Code": "NC",
     "latitude": -20.904305,
     "longitude": 165.618042,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 196,
@@ -2741,7 +3131,9 @@
     "ISO2Code": "NZ",
     "latitude": -40.900557,
     "longitude": 174.885971,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 197,
@@ -2755,7 +3147,9 @@
     "ISO2Code": "NU",
     "latitude": -19.054445,
     "longitude": -169.867233,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 198,
@@ -2769,7 +3163,9 @@
     "ISO2Code": "NF",
     "latitude": -29.040835,
     "longitude": 167.954712,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 199,
@@ -2783,7 +3179,9 @@
     "ISO2Code": "MP",
     "latitude": 17.33083,
     "longitude": 145.38469,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 200,
@@ -2797,7 +3195,9 @@
     "ISO2Code": "NO",
     "latitude": 60.472024,
     "longitude": 8.468946,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 201,
@@ -2811,7 +3211,9 @@
     "ISO2Code": "OM",
     "latitude": 21.512583,
     "longitude": 55.923255,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 202,
@@ -2825,7 +3227,9 @@
     "ISO2Code": "PW",
     "latitude": 7.51498,
     "longitude": 134.58252,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 203,
@@ -2839,7 +3243,9 @@
     "ISO2Code": "PA",
     "latitude": 8.537981,
     "longitude": -80.782127,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 204,
@@ -2853,7 +3259,9 @@
     "ISO2Code": "PN",
     "latitude": -24.703615,
     "longitude": -127.439308,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 205,
@@ -2867,7 +3275,9 @@
     "ISO2Code": "PL",
     "latitude": 51.919438,
     "longitude": 19.145136,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 206,
@@ -2881,7 +3291,9 @@
     "ISO2Code": "PT",
     "latitude": 39.399872,
     "longitude": -8.224454,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 207,
@@ -2895,7 +3307,9 @@
     "ISO2Code": "PR",
     "latitude": 18.220833,
     "longitude": -66.590149,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 208,
@@ -2909,7 +3323,9 @@
     "ISO2Code": "QA",
     "latitude": 25.354826,
     "longitude": 51.183884,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 209,
@@ -2923,7 +3339,9 @@
     "ISO2Code": "KR",
     "latitude": 35.907757,
     "longitude": 127.766922,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 210,
@@ -2937,7 +3355,9 @@
     "ISO2Code": "MD",
     "latitude": 47.411631,
     "longitude": 28.369885,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 211,
@@ -2951,7 +3371,9 @@
     "ISO2Code": "RE",
     "latitude": -21.115141,
     "longitude": 55.536384,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 212,
@@ -2965,7 +3387,9 @@
     "ISO2Code": "RO",
     "latitude": 45.943161,
     "longitude": 24.96676,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 213,
@@ -2979,7 +3403,9 @@
     "ISO2Code": "RU",
     "latitude": 61.52401,
     "longitude": 105.318756,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 214,
@@ -2993,7 +3419,9 @@
     "ISO2Code": "SH",
     "latitude": -24.143474,
     "longitude": -10.030696,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 215,
@@ -3007,7 +3435,9 @@
     "ISO2Code": "KN",
     "latitude": 17.357822,
     "longitude": -62.782998,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 216,
@@ -3021,7 +3451,9 @@
     "ISO2Code": "LC",
     "latitude": 13.909444,
     "longitude": -60.978893,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 217,
@@ -3035,7 +3467,9 @@
     "ISO2Code": "PM",
     "latitude": 46.941936,
     "longitude": -56.27111,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 218,
@@ -3049,7 +3483,9 @@
     "ISO2Code": "VC",
     "latitude": 12.984305,
     "longitude": -61.287228,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 219,
@@ -3063,7 +3499,9 @@
     "ISO2Code": "SM",
     "latitude": 43.94236,
     "longitude": 12.457777,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 220,
@@ -3077,7 +3515,9 @@
     "ISO2Code": "ST",
     "latitude": 0.18636,
     "longitude": 6.613081,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 221,
@@ -3091,7 +3531,9 @@
     "ISO2Code": "SA",
     "latitude": 23.885942,
     "longitude": 45.079162,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 222,
@@ -3105,7 +3547,9 @@
     "ISO2Code": "SC",
     "latitude": -4.679574,
     "longitude": 55.491977,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 223,
@@ -3119,7 +3563,9 @@
     "ISO2Code": "SG",
     "latitude": 1.352083,
     "longitude": 103.819836,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 224,
@@ -3133,7 +3579,9 @@
     "ISO2Code": "SK",
     "latitude": 48.669026,
     "longitude": 19.699024,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 225,
@@ -3147,7 +3595,9 @@
     "ISO2Code": "SI",
     "latitude": 46.151241,
     "longitude": 14.995463,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 226,
@@ -3161,7 +3611,9 @@
     "ISO2Code": "ZA",
     "latitude": -30.559482,
     "longitude": 22.937506,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Regional"
   },
   {
     "id": 227,
@@ -3175,7 +3627,9 @@
     "ISO2Code": "ES",
     "latitude": 40.463667,
     "longitude": -3.74922,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 228,
@@ -3189,7 +3643,9 @@
     "ISO2Code": "SR",
     "latitude": 3.919305,
     "longitude": -56.027783,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 229,
@@ -3203,7 +3659,9 @@
     "ISO2Code": "SJ",
     "latitude": 77.553604,
     "longitude": 23.670272,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 230,
@@ -3217,7 +3675,9 @@
     "ISO2Code": "SE",
     "latitude": 60.128161,
     "longitude": 18.643501,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 231,
@@ -3231,7 +3691,9 @@
     "ISO2Code": "CH",
     "latitude": 46.818188,
     "longitude": 8.227512,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 232,
@@ -3245,7 +3707,9 @@
     "ISO2Code": "TW",
     "latitude": 23.69781,
     "longitude": 120.960515,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 233,
@@ -3259,7 +3723,9 @@
     "ISO2Code": "TH",
     "latitude": 15.870032,
     "longitude": 100.992541,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 234,
@@ -3273,7 +3739,9 @@
     "ISO2Code": "TK",
     "latitude": -8.967363,
     "longitude": -171.855881,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 235,
@@ -3287,7 +3755,9 @@
     "ISO2Code": "TO",
     "latitude": -21.178986,
     "longitude": -175.198242,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 236,
@@ -3301,7 +3771,9 @@
     "ISO2Code": "TT",
     "latitude": 10.691803,
     "longitude": -61.222503,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 237,
@@ -3315,7 +3787,9 @@
     "ISO2Code": "TM",
     "latitude": 38.969719,
     "longitude": 59.556278,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 238,
@@ -3329,7 +3803,9 @@
     "ISO2Code": "TC",
     "latitude": 21.694025,
     "longitude": -71.797928,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 239,
@@ -3343,7 +3819,9 @@
     "ISO2Code": "TV",
     "latitude": -7.109535,
     "longitude": 177.64933,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 240,
@@ -3357,7 +3835,9 @@
     "ISO2Code": "VI",
     "latitude": 18.335765,
     "longitude": -64.896335,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 241,
@@ -3371,7 +3851,9 @@
     "ISO2Code": "AE",
     "latitude": 23.424076,
     "longitude": 53.847818,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 242,
@@ -3385,7 +3867,9 @@
     "ISO2Code": "GB",
     "latitude": 55.378051,
     "longitude": -3.435973,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 243,
@@ -3399,7 +3883,9 @@
     "ISO2Code": "US",
     "latitude": 37.09024,
     "longitude": -95.712891,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 244,
@@ -3413,7 +3899,9 @@
     "ISO2Code": "UM",
     "latitude": "#N/A",
     "longitude": "#N/A",
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 245,
@@ -3427,7 +3915,9 @@
     "ISO2Code": "UY",
     "latitude": -32.522779,
     "longitude": -55.765835,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 246,
@@ -3441,7 +3931,9 @@
     "ISO2Code": "WF",
     "latitude": -13.768752,
     "longitude": -177.156097,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 247,
@@ -3455,7 +3947,9 @@
     "ISO2Code": "EH",
     "latitude": 24.215527,
     "longitude": -12.885834,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "AreaType": "Country"
   },
   {
     "id": 248,
@@ -3469,7 +3963,9 @@
     "ISO2Code": "BF",
     "latitude": 12.24000000,
     "longitude": 1.56000000,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 85,
+    "AreaType": "Country"
   },
   {
     "id": 249,
@@ -3483,7 +3979,9 @@
     "ISO2Code": "NE",
     "latitude": 17.61000000,
     "longitude": 8.08000000,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 84,
+    "AreaType": "Country"
   },
   {
     "id": 248,
@@ -3497,7 +3995,9 @@
     "ISO2Code": "BF",
     "latitude": 12.24000000,
     "longitude": 1.56000000,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 85,
+    "AreaType": "Country"
   },
   {
     "id": 249,
@@ -3511,6 +4011,8 @@
     "ISO2Code": "NE",
     "latitude": 17.61000000,
     "longitude": 8.08000000,
-    "CBPFFundStatus":""
+    "CBPFFundStatus":"",
+    "CBPFId": 84,
+    "AreaType": "Country"
   }
 ]
