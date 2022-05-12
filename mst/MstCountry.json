@@ -13,6 +13,7 @@
     "longitude": 67.709953,
     "CBPFFundStatus":"",
     "CBPFId": 23,
+    "CERFId": 8,
     "AreaType": "Country"
   },
   {
@@ -29,6 +30,7 @@
     "longitude": 1.659626,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 9,
     "AreaType": "Country"
   },
   {
@@ -45,6 +47,7 @@
     "longitude": 17.873887,
     "CBPFFundStatus":"Closed",
     "CBPFId": 91,
+    "CERFId": 10,
     "AreaType": "Country"
   },
   {
@@ -61,6 +64,7 @@
     "longitude": -61.796428,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 112,
     "AreaType": "Country"
   },
   {
@@ -77,6 +81,7 @@
     "longitude": 45.038189,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 11,
     "AreaType": "Country"
   },
   {
@@ -93,6 +98,7 @@
     "longitude": -77.39628,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 114,
     "AreaType": "Country"
   },
   {
@@ -109,6 +115,7 @@
     "longitude": 90.356331,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 12,
     "AreaType": "Country"
   },
   {
@@ -125,6 +132,7 @@
     "longitude": 2.315834,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 13,
     "AreaType": "Country"
   },
   {
@@ -141,6 +149,7 @@
     "longitude": 90.433601,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 14,
     "AreaType": "Country"
   },
   {
@@ -157,6 +166,7 @@
     "longitude": -63.588653,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 15,
     "AreaType": "Country"
   },
   {
@@ -173,6 +183,7 @@
     "longitude": 17.679076,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 210,
     "AreaType": "Country"
   },
   {
@@ -189,6 +200,7 @@
     "longitude": -51.92528,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 139,
     "AreaType": "Country"
   },
   {
@@ -205,6 +217,7 @@
     "longitude": -1.561593,
     "CBPFFundStatus":"",
     "CBPFId": 85,
+    "CERFId": 16,
     "AreaType": "Country"
   },
   {
@@ -221,6 +234,7 @@
     "longitude": 29.918886,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 17,
     "AreaType": "Country"
   },
   {
@@ -237,6 +251,7 @@
     "longitude": 104.990963,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 163,
     "AreaType": "Country"
   },
   {
@@ -253,6 +268,7 @@
     "longitude": 12.354722,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 18,
     "AreaType": "Country"
   },
   {
@@ -269,6 +285,7 @@
     "longitude": -24.013197,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 19,
     "AreaType": "Country"
   },
   {
@@ -285,6 +302,7 @@
     "longitude": 20.939444,
     "CBPFFundStatus":"",
     "CBPFId": 17,
+    "CERFId": 20,
     "AreaType": "Country"
   },
   {
@@ -301,6 +319,7 @@
     "longitude": 18.732207,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 21,
     "AreaType": "Country"
   },
   {
@@ -317,6 +336,7 @@
     "longitude": -71.542969,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 22,
     "AreaType": "Country"
   },
   {
@@ -333,6 +353,7 @@
     "longitude": 104.195397,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 23,
     "AreaType": "Country"
   },
   {
@@ -349,6 +370,7 @@
     "longitude": -74.297333,
     "CBPFFundStatus":"",
     "CBPFId": 52,
+    "CERFId": 24,
     "AreaType": "Country"
   },
   {
@@ -365,6 +387,7 @@
     "longitude": 43.872219,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 25,
     "AreaType": "Country"
   },
   {
@@ -381,6 +404,7 @@
     "longitude": -5.54708,
     "CBPFFundStatus":"Closed",
     "CBPFId": 92,
+    "CERFId": 28,
     "AreaType": "Country"
   },
   {
@@ -397,6 +421,7 @@
     "longitude": -77.781167,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 29,
     "AreaType": "Country"
   },
   {
@@ -413,6 +438,7 @@
     "longitude": 127.510093,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 49,
     "AreaType": "Country"
   },
   {
@@ -429,6 +455,7 @@
     "longitude": 21.758664,
     "CBPFFundStatus":"",
     "CBPFId": 24,
+    "CERFId": 27,
     "AreaType": "Country"
   },
   {
@@ -445,6 +472,7 @@
     "longitude": 42.590275,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 30,
     "AreaType": "Country"
   },
   {
@@ -461,6 +489,7 @@
     "longitude": -61.370976,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 120,
     "AreaType": "Country"
   },
   {
@@ -477,6 +506,7 @@
     "longitude": -70.162651,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 31,
     "AreaType": "Country"
   },
   {
@@ -493,6 +523,7 @@
     "longitude": "#N/A",
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 268,
     "AreaType": "Regional"
   },
   {
@@ -509,6 +540,7 @@
     "longitude": -78.183406,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 140,
     "AreaType": "Country"
   },
   {
@@ -525,6 +557,7 @@
     "longitude": 30.802498,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 96,
     "AreaType": "Country"
   },
   {
@@ -541,6 +574,7 @@
     "longitude": -88.89653,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 32,
     "AreaType": "Country"
   },
   {
@@ -557,6 +591,7 @@
     "longitude": 39.782334,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 33,
     "AreaType": "Country"
   },
   {
@@ -573,6 +608,7 @@
     "longitude": 40.489673,
     "CBPFFundStatus":"",
     "CBPFId": 53,
+    "CERFId": 34,
     "AreaType": "Country"
   },
   {
@@ -589,6 +625,7 @@
     "longitude": 179.414413,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 236,
     "AreaType": "Country"
   },
   {
@@ -605,6 +642,7 @@
     "longitude": -15.310139,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 35,
     "AreaType": "Country"
   },
   {
@@ -621,6 +659,7 @@
     "longitude": 43.356892,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 36,
     "AreaType": "Country"
   },
   {
@@ -637,6 +676,7 @@
     "longitude": -1.023194,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 37,
     "AreaType": "Country"
   },
   {
@@ -653,6 +693,7 @@
     "longitude": "#N/A",
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 269,
     "AreaType": "Regional"
   },
   {
@@ -669,6 +710,7 @@
     "longitude": -90.230759,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 38,
     "AreaType": "Country"
   },
   {
@@ -685,6 +727,7 @@
     "longitude": -9.696645,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 39,
     "AreaType": "Country"
   },
   {
@@ -701,6 +744,7 @@
     "longitude": -15.180413,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 40,
     "AreaType": "Country"
   },
   {
@@ -717,6 +761,7 @@
     "longitude": -72.285215,
     "CBPFFundStatus":"",
     "CBPFId": 54,
+    "CERFId": 41,
     "AreaType": "Country"
   },
   {
@@ -733,6 +778,7 @@
     "longitude": -86.241905,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 42,
     "AreaType": "Country"
   },
   {
@@ -749,6 +795,7 @@
     "longitude": 78.96288,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 43,
     "AreaType": "Country"
   },
   {
@@ -765,6 +812,7 @@
     "longitude": 113.921327,
     "CBPFFundStatus":"Closed",
     "CBPFId": 55,
+    "CERFId": 44,
     "AreaType": "Country"
   },
   {
@@ -781,6 +829,7 @@
     "longitude": 43.679291,
     "CBPFFundStatus":"",
     "CBPFId": 72,
+    "CERFId": 45,
     "AreaType": "Country"
   },
   {
@@ -797,6 +846,7 @@
     "longitude": 53.688046,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 160,
     "AreaType": "Country"
   },
   {
@@ -813,6 +863,7 @@
     "longitude": 36.238414,
     "CBPFFundStatus":"",
     "CBPFId": 73,
+    "CERFId": 47,
     "AreaType": "Country"
   },
   {
@@ -829,6 +880,7 @@
     "longitude": 37.906193,
     "CBPFFundStatus":"Closed",
     "CBPFId": 57,
+    "CERFId": 48,
     "AreaType": "Country"
   },
   {
@@ -845,6 +897,7 @@
     "longitude": 74.766098,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 50,
     "AreaType": "Country"
   },
   {
@@ -861,6 +914,7 @@
     "longitude": 102.495496,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 51,
     "AreaType": "Country"
   },
   {
@@ -877,6 +931,7 @@
     "longitude": 35.862285,
     "CBPFFundStatus":"",
     "CBPFId": 71,
+    "CERFId": 52,
     "AreaType": "Country"
   },
   {
@@ -893,6 +948,7 @@
     "longitude": 28.233608,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 52,
     "AreaType": "Country"
   },
   {
@@ -909,6 +965,7 @@
     "longitude": -9.429499,
     "CBPFFundStatus":"Closed",
     "CBPFId": 93,
+    "CERFId": 54,
     "AreaType": "Country"
   },
   {
@@ -925,6 +982,7 @@
     "longitude": 17.228331,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 97,
     "AreaType": "Country"
   },
   {
@@ -941,6 +999,7 @@
     "longitude": 46.869107,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 55,
     "AreaType": "Country"
   },
   {
@@ -957,6 +1016,7 @@
     "longitude": 34.301525,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 56,
     "AreaType": "Country"
   },
   {
@@ -973,6 +1033,7 @@
     "longitude": -3.996166,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 57,
     "AreaType": "Country"
   },
   {
@@ -989,6 +1050,7 @@
     "longitude": 171.184478,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 243,
     "AreaType": "Country"
   },
   {
@@ -1005,6 +1067,7 @@
     "longitude": -10.940835,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 58,
     "AreaType": "Country"
   },
   {
@@ -1021,6 +1084,7 @@
     "longitude": -102.552784,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 59,
     "AreaType": "Country"
   },
   {
@@ -1037,6 +1101,7 @@
     "longitude": 103.846656,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 60,
     "AreaType": "Country"
   },
   {
@@ -1053,6 +1118,7 @@
     "longitude": 35.529562,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 61,
     "AreaType": "Country"
   },
   {
@@ -1069,6 +1135,7 @@
     "longitude": 95.956223,
     "CBPFFundStatus":"",
     "CBPFId": 59,
+    "CERFId": 165,
     "AreaType": "Country"
   },
   {
@@ -1085,6 +1152,7 @@
     "longitude": 18.49041,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 63,
     "AreaType": "Country"
   },
   {
@@ -1101,6 +1169,7 @@
     "longitude": 84.124008,
     "CBPFFundStatus":"Closed",
     "CBPFId": 68,
+    "CERFId": 64,
     "AreaType": "Country"
   },
   {
@@ -1117,6 +1186,7 @@
     "longitude": -85.207229,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 65,
     "AreaType": "Country"
   },
   {
@@ -1133,6 +1203,7 @@
     "longitude": 8.081666,
     "CBPFFundStatus":"",
     "CBPFId": 84,
+    "CERFId": 66,
     "AreaType": "Country"
   },
   {
@@ -1149,6 +1220,7 @@
     "longitude": 8.675277,
     "CBPFFundStatus":"",
     "CBPFId": 75,
+    "CERFId": 67,
     "AreaType": "Country"
   },
   {
@@ -1165,6 +1237,7 @@
     "longitude": 35.233154,
     "CBPFFundStatus":"",
     "CBPFId": 67,
+    "CERFId": 69,
     "AreaType": "Country"
   },
   {
@@ -1181,6 +1254,7 @@
     "longitude": 69.345116,
     "CBPFFundStatus":"",
     "CBPFId": 60,
+    "CERFId": 68,
     "AreaType": "Country"
   },
   {
@@ -1197,6 +1271,7 @@
     "longitude": 143.95555,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 238,
     "AreaType": "Country"
   },
   {
@@ -1213,6 +1288,7 @@
     "longitude": -58.443832,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 144,
     "AreaType": "Country"
   },
   {
@@ -1229,6 +1305,7 @@
     "longitude": -75.015152,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 70,
     "AreaType": "Country"
   },
   {
@@ -1245,6 +1322,7 @@
     "longitude": 121.774017,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 71,
     "AreaType": "Country"
   },
   {
@@ -1261,6 +1339,7 @@
     "longitude": 15.827659,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 26,
     "AreaType": "Country"
   },
   {
@@ -1277,6 +1356,7 @@
     "longitude": 30.217636,
     "CBPFFundStatus":"",
     "CBPFId": 15,
+    "CERFId": 76,
     "AreaType": "Country"
   },
   {
@@ -1293,6 +1373,7 @@
     "longitude": 29.873888,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 72,
     "AreaType": "Country"
   },
   {
@@ -1309,6 +1390,7 @@
     "longitude": -172.104629,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 253,
     "AreaType": "Country"
   },
   {
@@ -1325,6 +1407,7 @@
     "longitude": -14.452362,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 73,
     "AreaType": "Country"
   },
   {
@@ -1341,6 +1424,7 @@
     "longitude": 21.005859,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 220,
     "AreaType": "Country"
   },
   {
@@ -1357,6 +1441,7 @@
     "longitude": -11.779889,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 110,
     "AreaType": "Country"
   },
   {
@@ -1373,6 +1458,7 @@
     "longitude": 160.156194,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 239,
     "AreaType": "Country"
   },
   {
@@ -1389,6 +1475,7 @@
     "longitude": 46.199616,
     "CBPFFundStatus":"",
     "CBPFId": 21,
+    "CERFId": 74,
     "AreaType": "Country"
   },
   {
@@ -1405,6 +1492,7 @@
     "longitude": 31.58247,
     "CBPFFundStatus":"",
     "CBPFId": 19,
+    "CERFId": 91,
     "AreaType": "Country"
   },
   {
@@ -1421,6 +1509,7 @@
     "longitude": 80.771797,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 75,
     "AreaType": "Country"
   },
   {
@@ -1437,6 +1526,7 @@
     "longitude": 31.465866,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 77,
     "AreaType": "Country"
   },
   {
@@ -1453,6 +1543,7 @@
     "longitude": 38.996815,
     "CBPFFundStatus":"",
     "CBPFId": 62,
+    "CERFId": 78,
     "AreaType": "Country"
   },
   {
@@ -1469,6 +1560,7 @@
     "longitude": 71.276093,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 79,
     "AreaType": "Country"
   },
   {
@@ -1485,6 +1577,7 @@
     "longitude": 125.727539,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 81,
     "AreaType": "Country"
   },
   {
@@ -1501,6 +1594,7 @@
     "longitude": 0.824782,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 82,
     "AreaType": "Country"
   },
   {
@@ -1517,6 +1611,7 @@
     "longitude": 9.537499,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 98,
     "AreaType": "Country"
   },
   {
@@ -1533,6 +1628,7 @@
     "longitude": 35.243322,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 177,
     "AreaType": "Country"
   },
   {
@@ -1549,6 +1645,7 @@
     "longitude": 32.290275,
     "CBPFFundStatus":"Closed",
     "CBPFId": "",
+    "CERFId": 83,
     "AreaType": "Country"
   },
   {
@@ -1565,6 +1662,7 @@
     "longitude": 31.16558,
     "CBPFFundStatus":"",
     "CBPFId": 81,
+    "CERFId": 188,
     "AreaType": "Country"
   },
   {
@@ -1581,6 +1679,7 @@
     "longitude": 34.888822,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 80,
     "AreaType": "Country"
   },
   {
@@ -1597,6 +1696,7 @@
     "longitude": 64.585262,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 155,
     "AreaType": "Country"
   },
   {
@@ -1613,6 +1713,7 @@
     "longitude": 166.959158,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 240,
     "AreaType": "Country"
   },
   {
@@ -1629,6 +1730,7 @@
     "longitude": -66.58973,
     "CBPFFundStatus":"",
     "CBPFId": 83,
+    "CERFId": 147,
     "AreaType": "Country"
   },
   {
@@ -1645,6 +1747,7 @@
     "longitude": "#N/A",
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 267,
     "AreaType": "Regional"
   },
   {
@@ -1661,6 +1764,7 @@
     "longitude": 108.277199,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 168,
     "AreaType": "Country"
   },
   {
@@ -1677,6 +1781,7 @@
     "longitude": 48.516388,
     "CBPFFundStatus":"",
     "CBPFId": 64,
+    "CERFId": 85,
     "AreaType": "Country"
   },
   {
@@ -1693,6 +1798,7 @@
     "longitude": 27.849332,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 86,
     "AreaType": "Country"
   },
   {
@@ -1709,6 +1815,7 @@
     "longitude": 29.154857,
     "CBPFFundStatus":"Closed",
     "CBPFId": 66,
+    "CERFId": 87,
     "AreaType": "Country"
   },
   {
@@ -1725,6 +1832,7 @@
     "longitude": 37.393274,
     "CBPFFundStatus":"",
     "CBPFId": 70,
+    "CERFId": "",
     "AreaType": "Country"
   },
   {
@@ -1741,6 +1849,7 @@
     "longitude": -74.00597,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": "",
     "AreaType": "Country"
   },
   {
@@ -1757,6 +1866,7 @@
     "longitude": 28.2336,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 270,
     "AreaType": "Regional"
   },
   {
@@ -1773,6 +1883,7 @@
     "longitude": 49.867092,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 169,
     "AreaType": "Country"
   },
   {
@@ -1789,6 +1900,7 @@
     "longitude": 10.3178,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 103,
     "AreaType": "Country"
   },
   {
@@ -1805,6 +1917,7 @@
     "longitude": "#N/A",
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 189,
     "AreaType": "Country"
   },
   {
@@ -1821,6 +1934,7 @@
     "longitude": 20.168331,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 208,
     "AreaType": "Country"
   },
   {
@@ -1837,6 +1951,7 @@
     "longitude": -170.132217,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 248,
     "AreaType": "Country"
   },
   {
@@ -1853,6 +1968,7 @@
     "longitude": 1.601554,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 209,
     "AreaType": "Country"
   },
   {
@@ -1869,6 +1985,7 @@
     "longitude": -63.068615,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 111,
     "AreaType": "Country"
   },
   {
@@ -1885,6 +2002,7 @@
     "longitude": -63.616672,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 138,
     "AreaType": "Country"
   },
   {
@@ -1901,6 +2019,7 @@
     "longitude": -69.968338,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 113,
     "AreaType": "Country"
   },
   {
@@ -1917,6 +2036,7 @@
     "longitude": 133.775136,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 233,
     "AreaType": "Country"
   },
   {
@@ -1933,6 +2053,7 @@
     "longitude": 14.550072,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 224,
     "AreaType": "Country"
   },
   {
@@ -1949,6 +2070,7 @@
     "longitude": 50.637772,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 170,
     "AreaType": "Country"
   },
   {
@@ -1965,6 +2087,7 @@
     "longitude": -59.543198,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 115,
     "AreaType": "Country"
   },
   {
@@ -1981,6 +2104,7 @@
     "longitude": 27.953389,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 179,
     "AreaType": "Country"
   },
   {
@@ -1997,6 +2121,7 @@
     "longitude": 4.469936,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 225,
     "AreaType": "Country"
   },
   {
@@ -2013,6 +2138,7 @@
     "longitude": -88.49765,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 135,
     "AreaType": "Country"
   },
   {
@@ -2029,6 +2155,7 @@
     "longitude": -64.75737,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 148,
     "AreaType": "Country"
   },
   {
@@ -2045,6 +2172,7 @@
     "longitude": 24.684866,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 107,
     "AreaType": "Country"
   },
   {
@@ -2061,6 +2189,7 @@
     "longitude": 3.413194,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 258,
     "AreaType": "Country"
   },
   {
@@ -2077,6 +2206,7 @@
     "longitude": 71.876519,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 264,
     "AreaType": "Country"
   },
   {
@@ -2093,6 +2223,7 @@
     "longitude": -64.639968,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 117,
     "AreaType": "Country"
   },
   {
@@ -2109,6 +2240,7 @@
     "longitude": 114.727669,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 162,
     "AreaType": "Country"
   },
   {
@@ -2125,6 +2257,7 @@
     "longitude": 25.48583,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 180,
     "AreaType": "Country"
   },
   {
@@ -2141,6 +2274,7 @@
     "longitude": -106.346771,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 149,
     "AreaType": "Country"
   },
   {
@@ -2157,6 +2291,7 @@
     "longitude": -80.566956,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 118,
     "AreaType": "Country"
   },
   {
@@ -2173,6 +2308,7 @@
     "longitude": 105.690449,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 265,
     "AreaType": "Country"
   },
   {
@@ -2189,6 +2325,7 @@
     "longitude": 96.870956,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 259,
     "AreaType": "Country"
   },
   {
@@ -2205,6 +2342,7 @@
     "longitude": -159.777671,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 249,
     "AreaType": "Country"
   },
   {
@@ -2221,6 +2359,7 @@
     "longitude": -83.753428,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 136,
     "AreaType": "Country"
   },
   {
@@ -2237,6 +2376,7 @@
     "longitude": 15.2,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 211,
     "AreaType": "Country"
   },
   {
@@ -2253,6 +2393,7 @@
     "longitude": 33.429859,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 171,
     "AreaType": "Country"
   },
   {
@@ -2269,6 +2410,7 @@
     "longitude": 15.472962,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 181,
     "AreaType": "Country"
   },
   {
@@ -2285,6 +2427,7 @@
     "longitude": 9.501785,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 191,
     "AreaType": "Country"
   },
   {
@@ -2301,6 +2444,7 @@
     "longitude": 25.013607,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 192,
     "AreaType": "Country"
   },
   {
@@ -2317,6 +2461,7 @@
     "longitude": -59.523613,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 141,
     "AreaType": "Country"
   },
   {
@@ -2333,6 +2478,7 @@
     "longitude": -6.911806,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 194,
     "AreaType": "Country"
   },
   {
@@ -2349,6 +2495,7 @@
     "longitude": 150.550812,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 244,
     "AreaType": "Country"
   },
   {
@@ -2365,6 +2512,7 @@
     "longitude": 25.748151,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 195,
     "AreaType": "Country"
   },
   {
@@ -2381,6 +2529,7 @@
     "longitude": 21.745275,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 223,
     "AreaType": "Country"
   },
   {
@@ -2397,6 +2546,7 @@
     "longitude": 2.213749,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 226,
     "AreaType": "Country"
   },
   {
@@ -2413,6 +2563,7 @@
     "longitude": -53.125782,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 142,
     "AreaType": "Country"
   },
   {
@@ -2429,6 +2580,7 @@
     "longitude": -149.406843,
     "CBPFFundStatus":"",
     "CBPFId": "",
+    "CERFId": 250,
     "AreaType": "Country"
   },
   {
