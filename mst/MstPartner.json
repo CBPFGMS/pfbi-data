@@ -18,16 +18,16 @@
         "shortName": "WHO"
     },
     {
-        "id": "1",
-        "orgType": "UN Agency",
-        "fullName": "United Nations Development Programme",
-        "shortName": "UNDP"
-    },
-    {
         "id": "2",
         "orgType": "UN Agency",
         "fullName": "World Food Programme",
         "shortName": "WFP"
+    },
+    {
+        "id": "1",
+        "orgType": "UN Agency",
+        "fullName": "United Nations Development Programme",
+        "shortName": "UNDP"
     },
     {
         "id": "4",
