@@ -1,11 +1,5 @@
 [
     {
-        "id": "3",
-        "orgType": "UN Agency",
-        "fullName": "World Health Organization",
-        "shortName": "WHO"
-    },
-    {
         "id": "5",
         "orgType": "UN Agency",
         "fullName": "Food and Agriculture Organization",
@@ -16,6 +10,12 @@
         "orgType": "UN Agency",
         "fullName": "United Nations High Commissioner for Refugees",
         "shortName": "UNHCR"
+    },
+    {
+        "id": "3",
+        "orgType": "UN Agency",
+        "fullName": "World Health Organization",
+        "shortName": "WHO"
     },
     {
         "id": "1",
@@ -3249,6 +3249,12 @@
         "id": "8166322.521",
         "orgType": "International NGO",
         "fullName": "Agency for Technical Cooperation and Development",
+        "shortName": " "
+    },
+    {
+        "id": "6173290.116",
+        "orgType": "National NGO",
+        "fullName": "Afro Ethiopia Integrated Development Association",
         "shortName": " "
     },
     {
