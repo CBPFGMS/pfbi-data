@@ -1173,6 +1173,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,129629.0,0.0,Japan,JP,Member State,0,0,0,0,0,0
 2021,Member State,35000.0,0.0,Kazakhstan,KZ,Member State,0,0,0,0,0,0
 2021,Private Contributions,47868.04,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2021,Member State,20587000.0,0.0,Belgium,BE,Member State,0,0,0,0,0,0
 2021,Member State,5720500.0,0.0,Italy,IT,Member State,0,0,0,0,0,0
 2021,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
 2021,Member State,65517728.3,0.0,Sweden,SE,Member State,0,0,0,0,0,0
@@ -1190,7 +1191,6 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,64735000.0,0.0,Netherlands,NL,Member State,0,0,0,0,0,0
 2021,Regional/ Local Authorities,243800.0,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2021,Regional/ Local Authorities,712320.0,0.0,Belgian Government of Flanders,XBGF,Regional/ Local Authorities,0,0,0,0,0,0
-2021,Member State,20587000.0,0.0,Belgium,BE,Member State,0,0,0,0,0,0
 2021,Member State,1500.0,0.0,Bhutan,BT,Member State,0,0,0,0,0,0
 2021,Member State,181995.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
 2021,Member State,3000.0,0.0,Lao PDR,LA,Member State,0,0,0,0,0,0
