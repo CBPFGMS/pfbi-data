@@ -1266,7 +1266,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,5047445.99,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2022,Member State,0.0,100000.0,Vietnam,VN,Member State,0,0,0,0,0,0
 2022,Member State,24909884.83,0.0,Denmark,DK,Member State,0,0,0,0,0,0
-2022,CERF,0.0,5000.0,Mauritius,Mauritius,Mauritius,0,0,0,0,0,0
+2022,CERF,5000.0,0.0,Mauritius,Mauritius,Mauritius,0,0,0,0,0,0
 2022,Member State,0.0,23241106.7193,Canada,CA,Member State,0,0,0,0,0,0
 2022,Member State,3520.5,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
 2022,Member State,181995.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
