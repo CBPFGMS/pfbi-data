@@ -7779,6 +7779,8 @@ Honduras,2022,Underfunded Emergencies,4131,22-UF-WHO-008,Health,Health,100.0,100
 Honduras,2022,Underfunded Emergencies,4136,22-UF-FPA-008,Protection,Protection,100.0,749978.0,CERF
 Honduras,2022,Underfunded Emergencies,4137,22-UF-CEF-014,Protection,Protection,100.0,750151.0,CERF
 Burkina Faso,2022,Rapid Response,4268,22-RR-FAO-022,Agriculture,Agriculture,100.0,500000.0,CERF
+Burkina Faso,2022,Rapid Response,4269,22-RR-CEF-042,Nutrition,Nutrition,63.000053747379816,504025.0,CERF
+Burkina Faso,2022,Rapid Response,4269,22-RR-CEF-042,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",36.999946252620184,296014.0,CERF
 Burkina Faso,2022,Rapid Response,4270,22-RR-WFP-038,Food Assistance,Food Assistance,90.0,3780000.0,CERF
 Burkina Faso,2022,Rapid Response,4270,22-RR-WFP-038,Common Services,Common Services,10.0,420000.0,CERF
 Burkina Faso,2022,Rapid Response,4271,22-RR-WHO-026,Health,Health,100.0,500000.0,CERF
@@ -11699,7 +11701,10 @@ Ethiopia,2022,Reserve,21809,ETH-22/DDA-3379/RA1/WASH/NGO/21809,Water Sanitation 
 Ethiopia,2022,Reserve,22086,ETH-22/DDA-3379/RA2/CCCM/UN/22086,Camp Coordination / Management,,100.0,500000.01,CBPF
 Ethiopia,2022,Reserve,22036,ETH-22/DDA-3379/RA2/NFI/ES/INGO/22036,Emergency Shelter and NFI,Child protection,100.0,800175.99,CBPF
 Ethiopia,2022,Reserve,22035,ETH-22/DDA-3379/RA2/NFI/ES/NGO/22035,Emergency Shelter and NFI,Child protection,100.0,400021.93,CBPF
+Ethiopia,2022,Reserve,22081,ETH-22/DDA-3379/RA2/WASH/INGO/22081,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,650000.02,CBPF
+Ethiopia,2022,Reserve,22096,ETH-22/DDA-3379/RA2/WASH/INGO/22096,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,650002.49,CBPF
 Ethiopia,2022,Reserve,22257,ETH-22/DDA-3379/RA2/WASH/INGO/22257,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,350000.0,CBPF
+Ethiopia,2022,Reserve,22057,ETH-22/DDA-3379/RA2/WASH/NGO/22057,Water Sanitation Hygiene,Child Protection in Emergencies,100.0,349999.68,CBPF
 Haiti,2013,Reserve,139,HTI-13/X/3416/ER/CSS/INGO/139,Coordination and Support Services,,100.0,197235.29,CBPF
 Haiti,2013,Reserve,133,HTI-13/X/3416/ER/H/INGO/133,Health,,100.0,248775.0,CBPF
 Haiti,2013,Reserve,134,HTI-13/X/3416/ER/SNS/INGO/134,Multi-Sector,,100.0,116248.0,CBPF
@@ -16050,6 +16055,7 @@ Somalia,2021,Standard,18133,SOM-21/3485/SA1/WASH/NGO/18133,Water Sanitation Hygi
 Somalia,2021,Standard,18216,SOM-21/3485/SA1/WASH/NGO/18216,Water Sanitation Hygiene,,100.0,380000.0,CBPF
 Somalia,2021,Standard,18271,SOM-21/3485/SA1/WASH-H/INGO/18271,Health,,50.0,200000.0,CBPF
 Somalia,2021,Standard,18271,SOM-21/3485/SA1/WASH-H/INGO/18271,Water Sanitation Hygiene,,50.0,200000.0,CBPF
+Somalia,2022,Reserve,21878,SOM-22/3485/RA1/EP/INGO/21878,Multi-Sector,Teacher Training ,100.0,300000.05,CBPF
 Somalia,2022,Reserve,21985,SOM-22/3485/RA2 /CCCM/NGO/21985,Camp Coordination / Management,Teacher Incentives ,100.0,250000.0,CBPF
 Somalia,2022,Reserve,21988,SOM-22/3485/RA2 /CCCM/NGO/21988,Camp Coordination / Management,Teacher Incentives ,100.0,246083.31,CBPF
 Somalia,2022,Reserve,21975,SOM-22/3485/RA2 /CP-GBV/NGO/21975,Protection,Curriculum Development ,60.0,180000.0,CBPF
@@ -16082,6 +16088,7 @@ Somalia,2022,Reserve,21981,SOM-22/3485/RA2 /Prot/NGO/21981,Protection,,100.0,249
 Somalia,2022,Reserve,21970,SOM-22/3485/RA2 /Shelter/NGO/21970,Emergency Shelter and NFI,,100.0,600000.36,CBPF
 Somalia,2022,Reserve,21990,SOM-22/3485/RA2 /Shelter/NGO/21990,Emergency Shelter and NFI,,100.0,699989.13,CBPF
 Somalia,2022,Reserve,22037,SOM-22/3485/RA2 /Shelter/NGO/22037,Emergency Shelter and NFI,,100.0,599977.39,CBPF
+Somalia,2022,Reserve,22003,SOM-22/3485/RA2 /WASH/INGO/22003,Water Sanitation Hygiene,,100.0,900000.91,CBPF
 Somalia,2022,Reserve,22007,SOM-22/3485/RA2 /WASH/INGO/22007,Water Sanitation Hygiene,,100.0,550000.0,CBPF
 Somalia,2022,Reserve,22030,SOM-22/3485/RA2 /WASH/INGO/22030,Water Sanitation Hygiene,,100.0,550000.0,CBPF
 Somalia,2022,Reserve,22060,SOM-22/3485/RA2 /WASH/INGO/22060,Water Sanitation Hygiene,,100.0,498304.35,CBPF
