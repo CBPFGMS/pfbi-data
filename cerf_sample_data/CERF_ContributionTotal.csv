@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,Member State,250000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -1246,7 +1246,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,125000.0,0.0,Brazil,BR,Member State,0,0,0,0,0,0
 2022,Member State,1000000.0,0.0,Kuwait,KW,Member State,0,0,0,0,0,0
 2022,Member State,5041.97,0.0,Peru,PE,Member State,0,0,0,0,0,0
-2022,Member State,0.0,123148.0,Japan,JP,Member State,0,0,0,0,0,0
+2022,Member State,123148.0,0.0,Japan,JP,Member State,0,0,0,0,0,0
 2022,Member State,100000.0,0.0,Morocco,MA,Member State,0,0,0,0,0,0
 2022,Member State,0.0,100000.0,Nigeria,NG,Member State,0,0,0,0,0,0
 2022,Member State,386249.52,0.0,Iceland,IS,Member State,0,0,0,0,0,0
