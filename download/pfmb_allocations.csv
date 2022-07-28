@@ -7838,6 +7838,9 @@ Colombia,2022,Rapid Response,4213,22-RR-HCR-016,Protection,Protection,50.0000499
 Colombia,2022,Rapid Response,4213,22-RR-HCR-016,Protection,Protection,49.99995002553695,500255.0,CERF
 Bangladesh,2022,Rapid Response,4318,22-RR-WOM-003,Protection,Protection,100.0,200012.0,CERF
 Bangladesh,2022,Rapid Response,4319,22-RR-FAO-030,Agriculture,Agriculture,100.0,500000.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",59.0,973500.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Protection,Protection,28.999999999999996,478500.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Nutrition,Nutrition,12.0,198000.0,CERF
 Afghanistan,2022,Rapid Response,4311,22-RR-CEF-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",80.0,3000000.0,CERF
 Afghanistan,2022,Rapid Response,4311,22-RR-CEF-051,Education,Education,20.0,750000.0,CERF
 Afghanistan,2022,Rapid Response,4312,22-RR-WFP-048,Food Assistance,Food Assistance,100.0,4000000.0,CERF
@@ -8842,6 +8845,7 @@ Afghanistan,2022,Reserve,21710,AFG-22/3481/RA1/APC/INGO/21710,Protection,,100.0,
 Afghanistan,2022,Reserve,21646,AFG-22/3481/RA1/APC/NGO/21646,Protection,,100.0,499557.75,CBPF
 Afghanistan,2022,Reserve,21665,AFG-22/3481/RA1/APC/NGO/21665,Protection,,100.0,495579.06,CBPF
 Afghanistan,2022,Reserve,21686,AFG-22/3481/RA1/APC/NGO/21686,Protection,,100.0,300000.0,CBPF
+Afghanistan,2022,Reserve,21743,AFG-22/3481/RA1/APC/NGO/21743,Protection,,100.0,286053.54,CBPF
 Afghanistan,2022,Reserve,21678,AFG-22/3481/RA1/APC/UN/21678,Protection,,100.0,249995.12,CBPF
 Afghanistan,2022,Reserve,21696,AFG-22/3481/RA1/APC/UN/21696,Protection,,100.0,996768.09,CBPF
 Afghanistan,2022,Reserve,21603,AFG-22/3481/RA1/ESNFI/INGO/21603,Emergency Shelter and NFI,,100.0,782035.39,CBPF
@@ -8885,6 +8889,9 @@ Afghanistan,2022,Reserve,21645,AFG-22/3481/RA1/N-H/INGO/21645,Health,,20.0,11920
 Afghanistan,2022,Reserve,21645,AFG-22/3481/RA1/N-H/INGO/21645,Nutrition,,80.0,476831.952,CBPF
 Afghanistan,2022,Reserve,21597,AFG-22/3481/RA1/N-H/NGO/21597,Health,,30.0,147112.152,CBPF
 Afghanistan,2022,Reserve,21597,AFG-22/3481/RA1/N-H/NGO/21597,Nutrition,,70.0,343261.688,CBPF
+Afghanistan,2022,Standard,22611,AFG-22/3481/SA1/APC/NGO/22611,Protection,,100.0,247690.96,CBPF
+Afghanistan,2022,Standard,22139,AFG-22/3481/SA1/ESNFI/INGO/22139,Emergency Shelter and NFI,,100.0,966323.97,CBPF
+Afghanistan,2022,Standard,21957,AFG-22/3481/SA1/ESNFI/NGO/21957,Emergency Shelter and NFI,,100.0,476678.58,CBPF
 Afghanistan,2022,Standard,22642,AFG-22/3481/SA1/FSAC/UN/22642,Food Security,,100.0,1000000.0,CBPF
 Burkina Faso,2022,Standard,21839,BFA-22/BF_CBPF_RHPF/SA/CP-GBV/INGO/21839,Protection,,20.0,104000.0,CBPF
 Burkina Faso,2022,Standard,21839,BFA-22/BF_CBPF_RHPF/SA/CP-GBV/INGO/21839,Protection,,80.0,416000.0,CBPF
@@ -8915,6 +8922,8 @@ Burkina Faso,2022,Standard,21727,BFA-22/BF_CBPF_RHPF/SA/GBV-E/INGO/21727,Protect
 Burkina Faso,2022,Standard,21687,BFA-22/BF_CBPF_RHPF/SA/H-NUT-W/INGO/21687,Health,,70.0,490000.042,CBPF
 Burkina Faso,2022,Standard,21687,BFA-22/BF_CBPF_RHPF/SA/H-NUT-W/INGO/21687,Nutrition,,15.0,105000.009,CBPF
 Burkina Faso,2022,Standard,21687,BFA-22/BF_CBPF_RHPF/SA/H-NUT-W/INGO/21687,Water Sanitation Hygiene,,15.0,105000.009,CBPF
+Burkina Faso,2022,Standard,21723,BFA-22/BF_CBPF_RHPF/SA/NUT-H/INGO/21723,Health,,36.0,253800.3564,CBPF
+Burkina Faso,2022,Standard,21723,BFA-22/BF_CBPF_RHPF/SA/NUT-H/INGO/21723,Nutrition,,64.0,451200.6336,CBPF
 Burkina Faso,2022,Standard,21749,BFA-22/BF_CBPF_RHPF/SA/NUT-W/INGO/21749,Nutrition,,42.0,115066.7028,CBPF
 Burkina Faso,2022,Standard,21749,BFA-22/BF_CBPF_RHPF/SA/NUT-W/INGO/21749,Water Sanitation Hygiene,,58.0,158901.6372,CBPF
 Burkina Faso,2022,Standard,21847,BFA-22/BF_CBPF_RHPF/SA/P-NUT-FS/INGO/21847,Food Security,,30.0,210000.0,CBPF
@@ -12902,6 +12911,7 @@ Lebanon,2021,Standard,20828,LEB-21/DDA-3604/SA2/GBV/NGO/20828,Protection,,100.0,
 Lebanon,2021,Standard,20757,LEB-21/DDA-3604/SA2/GBV-COO/INGO/20757,Coordination and Support Services,,20.0,136185.464,CBPF
 Lebanon,2021,Standard,20757,LEB-21/DDA-3604/SA2/GBV-COO/INGO/20757,Protection,,80.0,544741.856,CBPF
 Lebanon,2022,Standard,21936,LEB-22/DDA-3604/SA1/COO/INGO/21936,Coordination and Support Services,,100.0,164052.4,CBPF
+Lebanon,2022,Standard,21939,LEB-22/DDA-3604/SA1/COO/INGO/21939,Coordination and Support Services,,100.0,448608.15,CBPF
 Lebanon,2022,Standard,21953,LEB-22/DDA-3604/SA1/COO/INGO/21953,Coordination and Support Services,,100.0,448818.64,CBPF
 Lebanon,2022,Standard,22045,LEB-22/DDA-3604/SA1/COO/INGO/22045,Coordination and Support Services,,100.0,119962.15,CBPF
 Lebanon,2022,Standard,21958,LEB-22/DDA-3604/SA1/COO/NGO/21958,Coordination and Support Services,,100.0,195895.03,CBPF
