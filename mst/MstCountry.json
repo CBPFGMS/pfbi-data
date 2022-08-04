@@ -1616,6 +1616,23 @@
   },
   {
     "id": 96,
+    "PooledFundName": "Türkiye",
+    "PooledFundNameAbbrv": "Türkiye",
+    "RegionName": "Western Asia",
+    "RegionNameArr": "Middle East",
+    "SubRegionName": "Western Asia",
+    "ContinentName": "Asia",
+    "CountryCode": "TUR",
+    "ISO2Code": "TR",
+    "latitude": 38.963745,
+    "longitude": 35.243322,
+    "CBPFFundStatus":"",
+    "CBPFId": "",
+    "CERFId": 177,
+    "AreaType": "Country"
+  },
+  {
+    "id": 96,
     "PooledFundName": "Turkey",
     "PooledFundNameAbbrv": "Turkey",
     "RegionName": "Western Asia",
