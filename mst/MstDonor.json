@@ -1217,5 +1217,40 @@
     "donorName": "Kyrgyzstan",
     "donorType": "Member State",
     "donorISO2Code": "KG"
+  },
+  {
+
+    "id": 202,
+    "donorName": "Mauritius",
+    "donorType": "Member State",
+    "donorISO2Code": "MU"
+  },
+  {
+
+    "id": 203,
+    "donorName": "Stripe, Ireland",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 204,
+    "donorName": "Morgan Stanley Gift Fund",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 205,
+    "donorName": "ByteDance/TikTok",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 206,
+    "donorName": "CIRCA Art Ltd (Yoko Ono Campaign)",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
   }
 ]
