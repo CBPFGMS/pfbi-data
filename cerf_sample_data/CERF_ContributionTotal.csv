@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,CERF,250000.0,0.0,Türkiye,Türkiye,Türkiye,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -1378,7 +1378,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2025,Member State,0.0,61383928.5714,Netherlands,NL,Member State,0,0,0,0,0,0
 2025,Member State,0.0,6883604.5056,Australia,AU,Member State,0,0,0,0,0,0
-2025,Member State,0.0,101706803.8344,Sweden,SE,Member State,0,0,0,0,0,0
+2025,Member State,0.0,101648351.64829999,Sweden,SE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,49734748.0106,Norway,NO,Member State,0,0,0,0,0,0
 2025,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2026,Member State,0.0,6883604.5056,Australia,AU,Member State,0,0,0,0,0,0
