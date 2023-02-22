@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,CERF,250000.0,0.0,Türkiye,Türkiye,Türkiye,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -604,6 +604,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2013,Private Contributions,50000.0,0.0,Western Union,XPRV,Private Contributions,0,0,0,0,0,0
 2013,Private Contributions,881.25,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2013,Member State,3000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
+2013,Member State,78662500.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2013,Member State,19820.0,0.0,Azerbaijan,AZ,Member State,0,0,0,0,0,0
 2013,Member State,350000.0,0.0,Mexico,MX,Member State,0,0,0,0,0,0
 2013,Member State,19645.5,0.0,Andorra,AD,Member State,0,0,0,0,0,0
@@ -671,7 +672,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2013,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
 2013,CERF,250000.0,0.0,Türkiye,Türkiye,Türkiye,0,0,0,0,0,0
 2013,Member State,70000.0,0.0,United Arab Emirates,AE,Member State,0,0,0,0,0,0
-2013,Member State,111230500.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
+2013,Member State,32568000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2013,Member State,4000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
 2013,Member State,5000.0,0.0,Uruguay,UY,Member State,0,0,0,0,0,0
 2013,Private Contributions,5000.0,0.0,Baha'i International Community,XPRV,Private Contributions,0,0,0,0,0,0
@@ -1338,6 +1339,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,0.0,75000.0,Colombia,CO,Member State,0,0,0,0,0,0
 2023,Member State,0.0,100000.0,Cyprus,CY,Member State,0,0,0,0,0,0
 2023,Member State,0.0,490264.7429,Iceland,IS,Member State,0,0,0,0,0,0
+2023,Member State,0.0,1071811.3612,Ireland,IE,Member State,0,0,0,0,0,0
 2023,Member State,0.0,966090.2328,Sweden,SE,Member State,0,0,0,0,0,0
 2023,Member State,0.0,394913.5139,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,0.0,61383928.5714,Netherlands,NL,Member State,0,0,0,0,0,0
