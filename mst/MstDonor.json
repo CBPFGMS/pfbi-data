@@ -1038,6 +1038,12 @@
     "donorISO2Code": "TR"
   },
   {
+    "id": 172,
+    "donorName": "Türkiye",
+    "donorType": "Member State",
+    "donorISO2Code": "TR"
+  },
+  {
     "id": 173,
     "donorName": "Turkmenistan",
     "donorType": "Member State",
@@ -1252,5 +1258,12 @@
     "donorName": "CIRCA Art Ltd (Yoko Ono Campaign)",
     "donorType": "Private",
     "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 207,
+    "donorName": "Zambia",
+    "donorType": "Member State",
+    "donorISO2Code": "ZM"
   }
 ]
