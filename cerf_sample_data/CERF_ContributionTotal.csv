@@ -341,7 +341,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2010,Member State,20000.0,0.0,Israel,IL,Member State,0,0,0,0,0,0
 2010,Private Contributions,19293.0,0.0,Korean and Overseas Fans of Kim Hyun Joong,XPRV,Private Contributions,0,0,0,0,0,0
 2010,Member State,20672.55,0.0,Latvia,LV,Member State,0,0,0,0,0,0
-2010,Member State,10000.0,0.0,North Macedonia,MK,Member State,0,0,0,0,0,0
+2010,Member State,5000.0,0.0,North Macedonia,MK,Member State,0,0,0,0,0,0
 2010,Private Contributions,50000.0,0.0,Skanska USA Building Inc.,XPRV,Private Contributions,0,0,0,0,0,0
 2010,Member State,263540.0,0.0,South Africa,ZA,Member State,0,0,0,0,0,0
 2010,Member State,9945.0,0.0,Andorra,AD,Member State,0,0,0,0,0,0
@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,Member State,250000.0,0.0,Türkiye,TR,Member State,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -1340,6 +1340,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,0.0,100000.0,Cyprus,CY,Member State,0,0,0,0,0,0
 2023,Member State,482625.48,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,0.0,1071811.3612,Ireland,IE,Member State,0,0,0,0,0,0
+2023,Member State,0.0,278950.0,South Africa,ZA,Member State,0,0,0,0,0,0
 2023,Member State,0.0,966090.2328,Sweden,SE,Member State,0,0,0,0,0,0
 2023,Member State,344732.49,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,0.0,61383928.5714,Netherlands,NL,Member State,0,0,0,0,0,0
