@@ -1345,6 +1345,9 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,278950.0,0.0,South Africa,ZA,Member State,0,0,0,0,0,0
 2023,Member State,954657.72,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2023,Member State,344732.49,0.0,Iceland,IS,Member State,0,0,0,0,0,0
+2023,Regional/ Local Authorities,264780.51,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
+2023,Member State,0.0,5353319.0578,Luxembourg,LU,Member State,0,0,0,0,0,0
+2023,Member State,5063.12,0.0,Peru,PE,Member State,0,0,0,0,0,0
 2023,Member State,58558500.0,0.0,Netherlands,NL,Member State,0,0,0,0,0,0
 2023,Member State,12192281.6,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2023,Member State,0.0,1885606.5367,New Zealand,NZ,Member State,0,0,0,0,0,0
@@ -1376,6 +1379,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,1500000.0,0.0,Russian Federation,RU,Member State,0,0,0,0,0,0
 2023,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2023,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
+2024,Member State,0.0,5353319.0578,Luxembourg,LU,Member State,0,0,0,0,0,0
 2024,Member State,0.0,61383928.5714,Netherlands,NL,Member State,0,0,0,0,0,0
 2024,Member State,0.0,12079831.9327,Ireland,IE,Member State,0,0,0,0,0,0
 2024,Member State,0.0,1885606.5367,New Zealand,NZ,Member State,0,0,0,0,0,0
