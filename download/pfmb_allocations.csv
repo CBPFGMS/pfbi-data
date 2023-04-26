@@ -8231,6 +8231,9 @@ Madagascar,2023,Underfunded Emergencies,4534,23-UF-WHO-010,Health,Health,85.0,59
 Madagascar,2023,Underfunded Emergencies,4534,23-UF-WHO-010,Health,Health,15.0,105000.0,CERF
 Madagascar,2023,Underfunded Emergencies,4535,23-UF-FPA-010,Protection,Protection,56.99999999999999,399000.0,CERF
 Madagascar,2023,Underfunded Emergencies,4535,23-UF-FPA-010,Health,Health,43.0,301000.0,CERF
+Madagascar,2023,Underfunded Emergencies,4536,23-UF-CEF-013,Education,Education,25.000025000625016,499988.0,CERF
+Madagascar,2023,Underfunded Emergencies,4536,23-UF-CEF-013,Protection,Protection,12.0,239994.0,CERF
+Madagascar,2023,Underfunded Emergencies,4536,23-UF-CEF-013,Nutrition,Nutrition,63.000025000625016,1259969.0,CERF
 Madagascar,2023,Underfunded Emergencies,4537,23-UF-WFP-008,Food Assistance,Food Assistance,86.0,2494000.0,CERF
 Madagascar,2023,Underfunded Emergencies,4537,23-UF-WFP-008,Nutrition,Nutrition,9.0,261000.0,CERF
 Madagascar,2023,Underfunded Emergencies,4537,23-UF-WFP-008,Common Services,Common Services,5.0,145000.0,CERF
@@ -8252,8 +8255,8 @@ Malawi,2023,Rapid Response,4517,23-RR-IOM-006,Camp Coordination and Camp Managem
 Malawi,2023,Rapid Response,4518,23-RR-WOM-001,Protection,Protection,100.0,300000.0,CERF
 Malawi,2023,Rapid Response,4519,23-RR-CEF-009,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",89.0,1691000.0,CERF
 Malawi,2023,Rapid Response,4519,23-RR-CEF-009,Protection,Protection,11.0,209000.0,CERF
-Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Protection,Protection,50.0,300000.0,CERF
 Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Health,Health,50.0,300000.0,CERF
+Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Protection,Protection,0.0,0.0,CERF
 Mozambique,2023,Rapid Response,4521,23-RR-WHO-009,Health,Health,100.0,1240288.0,CERF
 Mozambique,2023,Rapid Response,4522,23-RR-WFP-007,Food Assistance,Food Assistance,100.0,1199922.0,CERF
 Mozambique,2023,Rapid Response,4523,23-RR-CEF-010,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",91.0,4691050.0,CERF
