@@ -8178,6 +8178,8 @@ Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,Nutrition,Nutrition,20.0,1
 Yemen,2023,Underfunded Emergencies,4488,23-UF-WFP-002,Nutrition,Nutrition,100.0,3000151.0
 Yemen,2023,Underfunded Emergencies,4489,23-UF-WHO-004,Nutrition,Nutrition,100.0,1000884.0
 Yemen,2023,Underfunded Emergencies,4494,23-UF-FAO-001,Agriculture,Agriculture,100.0,2000000.0
+Syrian Arab Republic,2023,Underfunded Emergencies,4539,23-UF-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,3000000.0
+Syrian Arab Republic,2023,Underfunded Emergencies,4540,23-UF-HCR-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,5500000.0
 Syrian Arab Republic,2023,Rapid Response,4501,23-RR-FPA-004,Health,Health,32.0,320000.0
 Syrian Arab Republic,2023,Rapid Response,4501,23-RR-FPA-004,Protection,Protection,68.0,680000.0
 Syrian Arab Republic,2023,Rapid Response,4502,23-RR-WHO-006,Health,Health,100.0,5000000.0
@@ -8256,11 +8258,11 @@ Malawi,2023,Rapid Response,4518,23-RR-WOM-001,Protection,Protection,100.0,300000
 Malawi,2023,Rapid Response,4519,23-RR-CEF-009,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",89.0,1691000.0
 Malawi,2023,Rapid Response,4519,23-RR-CEF-009,Protection,Protection,11.0,209000.0
 Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Health,Health,50.0,300000.0
-Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Protection,Protection,0.0,0.0
+Malawi,2023,Rapid Response,4520,23-RR-FPA-007,Protection,Protection,50.0,300000.0
 Mozambique,2023,Rapid Response,4521,23-RR-WHO-009,Health,Health,100.0,1240288.0
 Mozambique,2023,Rapid Response,4522,23-RR-WFP-007,Food Assistance,Food Assistance,100.0,1199922.0
 Mozambique,2023,Rapid Response,4523,23-RR-CEF-010,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",91.0,4691050.0
-Mozambique,2023,Rapid Response,4523,23-RR-CEF-010,Health,Health,0.0,0.0
+Mozambique,2023,Rapid Response,4523,23-RR-CEF-010,Health,Health,9.0,463950.0
 Mozambique,2023,Rapid Response,4524,23-RR-IOM-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1300000.0
 Mozambique,2023,Rapid Response,4525,23-RR-FAO-002,Agriculture,Agriculture,100.0,800000.0
 Mozambique,2023,Rapid Response,4526,23-RR-FPA-008,Health,Health,100.0,300003.0
