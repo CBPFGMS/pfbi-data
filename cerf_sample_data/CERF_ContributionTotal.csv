@@ -1263,7 +1263,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,8005789.08,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2022,Member State,19402100.0,0.0,Belgium,BE,Member State,0,0,0,0,0,0
 2022,Member State,11969200.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
-2022,Private Contributions,100.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2022,Private Contributions,40.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2022,Member State,5047445.99,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2022,Member State,100000.0,0.0,Vietnam,VN,Member State,0,0,0,0,0,0
 2022,Member State,24909884.83,0.0,Denmark,DK,Member State,0,0,0,0,0,0
@@ -1271,6 +1271,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,8928571.43,0.0,France,FR,Member State,0,0,0,0,0,0
 2022,Member State,5000.0,0.0,Mauritius,MU,Member State,0,0,0,0,0,0
 2022,Member State,1864500.0,0.0,New Zealand,NZ,Member State,0,0,0,0,0,0
+2022,Private Contributions,20.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2022,Private Contributions,355320.0,0.0,CIRCA Art Ltd (Yoko Ono Campaign),XPRV,Private Contributions,0,0,0,0,0,0
 2022,Member State,50790000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2022,Member State,4976500.0,0.0,Italy,IT,Member State,0,0,0,0,0,0
@@ -1280,6 +1281,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,450000.0,0.0,China,CN,Member State,0,0,0,0,0,0
 2022,Member State,5953956.07,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2022,Private Contributions,10000.0,0.0,Morgan Stanley Gift Fund,XPRV,Private Contributions,0,0,0,0,0,0
+2022,Private Contributions,20.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2022,Private Contributions,52595.91,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2022,Member State,49470.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
 2022,Private Contributions,520955.01,0.0,"Stripe, Ireland",XPRV,Private Contributions,0,0,0,0,0,0
