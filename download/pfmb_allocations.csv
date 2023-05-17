@@ -253,25 +253,25 @@ Afghanistan,2006,Rapid Response,124,06-WHO-154,Health,Health,100,398040.0,CERF
 Afghanistan,2006,Rapid Response,300,06-WHO-293,Health,Health,100,1624260.0,CERF
 Afghanistan,2006,Rapid Response,299,06-WFP-292,Food Assistance,Food Assistance,100,17231270.0,CERF
 Afghanistan,2006,Rapid Response,301,06-CEF-298,Nutrition,Nutrition,100,680758.61,CERF
-Sri Lanka,2006,Rapid Response,24,06-IOM-226,Health,Health,100,149800.0,CERF
-Sri Lanka,2006,Rapid Response,36,06-FPA-224,Health,Health,100,149800.0,CERF
 Sri Lanka,2006,Rapid Response,100,06-WFP-227,Common Services,Common Services,100,1439150.0,CERF
 Sri Lanka,2006,Rapid Response,129,06-WHO-222,Health,Health,100,540550.0,CERF
 Sri Lanka,2006,Rapid Response,42,06-HCR-228,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1224000.0,CERF
+Sri Lanka,2006,Rapid Response,24,06-IOM-226,Health,Health,100,149800.0,CERF
+Sri Lanka,2006,Rapid Response,36,06-FPA-224,Health,Health,100,149800.0,CERF
 Sri Lanka,2006,Rapid Response,313,06-HCR-323,Protection,Protection,100,710000.0,CERF
 Sri Lanka,2006,Rapid Response,323,06-WFP-334,Common Services,Common Services,100,368311.12,CERF
+Sri Lanka,2006,Rapid Response,314,06-FAO-324,Agriculture,Agriculture,100,375570.0,CERF
 Sri Lanka,2006,Rapid Response,23,06-IOM-225,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,213000.0,CERF
 Sri Lanka,2006,Rapid Response,28,06-DSS-265,Common Services,Common Services,100,191000.0,CERF
-Sri Lanka,2006,Rapid Response,314,06-FAO-324,Agriculture,Agriculture,100,375570.0,CERF
 Sri Lanka,2006,Rapid Response,21,06-IOM-223,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,149800.0,CERF
 Sri Lanka,2006,Rapid Response,43,06-HCR-229,Protection,Protection,100,647000.0,CERF
 Sri Lanka,2006,Rapid Response,312,06-WFP-322,Food Assistance,Food Assistance,100,3840985.0,CERF
 Myanmar,2006,Rapid Response,306,06-HCR-317,Health,Health,100,1000498.0,CERF
 Myanmar,2006,Rapid Response,307,06-IOM-301,Health,Health,100,52645.0,CERF
+Myanmar,2006,Rapid Response,330,06-CEF-300,Health,Health,100,1550000.0,CERF
 Myanmar,2006,Rapid Response,328,06-WFP-304,Food Assistance,Food Assistance,100,970546.5,CERF
 Myanmar,2006,Rapid Response,331,06-UDP-302,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,230050.0,CERF
 Philippines,2006,Rapid Response,321,06-CEF-332,Shelter and Non-Food Items,Shelter and Non-Food Items,100,350000.0,CERF
-Myanmar,2006,Rapid Response,330,06-CEF-300,Health,Health,100,1550000.0,CERF
 Philippines,2006,Rapid Response,315,06-WHO-326,Health,Health,100,357499.84,CERF
 Philippines,2006,Rapid Response,316,06-CEF-327,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,450000.0,CERF
 Philippines,2006,Rapid Response,319,06-FPA-330,Health,Health,100,243255.0,CERF
@@ -294,6 +294,11 @@ Syrian Arab Republic,2006,Rapid Response,327,06-HCR-339,Multi-Sector,Multi-Secto
 Syrian Arab Republic,2006,Rapid Response,325,06-WFP-337,Food Assistance,Food Assistance,100,177096.0,CERF
 occupied Palestinian territory,2006,Rapid Response,294,06-UDP-307,Early Recovery,Early Recovery,100,3299302.2,CERF
 occupied Palestinian territory,2006,Rapid Response,305,06-WHO-316,Health,Health,100,1530100.0,CERF
+Armenia,2007,Rapid Response,850,07-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,299787.0,CERF
+Yemen,2007,Rapid Response,787,07-CEF-064,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,586493.0,CERF
+Yemen,2007,Rapid Response,788,07-WHO-049,Health,Health,100,415973.0,CERF
+Georgia,2007,Rapid Response,852,07-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,161599.0,CERF
+Yemen,2007,Rapid Response,586,07-FAO-022,Agriculture,Agriculture,100,2432110.0,CERF
 occupied Palestinian territory,2007,Rapid Response,348,07-RWA-003,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2324361.0,CERF
 occupied Palestinian territory,2007,Rapid Response,415,07-CEF-026,Protection,Protection,100,201588.0,CERF
 occupied Palestinian territory,2007,Underfunded Emergencies,653,07-WHO-043,Health,Health,100,2000000.0,CERF
@@ -302,30 +307,25 @@ occupied Palestinian territory,2007,Underfunded Emergencies,655,07-RWA-013,Food 
 occupied Palestinian territory,2007,Underfunded Emergencies,679,07-FEM-001,Health,Health,100,150000.0,CERF
 Lebanon,2007,Rapid Response,576,07-RWA-004-F,Education,Education,100,253953.0,CERF
 Lebanon,2007,Rapid Response,574,07-UDP-019,Common Services,Common Services,100,419975.0,CERF
-Lebanon,2007,Rapid Response,562,07-RWA-004-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,433350.0,CERF
-Lebanon,2007,Rapid Response,563,07-RWA-004-D,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,698175.0,CERF
-Lebanon,2007,Rapid Response,578,07-RWA-004-H,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,513356.0,CERF
-Indonesia,2007,Rapid Response,341,06-CEF-349,Shelter and Non-Food Items,Shelter and Non-Food Items,100,770383.0,CERF
 Lebanon,2007,Rapid Response,575,07-RWA-004-E,Health,Health,100,811677.0,CERF
 Lebanon,2007,Rapid Response,577,07-RWA-004-G,Protection,Protection,100,171200.0,CERF
 Lebanon,2007,Rapid Response,579,07-CEF-045,Multi-Sector,Multi-Sector,100,193242.0,CERF
 Lebanon,2007,Rapid Response,560,07-RWA-004-A,Food Assistance,Food Assistance,100,1076973.0,CERF
 Lebanon,2007,Rapid Response,571,07-RWA-004-B,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1104347.0,CERF
-Georgia,2007,Rapid Response,852,07-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,161599.0,CERF
-Armenia,2007,Rapid Response,850,07-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,299787.0,CERF
-Yemen,2007,Rapid Response,787,07-CEF-064,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,586493.0,CERF
-Yemen,2007,Rapid Response,788,07-WHO-049,Health,Health,100,415973.0,CERF
-Yemen,2007,Rapid Response,586,07-FAO-022,Agriculture,Agriculture,100,2432110.0,CERF
+Lebanon,2007,Rapid Response,562,07-RWA-004-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,433350.0,CERF
+Lebanon,2007,Rapid Response,563,07-RWA-004-D,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,698175.0,CERF
+Lebanon,2007,Rapid Response,578,07-RWA-004-H,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,513356.0,CERF
+Indonesia,2007,Rapid Response,341,06-CEF-349,Shelter and Non-Food Items,Shelter and Non-Food Items,100,770383.0,CERF
 Iraq,2007,Rapid Response,505,07-IOM-006,Shelter and Non-Food Items,Shelter and Non-Food Items,100,3533359.0,CERF
+Timor-Leste,2007,Rapid Response,530,07-FAO-018,Agriculture,Agriculture,100,464615.0,CERF
+Timor-Leste,2007,Rapid Response,900,07-WFP-076,Common Services,Common Services,100,209571.0,CERF
+Timor-Leste,2007,Rapid Response,504,07-FAO-013,Agriculture,Agriculture,100,626378.0,CERF
+Indonesia,2007,Rapid Response,339,06-IOM-347,Multi-Sector,Multi-Sector,100,250000.0,CERF
+Indonesia,2007,Rapid Response,340,06-WFP-348,Food Assistance,Food Assistance,100,884481.0,CERF
 Indonesia,2007,Rapid Response,349,07-WFP-001,Food Assistance,Food Assistance,100,250000.0,CERF
 Indonesia,2007,Rapid Response,351,07-WHO-002,Health,Health,100,535000.0,CERF
 Indonesia,2007,Rapid Response,352,07-CEF-002,Multi-Sector,Multi-Sector,100,360014.34,CERF
 Indonesia,2007,Rapid Response,350,07-IOM-001,Multi-Sector,Multi-Sector,100,110028.1,CERF
-Indonesia,2007,Rapid Response,339,06-IOM-347,Multi-Sector,Multi-Sector,100,250000.0,CERF
-Indonesia,2007,Rapid Response,340,06-WFP-348,Food Assistance,Food Assistance,100,884481.0,CERF
-Timor-Leste,2007,Rapid Response,530,07-FAO-018,Agriculture,Agriculture,100,464615.0,CERF
-Timor-Leste,2007,Rapid Response,900,07-WFP-076,Common Services,Common Services,100,209571.0,CERF
-Timor-Leste,2007,Rapid Response,504,07-FAO-013,Agriculture,Agriculture,100,626378.0,CERF
 Philippines,2007,Rapid Response,597,07-WFP-040,Food Assistance,Food Assistance,100,287955.0,CERF
 Philippines,2007,Rapid Response,602,07-WHO-031,Health,Health,100,47080.0,CERF
 Philippines,2007,Rapid Response,603,07-FPA-015,Health,Health,100,82371.0,CERF
@@ -347,15 +347,31 @@ Sri Lanka,2007,Rapid Response,769,07-UDP-021,Agriculture,Agriculture,100,237433.
 Sri Lanka,2007,Rapid Response,772,07-HCR-017-A,Protection,Protection,100,680000.0,CERF
 Sri Lanka,2007,Rapid Response,417,07-HCR-009,Protection,Protection,100,1207624.5,CERF
 Sri Lanka,2007,Rapid Response,380,07-UDP-004,Common Services,Common Services,100,209955.0,CERF
-Pakistan,2007,Rapid Response,775,07-IOM-017,Common Services,Common Services,100,100000.0,CERF
 Pakistan,2007,Rapid Response,776,07-WFP-057,Food Assistance,Food Assistance,100,1408851.0,CERF
+Pakistan,2007,Rapid Response,608,07-IOM-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,593850.0,CERF
+Pakistan,2007,Rapid Response,775,07-IOM-017,Common Services,Common Services,100,100000.0,CERF
 Afghanistan,2007,Rapid Response,555,07-CEF-043,Multi-Sector,Multi-Sector,100,762803.0,CERF
 Afghanistan,2007,Rapid Response,589,07-WFP-037,Food Assistance,Food Assistance,100,1075552.0,CERF
+Afghanistan,2007,Rapid Response,832,07-WFP-064,Common Services,Common Services,100,323212.0,CERF
 Afghanistan,2007,Rapid Response,558,07-IOM-009,Multi-Sector,Multi-Sector,100,2840143.0,CERF
 Afghanistan,2007,Rapid Response,633,07-WHO-029,Nutrition,Nutrition,100,432697.0,CERF
+Bangladesh,2007,Rapid Response,872,07-WFP-071,Food Assistance,Food Assistance,100,5029000.0,CERF
+Bangladesh,2007,Rapid Response,873,07-FAO-056,Agriculture,Agriculture,100,1000000.0,CERF
+Bangladesh,2007,Rapid Response,875,07-CEF-086-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,556400.0,CERF
+Bangladesh,2007,Rapid Response,876,07-CEF-086-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1583600.0,CERF
+Bangladesh,2007,Rapid Response,877,07-CEF-086-D,Protection,Protection,100,50290.0,CERF
+Bangladesh,2007,Rapid Response,879,07-FPA-032,Health,Health,100,62702.0,CERF
+Bangladesh,2007,Rapid Response,911,07-WFP-077,Food Assistance,Food Assistance,100,5000000.0,CERF
+Democratic People's Republic of Korea,2007,Rapid Response,800,07-WHO-064,Health,Health,100,800000.0,CERF
 Democratic People's Republic of Korea,2007,Rapid Response,379,07-CEF-025,Health,Health,100,3100000.0,CERF
 Democratic People's Republic of Korea,2007,Underfunded Emergencies,458,07-CEF-017,Health,Health,100,1700000.0,CERF
-Afghanistan,2007,Rapid Response,832,07-WFP-064,Common Services,Common Services,100,323212.0,CERF
+Democratic People's Republic of Korea,2007,Underfunded Emergencies,457,07-WFP-021,Food Assistance,Food Assistance,100,2298577.04,CERF
+Democratic People's Republic of Korea,2007,Underfunded Emergencies,460,07-FPA-009,Health,Health,100,300000.0,CERF
+Democratic People's Republic of Korea,2007,Underfunded Emergencies,461,07-FAO-010,Agriculture,Agriculture,100,700000.0,CERF
+Democratic People's Republic of Korea,2007,Rapid Response,790,07-FAO-047,Agriculture,Agriculture,100,600000.0,CERF
+Democratic People's Republic of Korea,2007,Rapid Response,798,07-FPA-028,Health,Health,100,300000.0,CERF
+Democratic People's Republic of Korea,2007,Rapid Response,799,07-WFP-058,Food Assistance,Food Assistance,100,800000.0,CERF
+Democratic People's Republic of Korea,2007,Rapid Response,797,07-CEF-073,Health,Health,100,500000.0,CERF
 Bangladesh,2007,Rapid Response,880,07-WHO-071,Nutrition,Nutrition,100,1463011.0,CERF
 Bangladesh,2007,Underfunded Emergencies,388,07-HCR-006,Protection,Protection,100,1000000.0,CERF
 Bangladesh,2007,Rapid Response,779,07-CEF-063,Nutrition,Nutrition,100,750070.0,CERF
@@ -367,39 +383,25 @@ Bangladesh,2007,Rapid Response,783,07-WFP-049,Food Assistance,Food Assistance,10
 Bangladesh,2007,Rapid Response,786,07-WHO-048,Health,Health,100,600350.0,CERF
 Bangladesh,2007,Rapid Response,881,07-UDP-038,Shelter and Non-Food Items,Shelter and Non-Food Items,100,4162300.0,CERF
 Bangladesh,2007,Rapid Response,878,07-CEF-088,Common Services,Common Services,100,250000.0,CERF
-Tajikistan,2007,Rapid Response,532,07-FAO-019,Agriculture,Agriculture,100,119814.0,CERF
-Democratic People's Republic of Korea,2007,Rapid Response,800,07-WHO-064,Health,Health,100,800000.0,CERF
-Democratic People's Republic of Korea,2007,Underfunded Emergencies,457,07-WFP-021,Food Assistance,Food Assistance,100,2298577.04,CERF
-Democratic People's Republic of Korea,2007,Underfunded Emergencies,460,07-FPA-009,Health,Health,100,300000.0,CERF
-Democratic People's Republic of Korea,2007,Underfunded Emergencies,461,07-FAO-010,Agriculture,Agriculture,100,700000.0,CERF
-Democratic People's Republic of Korea,2007,Rapid Response,790,07-FAO-047,Agriculture,Agriculture,100,600000.0,CERF
-Democratic People's Republic of Korea,2007,Rapid Response,798,07-FPA-028,Health,Health,100,300000.0,CERF
-Democratic People's Republic of Korea,2007,Rapid Response,799,07-WFP-058,Food Assistance,Food Assistance,100,800000.0,CERF
-Democratic People's Republic of Korea,2007,Rapid Response,797,07-CEF-073,Health,Health,100,500000.0,CERF
-Bangladesh,2007,Rapid Response,872,07-WFP-071,Food Assistance,Food Assistance,100,5029000.0,CERF
-Bangladesh,2007,Rapid Response,873,07-FAO-056,Agriculture,Agriculture,100,1000000.0,CERF
-Bangladesh,2007,Rapid Response,875,07-CEF-086-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,556400.0,CERF
-Bangladesh,2007,Rapid Response,876,07-CEF-086-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1583600.0,CERF
-Bangladesh,2007,Rapid Response,877,07-CEF-086-D,Protection,Protection,100,50290.0,CERF
-Bangladesh,2007,Rapid Response,879,07-FPA-032,Health,Health,100,62702.0,CERF
-Bangladesh,2007,Rapid Response,911,07-WFP-077,Food Assistance,Food Assistance,100,5000000.0,CERF
 Nepal,2007,Rapid Response,882,07-WFP-073,Food Assistance,Food Assistance,100,1000000.0,CERF
 Pakistan,2007,Rapid Response,611,07-HCR-016,Shelter and Non-Food Items,Shelter and Non-Food Items,100,622468.0,CERF
 Pakistan,2007,Rapid Response,610,07-FPA-016,Health,Health,100,99510.0,CERF
 Pakistan,2007,Rapid Response,604,07-CEF-047,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1287451.0,CERF
 Pakistan,2007,Rapid Response,613,07-WFP-041,Common Services,Common Services,100,381132.0,CERF
 Pakistan,2007,Rapid Response,607,07-FAO-025,Agriculture,Agriculture,100,417300.0,CERF
-Pakistan,2007,Rapid Response,608,07-IOM-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,593850.0,CERF
 Bolivia,2007,Rapid Response,405,07-CEF-011-B,Education,Education,100,140000.0,CERF
 Bolivia,2007,Rapid Response,407,07-CEF-011-D,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,175000.0,CERF
+Colombia,2007,Rapid Response,617,07-WFP-043,Food Assistance,Food Assistance,100,906841.0,CERF
 Bolivia,2007,Rapid Response,404,07-CEF-011-A,Nutrition,Nutrition,100,70000.0,CERF
 Bolivia,2007,Rapid Response,406,07-CEF-011-C,Health,Health,100,125000.0,CERF
 Bolivia,2007,Rapid Response,399,07-UDP-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0,CERF
 Bolivia,2007,Rapid Response,401,07-WHO-008,Health,Health,100,100000.0,CERF
 Bolivia,2007,Rapid Response,402,07-FPA-004,Health,Health,100,30000.0,CERF
-Colombia,2007,Rapid Response,617,07-WFP-043,Food Assistance,Food Assistance,100,906841.0,CERF
 Bolivia,2007,Rapid Response,400,07-WFP-011,Food Assistance,Food Assistance,100,960000.0,CERF
 Bolivia,2007,Rapid Response,403,07-FAO-005,Agriculture,Agriculture,100,300000.0,CERF
+Tajikistan,2007,Rapid Response,532,07-FAO-019,Agriculture,Agriculture,100,119814.0,CERF
+Nicaragua,2007,Rapid Response,805,07-CEF-074-A,Health,Health,100,99510.0,CERF
+Nicaragua,2007,Rapid Response,806,07-CEF-074-C,Nutrition,Nutrition,100,149265.0,CERF
 Peru,2007,Rapid Response,745,07-FAO-032,Agriculture,Agriculture,100,1032550.0,CERF
 Peru,2007,Rapid Response,743,07-CEF-053,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0,CERF
 Peru,2007,Rapid Response,744,07-ESC-001,Education,Education,100,500000.0,CERF
@@ -409,8 +411,6 @@ Peru,2007,Rapid Response,746,07-FPA-019,Health,Health,100,49969.0,CERF
 Peru,2007,Rapid Response,748,07-UDP-020-A,Early Recovery,Early Recovery,100,200000.0,CERF
 Peru,2007,Rapid Response,756,07-WFP-045,Food Assistance,Food Assistance,100,2194504.0,CERF
 Peru,2007,Rapid Response,764,07-WHO-036,Health,Health,100,895590.0,CERF
-Nicaragua,2007,Rapid Response,805,07-CEF-074-A,Health,Health,100,99510.0,CERF
-Nicaragua,2007,Rapid Response,806,07-CEF-074-C,Nutrition,Nutrition,100,149265.0,CERF
 Colombia,2007,Rapid Response,618,07-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,791693.0,CERF
 Colombia,2007,Rapid Response,619,07-CEF-049,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,554510.0,CERF
 Dominican Republic,2007,Rapid Response,855,07-FAO-054,Agriculture,Agriculture,100,600000.0,CERF
@@ -1062,17 +1062,14 @@ Haiti,2008,Rapid Response,1442,08-WFP-099,Common Services,Common Services,100,20
 Colombia,2008,Rapid Response,912,08-WFP-001,Food Assistance,Food Assistance,100,982147.0,CERF
 Colombia,2008,Rapid Response,913,08-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,393764.0,CERF
 Cuba,2008,Rapid Response,1376,08-FAO-047,Agriculture,Agriculture,100,439770.0,CERF
-Bolivia,2008,Rapid Response,946,08-FAO-001,Agriculture,Agriculture,100,288600.0,CERF
+Tajikistan,2008,Rapid Response,968,08-UDP-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,371600.0,CERF
+Tajikistan,2008,Rapid Response,1158,08-FAO-017,Agriculture,Agriculture,100,410163.0,CERF
+Tajikistan,2008,Rapid Response,1304,08-CEF-056,Nutrition,Nutrition,100,202714.0,CERF
+Tajikistan,2008,Rapid Response,1306,08-WFP-082,Food Assistance,Food Assistance,100,1610699.0,CERF
 Honduras,2008,Rapid Response,1509,08-FAO-060,Agriculture,Agriculture,100,213000.0,CERF
 Colombia,2008,Rapid Response,914,08-IOM-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,462422.0,CERF
 Bolivia,2008,Rapid Response,951,08-WFP-008,Food Assistance,Food Assistance,100,1023320.0,CERF
-Bolivia,2008,Rapid Response,953,08-FPA-003,Health,Health,100,48150.0,CERF
-Bolivia,2008,Rapid Response,954,08-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,263994.0,CERF
-Bolivia,2008,Rapid Response,948,08-CEF-004-B,Nutrition,Nutrition,100,40660.0,CERF
-Bolivia,2008,Rapid Response,950,08-CEF-004-C,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,243618.0,CERF
-Bolivia,2008,Rapid Response,952,08-WHO-003,Health,Health,100,160500.0,CERF
-Bolivia,2008,Rapid Response,947,08-CEF-004-A,Education,Education,100,76772.1,CERF
-Bolivia,2008,Rapid Response,949,08-CEF-006,Protection,Protection,100,126260.0,CERF
+Kyrgyzstan,2008,Rapid Response,1560,08-WFP-110,Food Assistance,Food Assistance,100,1350405.0,CERF
 Kyrgyzstan,2008,Rapid Response,1562,08-HCR-043,Shelter and Non-Food Items,Shelter and Non-Food Items,100,110797.0,CERF
 Kyrgyzstan,2008,Rapid Response,1563,08-FAO-063,Agriculture,Agriculture,100,400000.0,CERF
 Kyrgyzstan,2008,Rapid Response,1564,08-CEF-093,Shelter and Non-Food Items,Shelter and Non-Food Items,100,109354.0,CERF
@@ -1080,9 +1077,14 @@ Tajikistan,2008,Rapid Response,969,08-WHO-006,Health,Health,100,250000.0,CERF
 Tajikistan,2008,Rapid Response,971,08-WFP-012,Food Assistance,Food Assistance,100,2236018.0,CERF
 Tajikistan,2008,Rapid Response,1305,08-WHO-045,Nutrition,Nutrition,100,186103.0,CERF
 Tajikistan,2008,Rapid Response,970,08-CEF-008,Health,Health,100,579940.0,CERF
-Kyrgyzstan,2008,Rapid Response,1560,08-WFP-110,Food Assistance,Food Assistance,100,1350405.0,CERF
-Nepal,2008,Underfunded Emergencies,1106,08-HCR-013,Multi-Sector,Multi-Sector,100,500852.0,CERF
-Nepal,2008,Rapid Response,1457,08-CEF-080-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,129200.0,CERF
+Bolivia,2008,Rapid Response,946,08-FAO-001,Agriculture,Agriculture,100,288600.0,CERF
+Bolivia,2008,Rapid Response,953,08-FPA-003,Health,Health,100,48150.0,CERF
+Bolivia,2008,Rapid Response,954,08-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,263994.0,CERF
+Bolivia,2008,Rapid Response,948,08-CEF-004-B,Nutrition,Nutrition,100,40660.0,CERF
+Bolivia,2008,Rapid Response,950,08-CEF-004-C,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,243618.0,CERF
+Bolivia,2008,Rapid Response,952,08-WHO-003,Health,Health,100,160500.0,CERF
+Bolivia,2008,Rapid Response,947,08-CEF-004-A,Education,Education,100,76772.1,CERF
+Bolivia,2008,Rapid Response,949,08-CEF-006,Protection,Protection,100,126260.0,CERF
 Pakistan,2008,Underfunded Emergencies,1018,08-CEF-014-A,Health,Health,100,820000.0,CERF
 Pakistan,2008,Underfunded Emergencies,1021,08-IOM-009,Shelter and Non-Food Items,Shelter and Non-Food Items,100,517496.0,CERF
 Pakistan,2008,Underfunded Emergencies,1022,08-HAB-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,36380.0,CERF
@@ -1104,6 +1106,13 @@ Pakistan,2008,Rapid Response,1349,08-CEF-062-C,Protection,Protection,100,210523.
 Pakistan,2008,Rapid Response,1350,08-CEF-062-D,Education,Education,100,135646.0,CERF
 Pakistan,2008,Rapid Response,1351,08-ESC-001,Education,Education,100,70053.0,CERF
 Pakistan,2008,Rapid Response,1326,08-FAO-041,Agriculture,Agriculture,100,399994.0,CERF
+Nepal,2008,Underfunded Emergencies,1106,08-HCR-013,Multi-Sector,Multi-Sector,100,500852.0,CERF
+Nepal,2008,Rapid Response,1457,08-CEF-080-C,Shelter and Non-Food Items,Shelter and Non-Food Items,100,129200.0,CERF
+Nepal,2008,Rapid Response,1461,08-FPA-039,Health,Health,100,272000.0,CERF
+Nepal,2008,Rapid Response,1462,08-IOM-026,Shelter and Non-Food Items,Shelter and Non-Food Items,100,200020.0,CERF
+Nepal,2008,Rapid Response,1463,08-WFP-103,Food Assistance,Food Assistance,100,1001809.0,CERF
+Nepal,2008,Rapid Response,1464,08-WHO-066,Health,Health,100,300000.0,CERF
+Pakistan,2008,Rapid Response,1348,08-CEF-062-B,Nutrition,Nutrition,100,250000.0,CERF
 Pakistan,2008,Rapid Response,1529,08-FAO-062,Agriculture,Agriculture,100,101436.0,CERF
 Pakistan,2008,Rapid Response,1530,08-HAB-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,886923.0,CERF
 Pakistan,2008,Rapid Response,1539,08-WFP-076,Common Services,Common Services,100,150010.0,CERF
@@ -1124,16 +1133,11 @@ Nepal,2008,Rapid Response,1460,08-CEF-080-B,"Water, Sanitation and Hygiene","Wat
 Tajikistan,2008,Rapid Response,967,08-UDP-001,Early Recovery,Early Recovery,100,1800000.0,CERF
 Nepal,2008,Underfunded Emergencies,1001,08-WFP-015,Food Assistance,Food Assistance,100,4000000.0,CERF
 Nepal,2008,Underfunded Emergencies,1002,08-FAO-002,Agriculture,Agriculture,100,400000.0,CERF
-Nepal,2008,Rapid Response,1461,08-FPA-039,Health,Health,100,272000.0,CERF
-Nepal,2008,Rapid Response,1462,08-IOM-026,Shelter and Non-Food Items,Shelter and Non-Food Items,100,200020.0,CERF
-Nepal,2008,Rapid Response,1463,08-WFP-103,Food Assistance,Food Assistance,100,1001809.0,CERF
-Nepal,2008,Rapid Response,1464,08-WHO-066,Health,Health,100,300000.0,CERF
 Nepal,2008,Rapid Response,1465,08-CHR-001,Protection,Protection,100,40376.0,CERF
 Nepal,2008,Rapid Response,1476,08-WFP-106,Food Assistance,Food Assistance,100,1000000.0,CERF
 Nepal,2008,Rapid Response,1549,08-WFP-071,Food Assistance,Food Assistance,100,1449495.0,CERF
 Nepal,2008,Rapid Response,1550,08-CEF-085,Nutrition,Nutrition,100,650029.0,CERF
 Nepal,2008,Rapid Response,1551,08-FAO-059,Agriculture,Agriculture,100,899998.0,CERF
-Bangladesh,2008,Rapid Response,1159,08-WFP-041,Food Assistance,Food Assistance,100,1000000.0,CERF
 India,2008,Rapid Response,1413,08-CEF-073,Multi-Sector,Multi-Sector,100,2266319.0,CERF
 India,2008,Rapid Response,1414,08-FPA-035,Health,Health,100,342400.0,CERF
 India,2008,Rapid Response,1484,08-FPA-041,Health,Health,100,120910.0,CERF
@@ -1142,14 +1146,17 @@ Nepal,2008,Underfunded Emergencies,1003,08-FPA-005,Health,Health,100,298530.0,CE
 Democratic People's Republic of Korea,2008,Underfunded Emergencies,1382,08-CEF-063,Nutrition,Nutrition,100,500007.0,CERF
 Democratic People's Republic of Korea,2008,Rapid Response,1438,08-WHO-063,Health,Health,100,857256.0,CERF
 Democratic People's Republic of Korea,2008,Rapid Response,1439,08-CEF-076,Nutrition,Nutrition,100,540914.0,CERF
-Democratic People's Republic of Korea,2008,Underfunded Emergencies,1385,08-FAO-044,Agriculture,Agriculture,100,599869.0,CERF
-Tajikistan,2008,Rapid Response,968,08-UDP-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,371600.0,CERF
-Tajikistan,2008,Rapid Response,1158,08-FAO-017,Agriculture,Agriculture,100,410163.0,CERF
-Tajikistan,2008,Rapid Response,1304,08-CEF-056,Nutrition,Nutrition,100,202714.0,CERF
-Tajikistan,2008,Rapid Response,1306,08-WFP-082,Food Assistance,Food Assistance,100,1610699.0,CERF
 Democratic People's Republic of Korea,2008,Underfunded Emergencies,1383,08-FPA-029,Health,Health,100,350008.0,CERF
+Democratic People's Republic of Korea,2008,Underfunded Emergencies,1384,08-WHO-053,Health,Health,100,550000.0,CERF
+Democratic People's Republic of Korea,2008,Underfunded Emergencies,1385,08-FAO-044,Agriculture,Agriculture,100,599869.0,CERF
 China,2008,Rapid Response,1203,08-WFP-052,Food Assistance,Food Assistance,100,490888.0,CERF
 China,2008,Rapid Response,1202,08-FPA-022,Health,Health,100,114490.0,CERF
+Bangladesh,2008,Rapid Response,1159,08-WFP-041,Food Assistance,Food Assistance,100,1000000.0,CERF
+Afghanistan,2008,Rapid Response,944,08-WFP-006,Common Services,Common Services,100,1444500.0,CERF
+China,2008,Rapid Response,1205,08-WHO-031,Health,Health,100,1305445.0,CERF
+China,2008,Rapid Response,1206,08-UDP-015,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2058830.0,CERF
+China,2008,Rapid Response,1207,08-CEF-041,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2076078.0,CERF
+China,2008,Rapid Response,1210,08-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2000000.0,CERF
 Afghanistan,2008,Rapid Response,957,08-WFP-010,Food Assistance,Food Assistance,100,6945154.0,CERF
 Afghanistan,2008,Rapid Response,958,08-WHO-004,Health,Health,100,248040.0,CERF
 Afghanistan,2008,Rapid Response,956,08-CEF-005,Health,Health,100,808866.0,CERF
@@ -1160,14 +1167,7 @@ Afghanistan,2008,Underfunded Emergencies,1016,08-HCR-005,Multi-Sector,Multi-Sect
 Afghanistan,2008,Underfunded Emergencies,1361,08-CEF-069-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,3302157.0,CERF
 Afghanistan,2008,Underfunded Emergencies,1362,08-CEF-069-B,Nutrition,Nutrition,100,447795.0,CERF
 Afghanistan,2008,Underfunded Emergencies,1363,08-WHO-059,Health,Health,100,449935.0,CERF
-Democratic People's Republic of Korea,2008,Underfunded Emergencies,1384,08-WHO-053,Health,Health,100,550000.0,CERF
-China,2008,Rapid Response,1205,08-WHO-031,Health,Health,100,1305445.0,CERF
-China,2008,Rapid Response,1206,08-UDP-015,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2058830.0,CERF
-China,2008,Rapid Response,1207,08-CEF-041,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2076078.0,CERF
-China,2008,Rapid Response,1210,08-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2000000.0,CERF
-Afghanistan,2008,Rapid Response,944,08-WFP-006,Common Services,Common Services,100,1444500.0,CERF
 Afghanistan,2008,Underfunded Emergencies,1364,08-IOM-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,399035.0,CERF
-Pakistan,2008,Rapid Response,1348,08-CEF-062-B,Nutrition,Nutrition,100,250000.0,CERF
 Sri Lanka,2008,Rapid Response,1150,08-WFP-043,Food Assistance,Food Assistance,100,2300000.0,CERF
 Sri Lanka,2008,Rapid Response,1151,08-WFP-044,Common Services,Common Services,100,593508.0,CERF
 Sri Lanka,2008,Rapid Response,1148,08-FPA-017,Health,Health,100,125064.0,CERF
@@ -1191,8 +1191,7 @@ Sri Lanka,2008,Rapid Response,1553,08-CEF-086-A,"Water, Sanitation and Hygiene",
 Sri Lanka,2008,Rapid Response,1558,08-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,219999.0,CERF
 Sri Lanka,2008,Rapid Response,1559,08-OPS-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,116630.0,CERF
 Sri Lanka,2008,Rapid Response,1555,08-CEF-086-B,Education,Education,100,703210.0,CERF
-Myanmar,2008,Underfunded Emergencies,1053,08-FPA-009,Health,Health,100,120000.0,CERF
-Myanmar,2008,Rapid Response,1296,08-WFP-079,Food Assistance,Food Assistance,100,1750000.0,CERF
+Myanmar,2008,Underfunded Emergencies,1054,08-FPA-010,Health,Health,100,411442.0,CERF
 Myanmar,2008,Underfunded Emergencies,1055,08-HCR-010,Multi-Sector,Multi-Sector,100,717388.0,CERF
 Myanmar,2008,Underfunded Emergencies,1056,08-WHO-015,Health,Health,100,771149.0,CERF
 Myanmar,2008,Rapid Response,1195,08-CEF-039-B,Nutrition,Nutrition,100,1000450.0,CERF
@@ -1207,7 +1206,8 @@ Myanmar,2008,Rapid Response,1188,08-HCR-022,Shelter and Non-Food Items,Shelter a
 Myanmar,2008,Rapid Response,1189,08-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1200000.0,CERF
 Myanmar,2008,Rapid Response,1224,08-WFP-057,Common Services,Common Services,100,1300005.0,CERF
 Myanmar,2008,Rapid Response,1298,08-IOM-019,Health,Health,100,300000.0,CERF
-Myanmar,2008,Underfunded Emergencies,1054,08-FPA-010,Health,Health,100,411442.0,CERF
+Myanmar,2008,Underfunded Emergencies,1053,08-FPA-009,Health,Health,100,120000.0,CERF
+Myanmar,2008,Rapid Response,1296,08-WFP-079,Food Assistance,Food Assistance,100,1750000.0,CERF
 Philippines,2008,Rapid Response,1407,08-CEF-072-A,Protection,Protection,100,212788.0,CERF
 Philippines,2008,Rapid Response,1408,08-CEF-072-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,330630.0,CERF
 Philippines,2008,Rapid Response,1410,08-IOM-024,Multi-Sector,Multi-Sector,100,399998.0,CERF
@@ -1215,11 +1215,9 @@ Myanmar,2008,Rapid Response,1297,08-IOM-018,Shelter and Non-Food Items,Shelter a
 Myanmar,2008,Rapid Response,1197,08-WFP-050,Common Services,Common Services,100,275399.0,CERF
 Myanmar,2008,Rapid Response,1201,08-CEF-040,Common Services,Common Services,100,224216.0,CERF
 Myanmar,2008,Rapid Response,1212,08-FAO-019,Agriculture,Agriculture,100,2000000.0,CERF
+Philippines,2008,Rapid Response,1409,08-FPA-024,Health,Health,100,158324.0,CERF
 Philippines,2008,Rapid Response,1411,08-WFP-097,Food Assistance,Food Assistance,100,619448.0,CERF
 Philippines,2008,Rapid Response,1412,08-WHO-060,Health,Health,100,359104.0,CERF
-Iraq,2008,Rapid Response,945,08-WFP-007,Food Assistance,Food Assistance,100,5076123.0,CERF
-Iraq,2008,Rapid Response,1126,08-UDP-011,Multi-Sector,Multi-Sector,100,1560531.0,CERF
-Iraq,2008,Underfunded Emergencies,1329,08-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2700001.0,CERF
 Iraq,2008,Underfunded Emergencies,1330,08-IOM-020,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2300000.0,CERF
 Lao People's Democratic Republic,2008,Rapid Response,1352,08-CEF-065-A,Nutrition,Nutrition,100,200497.0,CERF
 Lao People's Democratic Republic,2008,Rapid Response,1353,08-CEF-065-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100028.0,CERF
@@ -1229,8 +1227,28 @@ Lao People's Democratic Republic,2008,Rapid Response,1356,08-FAO-046,Agriculture
 Lao People's Democratic Republic,2008,Rapid Response,1357,08-WFP-090,Food Assistance,Food Assistance,100,1000000.6,CERF
 Lao People's Democratic Republic,2008,Rapid Response,1358,08-WHO-056,Health,Health,100,223630.0,CERF
 Lao People's Democratic Republic,2008,Rapid Response,1360,08-HAB-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100580.0,CERF
-Philippines,2008,Rapid Response,1409,08-FPA-024,Health,Health,100,158324.0,CERF
+Iraq,2008,Rapid Response,945,08-WFP-007,Food Assistance,Food Assistance,100,5076123.0,CERF
+Iraq,2008,Rapid Response,1126,08-UDP-011,Multi-Sector,Multi-Sector,100,1560531.0,CERF
+Iraq,2008,Underfunded Emergencies,1329,08-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2700001.0,CERF
+Jordan,2008,Rapid Response,1160,08-HCR-017,Multi-Sector,Multi-Sector,100,3543119.0,CERF
+Lebanon,2008,Rapid Response,1506,08-RWA-004,Food Assistance,Food Assistance,100,1008582.0,CERF
+Syrian Arab Republic,2008,Underfunded Emergencies,1429,08-WHO-062,Health,Health,100,500000.0,CERF
+occupied Palestinian territory,2008,Rapid Response,1101,08-WFP-035,Food Assistance,Food Assistance,100,2499998.0,CERF
+occupied Palestinian territory,2008,Rapid Response,1102,08-RWA-001,Food Assistance,Food Assistance,100,2488366.0,CERF
+Syrian Arab Republic,2008,Rapid Response,1454,08-CEF-079,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,251450.0,CERF
+Syrian Arab Republic,2008,Rapid Response,928,08-WFP-003,Food Assistance,Food Assistance,100,4999654.0,CERF
+Syrian Arab Republic,2008,Rapid Response,1455,08-FAO-056,Agriculture,Agriculture,100,750070.0,CERF
+Syrian Arab Republic,2008,Rapid Response,1456,08-WFP-102,Food Assistance,Food Assistance,100,965001.0,CERF
+Syrian Arab Republic,2008,Underfunded Emergencies,1428,08-FPA-037,Health,Health,100,124741.0,CERF
 Yemen,2008,Rapid Response,1514,08-FPA-043,Protection,Protection,100,50000.0,CERF
+Yemen,2008,Rapid Response,1512,08-WHO-068,Nutrition,Nutrition,100,313200.0,CERF
+Yemen,2008,Rapid Response,1516,08-CEF-088-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,278200.0,CERF
+Georgia,2008,Rapid Response,1370,08-HCR-035,Shelter and Non-Food Items,Shelter and Non-Food Items,100,895590.0,CERF
+Georgia,2008,Rapid Response,1368,08-CEF-067,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,129925.0,CERF
+Georgia,2008,Rapid Response,1369,08-FPA-033,Protection,Protection,100,150000.0,CERF
+Georgia,2008,Rapid Response,1371,08-IOM-022,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0,CERF
+Georgia,2008,Rapid Response,1372,08-WFP-092,Food Assistance,Food Assistance,100,1570000.0,CERF
+Georgia,2008,Rapid Response,1373,08-WHO-058,Health,Health,100,149800.0,CERF
 Yemen,2008,Rapid Response,972,08-CEF-009-A,Education,Education,100,97370.0,CERF
 Yemen,2008,Rapid Response,973,08-CEF-009-B,Protection,Protection,100,80250.0,CERF
 Yemen,2008,Rapid Response,974,08-CEF-009-C,Nutrition,Nutrition,100,407028.0,CERF
@@ -1244,40 +1262,7 @@ Yemen,2008,Rapid Response,1502,08-CEF-083,Nutrition,Nutrition,100,529975.0,CERF
 Yemen,2008,Rapid Response,1515,08-WFP-074,Food Assistance,Food Assistance,100,400073.0,CERF
 Yemen,2008,Rapid Response,1518,08-HCR-041,Shelter and Non-Food Items,Shelter and Non-Food Items,100,398040.0,CERF
 Yemen,2008,Rapid Response,1519,08-IOM-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100,224191.0,CERF
-Yemen,2008,Rapid Response,1512,08-WHO-068,Nutrition,Nutrition,100,313200.0,CERF
-Yemen,2008,Rapid Response,1516,08-CEF-088-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,278200.0,CERF
-Georgia,2008,Rapid Response,1370,08-HCR-035,Shelter and Non-Food Items,Shelter and Non-Food Items,100,895590.0,CERF
-Georgia,2008,Rapid Response,1368,08-CEF-067,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,129925.0,CERF
-Georgia,2008,Rapid Response,1369,08-FPA-033,Protection,Protection,100,150000.0,CERF
-Georgia,2008,Rapid Response,1371,08-IOM-022,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0,CERF
-Georgia,2008,Rapid Response,1372,08-WFP-092,Food Assistance,Food Assistance,100,1570000.0,CERF
-Georgia,2008,Rapid Response,1373,08-WHO-058,Health,Health,100,149800.0,CERF
-Lebanon,2008,Rapid Response,1506,08-RWA-004,Food Assistance,Food Assistance,100,1008582.0,CERF
-Jordan,2008,Rapid Response,1160,08-HCR-017,Multi-Sector,Multi-Sector,100,3543119.0,CERF
-occupied Palestinian territory,2008,Rapid Response,1101,08-WFP-035,Food Assistance,Food Assistance,100,2499998.0,CERF
-occupied Palestinian territory,2008,Rapid Response,1102,08-RWA-001,Food Assistance,Food Assistance,100,2488366.0,CERF
-Syrian Arab Republic,2008,Rapid Response,1454,08-CEF-079,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,251450.0,CERF
-Syrian Arab Republic,2008,Underfunded Emergencies,1429,08-WHO-062,Health,Health,100,500000.0,CERF
-Syrian Arab Republic,2008,Rapid Response,928,08-WFP-003,Food Assistance,Food Assistance,100,4999654.0,CERF
-Syrian Arab Republic,2008,Rapid Response,1455,08-FAO-056,Agriculture,Agriculture,100,750070.0,CERF
-Syrian Arab Republic,2008,Rapid Response,1456,08-WFP-102,Food Assistance,Food Assistance,100,965001.0,CERF
-Syrian Arab Republic,2008,Underfunded Emergencies,1428,08-FPA-037,Health,Health,100,124741.0,CERF
 Yemen,2008,Rapid Response,1517,08-CEF-088-B,Nutrition,Nutrition,100,230050.0,CERF
-Syrian Arab Republic,2009,Rapid Response,1979,09-UDP-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0,CERF
-Syrian Arab Republic,2009,Rapid Response,1977,09-FAO-034,Agriculture,Agriculture,100,1400000.0,CERF
-Syrian Arab Republic,2009,Rapid Response,1981,09-WFP-067,Food Assistance,Food Assistance,100,1424137.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1599,09-WFP-008,Common Services,Common Services,100,1000000.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1638,09-WHO-009,Health,Health,100,1374724.0,CERF
-Syrian Arab Republic,2009,Rapid Response,1975,09-CEF-058-A,Nutrition,Nutrition,100,263327.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1582,09-CEF-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1551500.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1584,09-RWA-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1492650.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1585,09-RWA-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1492650.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1586,09-RWA-003,Common Services,Common Services,100,497550.0,CERF
-occupied Palestinian territory,2009,Rapid Response,1583,09-WFP-005,Food Assistance,Food Assistance,100,1999981.0,CERF
-Indonesia,2009,Rapid Response,1987,09-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,203809.0,CERF
-Indonesia,2009,Rapid Response,1986,09-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100,203809.0,CERF
-Georgia,2009,Rapid Response,2014,09-HCR-042,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000450.0,CERF
-Yemen,2009,Rapid Response,1825,09-CEF-036-D,Education,Education,100,156220.0,CERF
 Yemen,2009,Underfunded Emergencies,1701,09-CEF-024-B,Health,Health,100,139100.0,CERF
 Yemen,2009,Underfunded Emergencies,1703,09-CEF-024-D,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,165850.0,CERF
 Yemen,2009,Underfunded Emergencies,1698,09-WFP-024,Food Assistance,Food Assistance,100,1248000.0,CERF
@@ -1297,16 +1282,22 @@ Yemen,2009,Underfunded Emergencies,1705,09-FPA-011,Protection,Protection,100,144
 Yemen,2009,Rapid Response,2011,09-UDP-019,Common Services,Common Services,100,342475.0,CERF
 Yemen,2009,Rapid Response,2069,09-HCR-045,Protection,Protection,100,107000.0,CERF
 Yemen,2009,Rapid Response,2070,09-IOM-032,Protection,Protection,100,656766.0,CERF
-Lao People's Democratic Republic,2009,Rapid Response,1994,09-CEF-060-B,Education,Education,100,99510.0,CERF
-Lao People's Democratic Republic,2009,Rapid Response,1995,09-CEF-060-C,Nutrition,Nutrition,100,200020.0,CERF
-Indonesia,2009,Rapid Response,1982,09-CEF-059-A,Education,Education,100,801965.0,CERF
-Indonesia,2009,Rapid Response,1984,09-FAO-035,Agriculture,Agriculture,100,600000.0,CERF
-Indonesia,2009,Rapid Response,1988,09-WFP-068,Food Assistance,Food Assistance,100,1991584.0,CERF
-Indonesia,2009,Rapid Response,1989,09-WFP-069,Common Services,Common Services,100,500000.0,CERF
-Indonesia,2009,Rapid Response,1990,09-WHO-061,Health,Health,100,600249.0,CERF
-Indonesia,2009,Rapid Response,1992,09-UDP-015,Early Recovery,Early Recovery,100,864270.0,CERF
-Indonesia,2009,Rapid Response,2005,09-CEF-059-C,Education,Education,100,53500.0,CERF
-Indonesia,2009,Rapid Response,2012,09-UDP-020,Early Recovery,Early Recovery,100,214000.0,CERF
+Georgia,2009,Rapid Response,2014,09-HCR-042,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000450.0,CERF
+Yemen,2009,Rapid Response,1825,09-CEF-036-D,Education,Education,100,156220.0,CERF
+Syrian Arab Republic,2009,Rapid Response,1979,09-UDP-012,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0,CERF
+Syrian Arab Republic,2009,Rapid Response,1975,09-CEF-058-A,Nutrition,Nutrition,100,263327.0,CERF
+Syrian Arab Republic,2009,Rapid Response,1977,09-FAO-034,Agriculture,Agriculture,100,1400000.0,CERF
+Syrian Arab Republic,2009,Rapid Response,1981,09-WFP-067,Food Assistance,Food Assistance,100,1424137.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1582,09-CEF-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1551500.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1584,09-RWA-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1492650.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1585,09-RWA-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1492650.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1586,09-RWA-003,Common Services,Common Services,100,497550.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1583,09-WFP-005,Food Assistance,Food Assistance,100,1999981.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1599,09-WFP-008,Common Services,Common Services,100,1000000.0,CERF
+occupied Palestinian territory,2009,Rapid Response,1638,09-WHO-009,Health,Health,100,1374724.0,CERF
+Indonesia,2009,Rapid Response,1987,09-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,203809.0,CERF
+Indonesia,2009,Rapid Response,1986,09-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100,203809.0,CERF
+Iraq,2009,Rapid Response,1651,09-WHO-013,Health,Health,100,1004837.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,1996,09-CEF-060-D,Protection,Protection,100,99831.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,1997,09-FAO-036,Agriculture,Agriculture,100,589735.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,1998,09-FPA-031,Health,Health,100,125393.0,CERF
@@ -1315,11 +1306,20 @@ Lao People's Democratic Republic,2009,Rapid Response,2003,09-HAB-004,Shelter and
 Lao People's Democratic Republic,2009,Rapid Response,1999,09-WFP-070,Food Assistance,Food Assistance,100,1398055.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,2001,09-UDP-016,Early Recovery,Early Recovery,100,125000.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,2002,09-UDP-017,Protection,Protection,100,278600.0,CERF
-Iraq,2009,Rapid Response,1651,09-WHO-013,Health,Health,100,1004837.0,CERF
-Indonesia,2009,Rapid Response,1983,09-CEF-059-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,535000.0,CERF
-Indonesia,2009,Rapid Response,1985,09-FPA-030,Health,Health,100,367545.0,CERF
+Lao People's Democratic Republic,2009,Rapid Response,1994,09-CEF-060-B,Education,Education,100,99510.0,CERF
+Lao People's Democratic Republic,2009,Rapid Response,1995,09-CEF-060-C,Nutrition,Nutrition,100,200020.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,1993,09-CEF-060-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200069.0,CERF
 Lao People's Democratic Republic,2009,Rapid Response,2004,09-HAB-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,114062.0,CERF
+Indonesia,2009,Rapid Response,1983,09-CEF-059-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,535000.0,CERF
+Indonesia,2009,Rapid Response,1985,09-FPA-030,Health,Health,100,367545.0,CERF
+Indonesia,2009,Rapid Response,1982,09-CEF-059-A,Education,Education,100,801965.0,CERF
+Indonesia,2009,Rapid Response,1984,09-FAO-035,Agriculture,Agriculture,100,600000.0,CERF
+Indonesia,2009,Rapid Response,1988,09-WFP-068,Food Assistance,Food Assistance,100,1991584.0,CERF
+Indonesia,2009,Rapid Response,1989,09-WFP-069,Common Services,Common Services,100,500000.0,CERF
+Indonesia,2009,Rapid Response,1990,09-WHO-061,Health,Health,100,600249.0,CERF
+Indonesia,2009,Rapid Response,1992,09-UDP-015,Early Recovery,Early Recovery,100,864270.0,CERF
+Indonesia,2009,Rapid Response,2005,09-CEF-059-C,Education,Education,100,53500.0,CERF
+Indonesia,2009,Rapid Response,2012,09-UDP-020,Early Recovery,Early Recovery,100,214000.0,CERF
 Philippines,2009,Rapid Response,1953,09-WFP-061,Food Assistance,Food Assistance,100,2268103.0,CERF
 Philippines,2009,Rapid Response,1954,09-WFP-062,Common Services,Common Services,100,228000.0,CERF
 Philippines,2009,Rapid Response,1956,09-WHO-056,Health,Health,100,557061.0,CERF
@@ -1340,14 +1340,14 @@ Philippines,2009,Rapid Response,1950,09-FPA-028,Health,Health,100,183847.0,CERF
 Philippines,2009,Rapid Response,1951,09-IOM-025,Shelter and Non-Food Items,Shelter and Non-Food Items,100,776693.0,CERF
 Philippines,2009,Rapid Response,1952,09-IOM-026,Shelter and Non-Food Items,Shelter and Non-Food Items,100,447102.0,CERF
 Philippines,2009,Rapid Response,1955,09-WFP-063,Common Services,Common Services,100,500000.0,CERF
+Bhutan,2009,Rapid Response,1957,09-UDP-010,Multi-Sector,Multi-Sector,100,463845.0,CERF
+Sri Lanka,2009,Rapid Response,1610,09-IOM-003,Shelter and Non-Food Items,Shelter and Non-Food Items,100,312452.0,CERF
+Sri Lanka,2009,Rapid Response,1783,09-WFP-036,Food Assistance,Food Assistance,100,2000000.0,CERF
 Myanmar,2009,Underfunded Emergencies,1652,09-CEF-014,Nutrition,Nutrition,100,149265.0,CERF
 Myanmar,2009,Underfunded Emergencies,1653,09-FAO-008,Agriculture,Agriculture,100,400000.0,CERF
 Myanmar,2009,Underfunded Emergencies,1658,09-UDP-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,309016.0,CERF
 Myanmar,2009,Underfunded Emergencies,1654,09-HCR-006,Nutrition,Nutrition,100,395900.0,CERF
 Myanmar,2009,Underfunded Emergencies,1655,09-HCR-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,376640.0,CERF
-Bhutan,2009,Rapid Response,1957,09-UDP-010,Multi-Sector,Multi-Sector,100,463845.0,CERF
-Sri Lanka,2009,Rapid Response,1610,09-IOM-003,Shelter and Non-Food Items,Shelter and Non-Food Items,100,312452.0,CERF
-Sri Lanka,2009,Rapid Response,1783,09-WFP-036,Food Assistance,Food Assistance,100,2000000.0,CERF
 Sri Lanka,2009,Rapid Response,1601,09-HCR-002,Protection,Protection,100,937928.0,CERF
 Sri Lanka,2009,Rapid Response,1602,09-HCR-003,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1328938.0,CERF
 Sri Lanka,2009,Rapid Response,1604,09-CEF-007-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1372025.0,CERF
@@ -1370,20 +1370,19 @@ Sri Lanka,2009,Rapid Response,1779,09-HCR-021,Shelter and Non-Food Items,Shelter
 Sri Lanka,2009,Rapid Response,1786,09-OPS-005,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
 Sri Lanka,2009,Rapid Response,1611,09-WFP-010,Food Assistance,Food Assistance,100,3100000.0,CERF
 Sri Lanka,2009,Rapid Response,1613,09-IOM-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,354887.0,CERF
+Pakistan,2009,Rapid Response,1752,09-WHO-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,54356.0,CERF
 Sri Lanka,2009,Rapid Response,1780,09-HCR-022,Protection,Protection,100,890240.0,CERF
 Sri Lanka,2009,Rapid Response,1784,09-WHO-029,Health,Health,100,610460.0,CERF
 Sri Lanka,2009,Rapid Response,1785,09-OPS-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,520000.0,CERF
 Sri Lanka,2009,Rapid Response,1776,09-CEF-031-D,Nutrition,Nutrition,100,800028.0,CERF
 Sri Lanka,2009,Rapid Response,2006,09-HCR-041,Protection,Protection,100,1250305.0,CERF
-Pakistan,2009,Rapid Response,1745,09-HAB-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,494768.0,CERF
-Pakistan,2009,Rapid Response,1751,09-HAB-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,300798.0,CERF
-Pakistan,2009,Rapid Response,1752,09-WHO-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,54356.0,CERF
 Sri Lanka,2009,Rapid Response,2007,09-UDP-018,Protection,Protection,100,1005800.0,CERF
 Afghanistan,2009,Rapid Response,1593,09-CEF-006-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1155868.0,CERF
 Afghanistan,2009,Rapid Response,1594,09-WHO-003,Health,Health,100,500225.0,CERF
 Afghanistan,2009,Rapid Response,1595,09-IOM-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,495089.0,CERF
 Afghanistan,2009,Rapid Response,1596,09-FAO-003,Agriculture,Agriculture,100,1475068.0,CERF
 Afghanistan,2009,Rapid Response,1597,09-CEF-006-B,Nutrition,Nutrition,100,539317.0,CERF
+Democratic People's Republic of Korea,2009,Underfunded Emergencies,1661,09-FPA-007,Health,Health,100,154883.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1659,09-CEF-015,Nutrition,Nutrition,100,1101300.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1662,09-WFP-018,Food Assistance,Food Assistance,100,6493725.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1899,09-CEF-049,Health,Health,100,696784.0,CERF
@@ -1392,7 +1391,6 @@ Democratic People's Republic of Korea,2009,Underfunded Emergencies,1663,09-WHO-0
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1901,09-WFP-055,Food Assistance,Food Assistance,100,5800000.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1902,09-WHO-049,Health,Health,100,700171.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1903,09-FAO-027,Agriculture,Agriculture,100,1700001.0,CERF
-Democratic People's Republic of Korea,2009,Underfunded Emergencies,1661,09-FPA-007,Health,Health,100,154883.0,CERF
 Democratic People's Republic of Korea,2009,Underfunded Emergencies,1900,09-FPA-025,Health,Health,100,99838.0,CERF
 Nepal,2009,Rapid Response,2040,09-WFP-075,Food Assistance,Food Assistance,100,6000000.0,CERF
 Pakistan,2009,Rapid Response,1744,09-HCR-018,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2150000.0,CERF
@@ -1404,6 +1402,8 @@ Pakistan,2009,Rapid Response,1755,09-ESC-001,Education,Education,100,74663.0,CER
 Pakistan,2009,Rapid Response,1756,09-WFP-029,Common Services,Common Services,100,198500.0,CERF
 Pakistan,2009,Rapid Response,1757,09-UDP-005,Common Services,Common Services,100,458148.0,CERF
 Pakistan,2009,Rapid Response,1806,09-UDP-006,Common Services,Common Services,100,540212.0,CERF
+Pakistan,2009,Rapid Response,1745,09-HAB-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,494768.0,CERF
+Pakistan,2009,Rapid Response,1751,09-HAB-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,300798.0,CERF
 Pakistan,2009,Rapid Response,1749,09-CEF-028-D,Education,Education,100,241990.0,CERF
 Pakistan,2009,Rapid Response,1743,09-WFP-028,Food Assistance,Food Assistance,100,2766191.0,CERF
 Pakistan,2009,Rapid Response,1747,09-CEF-028-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,654519.0,CERF
@@ -1415,11 +1415,11 @@ Colombia,2009,Underfunded Emergencies,1717,09-HCR-013,Multi-Sector,Multi-Sector,
 Colombia,2009,Underfunded Emergencies,1718,09-WHO-019,Health,Health,100,749000.0,CERF
 Nicaragua,2009,Rapid Response,2020,09-FAO-038,Agriculture,Agriculture,100,447127.0,CERF
 Nicaragua,2009,Rapid Response,2025,09-WHO-068,Health,Health,100,281702.0,CERF
-Nicaragua,2009,Rapid Response,2022,09-IOM-031,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,232265.0,CERF
-Nicaragua,2009,Rapid Response,2023,09-WFP-073,Food Assistance,Food Assistance,100,785936.0,CERF
 Colombia,2009,Underfunded Emergencies,1721,09-WFP-020,Common Services,Common Services,100,203289.0,CERF
 Colombia,2009,Underfunded Emergencies,1720,09-CEF-021,Health,Health,100,721876.0,CERF
 Colombia,2009,Rapid Response,1575,09-WFP-001,Food Assistance,Food Assistance,100,1271938.0,CERF
+Nicaragua,2009,Rapid Response,2022,09-IOM-031,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,232265.0,CERF
+Nicaragua,2009,Rapid Response,2023,09-WFP-073,Food Assistance,Food Assistance,100,785936.0,CERF
 Colombia,2009,Underfunded Emergencies,1719,09-FPA-009,Health,Health,100,345583.0,CERF
 Colombia,2009,Underfunded Emergencies,1722,09-FAO-013,Agriculture,Agriculture,100,769801.0,CERF
 Colombia,2009,Underfunded Emergencies,1771,09-WFP-032,Food Assistance,Food Assistance,100,1215330.0,CERF
@@ -1981,7 +1981,9 @@ Colombia,2010,Rapid Response,2615,10-IOM-034,Shelter and Non-Food Items,Shelter 
 Colombia,2010,Rapid Response,2616,10-CEF-068,Multi-Sector,Multi-Sector,100,853125.0,CERF
 Colombia,2010,Rapid Response,2617,10-FAO-052,Agriculture,Agriculture,100,490396.0,CERF
 Colombia,2010,Rapid Response,2618,10-WHO-079,Multi-Sector,Multi-Sector,100,597667.0,CERF
-Colombia,2010,Underfunded Emergencies,2214,10-CEF-019,Multi-Sector,Multi-Sector,100,503328.0,CERF
+Bolivia,2010,Rapid Response,2217,10-WFP-024,Food Assistance,Food Assistance,100,1128096.0,CERF
+Bolivia,2010,Rapid Response,2219,10-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100,388137.0,CERF
+Bolivia,2010,Rapid Response,2218,10-FAO-017,Agriculture,Agriculture,100,278862.0,CERF
 Bolivia,2010,Rapid Response,2220,10-CEF-020-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,258174.0,CERF
 Bolivia,2010,Rapid Response,2221,10-CEF-020-B,Nutrition,Nutrition,100,91806.0,CERF
 Bolivia,2010,Rapid Response,2223,10-WHO-020,Health,Health,100,99510.0,CERF
@@ -1999,20 +2001,9 @@ Chile,2010,Rapid Response,2231,10-CEF-022-B,"Water, Sanitation and Hygiene","Wat
 Chile,2010,Rapid Response,2235,10-WHO-022,Health,Health,100,2000151.0,CERF
 Chile,2010,Rapid Response,2236,10-UDP-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,528580.0,CERF
 Chile,2010,Rapid Response,2237,10-ESC-001,Education,Education,100,1279720.0,CERF
-Bolivia,2010,Rapid Response,2217,10-WFP-024,Food Assistance,Food Assistance,100,1128096.0,CERF
-Bolivia,2010,Rapid Response,2219,10-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100,388137.0,CERF
-Bolivia,2010,Rapid Response,2218,10-FAO-017,Agriculture,Agriculture,100,278862.0,CERF
 Bolivia,2010,Rapid Response,2611,10-FAO-051,Agriculture,Agriculture,100,349466.0,CERF
 Bolivia,2010,Rapid Response,2612,10-WHO-078,Health,Health,100,141617.0,CERF
 Bolivia,2010,Rapid Response,2613,10-FPA-048,Health,Health,100,87514.0,CERF
-Kyrgyzstan,2010,Rapid Response,2356,10-HCR-023,Protection,Protection,100,1098344.0,CERF
-Kyrgyzstan,2010,Rapid Response,2357,10-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2387861.0,CERF
-Kyrgyzstan,2010,Rapid Response,2358,10-WFP-043,Food Assistance,Food Assistance,100,2145712.0,CERF
-Kyrgyzstan,2010,Rapid Response,2359,10-WFP-044,Common Services,Common Services,100,414358.0,CERF
-Kyrgyzstan,2010,Rapid Response,2360,10-WFP-045,Common Services,Common Services,100,249994.0,CERF
-Kyrgyzstan,2010,Rapid Response,2361,10-WHO-044,Health,Health,100,170665.0,CERF
-Kyrgyzstan,2010,Rapid Response,2362,10-CHR-002,Protection,Protection,100,403551.0,CERF
-Kyrgyzstan,2010,Rapid Response,2363,10-FEM-003,Protection,Protection,100,149907.0,CERF
 Uzbekistan,2010,Rapid Response,2371,10-WFP-048,Food Assistance,Food Assistance,100,541270.0,CERF
 Uzbekistan,2010,Rapid Response,2373,10-WHO-046,Health,Health,100,23481.0,CERF
 Uzbekistan,2010,Rapid Response,2370,10-HCR-025,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1515131.0,CERF
@@ -2034,7 +2025,22 @@ Kyrgyzstan,2010,Rapid Response,2353,10-CEF-036-D,"Water, Sanitation and Hygiene"
 Kyrgyzstan,2010,Rapid Response,2355,10-FPA-027,Protection,Protection,100,33170.0,CERF
 Kyrgyzstan,2010,Rapid Response,2384,10-WHO-048,Health,Health,100,40297.0,CERF
 Kyrgyzstan,2010,Rapid Response,2385,10-WHO-049,Health,Health,100,45957.0,CERF
+Kyrgyzstan,2010,Rapid Response,2356,10-HCR-023,Protection,Protection,100,1098344.0,CERF
+Kyrgyzstan,2010,Rapid Response,2357,10-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2387861.0,CERF
+Kyrgyzstan,2010,Rapid Response,2358,10-WFP-043,Food Assistance,Food Assistance,100,2145712.0,CERF
+Kyrgyzstan,2010,Rapid Response,2359,10-WFP-044,Common Services,Common Services,100,414358.0,CERF
+Kyrgyzstan,2010,Rapid Response,2360,10-WFP-045,Common Services,Common Services,100,249994.0,CERF
+Kyrgyzstan,2010,Rapid Response,2361,10-WHO-044,Health,Health,100,170665.0,CERF
+Kyrgyzstan,2010,Rapid Response,2362,10-CHR-002,Protection,Protection,100,403551.0,CERF
+Kyrgyzstan,2010,Rapid Response,2363,10-FEM-003,Protection,Protection,100,149907.0,CERF
+Colombia,2010,Underfunded Emergencies,2214,10-CEF-019,Multi-Sector,Multi-Sector,100,503328.0,CERF
+Tajikistan,2010,Rapid Response,2304,10-CEF-031,Health,Health,100,101415.0,CERF
+Tajikistan,2010,Rapid Response,2305,10-WHO-034,Health,Health,100,839894.0,CERF
 Pakistan,2010,Rapid Response,2435,10-CEF-048-A,Health,Health,100,600015.0,CERF
+Pakistan,2010,Rapid Response,2548,10-UDP-023,Common Services,Common Services,100,501569.0,CERF
+Nepal,2010,Underfunded Emergencies,2517,10-WHO-067,Health,Health,100,221556.0,CERF
+Nepal,2010,Underfunded Emergencies,2518,10-CEF-056-A,Nutrition,Nutrition,100,415327.0,CERF
+Nepal,2010,Underfunded Emergencies,2519,10-CEF-056-B,Health,Health,100,353343.0,CERF
 Nepal,2010,Underfunded Emergencies,2523,10-WFP-071,Food Assistance,Food Assistance,100,520978.0,CERF
 Nepal,2010,Underfunded Emergencies,2524,10-HAB-008,Health,Health,100,146760.0,CERF
 Nepal,2010,Underfunded Emergencies,2521,10-FPA-043,Health,Health,100,235871.0,CERF
@@ -2072,11 +2078,6 @@ Pakistan,2010,Rapid Response,2544,10-WFP-073,Food Assistance,Food Assistance,100
 Pakistan,2010,Rapid Response,2549,10-HAB-009,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
 Pakistan,2010,Rapid Response,2536,10-CEF-058-B,Nutrition,Nutrition,100,1500000.0,CERF
 Pakistan,2010,Rapid Response,2564,10-FPA-045,Health,Health,100,200000.0,CERF
-Nepal,2010,Underfunded Emergencies,2517,10-WHO-067,Health,Health,100,221556.0,CERF
-Nepal,2010,Underfunded Emergencies,2518,10-CEF-056-A,Nutrition,Nutrition,100,415327.0,CERF
-Nepal,2010,Underfunded Emergencies,2519,10-CEF-056-B,Health,Health,100,353343.0,CERF
-Tajikistan,2010,Rapid Response,2304,10-CEF-031,Health,Health,100,101415.0,CERF
-Tajikistan,2010,Rapid Response,2305,10-WHO-034,Health,Health,100,839894.0,CERF
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2169,10-WFP-017,Food Assistance,Food Assistance,100,3994994.0,CERF
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2173,10-FPA-010,Health,Health,100,95979.0,CERF
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2498,10-CEF-054,Health,Health,100,749000.0,CERF
@@ -2087,18 +2088,20 @@ Democratic People's Republic of Korea,2010,Underfunded Emergencies,2496,10-WFP-0
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2497,10-FAO-042,Agriculture,Agriculture,100,899999.0,CERF
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2499,10-WHO-064,Health,Health,100,750000.0,CERF
 Democratic People's Republic of Korea,2010,Underfunded Emergencies,2500,10-FPA-040,Health,Health,100,50023.0,CERF
-China,2010,Rapid Response,2291,10-CEF-029,Multi-Sector,Multi-Sector,100,1418820.0,CERF
-China,2010,Rapid Response,2292,10-FPA-021,Health,Health,100,350259.0,CERF
-China,2010,Rapid Response,2293,10-WFP-032,Food Assistance,Food Assistance,100,449999.0,CERF
-China,2010,Rapid Response,2294,10-WHO-032,Health,Health,100,1018243.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2155,10-FAO-010,Agriculture,Agriculture,100,3000000.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2156,10-CEF-012-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,3000277.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2157,10-CEF-012-B,Nutrition,Nutrition,100,1851782.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2158,10-WHO-011,Health,Health,100,2754531.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2159,10-FPA-008,Health,Health,100,274262.0,CERF
 Afghanistan,2010,Underfunded Emergencies,2244,10-FAO-021,Nutrition,Nutrition,100,139100.0,CERF
+China,2010,Rapid Response,2291,10-CEF-029,Multi-Sector,Multi-Sector,100,1418820.0,CERF
+China,2010,Rapid Response,2292,10-FPA-021,Health,Health,100,350259.0,CERF
+China,2010,Rapid Response,2293,10-WFP-032,Food Assistance,Food Assistance,100,449999.0,CERF
+China,2010,Rapid Response,2294,10-WHO-032,Health,Health,100,1018243.0,CERF
 Sri Lanka,2010,Rapid Response,2247,10-CEF-024-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1565984.0,CERF
 Sri Lanka,2010,Rapid Response,2248,10-CEF-024-B,Health,Health,100,320000.0,CERF
+Sri Lanka,2010,Rapid Response,2555,10-HCR-047,Shelter and Non-Food Items,Shelter and Non-Food Items,100,153098.0,CERF
+Sri Lanka,2010,Rapid Response,2557,10-IOM-030,Health,Health,100,150000.0,CERF
 Sri Lanka,2010,Rapid Response,2249,10-CEF-024-C,Education,Education,100,363800.0,CERF
 Sri Lanka,2010,Rapid Response,2250,10-CEF-024-D,Nutrition,Nutrition,100,400000.0,CERF
 Sri Lanka,2010,Rapid Response,2251,10-HCR-015,Shelter and Non-Food Items,Shelter and Non-Food Items,100,4137373.0,CERF
@@ -2107,13 +2110,12 @@ Sri Lanka,2010,Rapid Response,2257,10-FPA-018,Health,Health,100,199955.0,CERF
 Sri Lanka,2010,Rapid Response,2253,10-IOM-015,Shelter and Non-Food Items,Shelter and Non-Food Items,100,685000.0,CERF
 Sri Lanka,2010,Rapid Response,2255,10-OPS-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,443109.0,CERF
 Sri Lanka,2010,Rapid Response,2256,10-WHO-025,Health,Health,100,915492.0,CERF
-Sri Lanka,2010,Rapid Response,2259,10-FAO-022,Agriculture,Agriculture,100,679027.0,CERF
-Sri Lanka,2010,Rapid Response,2559,10-OPS-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,85000.0,CERF
-Sri Lanka,2010,Rapid Response,2561,10-WFP-075,Food Assistance,Food Assistance,100,1187504.0,CERF
 Sri Lanka,2010,Rapid Response,2560,10-OPS-005,Shelter and Non-Food Items,Shelter and Non-Food Items,100,90000.0,CERF
 Sri Lanka,2010,Rapid Response,2562,10-WHO-070,Health,Health,100,49916.0,CERF
 Sri Lanka,2010,Rapid Response,2552,10-CEF-059-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,221430.0,CERF
-Pakistan,2010,Rapid Response,2548,10-UDP-023,Common Services,Common Services,100,501569.0,CERF
+Sri Lanka,2010,Rapid Response,2259,10-FAO-022,Agriculture,Agriculture,100,679027.0,CERF
+Sri Lanka,2010,Rapid Response,2559,10-OPS-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,85000.0,CERF
+Sri Lanka,2010,Rapid Response,2561,10-WFP-075,Food Assistance,Food Assistance,100,1187504.0,CERF
 Pakistan,2010,Rapid Response,2448,10-HAB-007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,552756.0,CERF
 Pakistan,2010,Rapid Response,2445,10-WHO-057,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,650560.0,CERF
 Pakistan,2010,Rapid Response,2447,10-HAB-006,Shelter and Non-Food Items,Shelter and Non-Food Items,100,690150.0,CERF
@@ -2127,12 +2129,10 @@ Pakistan,2010,Rapid Response,2441,10-IOM-023,Shelter and Non-Food Items,Shelter 
 Pakistan,2010,Rapid Response,2442,10-WFP-062,Food Assistance,Food Assistance,100,2500003.0,CERF
 Pakistan,2010,Rapid Response,2443,10-WFP-063,Common Services,Common Services,100,1000000.0,CERF
 Pakistan,2010,Rapid Response,2444,10-WHO-056,Health,Health,100,1238000.0,CERF
-Sri Lanka,2010,Rapid Response,2555,10-HCR-047,Shelter and Non-Food Items,Shelter and Non-Food Items,100,153098.0,CERF
-Sri Lanka,2010,Rapid Response,2557,10-IOM-030,Health,Health,100,150000.0,CERF
 Sri Lanka,2010,Rapid Response,2254,10-WFP-026,Food Assistance,Food Assistance,100,2400001.0,CERF
+Myanmar,2010,Underfunded Emergencies,2183,10-UDP-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100002.0,CERF
 Sri Lanka,2010,Rapid Response,2258,10-IOM-016,Common Services,Common Services,100,799999.0,CERF
 Myanmar,2010,Rapid Response,2600,10-UDP-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,93625.0,CERF
-Myanmar,2010,Underfunded Emergencies,2183,10-UDP-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100002.0,CERF
 Philippines,2010,Underfunded Emergencies,2198,10-WFP-022,Food Assistance,Food Assistance,100,713032.0,CERF
 Philippines,2010,Underfunded Emergencies,2204,10-FPA-013,Multi-Sector,Multi-Sector,100,147462.0,CERF
 Philippines,2010,Underfunded Emergencies,2271,10-HCR-016,Protection,Protection,100,101082.0,CERF
@@ -2166,13 +2166,25 @@ Myanmar,2010,Rapid Response,2598,10-UDP-025,Shelter and Non-Food Items,Shelter a
 Myanmar,2010,Rapid Response,2596,10-WFP-078,Food Assistance,Food Assistance,100,2235597.0,CERF
 Myanmar,2010,Rapid Response,2597,10-WHO-076,Health,Health,100,215153.0,CERF
 Myanmar,2010,Rapid Response,2601,10-WFP-079,Common Services,Common Services,100,360269.0,CERF
+China,2010,Rapid Response,2295,10-UDP-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1482384.0,CERF
+Philippines,2010,Underfunded Emergencies,2202,10-IOM-010,Shelter and Non-Food Items,Shelter and Non-Food Items,100,374009.0,CERF
+Philippines,2010,Underfunded Emergencies,2203,10-CEF-017,Multi-Sector,Multi-Sector,100,788871.0,CERF
 Philippines,2010,Underfunded Emergencies,2199,10-FAO-014,Agriculture,Agriculture,100,210536.0,CERF
 Philippines,2010,Underfunded Emergencies,2200,10-WHO-017,Health,Health,100,288552.0,CERF
 Philippines,2010,Underfunded Emergencies,2201,10-IOM-009,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,373568.0,CERF
-Philippines,2010,Underfunded Emergencies,2202,10-IOM-010,Shelter and Non-Food Items,Shelter and Non-Food Items,100,374009.0,CERF
-Philippines,2010,Underfunded Emergencies,2203,10-CEF-017,Multi-Sector,Multi-Sector,100,788871.0,CERF
-China,2010,Rapid Response,2295,10-UDP-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1482384.0,CERF
 Iraq,2010,Rapid Response,2622,10-WFP-083,Common Services,Common Services,100,1500000.0,CERF
+Yemen,2010,Underfunded Emergencies,2483,10-IOM-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,450005.0,CERF
+Yemen,2010,Underfunded Emergencies,2484,10-IOM-025,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,91977.0,CERF
+Yemen,2010,Underfunded Emergencies,2488,10-CEF-053-A,Education,Education,100,502040.0,CERF
+Yemen,2010,Underfunded Emergencies,2489,10-CEF-053-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,405530.0,CERF
+Yemen,2010,Underfunded Emergencies,2491,10-CEF-053-D,Protection,Protection,100,195292.0,CERF
+Yemen,2010,Underfunded Emergencies,2493,10-WHO-063,Health,Health,100,754469.0,CERF
+Yemen,2010,Underfunded Emergencies,2494,10-HCR-037,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000001.0,CERF
+Yemen,2010,Underfunded Emergencies,2495,10-HCR-038,Protection,Protection,100,200000.0,CERF
+Yemen,2010,Underfunded Emergencies,2486,10-FPA-038,Health,Health,100,110015.0,CERF
+Yemen,2010,Underfunded Emergencies,2487,10-FPA-039,Protection,Protection,100,200090.0,CERF
+Yemen,2010,Underfunded Emergencies,2492,10-WFP-068,Food Assistance,Food Assistance,100,2500000.0,CERF
+Georgia,2010,Rapid Response,2320,10-FAO-028,Agriculture,Agriculture,100,293394.0,CERF
 Yemen,2010,Underfunded Emergencies,2160,10-WFP-015,Food Assistance,Food Assistance,100,1000000.0,CERF
 Yemen,2010,Underfunded Emergencies,2162,10-CEF-013-A,Nutrition,Nutrition,100,567100.0,CERF
 Yemen,2010,Underfunded Emergencies,2163,10-CEF-013-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,598836.0,CERF
@@ -2186,18 +2198,12 @@ Yemen,2010,Underfunded Emergencies,2482,10-FAO-041,Agriculture,Agriculture,100,3
 Yemen,2010,Rapid Response,2317,10-WFP-036,Common Services,Common Services,100,375926.0,CERF
 Yemen,2010,Underfunded Emergencies,2161,10-WFP-016,Nutrition,Nutrition,100,1999770.0,CERF
 Yemen,2010,Underfunded Emergencies,2168,10-IOM-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100011.0,CERF
-Georgia,2010,Rapid Response,2320,10-FAO-028,Agriculture,Agriculture,100,293394.0,CERF
-Yemen,2010,Underfunded Emergencies,2483,10-IOM-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,450005.0,CERF
-Yemen,2010,Underfunded Emergencies,2484,10-IOM-025,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,91977.0,CERF
-Yemen,2010,Underfunded Emergencies,2486,10-FPA-038,Health,Health,100,110015.0,CERF
-Yemen,2010,Underfunded Emergencies,2487,10-FPA-039,Protection,Protection,100,200090.0,CERF
-Yemen,2010,Underfunded Emergencies,2492,10-WFP-068,Food Assistance,Food Assistance,100,2500000.0,CERF
-Yemen,2010,Underfunded Emergencies,2488,10-CEF-053-A,Education,Education,100,502040.0,CERF
-Yemen,2010,Underfunded Emergencies,2489,10-CEF-053-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,405530.0,CERF
-Yemen,2010,Underfunded Emergencies,2491,10-CEF-053-D,Protection,Protection,100,195292.0,CERF
-Yemen,2010,Underfunded Emergencies,2493,10-WHO-063,Health,Health,100,754469.0,CERF
-Yemen,2010,Underfunded Emergencies,2494,10-HCR-037,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000001.0,CERF
-Yemen,2010,Underfunded Emergencies,2495,10-HCR-038,Protection,Protection,100,200000.0,CERF
+Yemen,2011,Rapid Response,2899,11-WFP-036,Food Assistance,Food Assistance,100,1477089.0,CERF
+Yemen,2011,Rapid Response,2895,11-WFP-035,Food Assistance,Food Assistance,100,73635.0,CERF
+Yemen,2011,Rapid Response,2902,11-FPA-029,Health,Health,100,199996.0,CERF
+Yemen,2011,Rapid Response,2903,11-FPA-030,Protection,Protection,100,204370.0,CERF
+Yemen,2011,Rapid Response,2904,11-IOM-023,Multi-Sector,Multi-Sector,100,884770.0,CERF
+Yemen,2011,Rapid Response,2905,11-WHO-038,Health,Health,100,2200984.0,CERF
 Yemen,2011,Rapid Response,2859,11-CEF-026,Protection,Protection,100,250000.0,CERF
 Yemen,2011,Rapid Response,2860,11-FPA-027,Protection,Protection,100,123591.0,CERF
 Yemen,2011,Rapid Response,2861,11-HCR-022,Protection,Protection,100,320176.0,CERF
@@ -2205,28 +2211,21 @@ Yemen,2011,Rapid Response,2862,11-WHO-032,Health,Health,100,1586332.0,CERF
 Yemen,2011,Rapid Response,2897,11-HCR-030,Protection,Protection,100,283550.0,CERF
 Yemen,2011,Rapid Response,2900,11-CEF-032-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,553939.0,CERF
 Yemen,2011,Rapid Response,2901,11-CEF-032-B,Nutrition,Nutrition,100,447260.0,CERF
-Yemen,2011,Rapid Response,2895,11-WFP-035,Food Assistance,Food Assistance,100,73635.0,CERF
 Yemen,2011,Rapid Response,2898,11-HCR-031,Protection,Protection,100,823900.0,CERF
-Yemen,2011,Rapid Response,2902,11-FPA-029,Health,Health,100,199996.0,CERF
-Yemen,2011,Rapid Response,2903,11-FPA-030,Protection,Protection,100,204370.0,CERF
-Yemen,2011,Rapid Response,2904,11-IOM-023,Multi-Sector,Multi-Sector,100,884770.0,CERF
-Yemen,2011,Rapid Response,2905,11-WHO-038,Health,Health,100,2200984.0,CERF
-Yemen,2011,Rapid Response,2864,11-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,932517.0,CERF
-Yemen,2011,Rapid Response,2865,11-IOM-018,Multi-Sector,Multi-Sector,100,1270465.0,CERF
+Yemen,2011,Rapid Response,2896,11-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1393675.0,CERF
 Türkiye,2011,Rapid Response,3149,11-CEF-065,Education,Education,100,1109590.0,CERF
 Türkiye,2011,Rapid Response,3150,11-HCR-052,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1692740.0,CERF
 Türkiye,2011,Rapid Response,3151,11-IOM-045,Shelter and Non-Food Items,Shelter and Non-Food Items,100,503542.0,CERF
 Türkiye,2011,Rapid Response,3152,11-WHO-072,Health,Health,100,178861.0,CERF
+Yemen,2011,Rapid Response,2864,11-HCR-023,Shelter and Non-Food Items,Shelter and Non-Food Items,100,932517.0,CERF
+Yemen,2011,Rapid Response,2865,11-IOM-018,Multi-Sector,Multi-Sector,100,1270465.0,CERF
 Yemen,2011,Rapid Response,2863,11-WFP-030,Food Assistance,Food Assistance,100,1808332.0,CERF
-Yemen,2011,Rapid Response,2899,11-WFP-036,Food Assistance,Food Assistance,100,1477089.0,CERF
-Yemen,2011,Rapid Response,2896,11-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1393675.0,CERF
-occupied Palestinian territory,2011,Underfunded Emergencies,2670,11-RWA-001,Food Assistance,Food Assistance,100,872312.0,CERF
-Syrian Arab Republic,2011,Rapid Response,3099,11-WFP-065,Food Assistance,Food Assistance,100,799783.0,CERF
 occupied Palestinian territory,2011,Underfunded Emergencies,2668,11-FAO-006,Agriculture,Agriculture,100,800003.0,CERF
 occupied Palestinian territory,2011,Underfunded Emergencies,2669,11-WFP-005,Food Assistance,Food Assistance,100,900372.0,CERF
 occupied Palestinian territory,2011,Underfunded Emergencies,2671,11-FPA-004,Health,Health,100,294999.0,CERF
 occupied Palestinian territory,2011,Underfunded Emergencies,2672,11-FPA-005,Health,Health,100,104999.0,CERF
 occupied Palestinian territory,2011,Underfunded Emergencies,2673,11-CEF-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000001.0,CERF
+occupied Palestinian territory,2011,Underfunded Emergencies,2670,11-RWA-001,Food Assistance,Food Assistance,100,872312.0,CERF
 Syrian Arab Republic,2011,Rapid Response,2873,11-FPA-028,Health,Health,100,248794.0,CERF
 Syrian Arab Republic,2011,Rapid Response,2874,11-RWA-002,Health,Health,100,124123.0,CERF
 Syrian Arab Republic,2011,Rapid Response,3098,11-IOM-040,Protection,Protection,100,247421.0,CERF
@@ -2236,15 +2235,15 @@ Syrian Arab Republic,2011,Rapid Response,3094,11-CEF-058-B,Protection,Protection
 Syrian Arab Republic,2011,Rapid Response,3096,11-FAO-040,Agriculture,Agriculture,100,435966.0,CERF
 Syrian Arab Republic,2011,Rapid Response,3097,11-FPA-047,Health,Health,100,181134.0,CERF
 Syrian Arab Republic,2011,Rapid Response,3100,11-WHO-062,Health,Health,100,253590.0,CERF
+Syrian Arab Republic,2011,Rapid Response,3099,11-WFP-065,Food Assistance,Food Assistance,100,799783.0,CERF
 Syrian Arab Republic,2011,Rapid Response,2872,11-WHO-034,Health,Health,100,348071.0,CERF
 Syrian Arab Republic,2011,Rapid Response,3101,11-UDP-012,Protection,Protection,100,321000.0,CERF
-Myanmar,2011,Underfunded Emergencies,2744,11-CEF-011,Health,Health,100,368585.0,CERF
-Philippines,2011,Rapid Response,2922,11-WFP-042,Food Assistance,Food Assistance,100,1792908.0,CERF
 Philippines,2011,Rapid Response,2919,11-CEF-037-A,Nutrition,Nutrition,100,555195.0,CERF
+Myanmar,2011,Underfunded Emergencies,3048,11-WHO-055,Health,Health,100,169595.0,CERF
+Myanmar,2011,Underfunded Emergencies,3049,11-CEF-050,Nutrition,Nutrition,100,307339.0,CERF
+Philippines,2011,Rapid Response,2922,11-WFP-042,Food Assistance,Food Assistance,100,1792908.0,CERF
 Philippines,2011,Rapid Response,2920,11-CEF-037-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,869762.0,CERF
-Myanmar,2011,Underfunded Emergencies,2745,11-FAO-011,Agriculture,Agriculture,100,367451.0,CERF
-Myanmar,2011,Underfunded Emergencies,2746,11-HCR-008,Health,Health,100,577796.0,CERF
-Myanmar,2011,Underfunded Emergencies,2751,11-HAB-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,499904.0,CERF
+Myanmar,2011,Underfunded Emergencies,2744,11-CEF-011,Health,Health,100,368585.0,CERF
 Myanmar,2011,Underfunded Emergencies,2747,11-IOM-010,Health,Health,100,269714.0,CERF
 Myanmar,2011,Underfunded Emergencies,2748,11-WFP-013,Food Assistance,Food Assistance,100,574385.0,CERF
 Myanmar,2011,Underfunded Emergencies,2749,11-UDP-002,Agriculture,Agriculture,100,108085.0,CERF
@@ -2253,8 +2252,9 @@ Myanmar,2011,Underfunded Emergencies,3044,11-WFP-058,Food Assistance,Food Assist
 Myanmar,2011,Underfunded Emergencies,3045,11-FAO-034,Agriculture,Agriculture,100,380000.0,CERF
 Myanmar,2011,Underfunded Emergencies,3046,11-UDP-008,Agriculture,Agriculture,100,319984.0,CERF
 Myanmar,2011,Underfunded Emergencies,3047,11-FPA-043,Health,Health,100,163499.0,CERF
-Myanmar,2011,Underfunded Emergencies,3048,11-WHO-055,Health,Health,100,169595.0,CERF
-Myanmar,2011,Underfunded Emergencies,3049,11-CEF-050,Nutrition,Nutrition,100,307339.0,CERF
+Myanmar,2011,Underfunded Emergencies,2745,11-FAO-011,Agriculture,Agriculture,100,367451.0,CERF
+Myanmar,2011,Underfunded Emergencies,2746,11-HCR-008,Health,Health,100,577796.0,CERF
+Myanmar,2011,Underfunded Emergencies,2751,11-HAB-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,499904.0,CERF
 Philippines,2011,Rapid Response,2921,11-WFP-041,Common Services,Common Services,100,200069.0,CERF
 Philippines,2011,Rapid Response,2923,11-IOM-027,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,1499985.0,CERF
 Philippines,2011,Underfunded Emergencies,2986,11-CEF-046-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,150000.0,CERF
@@ -2273,16 +2273,39 @@ Philippines,2011,Rapid Response,3160,11-IOM-046,Shelter and Non-Food Items,Shelt
 Philippines,2011,Rapid Response,3162,11-WFP-075,Common Services,Common Services,100,200002.0,CERF
 Philippines,2011,Rapid Response,3177,12-WFP-004,Food Assistance,Food Assistance,100,800036.0,CERF
 Sri Lanka,2011,Rapid Response,2647,11-FPA-001,Health,Health,100,100164.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,2727,11-IOM-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100,199995.0,CERF
-Islamic Republic of Iran,2011,Underfunded Emergencies,2721,11-HCR-006,Health,Health,100,1492648.0,CERF
+Islamic Republic of Iran,2011,Underfunded Emergencies,2720,11-WFP-011,Food Assistance,Food Assistance,100,1499818.0,CERF
 Cambodia,2011,Rapid Response,3108,11-WFP-066,Food Assistance,Food Assistance,100,2507914.0,CERF
 Cambodia,2011,Rapid Response,3107,11-IOM-041,Shelter and Non-Food Items,Shelter and Non-Food Items,100,342379.0,CERF
 Cambodia,2011,Rapid Response,3104,11-CEF-059-A,Education,Education,100,315928.0,CERF
 Cambodia,2011,Rapid Response,3106,11-FAO-041,Agriculture,Agriculture,100,218923.0,CERF
 Cambodia,2011,Rapid Response,3105,11-CEF-059-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,648632.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,2727,11-IOM-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100,199995.0,CERF
+Islamic Republic of Iran,2011,Underfunded Emergencies,2721,11-HCR-006,Health,Health,100,1492648.0,CERF
 Bhutan,2011,Rapid Response,3091,11-CEF-057,Education,Education,100,856000.0,CERF
 Bhutan,2011,Rapid Response,3092,11-UDP-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100,749535.0,CERF
-Islamic Republic of Iran,2011,Underfunded Emergencies,2720,11-WFP-011,Food Assistance,Food Assistance,100,1499818.0,CERF
+Pakistan,2011,Rapid Response,3076,11-CEF-055-A,Health,Health,100,1500140.0,CERF
+Pakistan,2011,Rapid Response,3077,11-CEF-055-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1991536.0,CERF
+Pakistan,2011,Rapid Response,3082,11-WFP-063,Common Services,Common Services,100,348820.0,CERF
+Pakistan,2011,Rapid Response,3086,11-UDP-010,Common Services,Common Services,100,118048.0,CERF
+Pakistan,2011,Rapid Response,3087,11-HAB-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1498942.0,CERF
+Pakistan,2011,Rapid Response,3088,11-HAB-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,697779.0,CERF
+Pakistan,2011,Rapid Response,3078,11-FAO-039,Agriculture,Agriculture,100,797111.0,CERF
+Pakistan,2011,Rapid Response,3079,11-FPA-046,Health,Health,100,748271.0,CERF
+Pakistan,2011,Rapid Response,3080,11-HCR-051,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1500000.0,CERF
+Pakistan,2011,Rapid Response,3081,11-IOM-039,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1500043.0,CERF
+Pakistan,2011,Rapid Response,3083,11-WFP-064,Food Assistance,Food Assistance,100,4924284.0,CERF
+Pakistan,2011,Rapid Response,3084,11-WHO-059,Health,Health,100,1583857.0,CERF
+Pakistan,2011,Rapid Response,3085,11-WHO-060,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,424683.0,CERF
+Sri Lanka,2011,Rapid Response,2645,11-CEF-002-C,Health,Health,100,98387.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3009,11-FAO-032,Agriculture,Agriculture,100,1400000.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3010,11-FPA-041,Health,Health,100,100023.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3011,11-HCR-043,Protection,Protection,100,962747.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3012,11-IOM-037,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3013,11-WFP-054,Food Assistance,Food Assistance,100,1349024.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3014,11-WHO-052,Health,Health,100,149554.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3015,11-OPS-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3016,11-OPS-008,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100000.0,CERF
+Sri Lanka,2011,Underfunded Emergencies,3008,11-CEF-048-B,Nutrition,Nutrition,100,100000.0,CERF
 Sri Lanka,2011,Rapid Response,2643,11-CEF-002-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,915353.0,CERF
 Sri Lanka,2011,Rapid Response,2649,11-IOM-003,Health,Health,100,100000.0,CERF
 Sri Lanka,2011,Rapid Response,2650,11-WFP-002,Food Assistance,Food Assistance,100,2999020.0,CERF
@@ -2299,32 +2322,21 @@ Sri Lanka,2011,Underfunded Emergencies,2731,11-OPS-004,Shelter and Non-Food Item
 Sri Lanka,2011,Underfunded Emergencies,2732,11-OPS-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,99998.0,CERF
 Sri Lanka,2011,Underfunded Emergencies,2723,11-CEF-010-B,Nutrition,Nutrition,100,99564.0,CERF
 Sri Lanka,2011,Underfunded Emergencies,3007,11-CEF-048-A,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0,CERF
-Sri Lanka,2011,Rapid Response,2645,11-CEF-002-C,Health,Health,100,98387.0,CERF
 Sri Lanka,2011,Underfunded Emergencies,2725,11-FPA-011,Protection,Protection,100,100152.0,CERF
 Sri Lanka,2011,Rapid Response,2648,11-IOM-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,600000.0,CERF
 Sri Lanka,2011,Underfunded Emergencies,2724,11-FAO-010,Agriculture,Agriculture,100,99999.0,CERF
 Sri Lanka,2011,Rapid Response,2646,11-FAO-003,Agriculture,Agriculture,100,500000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3015,11-OPS-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,100000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3016,11-OPS-008,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,100000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3008,11-CEF-048-B,Nutrition,Nutrition,100,100000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3009,11-FAO-032,Agriculture,Agriculture,100,1400000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3010,11-FPA-041,Health,Health,100,100023.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3011,11-HCR-043,Protection,Protection,100,962747.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3012,11-IOM-037,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3013,11-WFP-054,Food Assistance,Food Assistance,100,1349024.0,CERF
-Sri Lanka,2011,Underfunded Emergencies,3014,11-WHO-052,Health,Health,100,149554.0,CERF
-Democratic People's Republic of Korea,2011,Rapid Response,2868,11-WFP-031,Food Assistance,Food Assistance,100,7199174.0,CERF
-Democratic People's Republic of Korea,2011,Rapid Response,2869,11-WHO-033,Health,Health,100,379850.0,CERF
+Democratic People's Republic of Korea,2011,Rapid Response,2870,11-FAO-021,Agriculture,Agriculture,100,400000.0,CERF
+Democratic People's Republic of Korea,2011,Rapid Response,2871,11-FAO-022,Agriculture,Agriculture,100,890735.0,CERF
+Democratic People's Republic of Korea,2011,Rapid Response,3163,11-CEF-068,Nutrition,Nutrition,100,427131.0,CERF
+Democratic People's Republic of Korea,2011,Underfunded Emergencies,2752,11-FPA-013,Health,Health,100,149800.0,CERF
 Democratic People's Republic of Korea,2011,Underfunded Emergencies,2753,11-CEF-013,Health,Health,100,500000.0,CERF
 Democratic People's Republic of Korea,2011,Underfunded Emergencies,2754,11-WFP-015,Nutrition,Nutrition,100,3199829.0,CERF
 Democratic People's Republic of Korea,2011,Underfunded Emergencies,2755,11-WHO-016,Health,Health,100,500154.0,CERF
 Democratic People's Republic of Korea,2011,Underfunded Emergencies,2756,11-FAO-013,Agriculture,Agriculture,100,650000.0,CERF
 Democratic People's Republic of Korea,2011,Rapid Response,2867,11-CEF-027,Nutrition,Nutrition,100,1113733.0,CERF
-Democratic People's Republic of Korea,2011,Underfunded Emergencies,2752,11-FPA-013,Health,Health,100,149800.0,CERF
-Democratic People's Republic of Korea,2011,Rapid Response,2870,11-FAO-021,Agriculture,Agriculture,100,400000.0,CERF
-Democratic People's Republic of Korea,2011,Rapid Response,2871,11-FAO-022,Agriculture,Agriculture,100,890735.0,CERF
-Democratic People's Republic of Korea,2011,Rapid Response,3163,11-CEF-068,Nutrition,Nutrition,100,427131.0,CERF
-Nepal,2011,Underfunded Emergencies,3042,11-HCR-044,Multi-Sector,Multi-Sector,100,999991.0,CERF
+Democratic People's Republic of Korea,2011,Rapid Response,2868,11-WFP-031,Food Assistance,Food Assistance,100,7199174.0,CERF
+Democratic People's Republic of Korea,2011,Rapid Response,2869,11-WHO-033,Health,Health,100,379850.0,CERF
 Pakistan,2011,Underfunded Emergencies,2980,11-IOM-031,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000003.0,CERF
 Pakistan,2011,Rapid Response,2866,11-HCR-024,Multi-Sector,Multi-Sector,100,4990394.0,CERF
 Pakistan,2011,Underfunded Emergencies,2973,11-CEF-045-B,Protection,Protection,100,404730.0,CERF
@@ -2338,19 +2350,7 @@ Pakistan,2011,Underfunded Emergencies,2981,11-WFP-052,Food Assistance,Food Assis
 Pakistan,2011,Underfunded Emergencies,2982,11-WHO-049,Health,Health,100,998074.0,CERF
 Pakistan,2011,Underfunded Emergencies,2972,11-CEF-045-A,Nutrition,Nutrition,100,789513.0,CERF
 Nepal,2011,Underfunded Emergencies,3043,11-WFP-057,Food Assistance,Food Assistance,100,1000003.0,CERF
-Pakistan,2011,Rapid Response,3076,11-CEF-055-A,Health,Health,100,1500140.0,CERF
-Pakistan,2011,Rapid Response,3077,11-CEF-055-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1991536.0,CERF
-Pakistan,2011,Rapid Response,3082,11-WFP-063,Common Services,Common Services,100,348820.0,CERF
-Pakistan,2011,Rapid Response,3086,11-UDP-010,Common Services,Common Services,100,118048.0,CERF
-Pakistan,2011,Rapid Response,3087,11-HAB-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1498942.0,CERF
-Pakistan,2011,Rapid Response,3088,11-HAB-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,697779.0,CERF
-Pakistan,2011,Rapid Response,3078,11-FAO-039,Agriculture,Agriculture,100,797111.0,CERF
-Pakistan,2011,Rapid Response,3079,11-FPA-046,Health,Health,100,748271.0,CERF
-Pakistan,2011,Rapid Response,3080,11-HCR-051,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1500000.0,CERF
-Pakistan,2011,Rapid Response,3081,11-IOM-039,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1500043.0,CERF
-Pakistan,2011,Rapid Response,3083,11-WFP-064,Food Assistance,Food Assistance,100,4924284.0,CERF
-Pakistan,2011,Rapid Response,3084,11-WHO-059,Health,Health,100,1583857.0,CERF
-Pakistan,2011,Rapid Response,3085,11-WHO-060,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,424683.0,CERF
+Nepal,2011,Underfunded Emergencies,3042,11-HCR-044,Multi-Sector,Multi-Sector,100,999991.0,CERF
 Bolivia,2011,Rapid Response,2841,11-WFP-026,Food Assistance,Food Assistance,100,844988.0,CERF
 Bolivia,2011,Rapid Response,2843,11-CEF-024-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,358397.0,CERF
 Bolivia,2011,Rapid Response,2846,11-IOM-016,Shelter and Non-Food Items,Shelter and Non-Food Items,100,353742.0,CERF
@@ -3016,6 +3016,7 @@ Colombia,2012,Underfunded Emergencies,3626,12-WFP-068,Food Assistance,Food Assis
 Colombia,2012,Rapid Response,3676,12-FAO-042,Agriculture,Agriculture,100,393884.0,CERF
 Colombia,2012,Rapid Response,3677,12-WHO-078,Multi-Sector,Multi-Sector,100,550000.0,CERF
 Colombia,2012,Underfunded Emergencies,3627,12-WHO-068,Health,Health,100,712999.0,CERF
+Democratic People's Republic of Korea,2012,Rapid Response,3566,12-WFP-057,Food Assistance,Food Assistance,100,654412.0,CERF
 Nepal,2012,Underfunded Emergencies,3267,12-CEF-013-B,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,472141.0,CERF
 Nepal,2012,Underfunded Emergencies,3266,12-CEF-013-A,Nutrition,Nutrition,100,1019762.0,CERF
 Nepal,2012,Underfunded Emergencies,3268,12-FAO-010,Agriculture,Agriculture,100,796886.0,CERF
@@ -3063,34 +3064,30 @@ Pakistan,2012,Rapid Response,3662,12-WHO-075,Health,Health,100,696142.0,CERF
 Pakistan,2012,Rapid Response,3659,12-WFP-074,Nutrition,Nutrition,100,286894.0,CERF
 Pakistan,2012,Rapid Response,3646,12-CEF-120,Nutrition,Nutrition,100,393926.0,CERF
 Pakistan,2012,Rapid Response,3661,12-WHO-074,Nutrition,Nutrition,100,75757.0,CERF
-Democratic People's Republic of Korea,2012,Rapid Response,3566,12-WFP-057,Food Assistance,Food Assistance,100,654412.0,CERF
+Democratic People's Republic of Korea,2012,Rapid Response,3565,12-FPA-037,Health,Health,100,100000.0,CERF
+Democratic People's Republic of Korea,2012,Underfunded Emergencies,3184,12-WHO-004,Health,Health,100,1224994.0,CERF
+Democratic People's Republic of Korea,2012,Rapid Response,3564,12-CEF-098,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,400726.0,CERF
+Democratic People's Republic of Korea,2012,Underfunded Emergencies,3181,12-FAO-001,Agriculture,Agriculture,100,1897244.0,CERF
+Democratic People's Republic of Korea,2012,Underfunded Emergencies,3182,12-FPA-001,Health,Health,100,150000.0,CERF
 Democratic People's Republic of Korea,2012,Underfunded Emergencies,3180,12-CEF-003,Health,Health,100,1225000.0,CERF
 Democratic People's Republic of Korea,2012,Underfunded Emergencies,3183,12-WFP-006,Nutrition,Nutrition,100,6468289.0,CERF
 Democratic People's Republic of Korea,2012,Rapid Response,3567,12-WHO-058,Health,Health,100,800002.0,CERF
-Democratic People's Republic of Korea,2012,Underfunded Emergencies,3181,12-FAO-001,Agriculture,Agriculture,100,1897244.0,CERF
-Democratic People's Republic of Korea,2012,Underfunded Emergencies,3182,12-FPA-001,Health,Health,100,150000.0,CERF
-Democratic People's Republic of Korea,2012,Underfunded Emergencies,3184,12-WHO-004,Health,Health,100,1224994.0,CERF
-Democratic People's Republic of Korea,2012,Rapid Response,3564,12-CEF-098,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,400726.0,CERF
+Afghanistan,2012,Underfunded Emergencies,3603,12-HCR-045,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2299944.0,CERF
+Afghanistan,2012,Underfunded Emergencies,3604,12-FAO-035,Agriculture,Agriculture,100,1600000.0,CERF
 Afghanistan,2012,Underfunded Emergencies,3605,12-CEF-108,Health,Health,100,4009224.0,CERF
 Afghanistan,2012,Underfunded Emergencies,3606,12-WHO-065,Health,Health,100,1003788.0,CERF
 Afghanistan,2012,Underfunded Emergencies,3609,12-CEF-109,Protection,Protection,100,239616.0,CERF
-Democratic People's Republic of Korea,2012,Rapid Response,3565,12-FPA-037,Health,Health,100,100000.0,CERF
 Afghanistan,2012,Underfunded Emergencies,3607,12-WFP-066,Nutrition,Nutrition,100,647999.0,CERF
 Afghanistan,2012,Underfunded Emergencies,3608,12-WHO-066,Nutrition,Nutrition,100,194825.0,CERF
-Afghanistan,2012,Underfunded Emergencies,3603,12-HCR-045,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2299944.0,CERF
-Afghanistan,2012,Underfunded Emergencies,3604,12-FAO-035,Agriculture,Agriculture,100,1600000.0,CERF
-Sri Lanka,2012,Underfunded Emergencies,3572,12-WFP-059,Food Assistance,Food Assistance,100,1464899.0,CERF
 Sri Lanka,2012,Underfunded Emergencies,3570,12-CEF-099,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,200000.0,CERF
 Sri Lanka,2012,Underfunded Emergencies,3571,12-HCR-041,Protection,Protection,100,330000.0,CERF
+Sri Lanka,2012,Underfunded Emergencies,3572,12-WFP-059,Food Assistance,Food Assistance,100,1464899.0,CERF
 Myanmar,2012,Rapid Response,3559,12-HCR-039,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2705663.0,CERF
 Myanmar,2012,Rapid Response,3560,12-HCR-040,Protection,Protection,100,124545.0,CERF
 Myanmar,2012,Rapid Response,3561,12-WFP-056,Food Assistance,Food Assistance,100,1000000.0,CERF
 Myanmar,2012,Rapid Response,3686,12-CEF-130,Nutrition,Nutrition,100,243150.0,CERF
 Myanmar,2012,Rapid Response,3687,12-HCR-054,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2008989.0,CERF
 Myanmar,2012,Rapid Response,3689,12-CEF-131,Health,Health,100,142832.0,CERF
-Myanmar,2012,Rapid Response,3688,12-WFP-078,Food Assistance,Food Assistance,100,2000091.0,CERF
-Myanmar,2012,Rapid Response,3690,12-WHO-080,Health,Health,100,140108.0,CERF
-Myanmar,2012,Rapid Response,3691,12-FPA-045,Health,Health,100,282842.0,CERF
 Philippines,2012,Underfunded Emergencies,3235,12-CEF-010,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,800253.0,CERF
 Philippines,2012,Underfunded Emergencies,3236,12-FAO-008,Agriculture,Agriculture,100,297548.0,CERF
 Philippines,2012,Underfunded Emergencies,3237,12-FPA-005,Health,Health,100,192306.0,CERF
@@ -3110,6 +3107,13 @@ Philippines,2012,Rapid Response,3734,12-WFP-084,Common Services,Common Services,
 Philippines,2012,Rapid Response,3736,12-UDP-014,Early Recovery,Early Recovery,100,1807444.0,CERF
 Philippines,2012,Rapid Response,3737,13-ILO-001,Agriculture,Agriculture,100,597060.0,CERF
 Philippines,2012,Rapid Response,3728,12-CEF-145,Nutrition,Nutrition,100,200000.0,CERF
+Myanmar,2012,Rapid Response,3173,12-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,125190.0,CERF
+Myanmar,2012,Rapid Response,3685,12-CEF-129,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,444050.0,CERF
+Myanmar,2012,Rapid Response,3556,12-CEF-097,Health,Health,100,19474.0,CERF
+Myanmar,2012,Rapid Response,3688,12-WFP-078,Food Assistance,Food Assistance,100,2000091.0,CERF
+Myanmar,2012,Rapid Response,3690,12-WHO-080,Health,Health,100,140108.0,CERF
+Myanmar,2012,Rapid Response,3691,12-FPA-045,Health,Health,100,282842.0,CERF
+Philippines,2012,Rapid Response,3733,12-WFP-083,Nutrition,Nutrition,100,224610.0,CERF
 Myanmar,2012,Rapid Response,3170,12-CEF-002-A,Protection,Protection,100,100050.0,CERF
 Myanmar,2012,Rapid Response,3171,12-CEF-002-B,Multi-Sector,Multi-Sector,100,500000.0,CERF
 Myanmar,2012,Rapid Response,3174,12-WFP-001,Food Assistance,Food Assistance,100,750000.0,CERF
@@ -3123,10 +3127,6 @@ Myanmar,2012,Rapid Response,3553,12-CEF-094,"Water, Sanitation and Hygiene","Wat
 Myanmar,2012,Rapid Response,3421,12-WFP-038,Food Assistance,Food Assistance,100,2299999.0,CERF
 Myanmar,2012,Rapid Response,3554,12-CEF-095,Protection,Protection,100,89940.0,CERF
 Myanmar,2012,Rapid Response,3555,12-CEF-096,Nutrition,Nutrition,100,126502.0,CERF
-Myanmar,2012,Rapid Response,3685,12-CEF-129,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,444050.0,CERF
-Myanmar,2012,Rapid Response,3173,12-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,125190.0,CERF
-Philippines,2012,Rapid Response,3733,12-WFP-083,Nutrition,Nutrition,100,224610.0,CERF
-Myanmar,2012,Rapid Response,3556,12-CEF-097,Health,Health,100,19474.0,CERF
 Iraq,2012,Rapid Response,3639,12-CEF-117,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,751793.0,CERF
 Iraq,2012,Rapid Response,3641,12-IOM-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,245779.0,CERF
 Iraq,2012,Rapid Response,3640,12-HCR-049,Shelter and Non-Food Items,Shelter and Non-Food Items,100,715922.0,CERF
@@ -3145,6 +3145,13 @@ Syrian Arab Republic,2012,Rapid Response,3526,12-HCR-037,Shelter and Non-Food It
 Syrian Arab Republic,2012,Rapid Response,3406,12-CEF-047,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1017570.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3407,12-CEF-048,Protection,Protection,100,587419.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3408,12-FAO-021,Agriculture,Agriculture,100,728122.0,CERF
+occupied Palestinian territory,2012,Rapid Response,3750,13-UDP-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3527,12-WFP-053,Food Assistance,Food Assistance,100,501532.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3528,12-WHO-049,Health,Health,100,899998.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3613,12-IOM-026,Protection,Protection,100,957575.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3610,12-FAO-034,Agriculture,Agriculture,100,2000000.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3611,12-HCR-044,Shelter and Non-Food Items,Shelter and Non-Food Items,100,999971.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3612,12-RWA-003,Multi-Sector,Multi-Sector,100,2020544.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3409,12-FPA-023,Health,Health,100,1258565.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3412,12-IOM-011,Protection,Protection,100,655919.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3413,12-RWA-002,Health,Health,100,699276.0,CERF
@@ -3153,19 +3160,12 @@ Syrian Arab Republic,2012,Rapid Response,3416,12-WHO-034,Health,Health,100,10129
 Syrian Arab Republic,2012,Rapid Response,3524,12-CEF-085,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,3000062.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3415,12-WFP-037,Food Assistance,Food Assistance,100,3299983.0,CERF
 Syrian Arab Republic,2012,Rapid Response,3525,12-FPA-033,Health,Health,100,800000.0,CERF
+Syrian Arab Republic,2012,Rapid Response,3530,12-WHO-051,Health,Health,100,1500000.0,CERF
 occupied Palestinian territory,2012,Rapid Response,3744,13-CEF-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,354170.0,CERF
-occupied Palestinian territory,2012,Rapid Response,3748,13-RWA-001,Multi-Sector,Multi-Sector,100,3630111.0,CERF
-occupied Palestinian territory,2012,Rapid Response,3749,13-UDP-001,Multi-Sector,Multi-Sector,100,649683.0,CERF
 occupied Palestinian territory,2012,Rapid Response,3745,13-CEF-004,Protection,Protection,100,1250004.0,CERF
 occupied Palestinian territory,2012,Rapid Response,3746,13-OPS-001,Protection,Protection,100,303708.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3527,12-WFP-053,Food Assistance,Food Assistance,100,501532.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3528,12-WHO-049,Health,Health,100,899998.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3530,12-WHO-051,Health,Health,100,1500000.0,CERF
-occupied Palestinian territory,2012,Rapid Response,3750,13-UDP-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500000.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3613,12-IOM-026,Protection,Protection,100,957575.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3610,12-FAO-034,Agriculture,Agriculture,100,2000000.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3611,12-HCR-044,Shelter and Non-Food Items,Shelter and Non-Food Items,100,999971.0,CERF
-Syrian Arab Republic,2012,Rapid Response,3612,12-RWA-003,Multi-Sector,Multi-Sector,100,2020544.0,CERF
+occupied Palestinian territory,2012,Rapid Response,3748,13-RWA-001,Multi-Sector,Multi-Sector,100,3630111.0,CERF
+occupied Palestinian territory,2012,Rapid Response,3749,13-UDP-001,Multi-Sector,Multi-Sector,100,649683.0,CERF
 Jordan,2012,Rapid Response,3451,12-FPA-026,Health,Health,100,100024.0,CERF
 Jordan,2012,Rapid Response,3454,12-WFP-041,Food Assistance,Food Assistance,100,2005006.0,CERF
 Jordan,2012,Rapid Response,3448,12-CEF-063,Protection,Protection,100,185057.0,CERF
@@ -3182,6 +3182,22 @@ Lebanon,2012,Rapid Response,3477,12-IOM-017,Shelter and Non-Food Items,Shelter a
 Lebanon,2012,Rapid Response,3478,12-WFP-044,Food Assistance,Food Assistance,100,899286.0,CERF
 Lebanon,2012,Rapid Response,3479,12-WHO-042,Health,Health,100,149800.0,CERF
 Lebanon,2012,Rapid Response,3752,13-RWA-002,Multi-Sector,Multi-Sector,100,1000000.0,CERF
+Yemen,2012,Rapid Response,3374,12-FPA-019,Protection,Protection,100,280276.0,CERF
+Yemen,2012,Rapid Response,3373,12-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2656836.0,CERF
+Yemen,2012,Rapid Response,3375,12-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1724089.0,CERF
+Yemen,2012,Rapid Response,3376,12-IOM-009,Multi-Sector,Multi-Sector,100,1902431.0,CERF
+Yemen,2012,Rapid Response,3377,12-WFP-033,Food Assistance,Food Assistance,100,2611919.0,CERF
+Yemen,2012,Rapid Response,3378,12-WHO-030,Health,Health,100,796709.0,CERF
+Türkiye,2012,Rapid Response,3433,12-CEF-057,Protection,Protection,100,325280.0,CERF
+Türkiye,2012,Rapid Response,3434,12-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1299302.0,CERF
+Türkiye,2012,Rapid Response,3435,12-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,462240.0,CERF
+Yemen,2012,Rapid Response,3351,12-CEF-028,Health,Health,100,2420116.0,CERF
+Yemen,2012,Rapid Response,3352,12-WHO-024,Health,Health,100,2564985.0,CERF
+Yemen,2012,Rapid Response,3545,12-CEF-093,Nutrition,Nutrition,100,406332.0,CERF
+Yemen,2012,Rapid Response,3550,12-IOM-023,Nutrition,Nutrition,100,343342.0,CERF
+Yemen,2012,Rapid Response,3543,12-CEF-091,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1839642.0,CERF
+Yemen,2012,Rapid Response,3544,12-CEF-092,Protection,Protection,100,261754.0,CERF
+Yemen,2012,Rapid Response,3551,12-UDP-009,Protection,Protection,100,250000.0,CERF
 Yemen,2012,Rapid Response,3546,12-FPA-035,Multi-Sector,Multi-Sector,100,429081.0,CERF
 Yemen,2012,Rapid Response,3547,12-HCR-038,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2400023.0,CERF
 Yemen,2012,Rapid Response,3548,12-IOM-021,Shelter and Non-Food Items,Shelter and Non-Food Items,100,518629.0,CERF
@@ -3189,27 +3205,10 @@ Yemen,2012,Rapid Response,3549,12-IOM-022,Health,Health,100,407970.0,CERF
 Yemen,2012,Rapid Response,3552,12-WHO-056,Health,Health,100,844551.0,CERF
 Yemen,2012,Rapid Response,3563,12-IOM-025,Protection,Protection,100,335338.0,CERF
 Yemen,2012,Rapid Response,3562,12-IOM-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,466413.0,CERF
-Türkiye,2012,Rapid Response,3433,12-CEF-057,Protection,Protection,100,325280.0,CERF
-Türkiye,2012,Rapid Response,3434,12-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1299302.0,CERF
-Türkiye,2012,Rapid Response,3435,12-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,462240.0,CERF
-Yemen,2012,Rapid Response,3374,12-FPA-019,Protection,Protection,100,280276.0,CERF
-Yemen,2012,Rapid Response,3373,12-CEF-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2656836.0,CERF
-Yemen,2012,Rapid Response,3375,12-HCR-024,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1724089.0,CERF
-Yemen,2012,Rapid Response,3376,12-IOM-009,Multi-Sector,Multi-Sector,100,1902431.0,CERF
-Yemen,2012,Rapid Response,3377,12-WFP-033,Food Assistance,Food Assistance,100,2611919.0,CERF
-Yemen,2012,Rapid Response,3378,12-WHO-030,Health,Health,100,796709.0,CERF
-Yemen,2012,Rapid Response,3545,12-CEF-093,Nutrition,Nutrition,100,406332.0,CERF
-Yemen,2012,Rapid Response,3550,12-IOM-023,Nutrition,Nutrition,100,343342.0,CERF
-Yemen,2012,Rapid Response,3543,12-CEF-091,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1839642.0,CERF
-Yemen,2012,Rapid Response,3544,12-CEF-092,Protection,Protection,100,261754.0,CERF
-Yemen,2012,Rapid Response,3551,12-UDP-009,Protection,Protection,100,250000.0,CERF
-Yemen,2012,Rapid Response,3351,12-CEF-028,Health,Health,100,2420116.0,CERF
-Yemen,2012,Rapid Response,3352,12-WHO-024,Health,Health,100,2564985.0,CERF
 Yemen,2013,Underfunded Emergencies,3874,13-CEF-043,Education,Education,100,894477.0,CERF
+Yemen,2013,Rapid Response,4030,13-RR-WHO-042,Health,Health,100,1742087.0,CERF
 Yemen,2013,Underfunded Emergencies,3889,13-UDP-006,Protection,Protection,100,2301225.0,CERF
 Yemen,2013,Underfunded Emergencies,3875,13-CEF-044,Nutrition,Nutrition,100,450001.0,CERF
-Marshall Islands,2013,Rapid Response,4017,13-IOM-018,Multi-Sector,Multi-Sector,100,1000000.0,CERF
-Yemen,2013,Rapid Response,4030,13-RR-WHO-042,Health,Health,100,1742087.0,CERF
 Yemen,2013,Underfunded Emergencies,3918,13-CHR-003,Protection,Protection,100,99726.0,CERF
 Yemen,2013,Underfunded Emergencies,3873,13-CEF-042,Protection,Protection,100,599142.0,CERF
 Yemen,2013,Underfunded Emergencies,3876,13-CEF-045,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1036591.0,CERF
@@ -3228,6 +3227,11 @@ Yemen,2013,Underfunded Emergencies,3888,13-WHO-019,Health,Health,100,1391439.0,C
 Yemen,2013,Underfunded Emergencies,3885,13-IOM-012,Nutrition,Nutrition,100,148715.0,CERF
 Lebanon,2013,Rapid Response,4212,13-RR-CEF-127,Multi-Sector,Multi-Sector,100,4499990.0,CERF
 Lebanon,2013,Rapid Response,4215,13-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,100,500362.0,CERF
+Lebanon,2013,Rapid Response,4216,13-RR-RWA-007,Health,Health,100,499999.0,CERF
+Lebanon,2013,Rapid Response,4213,13-RR-FPA-047,Protection,Protection,100,399865.0,CERF
+Lebanon,2013,Rapid Response,4214,13-RR-HCR-061,Multi-Sector,Multi-Sector,100,5035420.0,CERF
+Lebanon,2013,Rapid Response,4217,13-RR-WFP-062,Food Assistance,Food Assistance,100,3484281.0,CERF
+Lebanon,2013,Rapid Response,4218,13-RR-WHO-066,Health,Health,100,599463.0,CERF
 Lebanon,2013,Rapid Response,3769,13-CEF-011,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,250115.0,CERF
 Lebanon,2013,Rapid Response,3770,13-FAO-005,Agriculture,Agriculture,100,105609.0,CERF
 Lebanon,2013,Rapid Response,3771,13-FPA-002,Health,Health,100,102533.0,CERF
@@ -3235,11 +3239,6 @@ Lebanon,2013,Rapid Response,3772,13-IOM-002,Agriculture,Agriculture,100,101564.0
 Lebanon,2013,Rapid Response,3774,13-WHO-004,Health,Health,100,151111.0,CERF
 Lebanon,2013,Rapid Response,4123,13-RR-RWA-004,Multi-Sector,Multi-Sector,100,1500001.0,CERF
 Lebanon,2013,Rapid Response,3773,13-WFP-003,Food Assistance,Food Assistance,100,301205.0,CERF
-Lebanon,2013,Rapid Response,4216,13-RR-RWA-007,Health,Health,100,499999.0,CERF
-Lebanon,2013,Rapid Response,4213,13-RR-FPA-047,Protection,Protection,100,399865.0,CERF
-Lebanon,2013,Rapid Response,4214,13-RR-HCR-061,Multi-Sector,Multi-Sector,100,5035420.0,CERF
-Lebanon,2013,Rapid Response,4217,13-RR-WFP-062,Food Assistance,Food Assistance,100,3484281.0,CERF
-Lebanon,2013,Rapid Response,4218,13-RR-WHO-066,Health,Health,100,599463.0,CERF
 Jordan,2013,Rapid Response,3959,13-CEF-060,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,4900000.0,CERF
 Jordan,2013,Rapid Response,3960,13-HCR-035,Shelter and Non-Food Items,Shelter and Non-Food Items,100,4900000.0,CERF
 Jordan,2013,Rapid Response,4204,13-RR-CEF-126,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,988915.0,CERF
@@ -3250,6 +3249,9 @@ Jordan,2013,Rapid Response,4211,13-RR-RWA-006,Shelter and Non-Food Items,Shelter
 Jordan,2013,Rapid Response,4209,13-RR-WHO-065,Health,Health,100,597060.0,CERF
 Jordan,2013,Rapid Response,4210,13-RR-WOM-002,Protection,Protection,100,327955.0,CERF
 Jordan,2013,Rapid Response,4208,13-RR-WFP-061,Food Assistance,Food Assistance,100,1000000.0,CERF
+occupied Palestinian territory,2013,Rapid Response,4128,13-RR-RWA-005,Food Assistance,Food Assistance,100,3000000.0,CERF
+occupied Palestinian territory,2013,Rapid Response,3747,13-OPS-002,Protection,Protection,100,327088.0,CERF
+occupied Palestinian territory,2013,Rapid Response,3751,13-WHO-002,Health,Health,100,1206178.0,CERF
 Syrian Arab Republic,2013,Rapid Response,3921,13-CEF-053,Health,Health,100,1505490.0,CERF
 Syrian Arab Republic,2013,Rapid Response,3923,13-FAO-018,Agriculture,Agriculture,100,1499994.0,CERF
 Syrian Arab Republic,2013,Rapid Response,3924,13-FPA-019,Health,Health,100,999637.0,CERF
@@ -3258,16 +3260,11 @@ Syrian Arab Republic,2013,Rapid Response,4234,13-RR-WFP-064,Nutrition,Nutrition,
 Syrian Arab Republic,2013,Rapid Response,4237,13-RR-UDP-014,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,500974.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4238,13-RR-RWA-008,Multi-Sector,Multi-Sector,100,2099869.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4225,13-RR-CEF-131,Nutrition,Nutrition,100,995100.0,CERF
-Syrian Arab Republic,2013,Rapid Response,3922,13-CEF-054,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1989128.0,CERF
-Syrian Arab Republic,2013,Rapid Response,3925,13-HCR-031,Shelter and Non-Food Items,Shelter and Non-Food Items,100,3501302.0,CERF
-occupied Palestinian territory,2013,Rapid Response,3747,13-OPS-002,Protection,Protection,100,327088.0,CERF
-occupied Palestinian territory,2013,Rapid Response,4128,13-RR-RWA-005,Food Assistance,Food Assistance,100,3000000.0,CERF
-occupied Palestinian territory,2013,Rapid Response,3751,13-WHO-002,Health,Health,100,1206178.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4231,13-RR-HCR-064,Health,Health,100,399170.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4235,13-RR-WHO-069,Health,Health,100,1279328.0,CERF
+Syrian Arab Republic,2013,Rapid Response,3922,13-CEF-054,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1989128.0,CERF
+Syrian Arab Republic,2013,Rapid Response,3925,13-HCR-031,Shelter and Non-Food Items,Shelter and Non-Food Items,100,3501302.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4228,13-RR-FPA-048,Health,Health,100,496324.0,CERF
-Syrian Arab Republic,2013,Rapid Response,4227,13-RR-FAO-038,Agriculture,Agriculture,100,599572.0,CERF
-Syrian Arab Republic,2013,Rapid Response,4230,13-RR-HCR-063,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2999846.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4229,13-RR-FPA-049,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,398040.0,CERF
 Syrian Arab Republic,2013,Rapid Response,3927,13-WFP-022,Food Assistance,Food Assistance,100,3000045.0,CERF
 Syrian Arab Republic,2013,Rapid Response,3928,13-WHO-022,Health,Health,100,1541845.0,CERF
@@ -3281,6 +3278,9 @@ Syrian Arab Republic,2013,Rapid Response,4224,13-RR-CEF-130,Health,Health,100,13
 Syrian Arab Republic,2013,Rapid Response,4232,13-RR-IOM-035,Shelter and Non-Food Items,Shelter and Non-Food Items,100,900251.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4233,13-RR-WFP-063,Food Assistance,Food Assistance,100,5296739.0,CERF
 Syrian Arab Republic,2013,Rapid Response,4236,13-RR-WHO-070,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,202658.0,CERF
+Syrian Arab Republic,2013,Rapid Response,4227,13-RR-FAO-038,Agriculture,Agriculture,100,599572.0,CERF
+Syrian Arab Republic,2013,Rapid Response,4230,13-RR-HCR-063,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2999846.0,CERF
+Marshall Islands,2013,Rapid Response,4017,13-IOM-018,Multi-Sector,Multi-Sector,100,1000000.0,CERF
 Iraq,2013,Rapid Response,4184,13-RR-CEF-120,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1501371.0,CERF
 Iraq,2013,Rapid Response,4187,13-RR-FPA-044,Health,Health,100,480000.0,CERF
 Iraq,2013,Rapid Response,4188,13-RR-FPA-045,Protection,Protection,100,449935.0,CERF
@@ -3311,6 +3311,8 @@ Philippines,2013,Underfunded Emergencies,4087,13-UF-HCR-047,Protection,Protectio
 Philippines,2013,Underfunded Emergencies,4088,13-UF-IOM-022,Shelter and Non-Food Items,Shelter and Non-Food Items,100,301408.0,CERF
 Philippines,2013,Underfunded Emergencies,4089,13-UF-IOM-023,Health,Health,100,109527.0,CERF
 Philippines,2013,Underfunded Emergencies,4090,13-UF-WFP-042,Food Assistance,Food Assistance,100,299154.0,CERF
+Myanmar,2013,Rapid Response,3943,13-CEF-057,Health,Health,100,199020.0,CERF
+Myanmar,2013,Rapid Response,3944,13-CEF-058,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2000044.0,CERF
 Philippines,2013,Underfunded Emergencies,4084,13-UF-CEF-096,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,300852.0,CERF
 Philippines,2013,Rapid Response,4244,13-RR-FPA-051,Health,Health,100,103503.0,CERF
 Philippines,2013,Rapid Response,4293,13-RR-HCR-067,Protection,Protection,100,1201610.0,CERF
@@ -3341,8 +3343,6 @@ Philippines,2013,Rapid Response,4292,13-RR-FPA-056,Health,Health,100,592077.0,CE
 Philippines,2013,Rapid Response,4295,13-RR-WFP-077,Food Assistance,Food Assistance,100,1999949.0,CERF
 Philippines,2013,Rapid Response,4299,13-RR-CEF-150,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,4005269.0,CERF
 Philippines,2013,Rapid Response,4298,13-RR-CEF-149,Nutrition,Nutrition,100,501710.0,CERF
-Myanmar,2013,Rapid Response,3943,13-CEF-057,Health,Health,100,199020.0,CERF
-Myanmar,2013,Rapid Response,3944,13-CEF-058,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2000044.0,CERF
 Myanmar,2013,Rapid Response,3952,13-HCR-033,Shelter and Non-Food Items,Shelter and Non-Food Items,100,2500000.0,CERF
 Myanmar,2013,Underfunded Emergencies,4166,13-UF-FAO-035,Agriculture,Agriculture,100,274512.0,CERF
 Myanmar,2013,Underfunded Emergencies,4167,13-UF-FPA-041,Health,Health,100,100294.0,CERF
@@ -3357,7 +3357,6 @@ Myanmar,2013,Underfunded Emergencies,4165,13-UF-CEF-115,"Water, Sanitation and H
 Afghanistan,2013,Underfunded Emergencies,3827,13-WHO-011,Health,Health,100,3744124.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3819,13-CEF-028,Nutrition,Nutrition,100,2245415.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3826,13-WHO-010,Nutrition,Nutrition,100,250070.0,CERF
-Democratic People's Republic of Korea,2013,Rapid Response,4138,13-RR-CEF-108,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,627400.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3818,13-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000022.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3820,13-CEF-029,Protection,Protection,100,516987.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3821,13-CEF-030,Health,Health,100,403771.0,CERF
@@ -3365,10 +3364,6 @@ Afghanistan,2013,Underfunded Emergencies,3822,13-FPA-010,Health,Health,100,41409
 Afghanistan,2013,Underfunded Emergencies,3823,13-HCR-016,Shelter and Non-Food Items,Shelter and Non-Food Items,100,998203.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3824,13-HCR-017,Multi-Sector,Multi-Sector,100,3001350.0,CERF
 Afghanistan,2013,Underfunded Emergencies,3825,13-WFP-011,Common Services,Common Services,100,4000001.0,CERF
-Bangladesh,2013,Underfunded Emergencies,4125,13-UF-IOM-029,Health,Health,100,656535.0,CERF
-Bangladesh,2013,Underfunded Emergencies,4126,13-UF-WFP-047,Food Assistance,Food Assistance,100,1000835.0,CERF
-Bangladesh,2013,Underfunded Emergencies,4127,13-UF-WFP-048,Common Services,Common Services,100,42848.0,CERF
-Bangladesh,2013,Underfunded Emergencies,4124,13-UF-HCR-049,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,300424.0,CERF
 Democratic People's Republic of Korea,2013,Underfunded Emergencies,3783,13-CEF-015,Multi-Sector,Multi-Sector,100,953935.0,CERF
 Democratic People's Republic of Korea,2013,Underfunded Emergencies,3784,13-FAO-006,Agriculture,Agriculture,100,697935.0,CERF
 Democratic People's Republic of Korea,2013,Underfunded Emergencies,3785,13-FPA-004,Health,Health,100,199427.0,CERF
@@ -3382,6 +3377,7 @@ Democratic People's Republic of Korea,2013,Underfunded Emergencies,4061,13-UF-WH
 Democratic People's Republic of Korea,2013,Rapid Response,4139,13-RR-FPA-037,Health,Health,100,130803.0,CERF
 Democratic People's Republic of Korea,2013,Rapid Response,4140,13-RR-WFP-050,Food Assistance,Food Assistance,100,422156.0,CERF
 Democratic People's Republic of Korea,2013,Rapid Response,4141,13-RR-WHO-057,Multi-Sector,Multi-Sector,100,922349.0,CERF
+Democratic People's Republic of Korea,2013,Rapid Response,4138,13-RR-CEF-108,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,627400.0,CERF
 Pakistan,2013,Rapid Response,3982,13-CEF-064,Education,Education,100,152796.0,CERF
 Pakistan,2013,Rapid Response,3984,13-CEF-066,Protection,Protection,100,180002.0,CERF
 Pakistan,2013,Rapid Response,3991,13-HCR-038,Shelter and Non-Food Items,Shelter and Non-Food Items,100,400073.0,CERF
@@ -3415,6 +3411,10 @@ Pakistan,2013,Underfunded Emergencies,4080,13-UF-ESC-001,Education,Education,100
 Pakistan,2013,Underfunded Emergencies,4064,13-UF-CEF-090,Nutrition,Nutrition,100,240027.0,CERF
 Pakistan,2013,Underfunded Emergencies,4074,13-UF-WFP-041,Nutrition,Nutrition,100,210165.0,CERF
 Pakistan,2013,Underfunded Emergencies,4076,13-UF-WHO-049,Nutrition,Nutrition,100,99952.0,CERF
+Bangladesh,2013,Underfunded Emergencies,4125,13-UF-IOM-029,Health,Health,100,656535.0,CERF
+Bangladesh,2013,Underfunded Emergencies,4126,13-UF-WFP-047,Food Assistance,Food Assistance,100,1000835.0,CERF
+Bangladesh,2013,Underfunded Emergencies,4127,13-UF-WFP-048,Common Services,Common Services,100,42848.0,CERF
+Bangladesh,2013,Underfunded Emergencies,4124,13-UF-HCR-049,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,300424.0,CERF
 Colombia,2013,Underfunded Emergencies,4159,13-UF-FAO-034,Agriculture,Agriculture,100,535699.0,CERF
 Colombia,2013,Underfunded Emergencies,4158,13-UF-CEF-113,Multi-Sector,Multi-Sector,100,1272265.0,CERF
 Colombia,2013,Underfunded Emergencies,4160,13-UF-FPA-040,Protection,Protection,100,99981.0,CERF
@@ -4176,13 +4176,6 @@ Bolivia,2014,Rapid Response,488,14-RR-CEF-055,Education,Education,100,139924.0,C
 Bolivia,2014,Rapid Response,489,14-RR-CEF-056,Nutrition,Nutrition,100,105718.0,CERF
 Bolivia,2014,Rapid Response,490,14-RR-CEF-057,Protection,Protection,100,146866.0,CERF
 Bolivia,2014,Rapid Response,491,14-RR-CEF-058,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,397988.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,366,14-UFE-FAO-004,Agriculture,Agriculture,100,1000000.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,367,14-UFE-FPA-007,Health,Health,100,250004.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,368,14-UFE-CEF-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,399524.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,369,14-UFE-WFP-012,Nutrition,Nutrition,100,3247124.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,370,14-UFE-WHO-011,Health,Health,100,1000000.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,492,14-UFE-CEF-059,Health,Health,100,300269.0,CERF
-Democratic People's Republic of Korea,2014,Underfunded Emergencies,493,14-UFE-CEF-060,Nutrition,Nutrition,100,300092.0,CERF
 Colombia,2014,Underfunded Emergencies,494,14-UFE-HCR-021,Protection,Protection,100,435001.0,CERF
 Colombia,2014,Underfunded Emergencies,495,14-UFE-FAO-017,Food Assistance,Food Assistance,100,650803.0,CERF
 Colombia,2014,Underfunded Emergencies,496,14-UFE-WFP-029,Food Assistance,Food Assistance,100,515120.0,CERF
@@ -4194,6 +4187,10 @@ Colombia,2014,Underfunded Emergencies,501,14-UFE-CEF-064,Protection,Protection,1
 Colombia,2014,Underfunded Emergencies,502,14-UFE-WHO-027,Health,Health,100,387087.0,CERF
 Colombia,2014,Underfunded Emergencies,503,14-UFE-WHO-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,299835.0,CERF
 Colombia,2014,Underfunded Emergencies,504,14-UFE-UDP-004,Protection,Protection,100,337475.0,CERF
+Nepal,2014,Rapid Response,799,14-RR-WFP-074,Food Assistance,Food Assistance,100,1330830.0,CERF
+Nepal,2014,Rapid Response,801,14-RR-CEF-146,Nutrition,Nutrition,100,256377.0,CERF
+Nepal,2014,Rapid Response,802,14-RR-CEF-147,Shelter and Non-Food Items,Shelter and Non-Food Items,100,175994.0,CERF
+Nepal,2014,Rapid Response,803,14-RR-FPA-044,Shelter and Non-Food Items,Shelter and Non-Food Items,100,107000.0,CERF
 Pakistan,2014,Rapid Response,616,14-RR-WFP-044,Food Assistance,Food Assistance,100,1951755.0,CERF
 Pakistan,2014,Rapid Response,617,14-RR-FAO-022,Agriculture,Agriculture,100,299996.0,CERF
 Pakistan,2014,Rapid Response,618,14-RR-WFP-045,Common Services,Common Services,100,200000.0,CERF
@@ -4223,10 +4220,13 @@ Pakistan,2014,Underfunded Emergencies,411,14-UFE-IOM-014,Shelter and Non-Food It
 Pakistan,2014,Underfunded Emergencies,412,14-UFE-CEF-035,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,400000.0,CERF
 Pakistan,2014,Underfunded Emergencies,413,14-UFE-HAB-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,299999.0,CERF
 Pakistan,2014,Underfunded Emergencies,414,14-UFE-WHO-017,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,107429.0,CERF
-Nepal,2014,Rapid Response,799,14-RR-WFP-074,Food Assistance,Food Assistance,100,1330830.0,CERF
-Nepal,2014,Rapid Response,801,14-RR-CEF-146,Nutrition,Nutrition,100,256377.0,CERF
-Nepal,2014,Rapid Response,802,14-RR-CEF-147,Shelter and Non-Food Items,Shelter and Non-Food Items,100,175994.0,CERF
-Nepal,2014,Rapid Response,803,14-RR-FPA-044,Shelter and Non-Food Items,Shelter and Non-Food Items,100,107000.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,366,14-UFE-FAO-004,Agriculture,Agriculture,100,1000000.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,367,14-UFE-FPA-007,Health,Health,100,250004.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,368,14-UFE-CEF-024,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,399524.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,369,14-UFE-WFP-012,Nutrition,Nutrition,100,3247124.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,370,14-UFE-WHO-011,Health,Health,100,1000000.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,492,14-UFE-CEF-059,Health,Health,100,300269.0,CERF
+Democratic People's Republic of Korea,2014,Underfunded Emergencies,493,14-UFE-CEF-060,Nutrition,Nutrition,100,300092.0,CERF
 Afghanistan,2014,Rapid Response,789,14-RR-HCR-041,Shelter and Non-Food Items,Shelter and Non-Food Items,100,524481.0,CERF
 Afghanistan,2014,Rapid Response,790,14-RR-WFP-073,Food Assistance,Food Assistance,100,1999966.0,CERF
 Afghanistan,2014,Rapid Response,792,14-RR-WHO-071,Health,Health,100,163164.0,CERF
@@ -4296,10 +4296,6 @@ Yemen,2014,Underfunded Emergencies,393,14-UFE-WFP-014,Nutrition,Nutrition,100,98
 Yemen,2014,Underfunded Emergencies,394,14-UFE-WFP-015,Common Services,Common Services,100,519057.0,CERF
 Yemen,2014,Underfunded Emergencies,395,14-UFE-WHO-013,Health,Health,100,1797300.0,CERF
 Yemen,2014,Underfunded Emergencies,396,14-UFE-WHO-014,Nutrition,Nutrition,100,340463.0,CERF
-Solomon Islands,2014,Rapid Response,557,14-RR-WHO-037,Health,Health,100,626433.0,CERF
-Solomon Islands,2014,Rapid Response,559,14-RR-FPA-026,Health,Health,100,165574.0,CERF
-Solomon Islands,2014,Rapid Response,560,14-RR-CEF-084,Multi-Sector,Multi-Sector,100,275062.0,CERF
-Solomon Islands,2014,Rapid Response,561,14-RR-CEF-085,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,709054.0,CERF
 Bosnia and Herzegovina,2014,Rapid Response,565,14-RR-IOM-028,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,400032.0,CERF
 Bosnia and Herzegovina,2014,Rapid Response,566,14-RR-UDP-005,Early Recovery,Early Recovery,100,714760.0,CERF
 Bosnia and Herzegovina,2014,Rapid Response,567,14-RR-UDP-006,Protection,Protection,100,500000.0,CERF
@@ -4311,6 +4307,10 @@ Serbia,2014,Rapid Response,572,14-RR-FPA-027,Health,Health,100,114913.0,CERF
 Serbia,2014,Rapid Response,573,14-RR-CEF-088,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,262685.0,CERF
 Serbia,2014,Rapid Response,574,14-RR-WFP-038,Food Assistance,Food Assistance,100,755313.0,CERF
 Serbia,2014,Rapid Response,575,14-RR-WHO-039,Health,Health,100,236115.0,CERF
+Solomon Islands,2014,Rapid Response,557,14-RR-WHO-037,Health,Health,100,626433.0,CERF
+Solomon Islands,2014,Rapid Response,559,14-RR-FPA-026,Health,Health,100,165574.0,CERF
+Solomon Islands,2014,Rapid Response,560,14-RR-CEF-084,Multi-Sector,Multi-Sector,100,275062.0,CERF
+Solomon Islands,2014,Rapid Response,561,14-RR-CEF-085,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,709054.0,CERF
 Ukraine,2014,Rapid Response,775,14-RR-CEF-141,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,599481.0,CERF
 Ukraine,2014,Rapid Response,776,14-RR-WFP-072,Food Assistance,Food Assistance,100,867849.0,CERF
 Ukraine,2014,Rapid Response,778,14-RR-CEF-142,Health,Health,100,155000.0,CERF
@@ -4325,12 +4325,6 @@ Ukraine,2015,Rapid Response,1229,15-RR-CEF-065,"Water, Sanitation and Hygiene","
 Ukraine,2015,Rapid Response,1230,15-RR-WFP-037,Common Services,Common Services,100,304115.0,CERF
 Ukraine,2015,Rapid Response,1232,15-RR-WHO-021,Health,Health,100,1687699.0,CERF
 Ukraine,2015,Rapid Response,1233,15-RR-WFP-038,Food Assistance,Food Assistance,100,435226.0,CERF
-Türkiye,2015,Underfunded Emergencies,1018,15-UF-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,834600.0,CERF
-Türkiye,2015,Underfunded Emergencies,1019,15-UF-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,845000.0,CERF
-Türkiye,2015,Underfunded Emergencies,1020,15-UF-FPA-001,Health,Health,100,872900.0,CERF
-Türkiye,2015,Underfunded Emergencies,1021,15-UF-WHO-001,Health,Health,100,806951.0,CERF
-Türkiye,2015,Underfunded Emergencies,1022,15-UF-WFP-008,Food Assistance,Food Assistance,100,4800393.0,CERF
-Türkiye,2015,Underfunded Emergencies,1023,15-UF-CEF-008,Protection,Protection,100,840000.0,CERF
 Vanuatu,2015,Rapid Response,1144,15-RR-WFP-027,Food Assistance,Food Assistance,100,1200484.0,CERF
 Vanuatu,2015,Rapid Response,1145,15-RR-FAO-016,Agriculture,Agriculture,100,211375.0,CERF
 Vanuatu,2015,Rapid Response,1146,15-RR-CEF-039,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,907914.0,CERF
@@ -4341,6 +4335,12 @@ Vanuatu,2015,Rapid Response,1150,15-RR-WFP-029,Common Services,Common Services,1
 Vanuatu,2015,Rapid Response,1151,15-RR-WHO-012,Health,Health,100,600334.0,CERF
 Vanuatu,2015,Rapid Response,1152,15-RR-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,446376.0,CERF
 Vanuatu,2015,Rapid Response,1153,15-RR-CEF-041,Education,Education,100,484041.0,CERF
+Türkiye,2015,Underfunded Emergencies,1018,15-UF-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100,834600.0,CERF
+Türkiye,2015,Underfunded Emergencies,1019,15-UF-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100,845000.0,CERF
+Türkiye,2015,Underfunded Emergencies,1020,15-UF-FPA-001,Health,Health,100,872900.0,CERF
+Türkiye,2015,Underfunded Emergencies,1021,15-UF-WHO-001,Health,Health,100,806951.0,CERF
+Türkiye,2015,Underfunded Emergencies,1022,15-UF-WFP-008,Food Assistance,Food Assistance,100,4800393.0,CERF
+Türkiye,2015,Underfunded Emergencies,1023,15-UF-CEF-008,Protection,Protection,100,840000.0,CERF
 Yemen,2015,Rapid Response,1277,15-RR-WFP-046,Common Services,Common Services,100,678302.0,CERF
 Yemen,2015,Rapid Response,1280,15-RR-WFP-047,Common Services,Common Services,100,288900.0,CERF
 Yemen,2015,Rapid Response,1281,15-RR-CEF-077,Common Services,Common Services,100,288900.0,CERF
@@ -4443,6 +4443,10 @@ Afghanistan,2015,Rapid Response,1508,15-RR-FPA-045,Protection,Protection,100,349
 Afghanistan,2015,Rapid Response,1509,15-RR-WFP-078,Agriculture,Agriculture,100,3323284.0,CERF
 Afghanistan,2015,Rapid Response,1511,15-RR-WHO-051,Health,Health,100,1254655.0,CERF
 Afghanistan,2015,Rapid Response,1512,15-RR-FPA-046,Health,Health,100,266730.0,CERF
+Democratic People's Republic of Korea,2015,Underfunded Emergencies,1035,15-UF-CEF-011,Nutrition,Nutrition,100,520251.0,CERF
+Democratic People's Republic of Korea,2015,Underfunded Emergencies,1036,15-UF-WFP-011,Nutrition,Nutrition,100,800000.0,CERF
+Democratic People's Republic of Korea,2015,Underfunded Emergencies,1037,15-UF-WHO-003,Nutrition,Nutrition,100,380034.0,CERF
+Democratic People's Republic of Korea,2015,Underfunded Emergencies,1038,15-UF-FAO-006,Agriculture,Agriculture,100,300000.0,CERF
 Nepal,2015,Rapid Response,1304,15-RR-WFP-050,Common Services,Common Services,100,3000000.0,CERF
 Nepal,2015,Rapid Response,1477,15-RR-WFP-072,Common Services,Common Services,100,1200000.0,CERF
 Nepal,2015,Rapid Response,1184,15-RR-WFP-031,Food Assistance,Food Assistance,100,2920199.0,CERF
@@ -4487,17 +4491,13 @@ Peru,2015,Rapid Response,1217,15-RR-FAO-018,Agriculture,Agriculture,100,183266.0
 Peru,2015,Rapid Response,1218,15-RR-IOM-019,Shelter and Non-Food Items,Shelter and Non-Food Items,100,182827.0,CERF
 Peru,2015,Rapid Response,1219,15-RR-FPA-020,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,163679.0,CERF
 Peru,2015,Rapid Response,1220,15-RR-CEF-061,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,384623.0,CERF
-Democratic People's Republic of Korea,2015,Underfunded Emergencies,1035,15-UF-CEF-011,Nutrition,Nutrition,100,520251.0,CERF
-Democratic People's Republic of Korea,2015,Underfunded Emergencies,1036,15-UF-WFP-011,Nutrition,Nutrition,100,800000.0,CERF
-Democratic People's Republic of Korea,2015,Underfunded Emergencies,1037,15-UF-WHO-003,Nutrition,Nutrition,100,380034.0,CERF
-Democratic People's Republic of Korea,2015,Underfunded Emergencies,1038,15-UF-FAO-006,Agriculture,Agriculture,100,300000.0,CERF
+Chile,2015,Rapid Response,1172,15-RR-IOM-016,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,338220.0,CERF
+Chile,2015,Rapid Response,1179,15-RR-WHO-015,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,169649.0,CERF
+Chile,2015,Rapid Response,1180,15-RR-WHO-016,Health,Health,100,269985.0,CERF
 Democratic People's Republic of Korea,2015,Rapid Response,1272,15-RR-WHO-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,452141.0,CERF
 Democratic People's Republic of Korea,2015,Rapid Response,1273,15-RR-WFP-045,Nutrition,Nutrition,100,3070643.0,CERF
 Democratic People's Republic of Korea,2015,Rapid Response,1274,15-RR-CEF-075,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1294968.0,CERF
 Democratic People's Republic of Korea,2015,Rapid Response,1275,15-RR-CEF-076,Nutrition,Nutrition,100,1458949.0,CERF
-Chile,2015,Rapid Response,1172,15-RR-IOM-016,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100,338220.0,CERF
-Chile,2015,Rapid Response,1179,15-RR-WHO-015,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,169649.0,CERF
-Chile,2015,Rapid Response,1180,15-RR-WHO-016,Health,Health,100,269985.0,CERF
 El Salvador,2015,Rapid Response,1532,15-RR-WFP-082,Food Assistance,Food Assistance,100,1600000.0,CERF
 El Salvador,2015,Rapid Response,1533,15-RR-UDP-011,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,340000.0,CERF
 El Salvador,2015,Rapid Response,1534,15-RR-CEF-139,Nutrition,Nutrition,100,160000.0,CERF
@@ -5136,15 +5136,15 @@ Mongolia,2016,Rapid Response,1661,16-RR-FAO-007,Agriculture,Agriculture,100,8547
 Mongolia,2016,Rapid Response,1662,16-RR-UDP-002,Early Recovery,Early Recovery,100,500285.0,CERF
 Mongolia,2016,Rapid Response,1663,16-RR-FPA-014,Health,Health,100,478131.0,CERF
 Mongolia,2016,Rapid Response,1664,16-RR-CEF-028,Nutrition,Nutrition,100,609771.0,CERF
+Nepal,2016,Rapid Response,1875,16-RR-WFP-044,Food Assistance,Food Assistance,100,960107.0,CERF
+Nepal,2016,Rapid Response,1876,16-RR-WFP-045,Nutrition,Nutrition,100,598755.0,CERF
+Nepal,2016,Rapid Response,1877,16-RR-CEF-083,Nutrition,Nutrition,100,225004.0,CERF
+Nepal,2016,Rapid Response,1878,16-RR-FAO-019,Agriculture,Agriculture,100,159133.0,CERF
 Bangladesh,2016,Rapid Response,1840,16-RR-WFP-039,Food Assistance,Food Assistance,100,648300.0,CERF
 Bangladesh,2016,Rapid Response,1841,16-RR-FPA-028,Protection,Protection,100,110104.0,CERF
 Bangladesh,2016,Rapid Response,1842,16-RR-FPA-029,Health,Health,100,115165.0,CERF
 Bangladesh,2016,Rapid Response,1843,16-RR-UDP-006,Shelter and Non-Food Items,Shelter and Non-Food Items,100,610800.0,CERF
 Bangladesh,2016,Rapid Response,1844,16-RR-CEF-076,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,315400.0,CERF
-Nepal,2016,Rapid Response,1875,16-RR-WFP-044,Food Assistance,Food Assistance,100,960107.0,CERF
-Nepal,2016,Rapid Response,1876,16-RR-WFP-045,Nutrition,Nutrition,100,598755.0,CERF
-Nepal,2016,Rapid Response,1877,16-RR-CEF-083,Nutrition,Nutrition,100,225004.0,CERF
-Nepal,2016,Rapid Response,1878,16-RR-FAO-019,Agriculture,Agriculture,100,159133.0,CERF
 Afghanistan,2016,Rapid Response,2011,16-RR-IOM-038,Shelter and Non-Food Items,Shelter and Non-Food Items,100,600000.0,CERF
 Afghanistan,2016,Rapid Response,2012,16-RR-HCR-046,Multi-sector refugee assistance,Multi-sector refugee assistance,100,5294649.0,CERF
 Afghanistan,2016,Rapid Response,2013,16-RR-WFP-068,Food Assistance,Food Assistance,100,3312409.0,CERF
@@ -5232,15 +5232,6 @@ Yemen,2017,Rapid Response,2303,17-RR-UDP-005,Common Services,Common Services,100
 occupied Palestinian territory,2017,Rapid Response,2380,17-RR-RWA-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,2010700.0,CERF
 occupied Palestinian territory,2017,Rapid Response,2381,17-RR-WHO-034,Health,Health,100,1034241.0,CERF
 occupied Palestinian territory,2017,Rapid Response,2382,17-RR-CEF-083,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1193478.0,CERF
-Sri Lanka,2017,Rapid Response,2197,17-RR-FAO-016,Agriculture,Agriculture,100,615852.0,CERF
-Sri Lanka,2017,Rapid Response,2198,17-RR-CEF-033,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,750313.0,CERF
-Sri Lanka,2017,Rapid Response,2199,17-RR-WFP-023,Food Assistance,Food Assistance,100,1808967.0,CERF
-Sri Lanka,2017,Rapid Response,2318,17-RR-IOM-025,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000001.0,CERF
-Sri Lanka,2017,Rapid Response,2319,17-RR-HAB-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,674999.0,CERF
-Sri Lanka,2017,Rapid Response,2320,17-RR-CEF-066,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000569.0,CERF
-Sri Lanka,2017,Rapid Response,2321,17-RR-WFP-039,Food Assistance,Food Assistance,100,825017.0,CERF
-Sri Lanka,2017,Rapid Response,2323,17-RR-WHO-026,Health,Health,100,415160.0,CERF
-Sri Lanka,2017,Rapid Response,2324,17-RR-FPA-031,Health,Health,100,105395.0,CERF
 Myanmar,2017,Rapid Response,2084,17-RR-FAO-005,Agriculture,Agriculture,100,750009.0,CERF
 Myanmar,2017,Rapid Response,2085,17-RR-WFP-007,Food Assistance,Food Assistance,100,1671013.0,CERF
 Myanmar,2017,Rapid Response,2086,17-RR-FPA-002,Protection,Protection,100,511139.0,CERF
@@ -5251,6 +5242,15 @@ Myanmar,2017,Rapid Response,2334,17-RR-FPA-034,Protection,Protection,100,149565.
 Myanmar,2017,Rapid Response,2335,17-RR-HCR-020,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1300001.0,CERF
 Myanmar,2017,Rapid Response,2336,17-RR-CEF-069,Education,Education,100,322102.0,CERF
 Myanmar,2017,Rapid Response,2337,17-RR-CEF-070,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,396027.0,CERF
+Sri Lanka,2017,Rapid Response,2197,17-RR-FAO-016,Agriculture,Agriculture,100,615852.0,CERF
+Sri Lanka,2017,Rapid Response,2198,17-RR-CEF-033,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,750313.0,CERF
+Sri Lanka,2017,Rapid Response,2199,17-RR-WFP-023,Food Assistance,Food Assistance,100,1808967.0,CERF
+Sri Lanka,2017,Rapid Response,2318,17-RR-IOM-025,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1000001.0,CERF
+Sri Lanka,2017,Rapid Response,2319,17-RR-HAB-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100,674999.0,CERF
+Sri Lanka,2017,Rapid Response,2320,17-RR-CEF-066,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1000569.0,CERF
+Sri Lanka,2017,Rapid Response,2321,17-RR-WFP-039,Food Assistance,Food Assistance,100,825017.0,CERF
+Sri Lanka,2017,Rapid Response,2323,17-RR-WHO-026,Health,Health,100,415160.0,CERF
+Sri Lanka,2017,Rapid Response,2324,17-RR-FPA-031,Health,Health,100,105395.0,CERF
 Viet Nam,2017,Rapid Response,2498,17-RR-FAO-031,Agriculture,Agriculture,100,1000000.0,CERF
 Viet Nam,2017,Rapid Response,2499,17-RR-IOM-045,Shelter and Non-Food Items,Shelter and Non-Food Items,100,923309.0,CERF
 Viet Nam,2017,Rapid Response,2500,17-RR-UDP-015,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1178434.0,CERF
@@ -5284,18 +5284,6 @@ Bangladesh,2017,Rapid Response,2476,17-RR-CEF-108,"Water, Sanitation and Hygiene
 Bangladesh,2017,Rapid Response,2477,17-RR-WHO-040,Health,Health,100,1000000.0,CERF
 Bangladesh,2017,Rapid Response,2479,17-RR-HCR-030,Health,Health,100,1008337.0,CERF
 Bangladesh,2017,Rapid Response,2481,17-RR-IOM-044,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,1028273.0,CERF
-Bangladesh,2017,Rapid Response,2339,17-RR-CEF-071,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,250000.0,CERF
-Bangladesh,2017,Rapid Response,2340,17-RR-UDP-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,550005.0,CERF
-Bangladesh,2017,Rapid Response,2341,17-RR-FPA-035,Protection,Protection,100,205778.0,CERF
-Bangladesh,2017,Rapid Response,2325,17-RR-IOM-026,Health,Health,100,149130.0,CERF
-Bangladesh,2017,Rapid Response,2326,17-RR-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100,219748.0,CERF
-Bangladesh,2017,Rapid Response,2327,17-RR-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,216609.0,CERF
-Bangladesh,2017,Rapid Response,2328,17-RR-FPA-032,Health,Health,100,157671.0,CERF
-Bangladesh,2017,Rapid Response,2329,17-RR-FPA-033,Protection,Protection,100,150000.0,CERF
-Bangladesh,2017,Rapid Response,2330,17-RR-CEF-067,Protection,Protection,100,133274.0,CERF
-Bangladesh,2017,Rapid Response,2331,17-RR-CEF-068,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,219671.0,CERF
-Bangladesh,2017,Rapid Response,2332,17-RR-HCR-019,Multi-Sector,Multi-Sector,100,164930.0,CERF
-Bangladesh,2017,Rapid Response,2333,17-RR-WFP-040,Food Assistance,Food Assistance,100,319577.0,CERF
 Afghanistan,2017,Underfunded Emergencies,2450,17-UF-FAO-028,Agriculture,Agriculture,100,3000000.0,CERF
 Afghanistan,2017,Underfunded Emergencies,2451,17-UF-WFP-058,Food Assistance,Food Assistance,100,1600042.0,CERF
 Afghanistan,2017,Underfunded Emergencies,2452,17-UF-WHO-038,Health,Health,100,810628.0,CERF
@@ -5326,6 +5314,18 @@ Nepal,2017,Rapid Response,2390,17-RR-FPA-042,Protection,Protection,100,137495.0,
 Nepal,2017,Rapid Response,2391,17-RR-WFP-048,Food Assistance,Food Assistance,100,999849.0,CERF
 Nepal,2017,Rapid Response,2392,17-RR-WFP-049,Nutrition,Nutrition,100,500000.0,CERF
 Nepal,2017,Rapid Response,2393,17-RR-FPA-043,Health,Health,100,106979.0,CERF
+Bangladesh,2017,Rapid Response,2339,17-RR-CEF-071,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,250000.0,CERF
+Bangladesh,2017,Rapid Response,2340,17-RR-UDP-007,Shelter and Non-Food Items,Shelter and Non-Food Items,100,550005.0,CERF
+Bangladesh,2017,Rapid Response,2341,17-RR-FPA-035,Protection,Protection,100,205778.0,CERF
+Bangladesh,2017,Rapid Response,2325,17-RR-IOM-026,Health,Health,100,149130.0,CERF
+Bangladesh,2017,Rapid Response,2326,17-RR-IOM-027,Shelter and Non-Food Items,Shelter and Non-Food Items,100,219748.0,CERF
+Bangladesh,2017,Rapid Response,2327,17-RR-IOM-028,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,216609.0,CERF
+Bangladesh,2017,Rapid Response,2328,17-RR-FPA-032,Health,Health,100,157671.0,CERF
+Bangladesh,2017,Rapid Response,2329,17-RR-FPA-033,Protection,Protection,100,150000.0,CERF
+Bangladesh,2017,Rapid Response,2330,17-RR-CEF-067,Protection,Protection,100,133274.0,CERF
+Bangladesh,2017,Rapid Response,2331,17-RR-CEF-068,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,219671.0,CERF
+Bangladesh,2017,Rapid Response,2332,17-RR-HCR-019,Multi-Sector,Multi-Sector,100,164930.0,CERF
+Bangladesh,2017,Rapid Response,2333,17-RR-WFP-040,Food Assistance,Food Assistance,100,319577.0,CERF
 Mongolia,2017,Rapid Response,2058,17-RR-FAO-001,Agriculture,Agriculture,100,700000.0,CERF
 Mongolia,2017,Rapid Response,2059,17-RR-UDP-001,Agriculture,Agriculture,100,407613.0,CERF
 Peru,2017,Rapid Response,2223,17-RR-IOM-013,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1140181.0,CERF
@@ -5966,6 +5966,10 @@ Philippines,2018,Underfunded Emergencies,2570,18-UF-HCR-008,Protection,Protectio
 Philippines,2018,Underfunded Emergencies,2571,18-UF-CEF-019,Nutrition,Nutrition,100,453766.0,CERF
 Philippines,2018,Underfunded Emergencies,2572,18-UF-WFP-011,Food Assistance,Food Assistance,100,1200000.0,CERF
 Philippines,2018,Underfunded Emergencies,2573,18-UF-WHO-007,Health,Health,100,536158.0,CERF
+Lao People's Democratic Republic,2018,Rapid Response,2914,18-RR-WHO-042,Health,Health,100,146956.0,CERF
+Lao People's Democratic Republic,2018,Rapid Response,2915,18-RR-UDP-011,Early Recovery,Early Recovery,100,812899.0,CERF
+Lao People's Democratic Republic,2018,Rapid Response,2916,18-RR-FAO-028,Agriculture,Agriculture,100,831847.0,CERF
+Lao People's Democratic Republic,2018,Rapid Response,2917,18-RR-WFP-062,Food Assistance,Food Assistance,100,1717708.0,CERF
 Indonesia,2018,Rapid Response,2918,18-RR-FAO-029,Agriculture,Agriculture,100,999926.0,CERF
 Indonesia,2018,Rapid Response,2919,18-RR-UDP-012,Early Recovery,Early Recovery,100,785760.0,CERF
 Indonesia,2018,Rapid Response,2920,18-RR-FPA-043,Health,Health,100,1000021.0,CERF
@@ -5977,10 +5981,6 @@ Indonesia,2018,Rapid Response,2925,18-RR-CEF-109,Protection,Protection,100,64385
 Indonesia,2018,Rapid Response,2926,18-RR-IOM-034,Multi-Sector,Multi-Sector,100,2999277.0,CERF
 Indonesia,2018,Rapid Response,2927,18-RR-HCR-033,Shelter and Non-Food Items,Shelter and Non-Food Items,100,1070000.0,CERF
 Indonesia,2018,Rapid Response,2928,18-RR-CEF-110,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100,3141895.0,CERF
-Lao People's Democratic Republic,2018,Rapid Response,2914,18-RR-WHO-042,Health,Health,100,146956.0,CERF
-Lao People's Democratic Republic,2018,Rapid Response,2915,18-RR-UDP-011,Early Recovery,Early Recovery,100,812899.0,CERF
-Lao People's Democratic Republic,2018,Rapid Response,2916,18-RR-FAO-028,Agriculture,Agriculture,100,831847.0,CERF
-Lao People's Democratic Republic,2018,Rapid Response,2917,18-RR-WFP-062,Food Assistance,Food Assistance,100,1717708.0,CERF
 Myanmar,2018,Rapid Response,2807,18-RR-FPA-029,Protection,Protection,100,88150.0,CERF
 Myanmar,2018,Rapid Response,2808,18-RR-IOM-025,Protection,Protection,100,71107.0,CERF
 Myanmar,2018,Rapid Response,2809,18-RR-CEF-081,Protection,Protection,100,89570.0,CERF
@@ -6034,12 +6034,6 @@ Ukraine,2019,Underfunded Emergencies,3100,19-UF-CEF-032,Health,Health,2.99999505
 Ukraine,2019,Underfunded Emergencies,3100,19-UF-CEF-032,Protection,Protection,20.000014132587697,283034.0,CERF
 Ukraine,2019,Underfunded Emergencies,3100,19-UF-CEF-032,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",59.99997173482461,849101.0,CERF
 Ukraine,2019,Underfunded Emergencies,3101,19-UF-WHO-020,Health,Health,100.0,928760.0,CERF
-Samoa,2019,Rapid Response,3425,19-RR-UDP-012,Health,Health,100.0,98840.0,CERF
-Samoa,2019,Rapid Response,3426,19-RR-CEF-118,Health,Health,93.99999722517562,2032561.0,CERF
-Samoa,2019,Rapid Response,3426,19-RR-CEF-118,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",3.000001387412194,64869.0,CERF
-Samoa,2019,Rapid Response,3426,19-RR-CEF-118,Protection,Protection,3.000001387412194,64869.0,CERF
-Samoa,2019,Rapid Response,3427,19-RR-WHO-057,Health,Health,100.0,299600.0,CERF
-Samoa,2019,Rapid Response,3428,19-RR-FPA-052,Health,Health,100.0,146329.0,CERF
 Yemen,2019,Rapid Response,2987,19-RR-WFP-003,Common Services,Common Services,73.9999984841811,23432878.0,CERF
 Yemen,2019,Rapid Response,2987,19-RR-WFP-003,Common Services,Common Services,26.000001515818898,8233174.0,CERF
 occupied Palestinian territory,2019,Underfunded Emergencies,3172,19-UF-FPA-020,Health,Health,100.0,942764.0,CERF
@@ -6055,6 +6049,12 @@ occupied Palestinian territory,2019,Underfunded Emergencies,3153,19-UF-CEF-047,H
 occupied Palestinian territory,2019,Underfunded Emergencies,3153,19-UF-CEF-047,Protection,Protection,10.0,100000.0,CERF
 occupied Palestinian territory,2019,Underfunded Emergencies,3153,19-UF-CEF-047,Education,Education,10.0,100000.0,CERF
 occupied Palestinian territory,2019,Underfunded Emergencies,3153,19-UF-CEF-047,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.0,600000.0,CERF
+Samoa,2019,Rapid Response,3425,19-RR-UDP-012,Health,Health,100.0,98840.0,CERF
+Samoa,2019,Rapid Response,3426,19-RR-CEF-118,Health,Health,93.99999722517562,2032561.0,CERF
+Samoa,2019,Rapid Response,3426,19-RR-CEF-118,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",3.000001387412194,64869.0,CERF
+Samoa,2019,Rapid Response,3426,19-RR-CEF-118,Protection,Protection,3.000001387412194,64869.0,CERF
+Samoa,2019,Rapid Response,3427,19-RR-WHO-057,Health,Health,100.0,299600.0,CERF
+Samoa,2019,Rapid Response,3428,19-RR-FPA-052,Health,Health,100.0,146329.0,CERF
 Myanmar,2019,Rapid Response,3261,19-RR-CEF-077,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",82.99997332675393,497877.0,CERF
 Myanmar,2019,Rapid Response,3261,19-RR-CEF-077,Protection,Protection,17.00002667324607,101975.0,CERF
 Myanmar,2019,Rapid Response,3262,19-RR-FAO-023,Agriculture,Agriculture,100.0,300000.0,CERF
@@ -6106,6 +6106,11 @@ Afghanistan,2019,Underfunded Emergencies,3335,19-UF-OPS-003,Protection,Protectio
 Afghanistan,2019,Underfunded Emergencies,3336,19-UF-WFP-057,Nutrition,Nutrition,100.0,422360.0,CERF
 Afghanistan,2019,Underfunded Emergencies,3337,19-UF-WHO-046,Health,Health,98.00000226282485,6063218.0,CERF
 Afghanistan,2019,Underfunded Emergencies,3337,19-UF-WHO-046,Nutrition,Nutrition,1.9999977371751572,123739.0,CERF
+Democratic People's Republic of Korea,2019,Rapid Response,3376,19-RR-CEF-104,Nutrition,Nutrition,100.0,1000008.0,CERF
+Democratic People's Republic of Korea,2019,Rapid Response,3377,19-RR-CEF-105,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1000000.0,CERF
+Democratic People's Republic of Korea,2019,Rapid Response,3378,19-RR-FAO-035,Agriculture,Agriculture,100.0,1499890.0,CERF
+Democratic People's Republic of Korea,2019,Rapid Response,3379,19-RR-WFP-064,Nutrition,Nutrition,60.0,1500000.0,CERF
+Democratic People's Republic of Korea,2019,Rapid Response,3379,19-RR-WFP-064,Food Assistance,Food Assistance,40.0,1000000.0,CERF
 Pakistan,2019,Rapid Response,2999,19-RR-FAO-002,Agriculture,Agriculture,100.0,2500000.0,CERF
 Pakistan,2019,Rapid Response,3000,19-RR-WFP-007,Food Assistance,Food Assistance,100.0,2500000.0,CERF
 Pakistan,2019,Rapid Response,3001,19-RR-FPA-003,Protection,Protection,100.0,518201.0,CERF
@@ -6136,11 +6141,6 @@ Venezuela Regional Refugee and Migration Crisis,2019,Underfunded Emergencies,334
 Venezuela Regional Refugee and Migration Crisis,2019,Underfunded Emergencies,3347,19-UF-HCR-030,Protection,Protection,20.0,600000.0,CERF
 Venezuela Regional Refugee and Migration Crisis,2019,Underfunded Emergencies,3347,19-UF-HCR-030,Multi-Purpose Cash,Multi-Purpose Cash,26.0,780000.0,CERF
 Venezuela Regional Refugee and Migration Crisis,2019,Underfunded Emergencies,3347,19-UF-HCR-030,Shelter and Non-Food Items,Shelter and Non-Food Items,33.0,990000.0,CERF
-Democratic People's Republic of Korea,2019,Rapid Response,3376,19-RR-CEF-104,Nutrition,Nutrition,100.0,1000008.0,CERF
-Democratic People's Republic of Korea,2019,Rapid Response,3377,19-RR-CEF-105,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1000000.0,CERF
-Democratic People's Republic of Korea,2019,Rapid Response,3378,19-RR-FAO-035,Agriculture,Agriculture,100.0,1499890.0,CERF
-Democratic People's Republic of Korea,2019,Rapid Response,3379,19-RR-WFP-064,Nutrition,Nutrition,60.0,1500000.0,CERF
-Democratic People's Republic of Korea,2019,Rapid Response,3379,19-RR-WFP-064,Food Assistance,Food Assistance,40.0,1000000.0,CERF
 Honduras,2019,Underfunded Emergencies,3111,19-UF-FAO-012,Agriculture,Agriculture,100.0,749994.0,CERF
 Honduras,2019,Underfunded Emergencies,3112,19-UF-CEF-035,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,440000.0,CERF
 Honduras,2019,Underfunded Emergencies,3113,19-UF-WFP-024,Food Assistance,Food Assistance,100.0,1809930.0,CERF
@@ -6999,6 +6999,13 @@ Pakistan,2020,Rapid Response,3584,20-RR-FAO-018,Agriculture,Agriculture,100.0,80
 Pakistan,2020,Rapid Response,3585,20-RR-FPA-021,Health,Health,100.0,100000.0,CERF
 Pakistan,2020,Rapid Response,3586,20-RR-WFP-022,Food Assistance,Food Assistance,100.0,1950002.0,CERF
 Pakistan,2020,Rapid Response,3587,20-RR-WHO-021,Health,Health,100.0,150014.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3564,20-UF-CEF-026,Health,Health,100.0,699887.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3565,20-UF-WHO-018,Health,Health,100.0,499733.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3566,20-UF-WFP-019,Nutrition,Nutrition,76.0,1444000.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3566,20-UF-WFP-019,Food Assistance,Food Assistance,24.0,456000.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3567,20-UF-FPA-019,Health,Health,100.0,700069.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3568,20-UF-FAO-015,Agriculture,Agriculture,100.0,700000.0,CERF
+Democratic People's Republic of Korea,2020,Underfunded Emergencies,3569,20-UF-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500000.0,CERF
 Afghanistan,2020,Underfunded Emergencies,3703,20-UF-FAO-029,Agriculture,Agriculture,100.0,5000000.0,CERF
 Afghanistan,2020,Underfunded Emergencies,3704,20-UF-IOM-027,Health,Health,100.0,500000.0,CERF
 Afghanistan,2020,Underfunded Emergencies,3705,20-UF-FPA-034,Protection,Protection,100.0,1000000.0,CERF
@@ -7010,13 +7017,6 @@ Afghanistan,2020,Underfunded Emergencies,3708,20-UF-WHO-034,Nutrition,Nutrition,
 Afghanistan,2020,Underfunded Emergencies,3708,20-UF-WHO-034,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",12.999977499606244,259995.0,CERF
 Afghanistan,2020,Rapid Response,3774,20-RR-FAO-035,Agriculture,Agriculture,100.0,5000000.0,CERF
 Afghanistan,2020,Rapid Response,3775,20-RR-WFP-057,Food Assistance,Food Assistance,100.0,10000000.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3564,20-UF-CEF-026,Health,Health,100.0,699887.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3565,20-UF-WHO-018,Health,Health,100.0,499733.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3566,20-UF-WFP-019,Nutrition,Nutrition,76.0,1444000.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3566,20-UF-WFP-019,Food Assistance,Food Assistance,24.0,456000.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3567,20-UF-FPA-019,Health,Health,100.0,700069.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3568,20-UF-FAO-015,Agriculture,Agriculture,100.0,700000.0,CERF
-Democratic People's Republic of Korea,2020,Underfunded Emergencies,3569,20-UF-CEF-027,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500000.0,CERF
 Bangladesh,2020,Underfunded Emergencies,3670,20-UF-CEF-046,Education,Education,100.0,3494543.0,CERF
 Bangladesh,2020,Underfunded Emergencies,3671,20-UF-HCR-024,Education,Education,100.0,1395509.0,CERF
 Bangladesh,2020,Rapid Response,3640,20-RR-WFP-034,Multi-Purpose Cash,Multi-Purpose Cash,100.0,4250000.0,CERF
@@ -7043,7 +7043,33 @@ Viet Nam,2020,Rapid Response,3741,20-RR-CEF-061,Protection,Protection,18.0,21600
 Viet Nam,2020,Rapid Response,3742,20-RR-FPA-041,Health,Health,36.420053282392935,291320.0,CERF
 Viet Nam,2020,Rapid Response,3742,20-RR-FPA-041,Protection,Protection,63.57994671760707,508569.0,CERF
 Viet Nam,2020,Rapid Response,3743,20-RR-UDP-005,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0,CERF
-occupied Palestinian territory,2020,Rapid Response,3570,20-RR-RWA-003,Food Assistance,Food Assistance,100.0,22293277.0,CERF
+Global,2020,Rapid Response,3639,20-RR-IOM-019,Health,Health,59.00000199405373,14793985.0,CERF
+Global,2020,Rapid Response,3639,20-RR-IOM-019,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",36.0,9026838.0,CERF
+Global,2020,Rapid Response,3639,20-RR-IOM-019,Protection,Protection,3.000001994053732,752237.0,CERF
+Global,2020,Rapid Response,3639,20-RR-IOM-019,Protection,Protection,2.0,501491.0,CERF
+Global,2020,Rapid Response,3562,20-RR-CEF-025,Education,Education,25.0,1250000.0,CERF
+Global,2020,Rapid Response,3562,20-RR-CEF-025,Health,Health,54.0,2700000.0,CERF
+Global,2020,Rapid Response,3562,20-RR-CEF-025,Protection,Protection,21.0,1050000.0,CERF
+Global,2020,Rapid Response,3563,20-RR-WHO-017,Health,Health,100.0,10000000.0,CERF
+Global,2020,Rapid Response,3588,20-RR-FAO-019,Agriculture,Agriculture,100.0,3000000.0,CERF
+Global,2020,Rapid Response,3589,20-RR-FPA-022,Protection,Protection,30.0,960000.0,CERF
+Global,2020,Rapid Response,3589,20-RR-FPA-022,Health,Health,70.0,2240000.0,CERF
+Global,2020,Rapid Response,3590,20-RR-IOM-011,Camp Coordination and Camp Management,Camp Coordination and Camp Management,32.9999877777823,891000.0,CERF
+Global,2020,Rapid Response,3590,20-RR-IOM-011,Health,Health,55.00001666666049,1485001.0,CERF
+Global,2020,Rapid Response,3590,20-RR-IOM-011,Protection,Protection,11.9999955555572,324000.0,CERF
+Global,2020,Rapid Response,3591,20-RR-UDP-003,Health,Health,100.0,3200000.0,CERF
+Global,2020,Rapid Response,3592,20-RR-WFP-023,Common Services,Common Services,100.0,20000000.0,CERF
+Global,2020,Rapid Response,3593,20-RR-HCR-017,Multi-sector refugee assistance,Multi-sector refugee assistance,67.00001318835419,4623019.0,CERF
+Global,2020,Rapid Response,3593,20-RR-HCR-017,Shelter and Non-Food Items,Shelter and Non-Food Items,4.999994927556081,345001.0,CERF
+Global,2020,Rapid Response,3593,20-RR-HCR-017,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",23.999993043505484,1656006.0,CERF
+Global,2020,Rapid Response,3593,20-RR-HCR-017,Health,Health,3.9999988405842473,276001.0,CERF
+Global,2020,Rapid Response,3594,20-RR-WHO-022,Health,Health,100.0,10000000.0,CERF
+Global,2020,Rapid Response,3595,20-RR-CEF-030,Health,Health,40.0,4380000.0,CERF
+Global,2020,Rapid Response,3595,20-RR-CEF-030,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,3285000.0,CERF
+Global,2020,Rapid Response,3595,20-RR-CEF-030,Protection,Protection,15.0,1642500.0,CERF
+Global,2020,Rapid Response,3595,20-RR-CEF-030,Education,Education,15.0,1642500.0,CERF
+Global,2020,Rapid Response,3604,20-RR-WFP-025,Common Services,Common Services,100.0,20000000.0,CERF
+Global,2020,Rapid Response,3602,20-RR-HAB-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,49996.0,CERF
 Lebanon,2020,Underfunded Emergencies,3502,20-UF-FPA-010,Health,Health,100.0,800000.0,CERF
 Lebanon,2020,Underfunded Emergencies,3503,20-UF-HCR-007,Health,Health,25.999998309754886,1845886.0,CERF
 Lebanon,2020,Underfunded Emergencies,3503,20-UF-HCR-007,Protection,Protection,41.999999436584964,2981816.0,CERF
@@ -7079,12 +7105,10 @@ Jordan,2020,Underfunded Emergencies,3517,20-UF-WOM-001,Protection,Protection,100
 Jordan,2020,Underfunded Emergencies,3518,20-UF-RWA-002,Protection,Protection,100.0,600000.0,CERF
 Jordan,2020,Underfunded Emergencies,3525,20-UF-FPA-013,Health,Health,100.0,399979.0,CERF
 Jordan,2020,Underfunded Emergencies,3523,20-UF-FPA-012,Protection,Protection,100.0,301191.0,CERF
-Yemen,2020,Underfunded Emergencies,3692,20-UF-FPA-032,Health,Health,100.0,9999995.0,CERF
-Yemen,2020,Underfunded Emergencies,3693,20-UF-CEF-051,Nutrition,Nutrition,49.999996874988476,7999970.0,CERF
-Yemen,2020,Underfunded Emergencies,3693,20-UF-CEF-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.000003125011524,7999971.0,CERF
-Yemen,2020,Underfunded Emergencies,3694,20-UF-WHO-032,Health,Health,66.00000377777737,5940001.0,CERF
-Yemen,2020,Underfunded Emergencies,3694,20-UF-WHO-032,Nutrition,Nutrition,33.99999622222264,3060000.0,CERF
-Yemen,2020,Rapid Response,3762,20-RR-WFP-052,Food Assistance,Food Assistance,100.0,30000000.0,CERF
+Fiji,2020,Rapid Response,3630,20-RR-CEF-038,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,200077.0,CERF
+Fiji,2020,Rapid Response,3631,20-RR-IOM-018,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,100000.0,CERF
+Fiji,2020,Rapid Response,3632,20-RR-WFP-032,Food Assistance,Food Assistance,100.0,599843.0,CERF
+Fiji,2020,Rapid Response,3633,20-RR-WHO-026,Health,Health,100.0,102828.0,CERF
 Vanuatu,2020,Rapid Response,3609,20-RR-CEF-033,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",77.9999550526446,694145.0,CERF
 Vanuatu,2020,Rapid Response,3609,20-RR-CEF-033,Nutrition,Nutrition,22.00004494735541,195785.0,CERF
 Vanuatu,2020,Rapid Response,3610,20-RR-FAO-021,Agriculture,Agriculture,100.0,440000.0,CERF
@@ -7092,46 +7116,13 @@ Vanuatu,2020,Rapid Response,3611,20-RR-IOM-013,Shelter and Non-Food Items,Shelte
 Vanuatu,2020,Rapid Response,3612,20-RR-WFP-028,Common Services,Common Services,100.0,199262.0,CERF
 Vanuatu,2020,Rapid Response,3613,20-RR-WHO-024,Health,Health,100.0,342635.0,CERF
 Vanuatu,2020,Rapid Response,3614,20-RR-FPA-024,Health,Health,100.0,241558.0,CERF
-Fiji,2020,Rapid Response,3630,20-RR-CEF-038,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,200077.0,CERF
-Fiji,2020,Rapid Response,3631,20-RR-IOM-018,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,100000.0,CERF
-Fiji,2020,Rapid Response,3632,20-RR-WFP-032,Food Assistance,Food Assistance,100.0,599843.0,CERF
-Fiji,2020,Rapid Response,3633,20-RR-WHO-026,Health,Health,100.0,102828.0,CERF
-Global,2020,Rapid Response,3639,20-RR-IOM-019,Health,Health,59.00000199405373,14793985.0,CERF
-Global,2020,Rapid Response,3639,20-RR-IOM-019,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",36.0,9026838.0,CERF
-Global,2020,Rapid Response,3639,20-RR-IOM-019,Protection,Protection,3.000001994053732,752237.0,CERF
-Global,2020,Rapid Response,3639,20-RR-IOM-019,Protection,Protection,2.0,501491.0,CERF
-Global,2020,Rapid Response,3562,20-RR-CEF-025,Education,Education,25.0,1250000.0,CERF
-Global,2020,Rapid Response,3562,20-RR-CEF-025,Health,Health,54.0,2700000.0,CERF
-Global,2020,Rapid Response,3562,20-RR-CEF-025,Protection,Protection,21.0,1050000.0,CERF
-Global,2020,Rapid Response,3563,20-RR-WHO-017,Health,Health,100.0,10000000.0,CERF
-Global,2020,Rapid Response,3588,20-RR-FAO-019,Agriculture,Agriculture,100.0,3000000.0,CERF
-Global,2020,Rapid Response,3589,20-RR-FPA-022,Protection,Protection,30.0,960000.0,CERF
-Global,2020,Rapid Response,3589,20-RR-FPA-022,Health,Health,70.0,2240000.0,CERF
-Global,2020,Rapid Response,3590,20-RR-IOM-011,Camp Coordination and Camp Management,Camp Coordination and Camp Management,32.9999877777823,891000.0,CERF
-Global,2020,Rapid Response,3590,20-RR-IOM-011,Health,Health,55.00001666666049,1485001.0,CERF
-Global,2020,Rapid Response,3590,20-RR-IOM-011,Protection,Protection,11.9999955555572,324000.0,CERF
-Global,2020,Rapid Response,3591,20-RR-UDP-003,Health,Health,100.0,3200000.0,CERF
-Global,2020,Rapid Response,3592,20-RR-WFP-023,Common Services,Common Services,100.0,20000000.0,CERF
-Global,2020,Rapid Response,3593,20-RR-HCR-017,Multi-sector refugee assistance,Multi-sector refugee assistance,67.00001318835419,4623019.0,CERF
-Global,2020,Rapid Response,3593,20-RR-HCR-017,Shelter and Non-Food Items,Shelter and Non-Food Items,4.999994927556081,345001.0,CERF
-Global,2020,Rapid Response,3593,20-RR-HCR-017,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",23.999993043505484,1656006.0,CERF
-Global,2020,Rapid Response,3593,20-RR-HCR-017,Health,Health,3.9999988405842473,276001.0,CERF
-Global,2020,Rapid Response,3594,20-RR-WHO-022,Health,Health,100.0,10000000.0,CERF
-Global,2020,Rapid Response,3595,20-RR-CEF-030,Health,Health,40.0,4380000.0,CERF
-Global,2020,Rapid Response,3595,20-RR-CEF-030,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,3285000.0,CERF
-Global,2020,Rapid Response,3595,20-RR-CEF-030,Protection,Protection,15.0,1642500.0,CERF
-Global,2020,Rapid Response,3595,20-RR-CEF-030,Education,Education,15.0,1642500.0,CERF
-Global,2020,Rapid Response,3604,20-RR-WFP-025,Common Services,Common Services,100.0,20000000.0,CERF
-Global,2020,Rapid Response,3602,20-RR-HAB-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,49996.0,CERF
-Global,2021,Rapid Response,3753,20-RR-WOM-006,Protection,Protection,98.00000024999996,7840001.0,CERF
-Global,2021,Rapid Response,3753,20-RR-WOM-006,Food Assistance,Food Assistance,0.9999998750000157,80000.0,CERF
-Global,2021,Rapid Response,3753,20-RR-WOM-006,Multi-Purpose Cash,Multi-Purpose Cash,0.9999998750000157,80000.0,CERF
-Global,2021,Rapid Response,3754,20-RR-FPA-042,Protection,Protection,95.00000235237273,16153903.0,CERF
-Global,2021,Rapid Response,3754,20-RR-FPA-042,Health,Health,4.999997647627268,850205.0,CERF
-Fiji,2021,Rapid Response,3786,21-RR-FAO-002,Agriculture,Agriculture,100.0,500000.0,CERF
-Azerbaijan,2021,Rapid Response,3780,21-RR-HCR-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,700000.0,CERF
-Azerbaijan,2021,Rapid Response,3781,21-RR-UDP-001,Protection,Protection,100.0,700000.0,CERF
-Azerbaijan,2021,Rapid Response,3782,21-RR-WHO-001,Health,Health,100.0,599227.0,CERF
+occupied Palestinian territory,2020,Rapid Response,3570,20-RR-RWA-003,Food Assistance,Food Assistance,100.0,22293277.0,CERF
+Yemen,2020,Underfunded Emergencies,3692,20-UF-FPA-032,Health,Health,100.0,9999995.0,CERF
+Yemen,2020,Underfunded Emergencies,3693,20-UF-CEF-051,Nutrition,Nutrition,49.999996874988476,7999970.0,CERF
+Yemen,2020,Underfunded Emergencies,3693,20-UF-CEF-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.000003125011524,7999971.0,CERF
+Yemen,2020,Underfunded Emergencies,3694,20-UF-WHO-032,Health,Health,66.00000377777737,5940001.0,CERF
+Yemen,2020,Underfunded Emergencies,3694,20-UF-WHO-032,Nutrition,Nutrition,33.99999622222264,3060000.0,CERF
+Yemen,2020,Rapid Response,3762,20-RR-WFP-052,Food Assistance,Food Assistance,100.0,30000000.0,CERF
 Yemen,2021,Rapid Response,3845,21-RR-CEF-015,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.0,4616634.0,CERF
 Yemen,2021,Rapid Response,3845,21-RR-CEF-015,Protection,Protection,25.0,2308317.0,CERF
 Yemen,2021,Rapid Response,3845,21-RR-CEF-015,Health,Health,25.0,2308317.0,CERF
@@ -7146,12 +7137,21 @@ Yemen,2021,Rapid Response,3849,21-RR-WFP-011,Common Services,Common Services,46.
 Yemen,2021,Rapid Response,3850,21-RR-WHO-012,Health,Health,100.0,1626566.0,CERF
 Yemen,2021,Rapid Response,3851,21-RR-HCR-008,Protection,Protection,11.0,1436600.0,CERF
 Yemen,2021,Rapid Response,3851,21-RR-HCR-008,Shelter and Non-Food Items,Shelter and Non-Food Items,89.0,11623400.0,CERF
+occupied Palestinian territory,2021,Rapid Response,3868,21-RR-CEF-019,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1198475.0,CERF
+occupied Palestinian territory,2021,Rapid Response,3869,21-RR-RWA-001,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,1500000.0,CERF
+occupied Palestinian territory,2021,Rapid Response,3869,21-RR-RWA-001,Education,Education,40.0,1000000.0,CERF
+occupied Palestinian territory,2021,Rapid Response,3870,21-RR-OPS-001,Protection,Protection,100.0,800000.0,CERF
 Armenia,2021,Rapid Response,3783,21-RR-IOM-001,Health,Health,100.0,219999.0,CERF
 Armenia,2021,Rapid Response,3784,21-RR-HCR-002,Protection,Protection,25.00001995213085,313250.0,CERF
 Armenia,2021,Rapid Response,3784,21-RR-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,74.99998004786916,939749.0,CERF
 Armenia,2021,Rapid Response,3785,21-RR-CEF-001,Education,Education,28.000000000000004,147728.0,CERF
 Armenia,2021,Rapid Response,3785,21-RR-CEF-001,Protection,Protection,36.0,189936.0,CERF
 Armenia,2021,Rapid Response,3785,21-RR-CEF-001,Protection,Protection,36.0,189936.0,CERF
+Fiji,2021,Rapid Response,3786,21-RR-FAO-002,Agriculture,Agriculture,100.0,500000.0,CERF
+Azerbaijan,2021,Rapid Response,3780,21-RR-HCR-001,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,700000.0,CERF
+Azerbaijan,2021,Rapid Response,3781,21-RR-UDP-001,Protection,Protection,100.0,700000.0,CERF
+Azerbaijan,2021,Rapid Response,3782,21-RR-WHO-001,Health,Health,100.0,599227.0,CERF
+Lebanon,2021,Rapid Response,3975,21-RR-WFP-030,Common Services,Common Services,100.0,3998359.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,4034,21-UF-HCR-029,Protection,Protection,73.0,876000.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,4034,21-UF-HCR-029,Shelter and Non-Food Items,Shelter and Non-Food Items,27.0,324000.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,4035,21-UF-OPS-004,Protection,Protection,100.0,800000.0,CERF
@@ -7165,11 +7165,11 @@ Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,Nutrition,N
 Syrian Arab Republic,2021,Underfunded Emergencies,3965,21-UF-CEF-039,Protection,Protection,5.0,475038.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,3966,21-UF-FPA-023,Protection,Protection,100.0,499987.0,CERF
 Syrian Arab Republic,2021,Underfunded Emergencies,3967,21-UF-WHO-027,Health,Health,100.0,3200000.0,CERF
-Lebanon,2021,Rapid Response,3975,21-RR-WFP-030,Common Services,Common Services,100.0,3998359.0,CERF
-occupied Palestinian territory,2021,Rapid Response,3868,21-RR-CEF-019,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1198475.0,CERF
-occupied Palestinian territory,2021,Rapid Response,3869,21-RR-RWA-001,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,1500000.0,CERF
-occupied Palestinian territory,2021,Rapid Response,3869,21-RR-RWA-001,Education,Education,40.0,1000000.0,CERF
-occupied Palestinian territory,2021,Rapid Response,3870,21-RR-OPS-001,Protection,Protection,100.0,800000.0,CERF
+Global,2021,Rapid Response,3753,20-RR-WOM-006,Protection,Protection,98.00000024999996,7840001.0,CERF
+Global,2021,Rapid Response,3753,20-RR-WOM-006,Food Assistance,Food Assistance,0.9999998750000157,80000.0,CERF
+Global,2021,Rapid Response,3753,20-RR-WOM-006,Multi-Purpose Cash,Multi-Purpose Cash,0.9999998750000157,80000.0,CERF
+Global,2021,Rapid Response,3754,20-RR-FPA-042,Protection,Protection,95.00000235237273,16153903.0,CERF
+Global,2021,Rapid Response,3754,20-RR-FPA-042,Health,Health,4.999997647627268,850205.0,CERF
 Myanmar,2021,Rapid Response,4013,21-RR-FAO-023,Agriculture,Agriculture,100.0,2800000.0,CERF
 Myanmar,2021,Rapid Response,4014,21-RR-FPA-029,Health,Health,40.0,403424.0,CERF
 Myanmar,2021,Rapid Response,4014,21-RR-FPA-029,Protection,Protection,60.0,605136.0,CERF
@@ -7996,18 +7996,6 @@ Colombia,2022,Rapid Response,4213,22-RR-HCR-016,Protection,Protection,49.9999500
 Kyrgyzstan,2022,Rapid Response,4398,22-RR-IOM-030,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,500000.0,CERF
 Kyrgyzstan,2022,Rapid Response,4399,22-RR-WFP-063,Food Assistance,Food Assistance,100.0,353000.0,CERF
 Kyrgyzstan,2022,Rapid Response,4400,22-RR-CEF-073,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,157290.0,CERF
-Nepal,2022,Rapid Response,4289,22-RR-WFP-043,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2508426.0,CERF
-Nepal,2022,Rapid Response,4291,22-RR-WOM-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,127090.0,CERF
-Nepal,2022,Rapid Response,4295,22-RR-FPA-029,Health,Health,22.999954642354968,126770.0,CERF
-Nepal,2022,Rapid Response,4295,22-RR-FPA-029,Protection,Protection,77.00004535764504,424405.0,CERF
-Bangladesh,2022,Rapid Response,4318,22-RR-WOM-003,Protection,Protection,100.0,200012.0,CERF
-Bangladesh,2022,Rapid Response,4319,22-RR-FAO-030,Agriculture,Agriculture,100.0,500000.0,CERF
-Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",59.0,973500.0,CERF
-Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Protection,Protection,28.999999999999996,478500.0,CERF
-Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Nutrition,Nutrition,12.0,198000.0,CERF
-Bangladesh,2022,Rapid Response,4321,22-RR-WFP-049,Food Assistance,Food Assistance,100.0,1800000.0,CERF
-Bangladesh,2022,Rapid Response,4322,22-RR-FPA-032,Protection,Protection,66.00003999995295,561001.0,CERF
-Bangladesh,2022,Rapid Response,4322,22-RR-FPA-032,Health,Health,33.99996000004706,289000.0,CERF
 Pakistan,2022,Rapid Response,4336,22-RR-FAO-033,Agriculture,Agriculture,100.0,546000.0,CERF
 Pakistan,2022,Rapid Response,4337,22-RR-FPA-034,Health,Health,100.0,447646.0,CERF
 Pakistan,2022,Rapid Response,4338,22-RR-CEF-057,Nutrition,Nutrition,52.99999194380716,592091.0,CERF
@@ -8019,6 +8007,10 @@ Pakistan,2022,Rapid Response,4359,22-RR-CEF-062,"Water, Sanitation and Hygiene",
 Pakistan,2022,Rapid Response,4360,22-RR-WHO-035,Health,Health,71.99997695502967,1499676.0,CERF
 Pakistan,2022,Rapid Response,4360,22-RR-WHO-035,Nutrition,Nutrition,28.00002304497034,583208.0,CERF
 Pakistan,2022,Rapid Response,4361,22-RR-FPA-038,Health,Health,100.0,802354.0,CERF
+Nepal,2022,Rapid Response,4289,22-RR-WFP-043,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2508426.0,CERF
+Nepal,2022,Rapid Response,4291,22-RR-WOM-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,127090.0,CERF
+Nepal,2022,Rapid Response,4295,22-RR-FPA-029,Health,Health,22.999954642354968,126770.0,CERF
+Nepal,2022,Rapid Response,4295,22-RR-FPA-029,Protection,Protection,77.00004535764504,424405.0,CERF
 Afghanistan,2022,Rapid Response,4311,22-RR-CEF-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",80.0,3000000.0,CERF
 Afghanistan,2022,Rapid Response,4311,22-RR-CEF-051,Education,Education,20.0,750000.0,CERF
 Afghanistan,2022,Rapid Response,4312,22-RR-WFP-048,Food Assistance,Food Assistance,100.0,4000000.0,CERF
@@ -8032,6 +8024,14 @@ Bangladesh,2022,Underfunded Emergencies,4444,22-UF-WFP-069,Food Assistance,Food 
 Bangladesh,2022,Underfunded Emergencies,4445,22-UF-CEF-083,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",80.0,1000000.0,CERF
 Bangladesh,2022,Underfunded Emergencies,4445,22-UF-CEF-083,Protection,Protection,20.0,250000.0,CERF
 Bangladesh,2022,Underfunded Emergencies,4448,22-UF-FPA-047,Protection,Protection,100.0,500000.0,CERF
+Bangladesh,2022,Rapid Response,4318,22-RR-WOM-003,Protection,Protection,100.0,200012.0,CERF
+Bangladesh,2022,Rapid Response,4319,22-RR-FAO-030,Agriculture,Agriculture,100.0,500000.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",59.0,973500.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Protection,Protection,28.999999999999996,478500.0,CERF
+Bangladesh,2022,Rapid Response,4320,22-RR-CEF-053,Nutrition,Nutrition,12.0,198000.0,CERF
+Bangladesh,2022,Rapid Response,4321,22-RR-WFP-049,Food Assistance,Food Assistance,100.0,1800000.0,CERF
+Bangladesh,2022,Rapid Response,4322,22-RR-FPA-032,Protection,Protection,66.00003999995295,561001.0,CERF
+Bangladesh,2022,Rapid Response,4322,22-RR-FPA-032,Health,Health,33.99996000004706,289000.0,CERF
 Myanmar,2022,Underfunded Emergencies,4153,22-UF-CEF-016,Protection,Protection,74.99997761563539,837638.0,CERF
 Myanmar,2022,Underfunded Emergencies,4153,22-UF-CEF-016,Protection,Protection,25.000022384364613,279213.0,CERF
 Myanmar,2022,Underfunded Emergencies,4154,22-UF-CEF-017,Education,Education,100.0,1117129.0,CERF
@@ -8076,6 +8076,12 @@ Philippines,2022,Rapid Response,4066,21-RR-WFP-042,Common Services,Common Servic
 Philippines,2022,Rapid Response,4067,21-RR-CEF-059,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",80.0,2716836.0,CERF
 Philippines,2022,Rapid Response,4067,21-RR-CEF-059,Protection,Protection,11.999988221593059,407525.0,CERF
 Philippines,2022,Rapid Response,4067,21-RR-CEF-059,Education,Education,8.000011778406941,271684.0,CERF
+Tonga,2022,Rapid Response,4096,22-RR-CEF-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500600.0,CERF
+Tonga,2022,Rapid Response,4097,22-RR-WFP-007,Common Services,Common Services,100.0,250000.0,CERF
+Tonga,2022,Rapid Response,4098,22-RR-IOM-003,Multi-Purpose Cash,Multi-Purpose Cash,100.0,250000.0,CERF
+Lebanon,2022,Rapid Response,4409,22-RR-HCR-031,Health,Health,100.0,1000000.0,CERF
+Lebanon,2022,Rapid Response,4410,22-RR-CEF-076,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,3000000.0,CERF
+Lebanon,2022,Rapid Response,4411,22-RR-WHO-044,Health,Health,100.0,1000000.0,CERF
 Lebanon,2022,Underfunded Emergencies,4111,22-UF-IOM-006,Health,Health,32.0,480000.0,CERF
 Lebanon,2022,Underfunded Emergencies,4111,22-UF-IOM-006,Protection,Protection,56.00000000000001,840000.0,CERF
 Lebanon,2022,Underfunded Emergencies,4111,22-UF-IOM-006,Protection,Protection,4.0,60000.0,CERF
@@ -8097,43 +8103,6 @@ Syrian Arab Republic,2022,Underfunded Emergencies,4187,22-UF-CEF-025,Multi-Purpo
 Syrian Arab Republic,2022,Underfunded Emergencies,4188,22-UF-WFP-022,Food Assistance,Food Assistance,100.0,6000000.0,CERF
 Syrian Arab Republic,2022,Underfunded Emergencies,4189,22-UF-UDP-002,Early Recovery,Early Recovery,100.0,1500000.0,CERF
 Syrian Arab Republic,2022,Underfunded Emergencies,4190,22-UF-WHO-015,Health,Health,100.0,3000000.0,CERF
-Lebanon,2022,Rapid Response,4409,22-RR-HCR-031,Health,Health,100.0,1000000.0,CERF
-Lebanon,2022,Rapid Response,4410,22-RR-CEF-076,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,3000000.0,CERF
-Lebanon,2022,Rapid Response,4411,22-RR-WHO-044,Health,Health,100.0,1000000.0,CERF
-Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Camp Coordination and Camp Management,Camp Coordination and Camp Management,7.999984887653874,423494.0,CERF
-Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Health,Health,25.999998110956735,1376358.0,CERF
-Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Protection,Protection,9.00000661165143,476432.0,CERF
-Yemen,2022,Rapid Response,4089,22-RR-IOM-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",47.00000094452163,2488032.0,CERF
-Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Multi-Purpose Cash,Multi-Purpose Cash,10.000009445216328,529369.0,CERF
-Yemen,2022,Rapid Response,4090,22-RR-UDP-001,Protection,Protection,100.0,411554.0,CERF
-Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Health,Health,58.99999882468951,1003990.0,CERF
-Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Protection,Protection,41.00000117531049,697688.0,CERF
-Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0,CERF
-Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0,CERF
-Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0,CERF
-Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Health,Health,46.0,368000.0,CERF
-Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Nutrition,Nutrition,54.0,432000.0,CERF
-Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Shelter and Non-Food Items,Shelter and Non-Food Items,76.0,3040190.0,CERF
-Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Protection,Protection,24.0,960060.0,CERF
-Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Health,Health,15.000013808825102,760384.0,CERF
-Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Nutrition,Nutrition,40.0000039453786,2027689.0,CERF
-Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Protection,Protection,13.99999842184856,709691.0,CERF
-Yemen,2022,Rapid Response,4095,22-RR-CEF-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",19.999992109242797,1013844.0,CERF
-Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Shelter and Non-Food Items,Shelter and Non-Food Items,10.999991714704938,557614.0,CERF
-Yemen,2022,Rapid Response,4238,22-RR-FAO-019,Agriculture,Agriculture,100.0,2027000.0,CERF
-Yemen,2022,Rapid Response,4239,22-RR-FPA-022,Protection,Protection,100.0,750513.0,CERF
-Yemen,2022,Rapid Response,4240,22-RR-HCR-019,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2000185.0,CERF
-Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Health,Health,14.000000000000002,983220.0,CERF
-Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Nutrition,Nutrition,46.0,3230580.0,CERF
-Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Protection,Protection,12.0,842760.0,CERF
-Yemen,2022,Rapid Response,4241,22-RR-CEF-036,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.000000000000004,1966440.0,CERF
-Yemen,2022,Rapid Response,4242,22-RR-WFP-032,Nutrition,Nutrition,100.0,4999926.0,CERF
-Yemen,2022,Rapid Response,4243,22-RR-WHO-022,Health,Health,15.0,180000.0,CERF
-Yemen,2022,Rapid Response,4243,22-RR-WHO-022,Nutrition,Nutrition,85.0,1020000.0,CERF
-Yemen,2022,Rapid Response,4249,22-RR-IOM-018,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2000000.0,CERF
-Tonga,2022,Rapid Response,4096,22-RR-CEF-006,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500600.0,CERF
-Tonga,2022,Rapid Response,4097,22-RR-WFP-007,Common Services,Common Services,100.0,250000.0,CERF
-Tonga,2022,Rapid Response,4098,22-RR-IOM-003,Multi-Purpose Cash,Multi-Purpose Cash,100.0,250000.0,CERF
 Ukraine,2022,Rapid Response,4170,22-RR-IOM-011,Multi-Purpose Cash,Multi-Purpose Cash,50.0,2500000.0,CERF
 Ukraine,2022,Rapid Response,4170,22-RR-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,2500000.0,CERF
 Ukraine,2022,Rapid Response,4171,22-RR-HCR-011,Protection,Protection,18.0,1080000.0,CERF
@@ -8169,10 +8138,46 @@ Ukraine,2022,Rapid Response,4162,22-RR-CEF-021,Health,Health,25.0,1000000.0,CERF
 Ukraine,2022,Rapid Response,4162,22-RR-CEF-021,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",25.0,1000000.0,CERF
 Ukraine,2022,Rapid Response,4162,22-RR-CEF-021,Protection,Protection,25.0,1000000.0,CERF
 Ukraine,2022,Rapid Response,4162,22-RR-CEF-021,Education,Education,25.0,1000000.0,CERF
-Vanuatu,2023,Rapid Response,4527,23-RR-FAO-003,Agriculture,Agriculture,100.0,500000.0,CERF
-Vanuatu,2023,Rapid Response,4528,23-RR-CEF-011,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,703281.0,CERF
-Vanuatu,2023,Rapid Response,4529,23-RR-IOM-008,Shelter and Non-Food Items,Shelter and Non-Food Items,79.0,395000.0,CERF
-Vanuatu,2023,Rapid Response,4529,23-RR-IOM-008,Camp Coordination and Camp Management,Camp Coordination and Camp Management,21.0,105000.0,CERF
+Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Camp Coordination and Camp Management,Camp Coordination and Camp Management,7.999984887653874,423494.0,CERF
+Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Health,Health,25.999998110956735,1376358.0,CERF
+Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Protection,Protection,9.00000661165143,476432.0,CERF
+Yemen,2022,Rapid Response,4089,22-RR-IOM-002,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",47.00000094452163,2488032.0,CERF
+Yemen,2022,Rapid Response,4089,22-RR-IOM-002,Multi-Purpose Cash,Multi-Purpose Cash,10.000009445216328,529369.0,CERF
+Yemen,2022,Rapid Response,4090,22-RR-UDP-001,Protection,Protection,100.0,411554.0,CERF
+Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Health,Health,58.99999882468951,1003990.0,CERF
+Yemen,2022,Rapid Response,4091,22-RR-FPA-003,Protection,Protection,41.00000117531049,697688.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Food Assistance,Food Assistance,26.0,707460.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Nutrition,Nutrition,37.0,1006770.0,CERF
+Yemen,2022,Rapid Response,4092,22-RR-WFP-006,Common Services,Common Services,37.0,1006770.0,CERF
+Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Health,Health,46.0,368000.0,CERF
+Yemen,2022,Rapid Response,4093,22-RR-WHO-004,Nutrition,Nutrition,54.0,432000.0,CERF
+Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Shelter and Non-Food Items,Shelter and Non-Food Items,76.0,3040190.0,CERF
+Yemen,2022,Rapid Response,4094,22-RR-HCR-003,Protection,Protection,24.0,960060.0,CERF
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Health,Health,15.000013808825102,760384.0,CERF
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Nutrition,Nutrition,40.0000039453786,2027689.0,CERF
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Protection,Protection,13.99999842184856,709691.0,CERF
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",19.999992109242797,1013844.0,CERF
+Yemen,2022,Rapid Response,4095,22-RR-CEF-005,Shelter and Non-Food Items,Shelter and Non-Food Items,10.999991714704938,557614.0,CERF
+Yemen,2022,Rapid Response,4238,22-RR-FAO-019,Agriculture,Agriculture,100.0,2027000.0,CERF
+Yemen,2022,Rapid Response,4239,22-RR-FPA-022,Protection,Protection,100.0,750513.0,CERF
+Yemen,2022,Rapid Response,4240,22-RR-HCR-019,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2000185.0,CERF
+Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Health,Health,14.000000000000002,983220.0,CERF
+Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Nutrition,Nutrition,46.0,3230580.0,CERF
+Yemen,2022,Rapid Response,4241,22-RR-CEF-036,Protection,Protection,12.0,842760.0,CERF
+Yemen,2022,Rapid Response,4241,22-RR-CEF-036,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.000000000000004,1966440.0,CERF
+Yemen,2022,Rapid Response,4242,22-RR-WFP-032,Nutrition,Nutrition,100.0,4999926.0,CERF
+Yemen,2022,Rapid Response,4243,22-RR-WHO-022,Health,Health,15.0,180000.0,CERF
+Yemen,2022,Rapid Response,4243,22-RR-WHO-022,Nutrition,Nutrition,85.0,1020000.0,CERF
+Yemen,2022,Rapid Response,4249,22-RR-IOM-018,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2000000.0,CERF
+Yemen,2023,Underfunded Emergencies,4484,23-UF-IOM-002,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,1999999.0,CERF
+Yemen,2023,Underfunded Emergencies,4485,23-UF-FPA-002,Health,Health,100.0,2020892.0,CERF
+Yemen,2023,Underfunded Emergencies,4486,23-UF-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,4011429.0,CERF
+Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.0,3600000.0,CERF
+Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,Protection,Protection,20.0,1200000.0,CERF
+Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,Nutrition,Nutrition,20.0,1200000.0,CERF
+Yemen,2023,Underfunded Emergencies,4488,23-UF-WFP-002,Nutrition,Nutrition,100.0,3000151.0,CERF
+Yemen,2023,Underfunded Emergencies,4489,23-UF-WHO-004,Nutrition,Nutrition,100.0,1000884.0,CERF
+Yemen,2023,Underfunded Emergencies,4494,23-UF-FAO-001,Agriculture,Agriculture,100.0,2000000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,Protection,Protection,20.0,450000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,675000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,1125000.0,CERF
@@ -8185,15 +8190,10 @@ Türkiye,2023,Rapid Response,4499,23-RR-UDP-001,"Water, Sanitation and Hygiene",
 Türkiye,2023,Rapid Response,4500,23-RR-CEF-005,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",56.00000000000001,1260000.0,CERF
 Türkiye,2023,Rapid Response,4500,23-RR-CEF-005,Shelter and Non-Food Items,Shelter and Non-Food Items,15.0,337500.0,CERF
 Türkiye,2023,Rapid Response,4500,23-RR-CEF-005,Education,Education,28.999999999999996,652500.0,CERF
-Yemen,2023,Underfunded Emergencies,4484,23-UF-IOM-002,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,1999999.0,CERF
-Yemen,2023,Underfunded Emergencies,4485,23-UF-FPA-002,Health,Health,100.0,2020892.0,CERF
-Yemen,2023,Underfunded Emergencies,4486,23-UF-HCR-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,4011429.0,CERF
-Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.0,3600000.0,CERF
-Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,Protection,Protection,20.0,1200000.0,CERF
-Yemen,2023,Underfunded Emergencies,4487,23-UF-CEF-003,Nutrition,Nutrition,20.0,1200000.0,CERF
-Yemen,2023,Underfunded Emergencies,4488,23-UF-WFP-002,Nutrition,Nutrition,100.0,3000151.0,CERF
-Yemen,2023,Underfunded Emergencies,4489,23-UF-WHO-004,Nutrition,Nutrition,100.0,1000884.0,CERF
-Yemen,2023,Underfunded Emergencies,4494,23-UF-FAO-001,Agriculture,Agriculture,100.0,2000000.0,CERF
+Vanuatu,2023,Rapid Response,4527,23-RR-FAO-003,Agriculture,Agriculture,100.0,500000.0,CERF
+Vanuatu,2023,Rapid Response,4528,23-RR-CEF-011,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,703281.0,CERF
+Vanuatu,2023,Rapid Response,4529,23-RR-IOM-008,Shelter and Non-Food Items,Shelter and Non-Food Items,79.0,395000.0,CERF
+Vanuatu,2023,Rapid Response,4529,23-RR-IOM-008,Camp Coordination and Camp Management,Camp Coordination and Camp Management,21.0,105000.0,CERF
 Syrian Arab Republic,2023,Underfunded Emergencies,4539,23-UF-IOM-011,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,3000000.0,CERF
 Syrian Arab Republic,2023,Underfunded Emergencies,4540,23-UF-HCR-008,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,5500000.0,CERF
 Syrian Arab Republic,2023,Underfunded Emergencies,4541,23-UF-CEF-014,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",88.0,7920000.0,CERF
@@ -8234,12 +8234,14 @@ Peru,2023,Rapid Response,4546,23-RR-CEF-015,"Water, Sanitation and Hygiene","Wat
 Peru,2023,Rapid Response,4546,23-RR-CEF-015,Education,Education,17.000003879522716,262919.0,CERF
 Peru,2023,Rapid Response,4546,23-RR-CEF-015,Protection,Protection,12.000010345393907,185590.0,CERF
 Peru,2023,Rapid Response,4546,23-RR-CEF-015,Health,Health,9.999987068257616,154658.0,CERF
+Peru,2023,Rapid Response,4547,23-RR-WFP-009,Food Assistance,Food Assistance,100.0,1500000.0,CERF
 Peru,2023,Rapid Response,4548,23-RR-WHO-012,Health,Health,100.0,699142.0,CERF
 Peru,2023,Rapid Response,4549,23-RR-FAO-005,Agriculture,Agriculture,100.0,410000.0,CERF
 Peru,2023,Rapid Response,4550,23-RR-IOM-012,Camp Coordination and Camp Management,Camp Coordination and Camp Management,25.000016666588888,375002.0,CERF
 Peru,2023,Rapid Response,4550,23-RR-IOM-012,Shelter and Non-Food Items,Shelter and Non-Food Items,50.000033333177775,750004.0,CERF
 Peru,2023,Rapid Response,4550,23-RR-IOM-012,Multi-Purpose Cash,Multi-Purpose Cash,24.99995000023333,375001.0,CERF
 Haiti,2023,Rapid Response,4574,23-RR-FAO-009,Agriculture,Agriculture,100.0,2500000.0,CERF
+Haiti,2023,Rapid Response,4576,23-RR-CEF-019,Nutrition,Nutrition,100.0,1500001.0,CERF
 Republic of the Sudan,2023,Underfunded Emergencies,4581,23-UF-WFP-016,Common Services,Common Services,100.0,3500293.0,CERF
 Chad,2023,Underfunded Emergencies,4556,23-UF-FAO-007,Agriculture,Agriculture,100.0,500000.0,CERF
 Chad,2023,Underfunded Emergencies,4557,23-UF-HCR-009,Shelter and Non-Food Items,Shelter and Non-Food Items,80.99995727998967,891151.0,CERF
@@ -8256,6 +8258,8 @@ Chad,2023,Underfunded Emergencies,4563,23-UF-WHO-014,Nutrition,Nutrition,36.0000
 Democratic Republic of the Congo,2023,Underfunded Emergencies,4565,23-UF-IOM-014,Camp Coordination and Camp Management,Camp Coordination and Camp Management,36.0,900000.0,CERF
 Democratic Republic of the Congo,2023,Underfunded Emergencies,4565,23-UF-IOM-014,Shelter and Non-Food Items,Shelter and Non-Food Items,56.00000000000001,1400000.0,CERF
 Democratic Republic of the Congo,2023,Underfunded Emergencies,4565,23-UF-IOM-014,Health,Health,8.0,200000.0,CERF
+Democratic Republic of the Congo,2023,Underfunded Emergencies,4566,23-UF-FPA-015,Protection,Protection,17.99998522168701,438480.0,CERF
+Democratic Republic of the Congo,2023,Underfunded Emergencies,4566,23-UF-FPA-015,Health,Health,82.00001477831299,1997522.0,CERF
 Democratic Republic of the Congo,2023,Underfunded Emergencies,4570,23-UF-WFP-012,Food Assistance,Food Assistance,55.99998742301086,1246721.0,CERF
 Democratic Republic of the Congo,2023,Underfunded Emergencies,4570,23-UF-WFP-012,Common Services,Common Services,44.00001257698914,979567.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4476,23-RR-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,375002.0,CERF
