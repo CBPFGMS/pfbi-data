@@ -1265,5 +1265,16 @@
     "donorName": "Zambia",
     "donorType": "Member State",
     "donorISO2Code": "ZM"
+  },
+  {
+    "id": 208,
+    "donorName": "Private Contributions",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },{
+    "id": 209,
+    "donorName": "KAAGNY/K-Radio - Private - USA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
   }
 ]
