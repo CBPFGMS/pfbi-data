@@ -4316,5 +4316,22 @@
     "CBPFId": 23,
     "CERFId": 8,
     "AreaType": "Country"
+  },
+  {
+    "id": 252,
+    "PooledFundName": "Mali (RhPF)",
+    "PooledFundNameAbbrv": "Mali (RhPF)",
+    "RegionName": "Western Africa",
+    "RegionNameArr": "Africa",
+    "SubRegionName": "Western Africa",
+    "ContinentName": "Africa",
+    "CountryCode": "MLI",
+    "ISO2Code": "ML",
+    "latitude": 17.570692,
+    "longitude": -3.996166,
+    "CBPFFundStatus":"",
+    "CBPFId": "86",
+    "CERFId": 57,
+    "AreaType": "Country"
   }
 ]
