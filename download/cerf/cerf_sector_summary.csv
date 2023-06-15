@@ -8296,7 +8296,9 @@ Colombia,2023,Underfunded Emergencies,4603,23-UF-CEF-025,Protection,Protection,1
 Colombia,2023,Underfunded Emergencies,4604,23-UF-HCR-014,Protection,Protection,100.0,1000000.0
 Colombia,2023,Underfunded Emergencies,4605,23-UF-FPA-019,Protection,Protection,78.00007549114373,475288.0
 Colombia,2023,Underfunded Emergencies,4605,23-UF-FPA-019,Health,Health,21.99992450885626,134055.0
+Colombia,2023,Underfunded Emergencies,4608,23-UF-WHO-021,Health,Health,100.0,1106977.0
 Colombia,2023,Underfunded Emergencies,4609,23-UF-FAO-013,Agriculture,Agriculture,100.0,1000000.0
+Colombia,2023,Underfunded Emergencies,4615,23-UF-OPS-002,Protection,Protection,100.0,248000.0
 Honduras,2023,Underfunded Emergencies,4582,23-UF-WHO-017,Health,Health,100.0,1000000.0
 Honduras,2023,Underfunded Emergencies,4583,23-UF-IOM-016,Shelter and Non-Food Items,Shelter and Non-Food Items,40.0,720000.0
 Honduras,2023,Underfunded Emergencies,4583,23-UF-IOM-016,Multi-Purpose Cash,Multi-Purpose Cash,3.0,54000.0
@@ -8386,6 +8388,8 @@ South Sudan,2023,Rapid Response,4646,23-RR-HCR-020,Common Services,Common Servic
 Somalia,2023,Rapid Response,4625,23-RR-HCR-017,Protection,Protection,100.0,3000000.0
 Somalia,2023,Rapid Response,4626,23-RR-CEF-029,Nutrition,Nutrition,60.0,1500000.0
 Somalia,2023,Rapid Response,4626,23-RR-CEF-029,Education,Education,40.0,1000000.0
+Somalia,2023,Rapid Response,4627,23-RR-WFP-023,Food Assistance,Food Assistance,67.0,3015000.0
+Somalia,2023,Rapid Response,4627,23-RR-WFP-023,Nutrition,Nutrition,33.0,1485000.0
 Somalia,2023,Rapid Response,4629,23-RR-FAO-017,Agriculture,Agriculture,100.0,5000000.0
 Madagascar,2023,Underfunded Emergencies,4533,23-UF-FAO-004,Agriculture,Agriculture,100.0,1500000.0
 Madagascar,2023,Underfunded Emergencies,4534,23-UF-WHO-010,Health,Health,85.0,595000.0
