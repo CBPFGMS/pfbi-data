@@ -4217,8 +4217,8 @@
   },
   {
     "id": 248,
-    "PooledFundName": "Burkina Faso (Regionally hosted)",
-    "PooledFundNameAbbrv": "Burkina Faso (Regionally hosted)",
+    "PooledFundName": "Burkina Faso (RhPF-WCA)",
+    "PooledFundNameAbbrv": "Burkina Faso (RhPF-WCA)",
     "RegionName": "Western Africa",
     "RegionNameArr": "Africa",
     "SubRegionName": "Western Africa",
@@ -4234,8 +4234,8 @@
   },
   {
     "id": 249,
-    "PooledFundName": "Niger (Regionally hosted)",
-    "PooledFundNameAbbrv": "Niger (Regionally hosted)",
+    "PooledFundName": "Niger (RhPF-WCA)",
+    "PooledFundNameAbbrv": "Niger (RhPF-WCA)",
     "RegionName": "Western Africa",
     "RegionNameArr": "Africa",
     "SubRegionName": "Western Africa",
@@ -4319,8 +4319,8 @@
   },
   {
     "id": 252,
-    "PooledFundName": "Mali (RhPF)",
-    "PooledFundNameAbbrv": "Mali (RhPF)",
+    "PooledFundName": "Mali (RhPF-WCA)",
+    "PooledFundNameAbbrv": "Mali (RhPF-WCA)",
     "RegionName": "Western Africa",
     "RegionNameArr": "Africa",
     "SubRegionName": "Western Africa",
