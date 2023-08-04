@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,Member State,250000.0,0.0,Türkiye,TR,Member State,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -1385,7 +1385,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
 2023,Member State,20000.0,0.0,Algeria,DZ,Member State,0,0,0,0,0,0
 2023,Member State,5000.0,0.0,Armenia,AM,Member State,0,0,0,0,0,0
-2023,Member State,0.0,25000.0,Bangladesh,BD,Member State,0,0,0,0,0,0
+2023,Member State,25000.0,0.0,Bangladesh,BD,Member State,0,0,0,0,0,0
 2023,Regional/ Local Authorities,0.0,639658.8486,Belgian Government of Flanders,XBGF,Regional/ Local Authorities,0,0,0,0,0,0
 2023,Member State,30000.0,0.0,Cambodia,KH,Member State,0,0,0,0,0,0
 2023,Member State,100000.0,0.0,Croatia,HR,Member State,0,0,0,0,0,0
