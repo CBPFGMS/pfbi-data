@@ -229,7 +229,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2009,Private Contributions,150000.0,0.0,"Abu Dhabi National Energy Company ""TAQA""",XPRV,Private Contributions,0,0,0,0,0,0
 2009,Member State,15000.0,0.0,Egypt,EG,Member State,0,0,0,0,0,0
 2009,Member State,80845.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
-2009,Member State,44345898.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
+2009,Member State,44348982.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2009,Private Contributions,10408.05,0.0,The Estate of George Gary,XPRV,Private Contributions,0,0,0,0,0,0
 2009,Member State,8868452.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2009,Member State,30000.0,0.0,San Marino,SM,Member State,0,0,0,0,0,0
@@ -1346,6 +1346,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,1060198.4,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2023,Member State,278950.0,0.0,South Africa,ZA,Member State,0,0,0,0,0,0
 2023,Member State,954657.72,0.0,Sweden,SE,Member State,0,0,0,0,0,0
+2023,Member State,0.0,19532839.0,United States of America,US,Member State,0,0,0,0,0,0
 2023,Member State,344732.49,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Regional/ Local Authorities,264780.51,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2023,Member State,5427500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
