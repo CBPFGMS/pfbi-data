@@ -1346,7 +1346,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,1060198.4,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2023,Member State,278950.0,0.0,South Africa,ZA,Member State,0,0,0,0,0,0
 2023,Member State,954657.72,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2023,Member State,0.0,19532839.0,United States of America,US,Member State,0,0,0,0,0,0
+2023,Member State,19532839.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
 2023,Member State,344732.49,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Regional/ Local Authorities,264780.51,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2023,Member State,5427500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
@@ -1375,6 +1375,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Private Contributions,20.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2023,Member State,0.0,50000.0,Singapore,SG,Member State,0,0,0,0,0,0
 2023,Private Contributions,0.0,75000.0,CIRCA Art Ltd (Yoko Ono Campaign),XPRV,Private Contributions,0,0,0,0,0,0
+2023,Member State,0.0,120000.0,Poland,PL,Member State,0,0,0,0,0,0
 2023,Member State,32661.0,0.0,Slovakia,SK,Member State,0,0,0,0,0,0
 2023,Member State,0.0,87623.2201,Slovenia,SI,Member State,0,0,0,0,0,0
 2023,Member State,0.0,250000.0,Türkiye,TR,Member State,0,0,0,0,0,0
