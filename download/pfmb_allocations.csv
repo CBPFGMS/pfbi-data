@@ -8562,9 +8562,9 @@ Democratic Republic of the Congo,2023,Rapid Response,4717,23-RR-CEF-045,Nutritio
 Democratic Republic of the Congo,2023,Rapid Response,4718,23-RR-WFP-039,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2670000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4719,23-RR-WHO-035,Health,Health,100.0,875031.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4720,23-RR-FPA-033,Protection,Protection,100.0,2000000.0,CERF
-South Sudan,2023,Rapid Response,4729,23-RR-SSD-61026(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Republic of the Sudan,2023,Rapid Response,4730,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Democratic Republic of the Congo,2023,Rapid Response,4731,23-RR-COD-60157(TBD),To be determined,To be determined,100.0,2187436.0,CERF
+South Sudan,2023,Rapid Response,4730,23-RR-SSD-61026(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Republic of the Sudan,2023,Rapid Response,4731,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4732,23-RR-COD-60157(TBD),To be determined,To be determined,100.0,2187436.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -14039,6 +14039,7 @@ Lebanon,2023,Standard,25472,CBPF-LEB-23-S-NGO-25472,Protection,,80.0,280046.2,CB
 Lebanon,2023,Standard,25481,CBPF-LEB-23-S-NGO-25481,Education,,63.0,263191.2318,CBPF
 Lebanon,2023,Standard,25481,CBPF-LEB-23-S-NGO-25481,Protection,,31.0,129506.7966,CBPF
 Lebanon,2023,Standard,25481,CBPF-LEB-23-S-NGO-25481,Water Sanitation Hygiene,,6.0,25065.8316,CBPF
+Lebanon,2023,Standard,25487,CBPF-LEB-23-S-NGO-25487,Protection,,100.0,230820.4,CBPF
 Lebanon,2015,Standard,1662,LEB-15/DDA-3604/Call for Proposals/BA/INGO/1662,Emergency Shelter and NFI,,100.0,173197.67,CBPF
 Lebanon,2015,Standard,1643,LEB-15/DDA-3604/Call for Proposals/BA-LH-P/NGO/1643,Early Recovery,,25.0,50093.03,CBPF
 Lebanon,2015,Standard,1643,LEB-15/DDA-3604/Call for Proposals/BA-LH-P/NGO/1643,Emergency Shelter and NFI,,25.0,50093.03,CBPF
@@ -18420,6 +18421,7 @@ South Sudan,2023,Reserve,25622,CBPF-SSD-23-R-INGO-25622,Nutrition,,40.0,312000.0
 South Sudan,2023,Reserve,25792,CBPF-SSD-23-R-INGO-25792,Protection,,100.0,300000.0,CBPF
 South Sudan,2023,Reserve,25795,CBPF-SSD-23-R-INGO-25795,Water Sanitation Hygiene,,100.0,949004.13,CBPF
 South Sudan,2023,Reserve,25797,CBPF-SSD-23-R-INGO-25797,Emergency Shelter and NFI,,100.0,1000000.07,CBPF
+South Sudan,2023,Reserve,25819,CBPF-SSD-23-R-INGO-25819,Health,,100.0,465289.18,CBPF
 South Sudan,2023,Reserve,25829,CBPF-SSD-23-R-INGO-25829,Food Security,,40.0,400000.0,CBPF
 South Sudan,2023,Reserve,25829,CBPF-SSD-23-R-INGO-25829,Nutrition,,60.0,600000.0,CBPF
 South Sudan,2023,Reserve,25356,CBPF-SSD-23-R-NGO-25356,Protection,,100.0,350000.0,CBPF
@@ -21656,6 +21658,7 @@ Syria,2023,Reserve,24898,CBPF-SYR-23-R-UN-24898,Food Security,,100.0,300000.0,CB
 Syria,2023,Reserve,24908,CBPF-SYR-23-R-UN-24908,Early Recovery,,100.0,999999.96,CBPF
 Syria,2023,Reserve,24930,CBPF-SYR-23-R-UN-24930,Health,,100.0,824479.94,CBPF
 Syria,2023,Reserve,24958,CBPF-SYR-23-R-UN-24958,Water Sanitation Hygiene,,100.0,449999.88,CBPF
+Syria,2023,Reserve,26046,CBPF-SYR-23-R-UN-26046,Logistics,,100.0,1499798.5,CBPF
 Syria,2015,Reserve,2161,SYR-15/DDA-3477/RA/WASH/UN/2161,Water Sanitation Hygiene,,100.0,603993.6,CBPF
 Syria,2015,Standard,2049,SYR-15/DDA-3477/WCP/WASH/INGO/2049,Water Sanitation Hygiene,,100.0,537699.61,CBPF
 Syria,2015,Standard,2079,SYR-15/DDA-3477/WCP/WASH/INGO/2079,Water Sanitation Hygiene,,100.0,749999.86,CBPF
@@ -23812,6 +23815,8 @@ Ukraine,2023,Standard,24872,CBPF-UKR-23-S-INGO-24872,Emergency Shelter and NFI,,
 Ukraine,2023,Standard,24872,CBPF-UKR-23-S-INGO-24872,Food Security,,33.0,1650000.0033,CBPF
 Ukraine,2023,Standard,24872,CBPF-UKR-23-S-INGO-24872,Multi-purpose CASH,,14.0,700000.0014,CBPF
 Ukraine,2023,Standard,24872,CBPF-UKR-23-S-INGO-24872,Protection,,42.0,2100000.0042,CBPF
+Ukraine,2023,Standard,24915,CBPF-UKR-23-S-INGO-24915,Multi-purpose CASH,,30.0,220064.079,CBPF
+Ukraine,2023,Standard,24915,CBPF-UKR-23-S-INGO-24915,Protection,,70.0,513482.851,CBPF
 Ukraine,2023,Standard,25042,CBPF-UKR-23-S-INGO-25042,Protection,,45.0,449948.9745,CBPF
 Ukraine,2023,Standard,25042,CBPF-UKR-23-S-INGO-25042,Protection,,55.0,549937.6355,CBPF
 Ukraine,2023,Standard,24740,CBPF-UKR-23-S-NGO-24740,Emergency Shelter and NFI,,38.0,1300084.348,CBPF
