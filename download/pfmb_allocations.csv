@@ -8562,9 +8562,9 @@ Democratic Republic of the Congo,2023,Rapid Response,4717,23-RR-CEF-045,Nutritio
 Democratic Republic of the Congo,2023,Rapid Response,4718,23-RR-WFP-039,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2670000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4719,23-RR-WHO-035,Health,Health,100.0,875031.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4720,23-RR-FPA-033,Protection,Protection,100.0,2000000.0,CERF
-South Sudan,2023,Rapid Response,4730,23-RR-SSD-61026(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Republic of the Sudan,2023,Rapid Response,4731,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Democratic Republic of the Congo,2023,Rapid Response,4732,23-RR-COD-60157(TBD),To be determined,To be determined,100.0,2187436.0,CERF
+South Sudan,2023,Rapid Response,4735,23-RR-SSD-61026(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Republic of the Sudan,2023,Rapid Response,4736,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4737,23-RR-COD-60157(TBD),To be determined,To be determined,100.0,2187436.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -9883,6 +9883,10 @@ Burkina Faso,2023,Standard,25722,CBPF-BFA-23-S-INGO-25722,Emergency Shelter and 
 Burkina Faso,2023,Standard,25722,CBPF-BFA-23-S-INGO-25722,Food Security,,25.0,200000.0,CBPF
 Burkina Faso,2023,Standard,25722,CBPF-BFA-23-S-INGO-25722,Nutrition,,20.0,160000.0,CBPF
 Burkina Faso,2023,Standard,25722,CBPF-BFA-23-S-INGO-25722,Water Sanitation Hygiene,,30.0,240000.0,CBPF
+Burkina Faso,2023,Standard,25723,CBPF-BFA-23-S-INGO-25723,Education,,40.0,280000.0,CBPF
+Burkina Faso,2023,Standard,25723,CBPF-BFA-23-S-INGO-25723,Nutrition,,20.0,140000.0,CBPF
+Burkina Faso,2023,Standard,25723,CBPF-BFA-23-S-INGO-25723,Protection,,20.0,140000.0,CBPF
+Burkina Faso,2023,Standard,25723,CBPF-BFA-23-S-INGO-25723,Water Sanitation Hygiene,,20.0,140000.0,CBPF
 Burkina Faso,2023,Standard,25724,CBPF-BFA-23-S-INGO-25724,Education,,40.0,320000.0,CBPF
 Burkina Faso,2023,Standard,25724,CBPF-BFA-23-S-INGO-25724,Health,,20.0,160000.0,CBPF
 Burkina Faso,2023,Standard,25724,CBPF-BFA-23-S-INGO-25724,Protection,,40.0,320000.0,CBPF
@@ -9898,6 +9902,11 @@ Burkina Faso,2023,Standard,25747,CBPF-BFA-23-S-INGO-25747,Water Sanitation Hygie
 Burkina Faso,2023,Standard,25753,CBPF-BFA-23-S-INGO-25753,Education,,38.0,227976.725,CBPF
 Burkina Faso,2023,Standard,25753,CBPF-BFA-23-S-INGO-25753,Protection,,21.0,125987.1375,CBPF
 Burkina Faso,2023,Standard,25753,CBPF-BFA-23-S-INGO-25753,Protection,,41.0,245974.8875,CBPF
+Burkina Faso,2023,Standard,25761,CBPF-BFA-23-S-INGO-25761,Food Security,,20.0,160000.086,CBPF
+Burkina Faso,2023,Standard,25761,CBPF-BFA-23-S-INGO-25761,Health,,48.0,384000.2064,CBPF
+Burkina Faso,2023,Standard,25761,CBPF-BFA-23-S-INGO-25761,Nutrition,,12.0,96000.0516,CBPF
+Burkina Faso,2023,Standard,25761,CBPF-BFA-23-S-INGO-25761,Protection,,12.0,96000.0516,CBPF
+Burkina Faso,2023,Standard,25761,CBPF-BFA-23-S-INGO-25761,Water Sanitation Hygiene,,8.0,64000.0344,CBPF
 Burkina Faso,2023,Standard,25777,CBPF-BFA-23-S-INGO-25777,Food Security,,34.0,340000.0,CBPF
 Burkina Faso,2023,Standard,25777,CBPF-BFA-23-S-INGO-25777,Protection,,15.0,150000.0,CBPF
 Burkina Faso,2023,Standard,25777,CBPF-BFA-23-S-INGO-25777,Water Sanitation Hygiene,,51.0,510000.0,CBPF
@@ -9913,14 +9922,26 @@ Burkina Faso,2023,Standard,25784,CBPF-BFA-23-S-INGO-25784,Protection,,5.0,24999.
 Burkina Faso,2023,Standard,25784,CBPF-BFA-23-S-INGO-25784,Water Sanitation Hygiene,,20.0,99999.458,CBPF
 Burkina Faso,2023,Standard,25801,CBPF-BFA-23-S-INGO-25801,Emergency Shelter and NFI,,45.0,270000.0,CBPF
 Burkina Faso,2023,Standard,25801,CBPF-BFA-23-S-INGO-25801,Water Sanitation Hygiene,,55.0,330000.0,CBPF
+Burkina Faso,2023,Standard,25811,CBPF-BFA-23-S-INGO-25811,Food Security,,19.0,152000.0,CBPF
+Burkina Faso,2023,Standard,25811,CBPF-BFA-23-S-INGO-25811,Health,,37.0,296000.0,CBPF
+Burkina Faso,2023,Standard,25811,CBPF-BFA-23-S-INGO-25811,Nutrition,,32.0,256000.0,CBPF
+Burkina Faso,2023,Standard,25811,CBPF-BFA-23-S-INGO-25811,Water Sanitation Hygiene,,12.0,96000.0,CBPF
 Burkina Faso,2023,Standard,25820,CBPF-BFA-23-S-INGO-25820,Health,,51.0,255000.0,CBPF
 Burkina Faso,2023,Standard,25820,CBPF-BFA-23-S-INGO-25820,Nutrition,,24.0,120000.0,CBPF
 Burkina Faso,2023,Standard,25820,CBPF-BFA-23-S-INGO-25820,Protection,,25.0,125000.0,CBPF
 Burkina Faso,2023,Standard,25721,CBPF-BFA-23-S-NGO-25721,Food Security,,67.0,200999.6784,CBPF
 Burkina Faso,2023,Standard,25721,CBPF-BFA-23-S-NGO-25721,Nutrition,,8.0,23999.9616,CBPF
 Burkina Faso,2023,Standard,25721,CBPF-BFA-23-S-NGO-25721,Protection,,25.0,74999.88,CBPF
+Burkina Faso,2023,Standard,25727,CBPF-BFA-23-S-NGO-25727,Emergency Shelter and NFI,,50.0,350000.005,CBPF
+Burkina Faso,2023,Standard,25727,CBPF-BFA-23-S-NGO-25727,Protection,,10.0,70000.001,CBPF
+Burkina Faso,2023,Standard,25727,CBPF-BFA-23-S-NGO-25727,Water Sanitation Hygiene,,40.0,280000.004,CBPF
 Burkina Faso,2023,Standard,25735,CBPF-BFA-23-S-NGO-25735,Protection,,23.0,115000.0483,CBPF
 Burkina Faso,2023,Standard,25735,CBPF-BFA-23-S-NGO-25735,Water Sanitation Hygiene,,77.0,385000.1617,CBPF
+Burkina Faso,2023,Standard,25749,CBPF-BFA-23-S-NGO-25749,Camp Coordination / Management,,13.0,65000.0,CBPF
+Burkina Faso,2023,Standard,25749,CBPF-BFA-23-S-NGO-25749,Emergency Shelter and NFI,,18.0,90000.0,CBPF
+Burkina Faso,2023,Standard,25749,CBPF-BFA-23-S-NGO-25749,Food Security,,26.0,130000.0,CBPF
+Burkina Faso,2023,Standard,25749,CBPF-BFA-23-S-NGO-25749,Protection,,18.0,90000.0,CBPF
+Burkina Faso,2023,Standard,25749,CBPF-BFA-23-S-NGO-25749,Water Sanitation Hygiene,,25.0,125000.0,CBPF
 Burkina Faso,2023,Standard,25754,CBPF-BFA-23-S-NGO-25754,Health,,50.0,499999.82,CBPF
 Burkina Faso,2023,Standard,25754,CBPF-BFA-23-S-NGO-25754,Nutrition,,15.0,149999.946,CBPF
 Burkina Faso,2023,Standard,25754,CBPF-BFA-23-S-NGO-25754,Protection,,10.0,99999.964,CBPF
@@ -23853,6 +23874,8 @@ Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Food Security,,17.0,109604.7
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Protection,,25.0,161183.4625,CBPF
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Protection,,52.0,335261.602,CBPF
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Water Sanitation Hygiene,,6.0,38684.031,CBPF
+Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Emergency Shelter and NFI,,33.0,328969.3572,CBPF
+Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Food Security,,67.0,667907.4828,CBPF
 Ukraine,2019,Standard,13624,UKR-19/UKR_CBPF/SA1/FSL/NGO/13624,Food Security,,100.0,208896.41,CBPF
 Ukraine,2019,Standard,14396,UKR-19/UKR_CBPF/SA1/H-N/INGO/14396,Health,,100.0,419499.99,CBPF
 Ukraine,2019,Standard,13737,UKR-19/UKR_CBPF/SA1/H-N-WASH/NGO/13737,Health,,50.0,111445.25,CBPF
