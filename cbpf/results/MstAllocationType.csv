@@ -46,6 +46,7 @@ AllocationType,AllocationtypeId
 (AFG) 2022 2nd Reserve Allocation,5223
 (AFG) 2022 3rd Reserve Allocation,5323
 (AFG) 2022 1st Standard Allocation,5123
+(BFA) 2022 Reserve Allocation,45085
 (BFA) 2022 Standard Allocation,40085
 (CAF) 2020 First Reserve Allocation,24218
 (CAF) 2020 Second Reserve Allocation,25418
@@ -287,6 +288,7 @@ AllocationType,AllocationtypeId
 (MMR) 2021 First Standard Allocation,33259
 (MMR) 2021 Second Standard Allocation,36859
 (MMR) 2022 First Reserve Allocation (JMSNA),39359
+(MMR) 2022 Second Reserve Allocation,42559
 (NER) 2021 Standard Allocation,35884
 (NER) 2022 Reserve Allocation,44884
 (NGA) 1st Standard Allocation 2017 - Nigeria,11475
