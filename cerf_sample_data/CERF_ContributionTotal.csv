@@ -522,7 +522,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2011,Member State,20091000.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2011,Member State,10000.0,0.0,Sri Lanka,LK,Member State,0,0,0,0,0,0
 2011,Member State,74483670.84,0.0,Sweden,SE,Member State,0,0,0,0,0,0
-2011,Member State,6071999.78,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
+2011,Member State,6071999.779999999,0.0,Switzerland,CH,Member State,0,0,0,0,0,0
 2011,Member State,250000.0,0.0,Türkiye,TR,Member State,0,0,0,0,0,0
 2011,Member State,94280000.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2011,Member State,6000000.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
@@ -1377,7 +1377,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Private Contributions,0.0,75000.0,CIRCA Art Ltd (Yoko Ono Campaign),XPRV,Private Contributions,0,0,0,0,0,0
 2023,Member State,0.0,120000.0,Poland,PL,Member State,0,0,0,0,0,0
 2023,Member State,32661.0,0.0,Slovakia,SK,Member State,0,0,0,0,0,0
-2023,Member State,0.0,87623.2201,Slovenia,SI,Member State,0,0,0,0,0,0
+2023,Member State,85136.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
 2023,Member State,250000.0,0.0,Türkiye,TR,Member State,0,0,0,0,0,0
 2023,Member State,22166930.56,0.0,Canada,CA,Member State,0,0,0,0,0,0
 2023,Private Contributions,10000.0,0.0,Baha'i International Community,XPRV,Private Contributions,0,0,0,0,0,0
