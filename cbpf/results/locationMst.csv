@@ -5718,7 +5718,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5490,Togdheer -> Owdweyne,Togdheer,9.4,45.433
 5491,Gedo -> Luuq -> Shadiiley,Gedo,2.802,41.688
 5492,Gedo -> Luuq -> Dooryaanley,Gedo,2.802,41.688
-5493,Haanoy -> Gedo -> Luuq,Gedo,2.802,41.688
+5493,Gedo -> Luuq -> Haanoy,Gedo,2.802,41.688
 5494,Lower Juba -> Afmadow,Lower Juba,0.051,41.596
 5495,Bakool -> Ceel Barde,Bakool,4.28,43.807
 5496,Sool -> Xudun -> Hol-Hol,Sool,8.724,47.529
@@ -11368,7 +11368,6 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11119,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
 11120,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
 11121,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
-10676,Sa'ada -> Saqayn,Saqayn,15.35178413,43.48219831
 11122,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
 11123,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
 11124,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
@@ -11787,9 +11786,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11537, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
 11538, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 11539, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
-11540, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
-11541, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
-11542, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+11540, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+11541, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
+11542, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
 11543, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 11544, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
 11545, Marib > Bidbadah,Marib,15.56841151,45.76081505
