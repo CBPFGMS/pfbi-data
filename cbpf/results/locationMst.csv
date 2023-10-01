@@ -5718,7 +5718,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5490,Togdheer -> Owdweyne,Togdheer,9.4,45.433
 5491,Gedo -> Luuq -> Shadiiley,Gedo,2.802,41.688
 5492,Gedo -> Luuq -> Dooryaanley,Gedo,2.802,41.688
-5493,Gedo -> Luuq -> Haanoy,Gedo,2.802,41.688
+5493,Haanoy -> Gedo -> Luuq,Gedo,2.802,41.688
 5494,Lower Juba -> Afmadow,Lower Juba,0.051,41.596
 5495,Bakool -> Ceel Barde,Bakool,4.28,43.807
 5496,Sool -> Xudun -> Hol-Hol,Sool,8.724,47.529
@@ -11368,6 +11368,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11119,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
 11120,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
 11121,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
+10676,Sa'ada -> Saqayn,Saqayn,15.35178413,43.48219831
 11122,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
 11123,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
 11124,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
