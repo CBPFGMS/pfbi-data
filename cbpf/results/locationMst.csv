@@ -837,24 +837,24 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 835, Baghlan > Tala Wa barfak,Baghlan,35.8042947,69.2877535
 836, Centre-Nord > Sanmatenga > Kaya,Centre-Nord,13.27107378,-0.9736234
 837, Nord > Yatenga > Oula,Nord,13.4599915,-2.28314866
-838, Nord > Yatenga > ZogorÃ©,Nord,13.4599915,-2.28314866
-839, Nord > PassorÃ© > BagarÃ©,Nord,13.4599915,-2.28314866
-840, Nord > PassorÃ© > Boken,Nord,13.4599915,-2.28314866
-841, Nord > PassorÃ© > Kirsi,Nord,13.4599915,-2.28314866
-842, Nord > PassorÃ© > La-Toden,Nord,13.4599915,-2.28314866
-843, Nord > PassorÃ© > Samba,Nord,13.4599915,-2.28314866
-844, Nord > PassorÃ© > Yako,Nord,13.4599915,-2.28314866
+838, Nord > Yatenga > Zogoré,Nord,13.4599915,-2.28314866
+839, Nord > Passoré > Bagaré,Nord,13.4599915,-2.28314866
+840, Nord > Passoré > Boken,Nord,13.4599915,-2.28314866
+841, Nord > Passoré > Kirsi,Nord,13.4599915,-2.28314866
+842, Nord > Passoré > La-Toden,Nord,13.4599915,-2.28314866
+843, Nord > Passoré > Samba,Nord,13.4599915,-2.28314866
+844, Nord > Passoré > Yako,Nord,13.4599915,-2.28314866
 845, Nord > Zondoma > Boussou,Nord,13.4599915,-2.28314866
 846, Nord > Zondoma > Goursi,Nord,13.4599915,-2.28314866
-847, Nord > Zondoma > LÃ¨ba,Nord,13.4599915,-2.28314866
+847, Nord > Zondoma > Lèba,Nord,13.4599915,-2.28314866
 848, Nord > Zondoma > Tougo,Nord,13.4599915,-2.28314866
-849, Nord > PassorÃ© > ArbollÃ©,Nord,13.4599915,-2.28314866
-850, Nord > PassorÃ© > Gomponsom,Nord,13.4599915,-2.28314866
-851, Nord > PassorÃ© > Pilimpikou,Nord,13.4599915,-2.28314866
+849, Nord > Passoré > Arbollé,Nord,13.4599915,-2.28314866
+850, Nord > Passoré > Gomponsom,Nord,13.4599915,-2.28314866
+851, Nord > Passoré > Pilimpikou,Nord,13.4599915,-2.28314866
 852, Nord > Yatenga > Ouahigouya,Nord,13.4599915,-2.28314866
 853, Nord > Loroum > Bahn,Nord,13.4599915,-2.28314866
 854, Nord > Loroum > Titao,Nord,13.4599915,-2.28314866
-855, Est > Komandjari > GayÃ©ri,Est,12.24028545,0.92648258
+855, Est > Komandjari > Gayéri,Est,12.24028545,0.92648258
 856, Est > Kompienga > Kompienga,Est,12.24028545,0.92648258
 857, Est > Gourma > Fada-Ngourma,Est,12.24028545,0.92648258
 858, Est > Kompienga > Pama,Est,12.24028545,0.92648258
@@ -863,15 +863,15 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 861, Est > Gourma > Diabo,Est,12.24028545,0.92648258
 862, Est > Gourma > Diapangou,Est,12.24028545,0.92648258
 863, Est > Gourma > Tibga,Est,12.24028545,0.92648258
-864, Centre-Est > Boulgou > BanÃ©,Centre-Est,11.60759787,-0.18605236
+864, Centre-Est > Boulgou > Bané,Centre-Est,11.60759787,-0.18605236
 865, Centre-Est > Boulgou > Bitou,Centre-Est,11.60759787,-0.18605236
 866, Centre-Est > Boulgou > Garango,Centre-Est,11.60759787,-0.18605236
-867, Centre-Est > KoulpÃ©logo > Ouargaye,Centre-Est,11.60759787,-0.18605236
-868, Centre-Est > Kourittenga > KoupÃ¨la,Centre-Est,11.60759787,-0.18605236
+867, Centre-Est > Koulpélogo > Ouargaye,Centre-Est,11.60759787,-0.18605236
+868, Centre-Est > Kourittenga > Koupèla,Centre-Est,11.60759787,-0.18605236
 869, Nord > Yatenga > Namissiguima,Nord,13.4599915,-2.28314866
 870, Nord > Loroum > Ouindigui,Nord,13.4599915,-2.28314866
 871, Nord > Yatenga > Thiou,Nord,13.4599915,-2.28314866
-872, Nord > Yatenga > SenguÃ¨nÃ¨ga,Nord,13.4599915,-2.28314866
+872, Nord > Yatenga > Senguènèga,Nord,13.4599915,-2.28314866
 873, Boucle du Mouhoun > Kossi > Nouna,Boucle du Mouhoun,12.53592702,-3.48890454
 874, Boucle du Mouhoun > Sourou > Tougan,Boucle du Mouhoun,12.53592702,-3.48890454
 875, Centre-Nord > Namentenga > Bouroum,Centre-Nord,13.27107378,-0.9736234
@@ -879,20 +879,20 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 877, Burkina Faso > Centre-Nord > Sanmatenga > Kaya,Centre-Nord,13.27107378,-0.9736234
 878, Centre-Nord > Sanmatenga > Barsalogho,Centre-Nord,13.27107378,-0.9736234
 879, Sahel > Oudalan > Gorom-Gorom,Sahel,14.147637,-0.45004078
-880, Sahel > SÃ©no > Dori,Sahel,14.147637,-0.45004078
+880, Sahel > Séno > Dori,Sahel,14.147637,-0.45004078
 881, Sahel > Soum > Arbinda,Sahel,14.147637,-0.45004078
 882, Sahel > Soum > Djibo,Sahel,14.147637,-0.45004078
 883, Est > Gourma > Matiakoali,Est,12.24028545,0.92648258
 884, Est > Gnagna > Bilanga,Est,12.24028545,0.92648258
-885, Est > Gnagna > PiÃ©la,Est,12.24028545,0.92648258
+885, Est > Gnagna > Piéla,Est,12.24028545,0.92648258
 886, Sahel > Oudalan > Markoye,Sahel,14.147637,-0.45004078
-887, Boucle du Mouhoun > BalÃ© > Fara,Boucle du Mouhoun,12.53592702,-3.48890454
-888, Boucle du Mouhoun > BalÃ© > Siby,Boucle du Mouhoun,12.53592702,-3.48890454
-889, Boucle du Mouhoun > Mouhoun > DÃ©dougou,Boucle du Mouhoun,12.53592702,-3.48890454
+887, Boucle du Mouhoun > Balé > Fara,Boucle du Mouhoun,12.53592702,-3.48890454
+888, Boucle du Mouhoun > Balé > Siby,Boucle du Mouhoun,12.53592702,-3.48890454
+889, Boucle du Mouhoun > Mouhoun > Dédougou,Boucle du Mouhoun,12.53592702,-3.48890454
 890, Boucle du Mouhoun > Banwa > Solenzo,Boucle du Mouhoun,12.53592702,-3.48890454
 891, Sahel > Yagha > Sebba,Sahel,14.147637,-0.45004078
 892, Boucle du Mouhoun > Kossi > Bomborokui,Boucle du Mouhoun,12.53592702,-3.48890454
-893, Burkina Faso > Boucle du Mouhoun > Mouhoun > DÃ©dougou,Boucle du Mouhoun,12.53592702,-3.48890454
+893, Burkina Faso > Boucle du Mouhoun > Mouhoun > Dédougou,Boucle du Mouhoun,12.53592702,-3.48890454
 894, Centre-Est > Kourittenga > Gounguen,Centre-Est,11.60759787,-0.18605236
 895, Centre-Est > Kourittenga > Pouytenga,Centre-Est,11.60759787,-0.18605236
 896, Centre-Nord > Sanmatenga > Pissila,Centre-Nord,13.27107378,-0.9736234
@@ -901,36 +901,36 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 899, Ouham > Batangafo,Ouham,7.0,18.0
 900, Mbomou > Bangassou,Mbomou,5.0764181,23.3093406
 901, Nana Gribizi > Kaga-Bandoro,Nana Gribizi,6.657806,19.666148
-902, Nana MambÃ©rÃ© > Baboua,Nana MambÃ©rÃ©,5.5,15.5
+902, Nana Mambéré > Baboua,Nana Mambéré,5.5,15.5
 903, Ouham > Markounda,Ouham,7.0,18.0
-904, Ouham PÃ©ndÃ© > Ngaoundaye,Ouham PÃ©ndÃ©,7.0,16.0
-905, Ouham PÃ©ndÃ© > Koui,Ouham PÃ©ndÃ©,7.0,16.0
-906, Ouham PÃ©ndÃ© > Bocaranga,Ouham PÃ©ndÃ©,7.0,16.0
+904, Ouham Péndé > Ngaoundaye,Ouham Péndé,7.0,16.0
+905, Ouham Péndé > Koui,Ouham Péndé,7.0,16.0
+906, Ouham Péndé > Bocaranga,Ouham Péndé,7.0,16.0
 907, Haut Mbomou > Obo,Haut Mbomou,6.0,26.0
-908, Haut Mbomou > ZÃ©mio,Haut Mbomou,6.0,26.0
-909, Basse Kotto > KembÃ©,Basse Kotto,5.0,21.5
-910, Basse Kotto > SatÃ©ma,Basse Kotto,5.0,21.5
-911, Nana Gribizi > MbrÃ¨s,Nana Gribizi,6.657806,19.666148
+908, Haut Mbomou > Zémio,Haut Mbomou,6.0,26.0
+909, Basse Kotto > Kembé,Basse Kotto,5.0,21.5
+910, Basse Kotto > Satéma,Basse Kotto,5.0,21.5
+911, Nana Gribizi > Mbrès,Nana Gribizi,6.657806,19.666148
 912, Mbomou > Ouango,Mbomou,5.0764181,23.3093406
-913, Mbomou > RafaÃ¯,Mbomou,5.0764181,23.3093406
+913, Mbomou > Rafaï,Mbomou,5.0764181,23.3093406
 914, Basse Kotto > Mobaye,Basse Kotto,5.0,21.5
 915, Basse Kotto > Zangba,Basse Kotto,5.0,21.5
-916, MambÃ©rÃ©-KadÃ©Ã¯ > Amada-Gaza,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+916, Mambéré-Kadéï > Amada-Gaza,Mambéré-Kadéï,4.5,16.0
 917, Bangui > 1er Arrondissement,Bangui,4.3667,18.5833
 918, Bangui > 2e Arrondissement,Bangui,4.3667,18.5833
-919, Bamingui Bangoran > NdÃ©lÃ©,Bamingui Bangoran,8.4167,20.6667
-920, MambÃ©rÃ©-KadÃ©Ã¯ > Gamboula,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+919, Bamingui Bangoran > Ndélé,Bamingui Bangoran,8.4167,20.6667
+920, Mambéré-Kadéï > Gamboula,Mambéré-Kadéï,4.5,16.0
 921, Basse Kotto > Alindao,Basse Kotto,5.0,21.5
-922, Nana MambÃ©rÃ© > Bouar,Nana MambÃ©rÃ©,5.5,15.5
-923, MambÃ©rÃ©-KadÃ©Ã¯ > BerbÃ©rati,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+922, Nana Mambéré > Bouar,Nana Mambéré,5.5,15.5
+923, Mambéré-Kadéï > Berbérati,Mambéré-Kadéï,4.5,16.0
 924, Ouaka > Bambari,Ouaka,6.0,21.0
 925, Ombella M'Poko > Bimbo,Ombella M'Poko,5.0,18.0
 926, Haut Mbomou > Bambouti,Haut Mbomou,6.0,26.0
 927, Ouaka > Bakala,Ouaka,6.0,21.0
 928, Bamingui Bangoran > Bamingui,Bamingui Bangoran,8.4167,20.6667
-929, KÃ©mo > Sibut,KÃ©mo,5.75,19.0833
+929, Kémo > Sibut,Kémo,5.75,19.0833
 930, Lobaye > Boda,Lobaye,4.0,18.0
-931, Sangha MbaÃ©rÃ© > Bambio,Sangha MbaÃ©rÃ©,3.5,16.0833
+931, Sangha Mbaéré > Bambio,Sangha Mbaéré,3.5,16.0833
 932, Haut Mbomou > Djemah,Haut Mbomou,6.0,26.0
 933, Bangui > 6e Arrondissement,Bangui,4.3667,18.5833
 934, Bangui > 7e Arrondissement,Bangui,4.3667,18.5833
@@ -938,34 +938,34 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 936, Bangui > 5e Arrondissement,Bangui,4.3667,18.5833
 937, Ouham > Kabo,Ouham,7.0,18.0
 938, Ouham > Bouca,Ouham,7.0,18.0
-939, MambÃ©rÃ©-KadÃ©Ã¯ > Gadzi,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
-940, MambÃ©rÃ©-KadÃ©Ã¯ > Carnot,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+939, Mambéré-Kadéï > Gadzi,Mambéré-Kadéï,4.5,16.0
+940, Mambéré-Kadéï > Carnot,Mambéré-Kadéï,4.5,16.0
 941, Mbomou > Bakouma,Mbomou,5.0764181,23.3093406
 942, Basse Kotto > Mingala,Basse Kotto,5.0,21.5
 943, Bangui > 3e Arrondissement,Bangui,4.3667,18.5833
 944, Bangui > 4e Arrondissement,Bangui,4.3667,18.5833
 945, Ouham > Bossangoa,Ouham,7.0,18.0
-946, Ouham PÃ©ndÃ© > Paoua,Ouham PÃ©ndÃ©,7.0,16.0
-947, Lobaye > MbaÃ¯ki,Lobaye,4.0,18.0
-948, Sangha MbaÃ©rÃ© > Nola,Sangha MbaÃ©rÃ©,3.5,16.0833
-949, KÃ©mo > DÃ©koa,KÃ©mo,5.75,19.0833
-950, Ombella M'Poko > BossembÃ©lÃ©,Ombella M'Poko,5.0,18.0
-951, Ombella M'Poko > YalokÃ©,Ombella M'Poko,5.0,18.0
+946, Ouham Péndé > Paoua,Ouham Péndé,7.0,16.0
+947, Lobaye > Mbaïki,Lobaye,4.0,18.0
+948, Sangha Mbaéré > Nola,Sangha Mbaéré,3.5,16.0833
+949, Kémo > Dékoa,Kémo,5.75,19.0833
+950, Ombella M'Poko > Bossembélé,Ombella M'Poko,5.0,18.0
+951, Ombella M'Poko > Yaloké,Ombella M'Poko,5.0,18.0
 952, Ouaka > Grimari,Ouaka,6.0,21.0
 953, Ouaka > Ippy,Ouaka,6.0,21.0
 954, Haute Kotto > Yalinga,Haute Kotto,7.0,23.0
 955, Ouham > Nangha Boguila,Ouham,7.0,18.0
-956, Ouham PÃ©ndÃ© > Bozoum,Ouham PÃ©ndÃ©,7.0,16.0
+956, Ouham Péndé > Bozoum,Ouham Péndé,7.0,16.0
 957, Ouaka > Kouango,Ouaka,6.0,21.0
 958,Lobaye -> Boda,Lobaye,4.0,18.0
-959,Nana MambÃ©rÃ© -> Baboua,Nana MambÃ©rÃ©,5.5,15.5
-960,Nana MambÃ©rÃ© -> Bouar,Nana MambÃ©rÃ©,5.5,15.5
+959,Nana Mambéré -> Baboua,Nana Mambéré,5.5,15.5
+960,Nana Mambéré -> Bouar,Nana Mambéré,5.5,15.5
 961,Ouham -> Batangafo,Ouham,7.0,18.0
 962,Ouham -> Kabo,Ouham,7.0,18.0
-963,Lobaye -> MbaÃ¯ki,Lobaye,4.0,18.0
-964,Ouham PÃ©ndÃ© -> Bozoum,Ouham PÃ©ndÃ©,7.0,16.0
-965,Ouham PÃ©ndÃ© -> Paoua,Ouham PÃ©ndÃ©,7.0,16.0
-966,Ouham PÃ©ndÃ© -> Ngaoundaye,Ouham PÃ©ndÃ©,7.0,16.0
+963,Lobaye -> Mbaïki,Lobaye,4.0,18.0
+964,Ouham Péndé -> Bozoum,Ouham Péndé,7.0,16.0
+965,Ouham Péndé -> Paoua,Ouham Péndé,7.0,16.0
+966,Ouham Péndé -> Ngaoundaye,Ouham Péndé,7.0,16.0
 967,Lobaye -> Boganda,Lobaye,4.0,18.0
 968,Lobaye -> Boganangone,Lobaye,4.0,18.0
 969,Ouaka -> Bakala,Ouaka,6.0,21.0
@@ -973,7 +973,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 971,Ouaka -> Ippy,Ouaka,6.0,21.0
 972,Haute Kotto -> Bria,Haute Kotto,7.0,23.0
 973,Ouaka -> Bambari,Ouaka,6.0,21.0
-974,KÃ©mo -> Sibut,KÃ©mo,5.75,19.0833
+974,Kémo -> Sibut,Kémo,5.75,19.0833
 975,Nana Gribizi -> Kaga-Bandoro,Nana Gribizi,6.657806,19.666148
 976,Nana Gribizi -> Ndjoukou,Nana Gribizi,6.657806,19.666148
 977,Ouham -> Bouca,Ouham,7.0,18.0
@@ -981,48 +981,48 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 979,Ouham -> Nana Bakassa,Ouham,7.0,18.0
 980,Ouham -> Nangha Boguila,Ouham,7.0,18.0
 981,Ouham -> Bossangoa,Ouham,7.0,18.0
-982,Ouham PÃ©ndÃ©,Ouham PÃ©ndÃ©,7.0,16.0
+982,Ouham Péndé,Ouham Péndé,7.0,16.0
 983,Bangui,Bangui,4.3667,18.5833
-984,Ombella M'Poko -> BossembÃ©lÃ©,Ombella M'Poko,5.0,18.0
+984,Ombella M'Poko -> Bossembélé,Ombella M'Poko,5.0,18.0
 985,Ombella M'Poko -> Boali,Ombella M'Poko,5.0,18.0
-986,Ombella M'Poko -> YalokÃ©,Ombella M'Poko,5.0,18.0
+986,Ombella M'Poko -> Yaloké,Ombella M'Poko,5.0,18.0
 987,Ombella M'Poko -> Damara,Ombella M'Poko,5.0,18.0
-988,MambÃ©rÃ© KadÃ©i -> BerbÃ©rati,MambÃ©rÃ© KadÃ©i,4.5,16.0
+988,Mambéré Kadéi -> Berbérati,Mambéré Kadéi,4.5,16.0
 989,Bangui -> 3e Arrondissement,Bangui,4.3667,18.5833
 990,Ombella M'Poko -> Bimbo,Ombella M'Poko,5.0,18.0
 991,Bangui -> 6e Arrondissement,Bangui,4.3667,18.5833
-992,KÃ©mo -> Mala,KÃ©mo,5.75,19.0833
+992,Kémo -> Mala,Kémo,5.75,19.0833
 993,Ombella M'Poko -> Bogangolo,Ombella M'Poko,5.0,18.0
 994,Lobaye,Lobaye,4.0,18.0
-995,MambÃ©rÃ© KadÃ©i -> Carnot,MambÃ©rÃ© KadÃ©i,4.5,16.0
-996,MambÃ©rÃ© KadÃ©i,MambÃ©rÃ© KadÃ©i,4.5,16.0
+995,Mambéré Kadéi -> Carnot,Mambéré Kadéi,4.5,16.0
+996,Mambéré Kadéi,Mambéré Kadéi,4.5,16.0
 997,Vakaga,Vakaga,10.3333,22.75
 998,Bamingui Bangoran,Bamingui Bangoran,8.4167,20.6667
 999,Basse Kotto,Basse Kotto,5.0,21.5
 1000,Haut Mbomou,Haut Mbomou,6.0,26.0
 1001,Haute Kotto,Haute Kotto,7.0,23.0
-1002,KÃ©mo,KÃ©mo,5.75,19.0833
+1002,Kémo,Kémo,5.75,19.0833
 1003,Mbomou,Mbomou,5.0764181,23.3093406
 1004,Nana Gribizi,Nana Gribizi,6.657806,19.666148
-1005,Nana MambÃ©rÃ©,Nana MambÃ©rÃ©,5.5,15.5
+1005,Nana Mambéré,Nana Mambéré,5.5,15.5
 1006,Ombella M'Poko,Ombella M'Poko,5.0,18.0
 1007,Ouaka,Ouaka,6.0,21.0
 1008,Ouham,Ouham,7.0,18.0
-1009,Sangha MbaÃ©rÃ©,Sangha MbaÃ©rÃ©,3.5,16.0833
-1010,Sangha MbaÃ©rÃ© -> Nola,Sangha MbaÃ©rÃ©,3.5,16.0833
-1011,KÃ©mo -> DÃ©koa,KÃ©mo,5.75,19.0833
+1009,Sangha Mbaéré,Sangha Mbaéré,3.5,16.0833
+1010,Sangha Mbaéré -> Nola,Sangha Mbaéré,3.5,16.0833
+1011,Kémo -> Dékoa,Kémo,5.75,19.0833
 1012,Bangui -> 5e Arrondissement,Bangui,4.3667,18.5833
 1013,Bangui -> 8e Arrondissement,Bangui,4.3667,18.5833
-1014,Haut Mbomou -> ZÃ©mio,Haut Mbomou,6.0,26.0
+1014,Haut Mbomou -> Zémio,Haut Mbomou,6.0,26.0
 1015,Bamingui Bangoran -> Bamingui,Bamingui Bangoran,8.4167,20.6667
-1016,Bamingui Bangoran -> NdÃ©lÃ©,Bamingui Bangoran,8.4167,20.6667
+1016,Bamingui Bangoran -> Ndélé,Bamingui Bangoran,8.4167,20.6667
 1017,Ouaka -> Kouango,Ouaka,6.0,21.0
-1018,Mbomou -> SatÃ©ma,Mbomou,5.0764181,23.3093406
-1019,Ouaka -> MbrÃ¨s,Ouaka,6.0,21.0
-1020,Basse Kotto -> KembÃ©,Basse Kotto,5.0,21.5
+1018,Mbomou -> Satéma,Mbomou,5.0764181,23.3093406
+1019,Ouaka -> Mbrès,Ouaka,6.0,21.0
+1020,Basse Kotto -> Kembé,Basse Kotto,5.0,21.5
 1021,Basse Kotto -> Zangba,Basse Kotto,5.0,21.5
 1022,Basse Kotto -> Mobaye,Basse Kotto,5.0,21.5
-1023,Vakaga -> Ouanda-DjallÃ©,Vakaga,10.3333,22.75
+1023,Vakaga -> Ouanda-Djallé,Vakaga,10.3333,22.75
 1024,Vakaga -> Birao,Vakaga,10.3333,22.75
 1025,Mbomou -> Gambo,Mbomou,5.0764181,23.3093406
 1026,Basse Kotto -> Alindao,Basse Kotto,5.0,21.5
@@ -1032,36 +1032,36 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1030,Haut Mbomou -> Obo,Haut Mbomou,6.0,26.0
 1031,Haute Kotto -> Yalinga,Haute Kotto,7.0,23.0
 1032,Mbomou -> Bangassou,Mbomou,5.0764181,23.3093406
-1033,Mbomou -> RafaÃ¯,Mbomou,5.0764181,23.3093406
-1034,Sangha MbaÃ©rÃ© -> Bambio,Sangha MbaÃ©rÃ©,3.5,16.0833
+1033,Mbomou -> Rafaï,Mbomou,5.0764181,23.3093406
+1034,Sangha Mbaéré -> Bambio,Sangha Mbaéré,3.5,16.0833
 1035,Mbomou -> Ouango,Mbomou,5.0764181,23.3093406
-1036,Sangha MbaÃ©rÃ© -> Bayanga,Sangha MbaÃ©rÃ©,3.5,16.0833
-1037,MambÃ©rÃ© KadÃ©i -> Amada-Gaza,MambÃ©rÃ© KadÃ©i,4.5,16.0
-1038,MambÃ©rÃ© KadÃ©i -> Gadzi,MambÃ©rÃ© KadÃ©i,4.5,16.0
-1039,Ouham PÃ©ndÃ© -> Bocaranga,Ouham PÃ©ndÃ©,7.0,16.0
+1036,Sangha Mbaéré -> Bayanga,Sangha Mbaéré,3.5,16.0833
+1037,Mambéré Kadéi -> Amada-Gaza,Mambéré Kadéi,4.5,16.0
+1038,Mambéré Kadéi -> Gadzi,Mambéré Kadéi,4.5,16.0
+1039,Ouham Péndé -> Bocaranga,Ouham Péndé,7.0,16.0
 1040,Haute Kotto -> Ouadda,Haute Kotto,7.0,23.0
-1041,Ouham PÃ©ndÃ© -> Koui,Ouham PÃ©ndÃ©,7.0,16.0
-1042,Ombella M'Poko -> BÃ©goua,Ombella M'Poko,5.0,18.0
-1043,Ouham PÃ©ndÃ© -> BossemtÃ©lÃ©,Ouham PÃ©ndÃ©,7.0,16.0
-1044,Nana Gribizi -> MbrÃ¨s,Nana Gribizi,6.657806,19.666148
-1045,KÃ©mo -> Ndjoukou,KÃ©mo,5.75,19.0833
+1041,Ouham Péndé -> Koui,Ouham Péndé,7.0,16.0
+1042,Ombella M'Poko -> Bégoua,Ombella M'Poko,5.0,18.0
+1043,Ouham Péndé -> Bossemtélé,Ouham Péndé,7.0,16.0
+1044,Nana Gribizi -> Mbrès,Nana Gribizi,6.657806,19.666148
+1045,Kémo -> Ndjoukou,Kémo,5.75,19.0833
 1046,Bangui -> 1er Arrondissement,Bangui,4.3667,18.5833
-1047,MambÃ©rÃ© Kadei -> Carnot,MambÃ©rÃ© Kadei,4.5,16.0
-1048,MambÃ©rÃ© Kadei -> Gamboula,MambÃ©rÃ© Kadei,4.5,16.0
-1049,Nana MambÃ©rÃ© -> Baoro,Nana MambÃ©rÃ©,5.5,15.5
-1050,MambÃ©rÃ© Kadei -> BerbÃ©rati,MambÃ©rÃ© Kadei,4.5,16.0
-1051,MambÃ©rÃ© Kadei -> Amada-Gaza,MambÃ©rÃ© Kadei,4.5,16.0
+1047,Mambéré Kadei -> Carnot,Mambéré Kadei,4.5,16.0
+1048,Mambéré Kadei -> Gamboula,Mambéré Kadei,4.5,16.0
+1049,Nana Mambéré -> Baoro,Nana Mambéré,5.5,15.5
+1050,Mambéré Kadei -> Berbérati,Mambéré Kadei,4.5,16.0
+1051,Mambéré Kadei -> Amada-Gaza,Mambéré Kadei,4.5,16.0
 1052,Bangui -> 2e Arrondissement,Bangui,4.3667,18.5833
 1053,Bangui -> 4e Arrondissement,Bangui,4.3667,18.5833
 1054,Lobaye -> Moungoumba,Lobaye,4.0,18.0
 1055,Bangui -> 7e Arrondissement,Bangui,4.3667,18.5833
-1056,MambÃ©rÃ©-KadÃ©Ã¯ -> BerbÃ©rati,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+1056,Mambéré-Kadéï -> Berbérati,Mambéré-Kadéï,4.5,16.0
 1057,Mbomou -> Bakouma,Mbomou,5.0764181,23.3093406
-1058,MambÃ©rÃ©-KadÃ©Ã¯ -> Gamboula,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
-1059,MambÃ©rÃ©-KadÃ©Ã¯ -> Amada-Gaza,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
-1060,MambÃ©rÃ©-KadÃ©Ã¯ -> Gadzi,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
-1061,Basse Kotto -> SatÃ©ma,Basse Kotto,5.0,21.5
-1062,MambÃ©rÃ©-KadÃ©Ã¯,MambÃ©rÃ©-KadÃ©Ã¯,4.5,16.0
+1058,Mambéré-Kadéï -> Gamboula,Mambéré-Kadéï,4.5,16.0
+1059,Mambéré-Kadéï -> Amada-Gaza,Mambéré-Kadéï,4.5,16.0
+1060,Mambéré-Kadéï -> Gadzi,Mambéré-Kadéï,4.5,16.0
+1061,Basse Kotto -> Satéma,Basse Kotto,5.0,21.5
+1062,Mambéré-Kadéï,Mambéré-Kadéï,4.5,16.0
 1063, Ouham > Nana Bakassa,Ouham,7.0,18.0
 1064, Lobaye > Boganda,Lobaye,4.0,18.0
 1065, Lobaye > Boganangone,Lobaye,4.0,18.0
@@ -1071,30 +1071,30 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1069, Ombella M'Poko > Damara,Ombella M'Poko,5.0,18.0
 1070, Mbomou > Gambo,Mbomou,5.0764181,23.3093406
 1071, Haute Kotto > Ouadda,Haute Kotto,7.0,23.0
-1072, KÃ©mo > Mala,KÃ©mo,5.75,19.0833
-1073,NARIÃO -> SAN ANDRÃS DE TUMACO,NARIÃO,1.569519,-77.871608
+1072, Kémo > Mala,Kémo,5.75,19.0833
+1073,NARIÑO -> SAN ANDRÉS DE TUMACO,NARIÑO,1.569519,-77.871608
 1074,ARAUCA -> ARAUQUITA,ARAUCA,6.569909,-70.968822
-1075,NARIÃO -> PASTO,NARIÃO,1.569519,-77.871608
-1076,CAQUETÃ -> SOLITA,CAQUETÃ,0.800149,-73.962618
-1077,CAQUETÃ -> CURILLO,CAQUETÃ,0.800149,-73.962618
-1078,CAQUETÃ -> CARTAGENA DEL CHAIRÃ,CAQUETÃ,0.800149,-73.962618
-1079,CHOCÃ -> MEDIO SAN JUAN,CHOCÃ,5.93883,-76.938253
-1080,CHOCÃ -> BAJO BAUDÃ,CHOCÃ,5.93883,-76.938253
-1081,CHOCÃ -> EL LITORAL DEL SAN JUAN,CHOCÃ,5.93883,-76.938253
+1075,NARIÑO -> PASTO,NARIÑO,1.569519,-77.871608
+1076,CAQUETÁ -> SOLITA,CAQUETÁ,0.800149,-73.962618
+1077,CAQUETÁ -> CURILLO,CAQUETÁ,0.800149,-73.962618
+1078,CAQUETÁ -> CARTAGENA DEL CHAIRÁ,CAQUETÁ,0.800149,-73.962618
+1079,CHOCÓ -> MEDIO SAN JUAN,CHOCÓ,5.93883,-76.938253
+1080,CHOCÓ -> BAJO BAUDÓ,CHOCÓ,5.93883,-76.938253
+1081,CHOCÓ -> EL LITORAL DEL SAN JUAN,CHOCÓ,5.93883,-76.938253
 1082,META -> PUERTO CONCORDIA,META,3.347656,-72.95518
 1083,NORTE DE SANTANDER -> SAN CALIXTO,NORTE DE SANTANDER,8.095302,-72.880506
-1084,PUTUMAYO -> PUERTO LEGUÃZAMO,PUTUMAYO,0.458448,-75.864116
+1084,PUTUMAYO -> PUERTO LEGUÍZAMO,PUTUMAYO,0.458448,-75.864116
 1085,LA GUAJIRA -> FONSECA,LA GUAJIRA,11.475968,-72.429918
-1086,GUAVIARE -> SAN JOSÃ DEL GUAVIARE,GUAVIARE,1.924654,-72.127319
+1086,GUAVIARE -> SAN JOSÉ DEL GUAVIARE,GUAVIARE,1.924654,-72.127319
 1087,LA GUAJIRA -> MAICAO,LA GUAJIRA,11.475968,-72.429918
-1088,PUTUMAYO -> PUERTO ASÃS,PUTUMAYO,0.458448,-75.864116
+1088,PUTUMAYO -> PUERTO ASÍS,PUTUMAYO,0.458448,-75.864116
 1089,VALLE DEL CAUCA -> BUENAVENTURA,VALLE DEL CAUCA,3.858537,-76.518016
-1090,NARIÃO -> POLICARPA,NARIÃO,1.569519,-77.871608
-1091,CHOCÃ -> RIOSUCIO,CHOCÃ,5.93883,-76.938253
-1092,NARIÃO -> BARBACOAS,NARIÃO,1.569519,-77.871608
-1093,NARIÃO -> MOSQUERA,NARIÃO,1.569519,-77.871608
-1094,NARIÃO -> SANTA BÃRBARA,NARIÃO,1.569519,-77.871608
-1095,ANTIOQUIA -> APARTADÃ,ANTIOQUIA,6.92599,-75.570959
+1090,NARIÑO -> POLICARPA,NARIÑO,1.569519,-77.871608
+1091,CHOCÓ -> RIOSUCIO,CHOCÓ,5.93883,-76.938253
+1092,NARIÑO -> BARBACOAS,NARIÑO,1.569519,-77.871608
+1093,NARIÑO -> MOSQUERA,NARIÑO,1.569519,-77.871608
+1094,NARIÑO -> SANTA BÁRBARA,NARIÑO,1.569519,-77.871608
+1095,ANTIOQUIA -> APARTADÓ,ANTIOQUIA,6.92599,-75.570959
 1096,ARAUCA -> SARAVENA,ARAUCA,6.569909,-70.968822
 1097,PUTUMAYO -> MOCOA,PUTUMAYO,0.458448,-75.864116
 1098,LA GUAJIRA -> RIOHACHA,LA GUAJIRA,11.475968,-72.429918
@@ -4035,12 +4035,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3807, Tanintharyi > Dawei > Dawei,Tanintharyi,13.0,98.75
 3808, Myanmar > Tanintharyi > Dawei > Yebyu,Tanintharyi,13.0,98.75
 3809, Tanintharyi > Dawei > Thayetchaung,Tanintharyi,13.0,98.75
-3810, TillabÃ©ri > Ouallam,TillabÃ©ri,14.187017,2.191618
-3811, TillabÃ©ri > TÃ©ra,TillabÃ©ri,14.187017,2.191618
-3812, TillabÃ©ri > Torodi,TillabÃ©ri,14.187017,2.191618
-3813, TillabÃ©ri > Banibangou,TillabÃ©ri,14.187017,2.191618
-3814, TillabÃ©ri > Ayerou,TillabÃ©ri,14.187017,2.191618
-3815, TillabÃ©ri > Abala,TillabÃ©ri,14.187017,2.191618
+3810, Tillabéri > Ouallam,Tillabéri,14.187017,2.191618
+3811, Tillabéri > Téra,Tillabéri,14.187017,2.191618
+3812, Tillabéri > Torodi,Tillabéri,14.187017,2.191618
+3813, Tillabéri > Banibangou,Tillabéri,14.187017,2.191618
+3814, Tillabéri > Ayerou,Tillabéri,14.187017,2.191618
+3815, Tillabéri > Abala,Tillabéri,14.187017,2.191618
 3816, Diffa > Diffa ville,Diffa,15.865877,13.217075
 3817, Diffa > N'Guigmi,Diffa,15.865877,13.217075
 3818, Diffa > Bosso,Diffa,15.865877,13.217075
@@ -4048,7 +4048,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3820, Maradi > Madarounfa,Maradi,14.112155,7.307245
 3821, Tahoua > Tassara,Tahoua,15.770853,5.247552
 3822, Tahoua > Tillia,Tahoua,15.770853,5.247552
-3823, Diffa > MaÃ¯nÃ© Soroa,Diffa,15.865877,13.217075
+3823, Diffa > Maïné Soroa,Diffa,15.865877,13.217075
 3824, Zinder > Mirriah,Zinder,14.993623,10.39601
 3825, Tahoua > Tahoua,Tahoua,15.770853,5.247552
 3826,Borno -> Damboa,Borno,11.8889801,13.15334698
@@ -10670,68 +10670,68 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 10326, Zakarpatska,Zakarpatska,48.4036198,23.27591388
 10422, Zhytomyrska,Zhytomyrska,50.63958619,28.47577421
 10423, Sucre > Sucre,Sucre,10.40997648,-63.34957604
-10424, BolÃ­var > CedeÃ±o,BolÃ­var,6.23411231,-63.52467747
-10425, Zulia > IndÃ­gena Bolivariano Guajira,Zulia,9.89615762,-72.0865941
-10426, Zulia > Rosario De PerijÃ¡,Zulia,9.89615762,-72.0865941
-10427, Amazonas > AutÃ³nomo Atures,Amazonas,3.36082497,-65.94378949
-10428, AnzoÃ¡tegui > Anaco,AnzoÃ¡tegui,8.94112819,-64.42571176
-10429, AnzoÃ¡tegui > SimÃ³n RodrÃ­guez,AnzoÃ¡tegui,8.94112819,-64.42571176
-10430, FalcÃ³n > Carirubana,FalcÃ³n,11.06828164,-69.77520537
-10431, FalcÃ³n > FalcÃ³n,FalcÃ³n,11.06828164,-69.77520537
-10432, FalcÃ³n > Miranda,FalcÃ³n,11.06828164,-69.77520537
+10424, Bolívar > Cedeño,Bolívar,6.23411231,-63.52467747
+10425, Zulia > Indígena Bolivariano Guajira,Zulia,9.89615762,-72.0865941
+10426, Zulia > Rosario De Perijá,Zulia,9.89615762,-72.0865941
+10427, Amazonas > Autónomo Atures,Amazonas,3.36082497,-65.94378949
+10428, Anzoátegui > Anaco,Anzoátegui,8.94112819,-64.42571176
+10429, Anzoátegui > Simón Rodríguez,Anzoátegui,8.94112819,-64.42571176
+10430, Falcón > Carirubana,Falcón,11.06828164,-69.77520537
+10431, Falcón > Falcón,Falcón,11.06828164,-69.77520537
+10432, Falcón > Miranda,Falcón,11.06828164,-69.77520537
 10433, Miranda > Bolivariano Guaicaipuro,Miranda,10.2374913,-66.37928634
 10434, Miranda > Lander,Miranda,10.2374913,-66.37928634
 10435, Miranda > Zamora,Miranda,10.2374913,-66.37928634
 10436, Sucre > Ribero,Sucre,10.40997648,-63.34957604
-10437, AnzoÃ¡tegui > Juan Antonio Sotillo,AnzoÃ¡tegui,8.94112819,-64.42571176
-10438, BolÃ­var > Angostura Del Orinoco,BolÃ­var,6.23411231,-63.52467747
+10437, Anzoátegui > Juan Antonio Sotillo,Anzoátegui,8.94112819,-64.42571176
+10438, Bolívar > Angostura Del Orinoco,Bolívar,6.23411231,-63.52467747
 10439, Delta Amacuro > Tucupita,Delta Amacuro,8.77433049,-61.31427929
 10440, Distrito Capital > Libertador,Distrito Capital,10.46971283,-66.99452881
-10441, Sucre > BermÃºdez,Sucre,10.40997648,-63.34957604
+10441, Sucre > Bermúdez,Sucre,10.40997648,-63.34957604
 10442, Zulia > Lagunillas,Zulia,9.89615762,-72.0865941
-10443, Zulia > Valmore RodrÃ­guez,Zulia,9.89615762,-72.0865941
+10443, Zulia > Valmore Rodríguez,Zulia,9.89615762,-72.0865941
 10444, Miranda > Sucre,Miranda,10.2374913,-66.37928634
 10445, Miranda > Urdaneta,Miranda,10.2374913,-66.37928634
-10446, Zulia > Machiques De PerijÃ¡,Zulia,9.89615762,-72.0865941
+10446, Zulia > Machiques De Perijá,Zulia,9.89615762,-72.0865941
 10447, Zulia > Maracaibo,Zulia,9.89615762,-72.0865941
 10448, Zulia > San Francisco,Zulia,9.89615762,-72.0865941
-10449, BolÃ­var > CaronÃ­,BolÃ­var,6.23411231,-63.52467747
+10449, Bolívar > Caroní,Bolívar,6.23411231,-63.52467747
 10450, Miranda > Sucre > Petare,Miranda,10.2374913,-66.37928634
-10451, AnzoÃ¡tegui > Juan Antonio Sotillo > Puerto La Cruz,AnzoÃ¡tegui,8.94112819,-64.42571176
+10451, Anzoátegui > Juan Antonio Sotillo > Puerto La Cruz,Anzoátegui,8.94112819,-64.42571176
 10452, Miranda > Sucre > La Dolorita,Miranda,10.2374913,-66.37928634
 10453, Distrito Capital > Libertador > Altagracia,Distrito Capital,10.46971283,-66.99452881
 10454, Distrito Capital > Libertador > Coche,Distrito Capital,10.46971283,-66.99452881
 10455, Distrito Capital > Libertador > El Valle,Distrito Capital,10.46971283,-66.99452881
 10456, Distrito Capital > Libertador > San Pedro,Distrito Capital,10.46971283,-66.99452881
-10457, Miranda > CristÃ³bal Rojas > Charallave,Miranda,10.2374913,-66.37928634
+10457, Miranda > Cristóbal Rojas > Charallave,Miranda,10.2374913,-66.37928634
 10458, Miranda > Plaza > Guarenas,Miranda,10.2374913,-66.37928634
-10459, FalcÃ³n > Miranda > Santa Ana,FalcÃ³n,11.06828164,-69.77520537
+10459, Falcón > Miranda > Santa Ana,Falcón,11.06828164,-69.77520537
 10460, Zulia > Santa Rita,Zulia,9.89615762,-72.0865941
 10461, Miranda > Baruta,Miranda,10.2374913,-66.37928634
-10462, Miranda > PÃ¡ez,Miranda,10.2374913,-66.37928634
+10462, Miranda > Páez,Miranda,10.2374913,-66.37928634
 10463, Miranda > Chacao,Miranda,10.2374913,-66.37928634
-10464, AnzoÃ¡tegui > Diego Bautista Urbaneja,AnzoÃ¡tegui,8.94112819,-64.42571176
+10464, Anzoátegui > Diego Bautista Urbaneja,Anzoátegui,8.94112819,-64.42571176
 10465, Delta Amacuro > Pedernales,Delta Amacuro,8.77433049,-61.31427929
-10466, Miranda > Sucre > Leoncio MartÃ­nez,Miranda,10.2374913,-66.37928634
+10466, Miranda > Sucre > Leoncio Martínez,Miranda,10.2374913,-66.37928634
 10467, Miranda > Baruta > Las Minas De Baruta,Miranda,10.2374913,-66.37928634
 10468, Miranda > El Hatillo,Miranda,10.2374913,-66.37928634
-10469, Miranda > BriÃ³n,Miranda,10.2374913,-66.37928634
-10470, Sucre > BenÃ­tez,Sucre,10.40997648,-63.34957604
+10469, Miranda > Brión,Miranda,10.2374913,-66.37928634
+10470, Sucre > Benítez,Sucre,10.40997648,-63.34957604
 10471, Apure > San Fernando,Apure,7.1305767,-68.80698907
 10472, Apure > Achaguas,Apure,7.1305767,-68.80698907
 10473, Apure > Biruaca,Apure,7.1305767,-68.80698907
-10474, Apure > PÃ¡ez,Apure,7.1305767,-68.80698907
-10475, Delta Amacuro > Antonio DÃ­az,Delta Amacuro,8.77433049,-61.31427929
-10476, Amazonas > AutÃ³nomo Autana,Amazonas,3.36082497,-65.94378949
+10474, Apure > Páez,Apure,7.1305767,-68.80698907
+10475, Delta Amacuro > Antonio Díaz,Delta Amacuro,8.77433049,-61.31427929
+10476, Amazonas > Autónomo Autana,Amazonas,3.36082497,-65.94378949
 10477, Delta Amacuro > Casacoima,Delta Amacuro,8.77433049,-61.31427929
-10478, Amazonas > AutÃ³nomo Alto Orinoco,Amazonas,3.36082497,-65.94378949
-10479, BolÃ­var > Gran Sabana,BolÃ­var,6.23411231,-63.52467747
-10480, Amazonas > AutÃ³nomo Atabapo,Amazonas,3.36082497,-65.94378949
-10481, BolÃ­var > Sucre,BolÃ­var,6.23411231,-63.52467747
+10478, Amazonas > Autónomo Alto Orinoco,Amazonas,3.36082497,-65.94378949
+10479, Bolívar > Gran Sabana,Bolívar,6.23411231,-63.52467747
+10480, Amazonas > Autónomo Atabapo,Amazonas,3.36082497,-65.94378949
+10481, Bolívar > Sucre,Bolívar,6.23411231,-63.52467747
 10482, Distrito Capital > Libertador > La Vega,Distrito Capital,10.46971283,-66.99452881
-10483, Distrito Capital > Libertador > Santa RosalÃ­a,Distrito Capital,10.46971283,-66.99452881
-10484, Zulia > ColÃ³n > San Carlos Del Zulia,Zulia,9.89615762,-72.0865941
-10485, Distrito Capital > Libertador > El ParaÃ­so,Distrito Capital,10.46971283,-66.99452881
+10483, Distrito Capital > Libertador > Santa Rosalía,Distrito Capital,10.46971283,-66.99452881
+10484, Zulia > Colón > San Carlos Del Zulia,Zulia,9.89615762,-72.0865941
+10485, Distrito Capital > Libertador > El Paraíso,Distrito Capital,10.46971283,-66.99452881
 10486,Al Hudaydah -> Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
 10487,Hajjah -> Hayran,Hajjah,16.27488061,43.11225315
 10488,Al Hudaydah -> Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
