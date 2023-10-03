@@ -4,7 +4,7 @@ AllocationType,AllocationtypeId
 (AFG) 2014 1st Standard Allocation,123
 (AFG) 2014 2nd Standard Allocation,423
 (AFG) 2015 1st Reserve Allocation,1123
-(AFG) 2015 2nd Reserve Allocation – Earthquake Response,1223
+(AFG) 2015 2nd Reserve Allocation â Earthquake Response,1223
 (AFG) 2015 3rd Reserve Allocation - Specialized Winterization,1323
 (AFG) 2015 2nd Standard Allocation,1023
 (AFG) 2015 1st Standard Allocation,723
@@ -93,69 +93,69 @@ AllocationType,AllocationtypeId
 (COL) Reserve Allocation Colombia 2017,10452
 (COL) 1st Standard Allocation 2017/HRP 2017,10852
 (COD) Allocation Reserve COVID - 2020,25725
-(COD) UR juin 2020 - Allocation Reserve – Mbandaka,27325
-(COD) UR août 2020 - Allocation Reserve – Ituri,28425
-(COD) UR septembre 2020 - Allocation Reserve – Nyunzu,29125
-(COD) UR octobre 2020 - Allocation Réserve Inclusion dans l’action humanitaire,30125
-(COD) UR Décembre 2020 - Allocation de Réserve – Hauts Plateaux (Sud-Kivu),30625
-(COD) UR decembre 2020 - Allocation Réserve Coordination,31125
-(COD) ST juin 2020 - Première Allocation Standard,27425
-(COD) UR5 Décembre 2021-Allocation de Réserve – Logistique Sud-Kivu,38125
-(COD) ST Décembre 2021- Deuxième Allocation Standard,38225
-(COD) UR Mars 2021 - Allocation Réserve – PSEA,31925
-(COD) UR2 Juin 2021-Allocation Réserve-Nyiragongo,33825
-(COD) UR3 Aout 2021-Allocation de Réserve – Crise Sud-Ituri et Béni,35525
-(COD) UR6 Décembre 2021-Allocation de Réserve – Pré-positionnement,38425
-(COD) ST Mai 2021- Première Allocation Standard,33425
-(COD) UR 1 Juin 2022-Allocation Réserve - Crise M23 - Province du Nord-Kivu,41425
-"(COD) UR 2 July 2022-Allocation Réserve - Réponse d’urgence en Santé dans le Territoire de Rutshuru, Province du Nord-Kivu",42425
-(COD) UR 3 Octobre 2022-Allocation Réserve - Renforcement de la réponse Humanitaire au Maï-Ndombe et Kwilu,44025
-(COD) ST Mai 2022 - Première Allocation Standard,41025
-(COD) ST Décembre 2014 - Première allocation standard 2014,2324
-(COD) PU juin 2015 - Assistance humanitaire aux réfugiés burundais nouvellement arrivés en RDC,2524
-(COD) UR février 2015 - Programmes stratégiques,3524
-(COD) PU Nov 2015 - Assistance aux populations réfugiées RCA et communautés d’accueil dans le Nord et Sud,2724
-(COD) PU aout 2015 - Assistance humanitaire aux populations victimes de la rougeole à Nyunzu,2424
-(COD) PU aout 2015 - Assistance humanitaire aux populations victimes du conflit entre Pygmées et Lubas,3224
-(COD) PU Janv - 2015 - Assistance humanitaire aux refugies centrafricaines arrivés à l’Equateur en RDC,3624
-(COD) PU Nov 2015 - Assistance humanitaire aux populations déplacées sur l'axe Kumanda-Luna dans la provin,2624
-(COD) PU Nov 2015 - Assistance humanitaire aux populations déplacées dans le territoire de Shabunda au S-K,2924
-(COD) PU Nov 2015 - Assistance aux populations déplacées et aux ménages victimes d’inondations au Maniema,2824
-(COD) PU Nov 2015 - Assistance humanitaire aux populations retournées sur l’axe Nyunzu – Mitwaba - Manono,3024
-(COD) UR février 2016 - Programmes strategiques,3424
-"(COD) PU janvier 2016 - Assistance  aux populations déplacées, retournées et autochtones de Miriki",3324
-"(COD) PU avril 2016 - Conséquences inondations dans les provinces de la Tshopo, Mongala et Equateur",3724
-(COD) PU octobre 2016 - Epidémie de choléra le long du fleuve Congo,4124
-(COD) ST Juin 2016 - Première Allocation Standard - Nyunzu,3924
-(COD) ST Sept 2016 - 2ème Allocation Standard - Nord et Sud Oubangi,4024
-(COD) UR Oct 2016 - Assistance humanitaire aux populations déplacées sur l’axe Bafwabalinga-Opienge-Baloba,4224
-"(COD) UR Nov 2016 - Assistance humanitaire aux déplacées de Shabunda, Kalehe et Fizi au Sud-Kivu",4324
-(COD) UR Nov 2016 - Assistance aux déplacées sur l’axe Grand Nord - Sud-Irumu au Nord-Kivu et en Ituri,4424
-(COD) PU mai 2017 - Assistance humanitaire aux populations affectées par le conflit aux Kasais,4724
-(COD) ST Avril 2017 - Première Allocation Standard - Province de Maniema,4624
-(COD) UR mars 2017 - Assistance Humanitaire aux populations déplacées. Territoire de kalemie/Tanganyika,4524
-(COD) UR juin 2017 - Assistance humanitaire aux populations affectées par le conflit dans les Kasaïs,4824
-(COD) UR Octobre 2017 - Projet stratégique de fourniture des intrants nutritionnels,4924
-(COD) UR Octobre 2017 - Support opérationnel aux interventions humanitaires dans le Kasaî,5024
-"(COD) UR Octobre 2017 - Analyse des hotshots (Nord Kivu, Sud Kivu, Haut-Katanga, Kasaï, Tanganyika)",5124
-(COD) PU juillet 2018 - Réponse humanitaire d’urgence en réduction des taux de sur mortalité et sur morbidité de l’épidémie de choléra dans le Sankuru et le Kasai Oriental,5824
-(COD) PU octobre 2018 - Deuxième Allocation Première Urgence ' Bijombo ',6124
-(COD) PU octobre 2018 - Troisième allocation Première Urgence - Appui au processus de retour des personnes déplacées internes à Kalemie,6224
-(COD) UR Decèmbre 2018 - Soutien aux interventions humanitaires en réponse à la crise des retournés/expulsés de l’Angola au Kasai.,6424
-(COD) ST juillet 2018 - Première Allocation Standard ' CRIO Kasaï et CRIO Sud-est ',5924
-(COD) ST juillet 2018 - Première Allocation Standard – Volet 02 - ' CRIO Kasaï ',6024
-(COD) UR Février 2018 - Assistance aux populations affectées par les crises dans les zones L3 et Non-L3,5324
-(COD) UR Mars 2018 - Assistance aux populations affectées par les crises dans les zones L3 et Non-L3 Nord-Kivu et Ituri,5424
-(COD) UR mai 2018 - 3ème Allocation Spécifique « Urgence »,5524
-(COD) UR mai 2018 - Support opérationnel aux interventions humanitiares dans les Kivus et l'ex-Province Orientale,5624
-(COD) UR juillet 2018 - 4ème Allocation « Urgence » - Stratégique,5724
-(COD) UR octobre 2018 - 5ème Allocation Urgence – « Appui aux Plans Opérationnels - CRIO Sud-Est et Kasai »,6324
-(COD) ST janvier 2019 - Première Allocation Standard,6524
-(COD) UR février 2019 - Allocation d'Urgence pour Yumbi dans la province de Maï-Ndombe,6624
-(COD) UR mai 2019 - Allocation d'urgence non-HRP - Réponse Ebola,6724
-(COD) UR juillet 2019 - Troisième Allocation d'Urgence,6824
-(COD) UR novembre 2019 - 4ème Allocation d’Urgence - ZS de Kamango,7024
-(COD) UR octobre 2019 - Cinquième Allocation d’Urgence - Rougeole,6924
+(COD) UR juin 2020 - Allocation Reserve â Mbandaka,27325
+(COD) UR aoÃ»t 2020 - Allocation Reserve â Ituri,28425
+(COD) UR septembre 2020 - Allocation Reserve â Nyunzu,29125
+(COD) UR octobre 2020 - Allocation RÃ©serve Inclusion dans lâaction humanitaire,30125
+(COD) UR DÃ©cembre 2020 - Allocation de RÃ©serve â Hauts Plateaux (Sud-Kivu),30625
+(COD) UR decembre 2020 - Allocation RÃ©serve Coordination,31125
+(COD) ST juin 2020 - PremiÃ¨re Allocation Standard,27425
+(COD) UR5 DÃ©cembre 2021-Allocation de RÃ©serve â Logistique Sud-Kivu,38125
+(COD) ST DÃ©cembre 2021- DeuxiÃ¨me Allocation Standard,38225
+(COD) UR Mars 2021 - Allocation RÃ©serve â PSEA,31925
+(COD) UR2 Juin 2021-Allocation RÃ©serve-Nyiragongo,33825
+(COD) UR3 Aout 2021-Allocation de RÃ©serve â Crise Sud-Ituri et BÃ©ni,35525
+(COD) UR6 DÃ©cembre 2021-Allocation de RÃ©serve â PrÃ©-positionnement,38425
+(COD) ST Mai 2021- PremiÃ¨re Allocation Standard,33425
+(COD) UR 1 Juin 2022-Allocation RÃ©serve - Crise M23 - Province du Nord-Kivu,41425
+"(COD) UR 2 July 2022-Allocation RÃ©serve - RÃ©ponse dâurgence en SantÃ© dans le Territoire de Rutshuru, Province du Nord-Kivu",42425
+(COD) UR 3 Octobre 2022-Allocation RÃ©serve - Renforcement de la rÃ©ponse Humanitaire au MaÃ¯-Ndombe et Kwilu,44025
+(COD) ST Mai 2022 - PremiÃ¨re Allocation Standard,41025
+(COD) ST DÃ©cembre 2014 - PremiÃ¨re allocation standard 2014,2324
+(COD) PU juin 2015 - Assistance humanitaire aux rÃ©fugiÃ©s burundais nouvellement arrivÃ©s en RDC,2524
+(COD) UR fÃ©vrier 2015 - Programmes stratÃ©giques,3524
+(COD) PU Nov 2015 - Assistance aux populations rÃ©fugiÃ©es RCA et communautÃ©s dâaccueil dans le Nord et Sud,2724
+(COD) PU aout 2015 - Assistance humanitaire aux populations victimes de la rougeole Ã  Nyunzu,2424
+(COD) PU aout 2015 - Assistance humanitaire aux populations victimes du conflit entre PygmÃ©es et Lubas,3224
+(COD) PU Janv - 2015 - Assistance humanitaire aux refugies centrafricaines arrivÃ©s Ã  lâEquateur en RDC,3624
+(COD) PU Nov 2015 - Assistance humanitaire aux populations dÃ©placÃ©es sur l'axe Kumanda-Luna dans la provin,2624
+(COD) PU Nov 2015 - Assistance humanitaire aux populations dÃ©placÃ©es dans le territoire de Shabunda au S-K,2924
+(COD) PU Nov 2015 - Assistance aux populations dÃ©placÃ©es et aux mÃ©nages victimes dâinondations au Maniema,2824
+(COD) PU Nov 2015 - Assistance humanitaire aux populations retournÃ©es sur lâaxe Nyunzu â Mitwaba - Manono,3024
+(COD) UR fÃ©vrier 2016 - Programmes strategiques,3424
+"(COD) PU janvier 2016 - Assistance  aux populations dÃ©placÃ©es, retournÃ©es et autochtones de Miriki",3324
+"(COD) PU avril 2016 - ConsÃ©quences inondations dans les provinces de la Tshopo, Mongala et Equateur",3724
+(COD) PU octobre 2016 - EpidÃ©mie de cholÃ©ra le long du fleuve Congo,4124
+(COD) ST Juin 2016 - PremiÃ¨re Allocation Standard - Nyunzu,3924
+(COD) ST Sept 2016 - 2Ã¨me Allocation Standard - Nord et Sud Oubangi,4024
+(COD) UR Oct 2016 - Assistance humanitaire aux populations dÃ©placÃ©es sur lâaxe Bafwabalinga-Opienge-Baloba,4224
+"(COD) UR Nov 2016 - Assistance humanitaire aux dÃ©placÃ©es de Shabunda, Kalehe et Fizi au Sud-Kivu",4324
+(COD) UR Nov 2016 - Assistance aux dÃ©placÃ©es sur lâaxe Grand Nord - Sud-Irumu au Nord-Kivu et en Ituri,4424
+(COD) PU mai 2017 - Assistance humanitaire aux populations affectÃ©es par le conflit aux Kasais,4724
+(COD) ST Avril 2017 - PremiÃ¨re Allocation Standard - Province de Maniema,4624
+(COD) UR mars 2017 - Assistance Humanitaire aux populations dÃ©placÃ©es. Territoire de kalemie/Tanganyika,4524
+(COD) UR juin 2017 - Assistance humanitaire aux populations affectÃ©es par le conflit dans les KasaÃ¯s,4824
+(COD) UR Octobre 2017 - Projet stratÃ©gique de fourniture des intrants nutritionnels,4924
+(COD) UR Octobre 2017 - Support opÃ©rationnel aux interventions humanitaires dans le KasaÃ®,5024
+"(COD) UR Octobre 2017 - Analyse des hotshots (Nord Kivu, Sud Kivu, Haut-Katanga, KasaÃ¯, Tanganyika)",5124
+(COD) PU juillet 2018 - RÃ©ponse humanitaire dâurgence en rÃ©duction des taux de sur mortalitÃ© et sur morbiditÃ© de lâÃ©pidÃ©mie de cholÃ©ra dans le Sankuru et le Kasai Oriental,5824
+(COD) PU octobre 2018 - DeuxiÃ¨me Allocation PremiÃ¨re Urgence ' Bijombo ',6124
+(COD) PU octobre 2018 - TroisiÃ¨me allocation PremiÃ¨re Urgence - Appui au processus de retour des personnes dÃ©placÃ©es internes Ã  Kalemie,6224
+(COD) UR DecÃ¨mbre 2018 - Soutien aux interventions humanitaires en rÃ©ponse Ã  la crise des retournÃ©s/expulsÃ©s de lâAngola au Kasai.,6424
+(COD) ST juillet 2018 - PremiÃ¨re Allocation Standard ' CRIO KasaÃ¯ et CRIO Sud-est ',5924
+(COD) ST juillet 2018 - PremiÃ¨re Allocation Standard â Volet 02 - ' CRIO KasaÃ¯ ',6024
+(COD) UR FÃ©vrier 2018 - Assistance aux populations affectÃ©es par les crises dans les zones L3 et Non-L3,5324
+(COD) UR Mars 2018 - Assistance aux populations affectÃ©es par les crises dans les zones L3 et Non-L3 Nord-Kivu et Ituri,5424
+(COD) UR mai 2018 - 3Ã¨me Allocation SpÃ©cifique Â« Urgence Â»,5524
+(COD) UR mai 2018 - Support opÃ©rationnel aux interventions humanitiares dans les Kivus et l'ex-Province Orientale,5624
+(COD) UR juillet 2018 - 4Ã¨me Allocation Â« Urgence Â» - StratÃ©gique,5724
+(COD) UR octobre 2018 - 5Ã¨me Allocation Urgence â Â« Appui aux Plans OpÃ©rationnels - CRIO Sud-Est et Kasai Â»,6324
+(COD) ST janvier 2019 - PremiÃ¨re Allocation Standard,6524
+(COD) UR fÃ©vrier 2019 - Allocation d'Urgence pour Yumbi dans la province de MaÃ¯-Ndombe,6624
+(COD) UR mai 2019 - Allocation d'urgence non-HRP - RÃ©ponse Ebola,6724
+(COD) UR juillet 2019 - TroisiÃ¨me Allocation d'Urgence,6824
+(COD) UR novembre 2019 - 4Ã¨me Allocation dâUrgence - ZS de Kamango,7024
+(COD) UR octobre 2019 - CinquiÃ¨me Allocation dâUrgence - Rougeole,6924
 (ETH) Ethiopia Call for proposal allocation - Nutrition,2653
 (ETH) Call for Proposal - WASH,5153
 (ETH) 2015 HRF Ethiopia Standard Allocation - Rolling Basis,4353
@@ -429,49 +429,49 @@ AllocationType,AllocationtypeId
 (SDN) 2020 - SHF Reserve for Emergencies (Floods),28016
 (SDN) 2020 - SHF Reserve for Emergencies (Polio Response),29816
 (SDN) 2020 - SHF Reserve for Emergencies,23916
-(SDN) 2020 – SHF 1st Round Standard Allocation,25816
+(SDN) 2020 â SHF 1st Round Standard Allocation,25816
 (SDN) 2021 - SHF Reserve for Emergencies (West Darfur Conflict),31616
 (SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Covid 19),37716
 (SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Anticipatory approach _Drought),37816
 (SDN) 2021 - SHF Reserve for Emergencies (Combating desert locust in Yabus- Blue Nile State),31716
-(SDN) 2021 - SHF Reserve for Emergencies (Support COVID Isolation Center – Khartoum State),32516
+(SDN) 2021 - SHF Reserve for Emergencies (Support COVID Isolation Center â Khartoum State),32516
 (SDN) 2021 - SHF Reserve for Emergencies (Prepositioning of Stock),34216
 (SDN) 2021- Reserve for Emergencies (Multi-Sector Needs Assessment),33116
 (SDN) 2021 - SHF Reserve for Emergencies (Floods Response),35616
 (SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Newly Accessible Areas),37416
 (SDN) 2021 - SHF Reserve for Emergencies (End of year allocations- Conflict and displacement),37616
-(SDN) 2021 – SHF 1st Standard Allocation,33516
+(SDN) 2021 â SHF 1st Standard Allocation,33516
 (SDN) 2022- SHF Reserve for Emergencies (Drought Response),39816
 (SDN) 2022- SHF Reserve for Emergencies  (Sub-national Conflict/Dry-Spell),39916
 (SDN) 2022 - SHF Reserve for Emergencies (Prepositioning of Stock),41316
 (SDN) 2022 - SHF response to intercommunal violence across Sudan,43216
 (SDN) 2022 - SHF Reserve for Emergency (Localization),43816
 (SDN) 2022 - SHF Reserve for Emergencies (Intercommunal violence in South Kordofan and Blue Nile),45116
-(SDN) 2022 – SHF 1st Standard Allocation,39616
+(SDN) 2022 â SHF 1st Standard Allocation,39616
 (SDN) 2013 - 1st Round Standard Allocation,115
 (SDN) 2014 - 1st Round Standard Allocation,315
 (SDN) 2014 - CHF Reserve Allocation,515
-(SDN) 2014 – 2nd Round Standard Allocation,615
+(SDN) 2014 â 2nd Round Standard Allocation,615
 "(SDN) 2014 - Special Allocations (Core Pipelines, Direct Costs, UNHAS)",415
-(SDN) 2015 – CHF Reserve Allocation,915
-(SDN) 2015 – 1st Round Standard Allocation,815
+(SDN) 2015 â CHF Reserve Allocation,915
+(SDN) 2015 â 1st Round Standard Allocation,815
 (SDN) 2015 -2nd Round Standard Allocation,1115
-"(SDN) 2015 – Special Allocations (Core Pipelines, CHF Management Cost, Sector Coordination and M&R, UNHAS)",715
+"(SDN) 2015 â Special Allocations (Core Pipelines, CHF Management Cost, Sector Coordination and M&R, UNHAS)",715
 (SDN) 2016 - SHF 1st Reserve Allocation,1215
 (SDN) 2016 - SHF Reserve for Emergencies,1415
-(SDN) 2016 – SHF 1st Round Standard Allocation,1315
+(SDN) 2016 â SHF 1st Round Standard Allocation,1315
 (SDN) 2017 - SHF 1st Reserve Allocation,1515
 (SDN) 2017 - SHF 1st Protracted Displacement Pilot in Kreinik,1915
 (SDN) 2017 - SHF 2nd Reserve Allocation,1815
 (SDN) 2017 - SHF Reserve for Emergencies,1715
-(SDN) 2017 – SHF 1st Round Standard Allocation,1615
+(SDN) 2017 â SHF 1st Round Standard Allocation,1615
 (SDN) 2018 - SHF Reserve for Emergencies,2315
-(SDN) 2018 – SHF 1st Round Standard Allocation,2015
-(SDN) 2018 – SHF 2nd Round Standard Allocation,2115
-(SDN) 2018 – SHF 3rd Round Standard Allocation,2415
+(SDN) 2018 â SHF 1st Round Standard Allocation,2015
+(SDN) 2018 â SHF 2nd Round Standard Allocation,2115
+(SDN) 2018 â SHF 3rd Round Standard Allocation,2415
 (SDN) 2019 - SHF Reserve for Emergencies,2615
-(SDN) 2019 – SHF 1st Round Standard Allocation,2515
-(SDN) 2019 – SHF 2nd Round Standard Allocation,2715
+(SDN) 2019 â SHF 1st Round Standard Allocation,2515
+(SDN) 2019 â SHF 2nd Round Standard Allocation,2715
 (SYR) Reserve allocation on rolling basis,5062
 (SYR) Standard Allocation,1762
 (SYR) Reserve allocation,5862
@@ -554,8 +554,8 @@ AllocationType,AllocationtypeId
 (UKR) UHF 2022 Second Reserve Allocation_Upscaling humanitarian aid,39581
 (UKR) UHF 2022 Third Reserve Allocation_Responding to humanitarian needs as a result of the military offensive in Ukraine,40481
 (UKR) 2022 Fourth Reserve Allocation (Winterization),42381
-(VEN) Primera asignación ordinaria 2021,31583
-(VEN) Segunda asignación ordinaria 2021,36183
+(VEN) Primera asignaciÃ³n ordinaria 2021,31583
+(VEN) Segunda asignaciÃ³n ordinaria 2021,36183
 (YEM) 1st Reserve Allocation - April 2015,2364
 (YEM) 2nd Reserve Allocation - May 2015,2964
 (YEM) 3rd Reserve Allocation - September 2015,4064
