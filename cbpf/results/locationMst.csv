@@ -4889,7 +4889,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4660,Awdal -> Baki -> Caracad,Awdal,10.602,43.349
 4661,Awdal -> Baki -> Xoorrey,Awdal,10.602,43.349
 4662,Awdal -> Baki -> Baki,Awdal,10.602,43.349
-4663,Baki -> Hadayta -> Awdal,Awdal,10.602,43.349
+4663,Awdal -> Baki -> Hadayta,Awdal,10.602,43.349
 4664,Awdal -> Baki -> Cabdi Geeddi,Awdal,10.602,43.349
 4665,Awdal -> Baki -> Gargaara,Awdal,10.602,43.349
 4666,Bari -> Caluula -> Murcanyo,Bari,10.648,50.232
@@ -8887,1416 +8887,1427 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 8651, Idleb > Jisr-Ash-Shugur > Janudiyeh > Qanniyeh,Idleb,35.929008,36.635276
 8652, Idleb > Ariha > Ehsem > Kafr Haya,Idleb,35.929008,36.635276
 8653, Idleb > Ariha > Ehsem > Balyun,Idleb,35.929008,36.635276
-8654, Donetska > Bakhmutskyi > Bakhmutskyi > Dacha,Donetska,48.047609,37.673962
-8655, Donetska > Bakhmutskyi > Bakhmutskyi > Mykolaivka Druha,Donetska,48.047609,37.673962
-8656, Donetska > Bakhmutskyi > Bakhmutskyi > Travneve,Donetska,48.047609,37.673962
-8657, Donetska > Marinskyi > Marinskyi > Taramchuk,Donetska,48.047609,37.673962
-8658, Donetska > Toretska > Toretska > Shumy,Donetska,48.047609,37.673962
-8659, Donetska > Volnovaskyi > Volnovaskyi > Bohdanivka,Donetska,48.047609,37.673962
-8660, Donetska > Volnovaskyi > Volnovaskyi > Novohryhorivka,Donetska,48.047609,37.673962
-8661, Donetska > Yasynuvatskyi > Yasynuvatskyi > Kamianka,Donetska,48.047609,37.673962
-8662, Donetska > Yasynuvatskyi > Yasynuvatskyi > Nevelske,Donetska,48.047609,37.673962
-8663, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novoselivka Druha,Donetska,48.047609,37.673962
-8664, Donetska > Yasynuvatskyi > Yasynuvatskyi > Opytne,Donetska,48.047609,37.673962
-8665, Donetska > Bakhmutskyi > Bakhmutskyi > Mykolaivka,Donetska,48.047609,37.673962
-8666, Donetska > Bakhmutskyi > Bakhmutskyi > Vershyna,Donetska,48.047609,37.673962
-8667, Donetska > Bakhmutskyi > Bakhmutskyi > Vyimka,Donetska,48.047609,37.673962
-8668, Donetska > Marinskyi > Marinskyi > Slavne,Donetska,48.047609,37.673962
-8669, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novobakhmutivka,Donetska,48.047609,37.673962
-8670, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pisky,Donetska,48.047609,37.673962
-8671, Donetska > Yasynuvatskyi > Yasynuvatskyi > Vodiane,Donetska,48.047609,37.673962
-8672, Donetska > Bakhmutskyi > Bakhmutskyi > Spirne,Donetska,48.047609,37.673962
-8673, Donetska > Toretska > Toretska > Pivdenne,Donetska,48.047609,37.673962
-8674, Donetska > Yasynuvatskyi > Yasynuvatskyi > Verkhnotoretske,Donetska,48.047609,37.673962
-8675, Donetska > Volnovaskyi > Volnovaskyi > Hranitne,Donetska,48.047609,37.673962
-8676, Donetska > Marinskyi > Marinskyi > Marinka,Donetska,48.047609,37.673962
-8677, Donetska > Toretska > Toretska > Novhorodske,Donetska,48.047609,37.673962
-8678, Donetska > Marinskyi > Marinskyi > Krasnohorivka,Donetska,48.047609,37.673962
-8679, Luhanska > Perevalskyi > Perevalskyi > Perevalsk,Luhanska,48.985485,39.017663
-8680, Luhanska > Krasnolutska > Krasnolutska > Khrustalnyi,Luhanska,48.985485,39.017663
-8681, Luhanska > Rovenkivska > Rovenkivska > Rovenky,Luhanska,48.985485,39.017663
-8682, Luhanska > Briankivska > Briankivska > Brianka,Luhanska,48.985485,39.017663
-8683, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Zymohiria,Luhanska,48.985485,39.017663
-8684, Luhanska > Stakhanovska > Stakhanovska > Kadiivka,Luhanska,48.985485,39.017663
-8685, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Slovianoserbsk,Luhanska,48.985485,39.017663
-8686, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Mykolaivka,Luhanska,48.985485,39.017663
-8687, Luhanska > Krasnodonska > Krasnodonska > Sorokyne,Luhanska,48.985485,39.017663
-8688, Luhanska > Antratsytska > Antratsytska > Antratsyt,Luhanska,48.985485,39.017663
-8689, Luhanska > Luhanska > Luhanska > Luhansk,Luhanska,48.985485,39.017663
-8690, Donetska > Bakhmutskyi > Bakhmutskyi > Luhanske,Donetska,48.047609,37.673962
-8691, Donetska > Volnovaskyi > Volnovaskyi > Novohnativka,Donetska,48.047609,37.673962
-8692, Luhanska > Popasnianskyi > Popasnianskyi > Zolote,Luhanska,48.985485,39.017663
-8693, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Heivka,Luhanska,48.985485,39.017663
-8694, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Staryi Aidar,Luhanska,48.985485,39.017663
-8695, Luhanska > Novoaidarskyi > Novoaidarskyi > Kriakivka,Luhanska,48.985485,39.017663
-8696, Luhanska > Novoaidarskyi > Novoaidarskyi > Krymske,Luhanska,48.985485,39.017663
-8697, Donetska > Bakhmutskyi > Bakhmutskyi > Zaitseve,Donetska,48.047609,37.673962
-8698, Donetska > Volnovaskyi > Volnovaskyi > Starohnativka,Donetska,48.047609,37.673962
-8699, Luhanska > Novoaidarskyi > Novoaidarskyi > Shchastia,Luhanska,48.985485,39.017663
-8700, Donetska > Novoazovskyi > Novoazovskyi > Sakhanka,Donetska,48.047609,37.673962
-8701, Donetska > Yasynuvatskyi > Yasynuvatskyi > Spartak,Donetska,48.047609,37.673962
-8702, Donetska > Dokuchaievska > Dokuchaievska > Dokuchaievsk,Donetska,48.047609,37.673962
-8703, Donetska > Donetska > Donetska > Donetsk,Donetska,48.047609,37.673962
-8704, Donetska > Horlivska > Horlivska > Holmivskyi,Donetska,48.047609,37.673962
-8705, Donetska > Horlivska > Horlivska > Horlivka,Donetska,48.047609,37.673962
-8706, Donetska > Horlivska > Horlivska > Panteleimonivka,Donetska,48.047609,37.673962
-8707, Donetska > Marinskyi > Marinskyi > Oleksandrivka,Donetska,48.047609,37.673962
-8708, Donetska > Marinskyi > Marinskyi > Staromykhailivka,Donetska,48.047609,37.673962
-8709, Donetska > Marinskyi > Marinskyi > Syhnalne,Donetska,48.047609,37.673962
-8710, Donetska > Yasynuvatskyi > Yasynuvatskyi > Betmanove,Donetska,48.047609,37.673962
-8711, Donetska > Marinskyi > Marinskyi > Katerynivka,Donetska,48.047609,37.673962
-8712, Donetska > Bakhmutskyi > Bakhmutskyi > Chasiv Yar,Donetska,48.047609,37.673962
-8713, Luhanska > Novoaidarskyi > Novoaidarskyi > Lopaskyne,Luhanska,48.985485,39.017663
-8714, Luhanska > Popasnianskyi > Popasnianskyi > Novooleksandrivka,Luhanska,48.985485,39.017663
-8715, Luhanska > Popasnianskyi > Popasnianskyi > Novozvanivka,Luhanska,48.985485,39.017663
-8716, Luhanska > Novoaidarskyi > Novoaidarskyi > Orikhove-Donetske,Luhanska,48.985485,39.017663
-8717, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Pishchane,Luhanska,48.985485,39.017663
-8718, Donetska > Horlivska > Horlivska > Hladosove,Donetska,48.047609,37.673962
-8719, Donetska > Volnovaskyi > Volnovaskyi > Staromarivka,Donetska,48.047609,37.673962
-8720, Luhanska > Novoaidarskyi > Novoaidarskyi > Lobacheve,Luhanska,48.985485,39.017663
-8721, Donetska > Bakhmutskyi > Bakhmutskyi > Vidrodzhennia,Donetska,48.047609,37.673962
-8722, Donetska > Volnovaskyi > Volnovaskyi > Chermalyk,Donetska,48.047609,37.673962
-8723, Luhanska > Popasnianskyi > Popasnianskyi > Troitske,Luhanska,48.985485,39.017663
-8724, Luhanska > Kirovska > Kirovska > Donetskyi,Luhanska,48.985485,39.017663
-8725, Luhanska > Kirovska > Kirovska > Holubivka,Luhanska,48.985485,39.017663
-8726, Luhanska > Pervomaiska > Pervomaiska > Pervomaisk,Luhanska,48.985485,39.017663
-8727, Donetska > Volnovaskyi > Volnovaskyi > Vodiane,Donetska,48.047609,37.673962
-8728, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Syze,Luhanska,48.985485,39.017663
-8729, Donetska > Volnovaskyi > Volnovaskyi > Berdianske,Donetska,48.047609,37.673962
-8730, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Bolotene,Luhanska,48.985485,39.017663
-8731, Donetska > Volnovaskyi > Volnovaskyi > Sopyne,Donetska,48.047609,37.673962
-8732, Donetska > Volnovaskyi > Volnovaskyi > Lebedynske,Donetska,48.047609,37.673962
-8733, Donetska > Volnovaskyi > Volnovaskyi > Pavlopil,Donetska,48.047609,37.673962
-8734, Luhanska > Popasnianskyi > Popasnianskyi > Katerynivka,Luhanska,48.985485,39.017663
-8735, Donetska > Yasynuvatskyi > Yasynuvatskyi > Lozove,Donetska,48.047609,37.673962
-8736, Donetska > Horlivska > Horlivska > Mykhailivka,Donetska,48.047609,37.673962
-8737, Donetska > Yasynuvatskyi > Yasynuvatskyi > Mineralne,Donetska,48.047609,37.673962
-8738, Donetska > Yasynuvatskyi > Yasynuvatskyi > Vesele,Donetska,48.047609,37.673962
-8739, Donetska > Yasynuvatskyi > Yasynuvatskyi > Yakovlivka,Donetska,48.047609,37.673962
-8740, Donetska > Snizhnianska > Snizhnianska > Snizhne,Donetska,48.047609,37.673962
-8741, Donetska > Torezka > Torezka > Chystiakove,Donetska,48.047609,37.673962
-8742, Donetska > Khartsyzka > Khartsyzka > Khartsyzk,Donetska,48.047609,37.673962
-8743, Donetska > Amvrosiivskyi > Amvrosiivskyi > Amvrosiivka,Donetska,48.047609,37.673962
-8744, Donetska > Shakhtarska > Shakhtarska > Shakhtarsk,Donetska,48.047609,37.673962
-8745, Donetska > Yenakiivska > Yenakiivska > Yenakiieve,Donetska,48.047609,37.673962
-8746, Donetska > Yasynuvatska > Yasynuvatska > Yasynuvata,Donetska,48.047609,37.673962
-8747, Donetska > Slovianskyi > Slovianskyi,Donetska,48.047609,37.673962
-8748, Luhanska > Novopskovskyi > Novopskovskyi,Luhanska,48.985485,39.017663
-8749, Luhanska > Popasnianskyi > Popasnianskyi,Luhanska,48.985485,39.017663
-8750, Luhanska > Rubizhanska > Rubizhanska,Luhanska,48.985485,39.017663
-8751, Luhanska > Sievierodonetska > Sievierodonetska,Luhanska,48.985485,39.017663
-8752, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi,Luhanska,48.985485,39.017663
-8753, Luhanska > Lysychanska > Lysychanska,Luhanska,48.985485,39.017663
-8754, Donetska > Volnovaskyi > Volnovaskyi > Novoselivka Druha,Donetska,48.047609,37.673962
-8755, Donetska > Lymanska > Lymanska,Donetska,48.047609,37.673962
-8756, Donetska > Nikolskyi > Nikolskyi,Donetska,48.047609,37.673962
-8757, Donetska > Novohrodivska > Novohrodivska,Donetska,48.047609,37.673962
-8758, Donetska > Oleksandrivskyi > Oleksandrivskyi,Donetska,48.047609,37.673962
-8759, Donetska > Pokrovska > Pokrovska,Donetska,48.047609,37.673962
-8760, Donetska > Selydivska > Selydivska,Donetska,48.047609,37.673962
-8761, Donetska > Slovianska > Slovianska,Donetska,48.047609,37.673962
-8762, Donetska > Yasynuvatskyi > Yasynuvatskyi,Donetska,48.047609,37.673962
-8763, Donetska > Avdiivska > Avdiivska,Donetska,48.047609,37.673962
-8764, Donetska > Kostiantynivska > Kostiantynivska,Donetska,48.047609,37.673962
-8765, Donetska > Kramatorska > Kramatorska,Donetska,48.047609,37.673962
-8766, Donetska > Marinskyi > Marinskyi,Donetska,48.047609,37.673962
-8767, Donetska > Volnovaskyi > Volnovaskyi,Donetska,48.047609,37.673962
-8768, Donetska > Vuhledarska > Vuhledarska,Donetska,48.047609,37.673962
-8769, Donetska > Manhushskyi > Manhushskyi,Donetska,48.047609,37.673962
-8770, Donetska > Toretska > Toretska,Donetska,48.047609,37.673962
-8771, Donetska > Bakhmutska > Bakhmutska,Donetska,48.047609,37.673962
-8772, Donetska > Dobropilska > Dobropilska,Donetska,48.047609,37.673962
-8773, Donetska > Druzhkivska > Druzhkivska,Donetska,48.047609,37.673962
-8774, Donetska > Mariupolska > Mariupolska,Donetska,48.047609,37.673962
-8775, Donetska > Bakhmutska > Bakhmutska > Bakhmut,Donetska,48.047609,37.673962
-8776, Donetska > Kostiantynivska > Kostiantynivska > Kostiantynivka,Donetska,48.047609,37.673962
-8777, Donetska > Marinskyi > Marinskyi > Kurakhove,Donetska,48.047609,37.673962
-8778, Luhanska > Sievierodonetska > Sievierodonetska > Sievierodonetsk,Luhanska,48.985485,39.017663
-8779, Donetska > Toretska > Toretska > Zalizne,Donetska,48.047609,37.673962
-8780, Donetska > Bakhmutskyi > Bakhmutskyi > Novoluhanske,Donetska,48.047609,37.673962
-8781, Donetska > Volnovaskyi > Volnovaskyi > Chernenko,Donetska,48.047609,37.673962
-8782, Donetska > Volnovaskyi > Volnovaskyi > Pyshchevyk,Donetska,48.047609,37.673962
-8783, Donetska > Bakhmutskyi > Bakhmutskyi > Klishchiivka,Donetska,48.047609,37.673962
-8784, Donetska > Bakhmutskyi > Bakhmutskyi > Myronivka,Donetska,48.047609,37.673962
-8785, Donetska > Bakhmutskyi > Bakhmutskyi > Roty,Donetska,48.047609,37.673962
-8786, Donetska > Bakhmutskyi > Bakhmutskyi > Serebrianka,Donetska,48.047609,37.673962
-8787, Donetska > Bakhmutskyi > Bakhmutskyi > Vozdvyzhenka,Donetska,48.047609,37.673962
-8788, Donetska > Kostiantynivskyi > Kostiantynivskyi > Illinivka,Donetska,48.047609,37.673962
-8789, Donetska > Toretska > Toretska > Druzhba,Donetska,48.047609,37.673962
-8790, Donetska > Toretska > Toretska > Pivnichne,Donetska,48.047609,37.673962
-8791, Donetska > Yasynuvatskyi > Yasynuvatskyi > Krasnohorivka,Donetska,48.047609,37.673962
-8792, Donetska > Yasynuvatskyi > Yasynuvatskyi > Netailove,Donetska,48.047609,37.673962
-8793, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pervomaiske,Donetska,48.047609,37.673962
-8794, Luhanska > Novoaidarskyi > Novoaidarskyi > Bakhmutivka,Luhanska,48.985485,39.017663
-8795, Luhanska > Novoaidarskyi > Novoaidarskyi > Hrechyshkyne,Luhanska,48.985485,39.017663
-8796, Luhanska > Sievierodonetska > Sievierodonetska > Bobrove,Luhanska,48.985485,39.017663
-8797, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Artema,Luhanska,48.985485,39.017663
-8798, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnia Vilkhova,Luhanska,48.985485,39.017663
-8799, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Plotyna,Luhanska,48.985485,39.017663
-8800, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnia Vilkhova,Luhanska,48.985485,39.017663
-8801, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Zolotarivka,Luhanska,48.985485,39.017663
-8802, Donetska > Marinskyi > Marinskyi > Novomykhailivka,Donetska,48.047609,37.673962
-8803, Luhanska > Novoaidarskyi > Novoaidarskyi > Trokhizbenka,Luhanska,48.985485,39.017663
-8804, Donetska > Bakhmutskyi > Bakhmutskyi > Odradivka,Donetska,48.047609,37.673962
-8805, Donetska > Volnovaskyi > Volnovaskyi > Mykolaivka,Donetska,48.047609,37.673962
-8806, Donetska > Bakhmutskyi > Bakhmutskyi > Zelenopillia,Donetska,48.047609,37.673962
-8807, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnii Minchenok,Luhanska,48.985485,39.017663
-8808, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Pshenychne,Luhanska,48.985485,39.017663
-8809, Donetska > Bakhmutskyi > Bakhmutskyi > Vesela Dolyna,Donetska,48.047609,37.673962
-8810, Donetska > Avdiivska > Avdiivska > Avdiivka,Donetska,48.047609,37.673962
-8811, Donetska > Bakhmutskyi > Bakhmutskyi > Kodema,Donetska,48.047609,37.673962
-8812, Donetska > Bakhmutskyi > Bakhmutskyi > Midna Ruda,Donetska,48.047609,37.673962
-8813, Donetska > Volnovaskyi > Volnovaskyi > Novotroitske,Donetska,48.047609,37.673962
-8814, Donetska > Volnovaskyi > Volnovaskyi > Orlovske,Donetska,48.047609,37.673962
-8815, Luhanska > Popasnianskyi > Popasnianskyi > Novotoshkivske,Luhanska,48.985485,39.017663
-8816, Luhanska > Popasnianskyi > Popasnianskyi > Popasna,Luhanska,48.985485,39.017663
-8817, Luhanska > Popasnianskyi > Popasnianskyi > Vyskryva,Luhanska,48.985485,39.017663
-8818, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Kolesnykivka,Luhanska,48.985485,39.017663
-8819, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Malynove,Luhanska,48.985485,39.017663
-8820, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnii Minchenok,Luhanska,48.985485,39.017663
-8821, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Peredilske,Luhanska,48.985485,39.017663
-8822, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Yuhanivka,Luhanska,48.985485,39.017663
-8823, Donetska > Bakhmutskyi > Bakhmutskyi > Pylypchatyne,Donetska,48.047609,37.673962
-8824, Donetska > Bakhmutskyi > Bakhmutskyi > Semyhiria,Donetska,48.047609,37.673962
-8825, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Serednoteple,Luhanska,48.985485,39.017663
-8826, Donetska > Marinskyi > Marinskyi > Paraskoviivka,Donetska,48.047609,37.673962
-8827, Donetska > Yasynuvatskyi > Yasynuvatskyi > Panteleimonivka,Donetska,48.047609,37.673962
-8828, Donetska > Yasynuvatskyi > Yasynuvatskyi > Oleksandropil,Donetska,48.047609,37.673962
-8829, Luhanska > Popasnianskyi > Popasnianskyi > Orikhove,Luhanska,48.985485,39.017663
-8830, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novoselivka,Donetska,48.047609,37.673962
-8831, Donetska > Volnovaskyi > Volnovaskyi > Novoselivka,Donetska,48.047609,37.673962
-8832, Donetska > Volnovaskyi > Volnovaskyi > Kamianka,Donetska,48.047609,37.673962
-8833, Donetska > Volnovaskyi > Volnovaskyi > Myrne,Donetska,48.047609,37.673962
-8834, Luhanska > Alchevska,Luhanska,48.985485,39.017663
-8835, Luhanska > Antratsytivskyi,Luhanska,48.985485,39.017663
-8836, Luhanska > Antratsytska,Luhanska,48.985485,39.017663
-8837, Luhanska > Briankivska,Luhanska,48.985485,39.017663
-8838, Luhanska > Dovzhanskyi,Luhanska,48.985485,39.017663
-8839, Luhanska > Krasnodonska,Luhanska,48.985485,39.017663
-8840, Luhanska > Krasnolutska,Luhanska,48.985485,39.017663
-8841, Luhanska > Luhanska,Luhanska,48.985485,39.017663
-8842, Luhanska > Perevalskyi,Luhanska,48.985485,39.017663
-8843, Luhanska > Pervomaiska,Luhanska,48.985485,39.017663
-8844, Luhanska > Popasnianskyi,Luhanska,48.985485,39.017663
-8845, Luhanska > Slovianoserbskyi,Luhanska,48.985485,39.017663
-8846, Luhanska > Sorokynskyi,Luhanska,48.985485,39.017663
-8847, Luhanska > Stakhanovska,Luhanska,48.985485,39.017663
-8848, Donetska > Zhdanivska,Donetska,48.047609,37.673962
-8849, Donetska > Yenakiivska,Donetska,48.047609,37.673962
-8850, Donetska > Amvrosiivskyi,Donetska,48.047609,37.673962
-8851, Donetska > Bakhmutskyi,Donetska,48.047609,37.673962
-8852, Donetska > Boikivskyi,Donetska,48.047609,37.673962
-8853, Donetska > Debaltsevcka,Donetska,48.047609,37.673962
-8854, Donetska > Dokuchaievska,Donetska,48.047609,37.673962
-8855, Donetska > Donetska,Donetska,48.047609,37.673962
-8856, Donetska > Horlivska,Donetska,48.047609,37.673962
-8857, Donetska > Khartsyzka,Donetska,48.047609,37.673962
-8858, Donetska > Kirovska,Donetska,48.047609,37.673962
-8859, Donetska > Makiivska,Donetska,48.047609,37.673962
-8860, Donetska > Novoazovskyi,Donetska,48.047609,37.673962
-8861, Donetska > Shakhtarska,Donetska,48.047609,37.673962
-8862, Donetska > Shakhtarskyi,Donetska,48.047609,37.673962
-8863, Donetska > Snizhnianska,Donetska,48.047609,37.673962
-8864, Donetska > Starobeshivskyi,Donetska,48.047609,37.673962
-8865, Donetska > Torezka,Donetska,48.047609,37.673962
-8866, Donetska > Yasynuvatska,Donetska,48.047609,37.673962
-8867, Luhanska > Lutuhynskyi,Luhanska,48.985485,39.017663
-8868, Donetska > Toretska,Donetska,48.047609,37.673962
-8869, Donetska > Yasynuvatskyi,Donetska,48.047609,37.673962
-8870, Luhanska > Kirovska,Luhanska,48.985485,39.017663
-8871, Luhanska > Krasnodonska > Krasnodonska,Luhanska,48.985485,39.017663
-8872, Luhanska > Sverdlovska,Luhanska,48.985485,39.017663
-8873, Luhanska > Antratsytivskyi > Antratsytivskyi > Krasnolutskyi,Luhanska,48.985485,39.017663
-8874, Luhanska > Stakhanovska > Stakhanovska,Luhanska,48.985485,39.017663
-8875, Donetska > Kramatorska,Donetska,48.047609,37.673962
-8876, Donetska > Pokrovskyi,Donetska,48.047609,37.673962
-8877, Ternopilska > Ternopilska,Ternopilska,49.402385,25.648542
-8878, Zakarpatska > Uzhhorodska,Zakarpatska,48.403607,23.275962
-8879, Luhanska > Sievierodonetska,Luhanska,48.985485,39.017663
-8880, Zaporizka > Zaporizka > Zaporizka,Zaporizka,47.267047,35.700095
-8881, Luhanska > Stanychno-Luhanskyi,Luhanska,48.985485,39.017663
-8882, Kyivska > Kyivska > Kyivska,Kyivska,50.299325,30.455344
-8883, Donetska > Volnovaskyi,Donetska,48.047609,37.673962
-8884, Donetska > Amvrosiivskyi > Amvrosiivskyi,Donetska,48.047609,37.673962
-8885, Donetska > Snizhnianska > Snizhnianska,Donetska,48.047609,37.673962
-8886, Donetska > Shakhtarska > Shakhtarska,Donetska,48.047609,37.673962
-8887, Luhanska > Antratsytivskyi > Antratsytivskyi,Luhanska,48.985485,39.017663
-8888, Luhanska > Lutuhynskyi > Lutuhynskyi > Cheliuskinets,Luhanska,48.985485,39.017663
-8889, Luhanska > Perevalskyi > Perevalskyi > Mykhailivka,Luhanska,48.985485,39.017663
-8890, Luhanska > Sverdlovska > Sverdlovska,Luhanska,48.985485,39.017663
-8891, Donetska > Boikivskyi > Boikivskyi,Donetska,48.047609,37.673962
-8892, Luhanska > Lutuhynskyi > Lutuhynskyi > Peremozhne,Luhanska,48.985485,39.017663
-8893, Luhanska > Perevalskyi > Perevalskyi > Komisarivka,Luhanska,48.985485,39.017663
-8894, Luhanska > Perevalskyi > Perevalskyi > Maloivanivka,Luhanska,48.985485,39.017663
-8895, Luhanska > Perevalskyi > Perevalskyi > Zorynsk,Luhanska,48.985485,39.017663
-8896, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Stepove,Luhanska,48.985485,39.017663
-8897, Luhanska > Lutuhynskyi > Lutuhynskyi > Kamianka,Luhanska,48.985485,39.017663
-8898, Luhanska > Perevalskyi > Perevalskyi > Olenivka,Luhanska,48.985485,39.017663
-8899, Donetska > Novoazovskyi > Novoazovskyi,Donetska,48.047609,37.673962
-8900, Donetska > Starobeshivskyi > Starobeshivskyi,Donetska,48.047609,37.673962
-8901, Luhanska > Lutuhynskyi > Lutuhynskyi > Lutuhyne,Luhanska,48.985485,39.017663
-8902, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Smile,Luhanska,48.985485,39.017663
-8903, Donetska > Debaltsevcka > Debaltsevcka > Debaltseve,Donetska,48.047609,37.673962
-8904, Donetska > Makiivska > Makiivska > Makiivka,Donetska,48.047609,37.673962
-8905, Luhanska > Lutuhynskyi > Lutuhynskyi > Rozkishne,Luhanska,48.985485,39.017663
-8906, Luhanska > Popasnianskyi > Popasnianskyi > Chornukhyne,Luhanska,48.985485,39.017663
-8907, Luhanska > Lutuhynskyi > Lutuhynskyi > Heorhiivka,Luhanska,48.985485,39.017663
-8908, Luhanska > Sorokynskyi > Sorokynskyi > Novosvitlivka,Luhanska,48.985485,39.017663
-8909, Donetska > Marinskyi > Marinskyi > Luhanske,Donetska,48.047609,37.673962
-8910, Donetska > Kirovska > Kirovska,Donetska,48.047609,37.673962
-8911, Donetska > Makiivska > Makiivska,Donetska,48.047609,37.673962
-8912, Donetska > Donetska > Donetska,Donetska,48.047609,37.673962
-8913, Donetska > Horlivska > Horlivska,Donetska,48.047609,37.673962
-8914, Dnipropetrovska > Dniprovska > Dniprovska > Dnipro,Dnipropetrovska,48.301032,34.844186
-8915, Lvivska > Lvivska > Lvivska > Lviv,Lvivska,49.717456,23.916579
-8916, Chernivetska > Chernivetska > Chernivetska > Chernivtsi,Chernivetska,48.26821,25.977472
-8917, Ivano-Frankivska > Ivano-Frankivska > Ivano-Frankivska > Ivano-Frankivsk,Ivano-Frankivska,48.702082,24.619994
-8918, Zaporizka > Zaporizka > Zaporizka > Zaporizhzhia,Zaporizka,47.267047,35.700095
-8919, Donetska > Khartsyzka > Khartsyzka > Ilovaisk,Donetska,48.047609,37.673962
-8920, Donetska > Khartsyzka > Khartsyzka > Zuivka,Donetska,48.047609,37.673962
-8921, Donetska > Novoazovskyi > Novoazovskyi > Siedove,Donetska,48.047609,37.673962
-8922, Donetska > Marinskyi,Donetska,48.047609,37.673962
-8923, Luhanska > Briankivska > Briankivska,Luhanska,48.985485,39.017663
-8924, Luhanska > Kirovska > Kirovska,Luhanska,48.985485,39.017663
-8925, Luhanska > Pervomaiska > Pervomaiska,Luhanska,48.985485,39.017663
-8926, Luhanska > Slovianoserbskyi > Slovianoserbskyi,Luhanska,48.985485,39.017663
-8927, Chernivetska,Chernivetska,48.26821,25.977472
-8928, Ivano-Frankivska,Ivano-Frankivska,48.702082,24.619994
-8929, Lvivska,Lvivska,49.717456,23.916579
-8930, Zakarpatska,Zakarpatska,48.403607,23.275962
-8931, Vinnytska,Vinnytska,48.920481,28.685515
-8932, Mykolaivska,Mykolaivska,47.438624,31.782032
-8933, Donetska > Donetskyi > Khartsyzka,Donetska,48.04731497,37.6741199
-8934, Donetska > Horlivskyi > Horlivska,Donetska,48.04731497,37.6741199
-8935, Donetska > Horlivskyi > Snizhnianska,Donetska,48.04731497,37.6741199
-8936, Donetska > Horlivskyi > Yenakiievska,Donetska,48.04731497,37.6741199
-8937, Donetska > Donetskyi > Donetska,Donetska,48.04731497,37.6741199
-8938, Donetska > Donetskyi > Amvrosiivska,Donetska,48.04731497,37.6741199
-8939, Donetska > Donetskyi > Makiivska,Donetska,48.04731497,37.6741199
-8940, Donetska > Horlivskyi > Chystiakivska,Donetska,48.04731497,37.6741199
-8941, Donetska > Horlivskyi > Debaltsivska,Donetska,48.04731497,37.6741199
-8942, Donetska > Kalmiuskyi > Boikivska,Donetska,48.04731497,37.6741199
-8943, Donetska > Kalmiuskyi > Starobeshivska,Donetska,48.04731497,37.6741199
-8944, Donetska > Horlivskyi > Shakhtarska,Donetska,48.04731497,37.6741199
-8838, Luhanska > Dovzhanskyi,Luhanska,48.98551927,39.01773003
-8945, Luhanska > Alchevskyi,Luhanska,48.98551927,39.01773003
-8946, Luhanska > Rovenkivskyi,Luhanska,48.98551927,39.01773003
-8947, Luhanska > Luhanskyi,Luhanska,48.98551927,39.01773003
-8948, Donetska > Mariupolskyi,Donetska,48.04731497,37.6741199
-8949, Luhanska > Sievierodonetskyi,Luhanska,48.98551927,39.01773003
-8876, Donetska > Pokrovskyi,Donetska,48.04731497,37.6741199
-8883, Donetska > Volnovaskyi,Donetska,48.04731497,37.6741199
-8950, Luhanska > Shchastynskyi,Luhanska,48.98551927,39.01773003
-8851, Donetska > Bakhmutskyi,Donetska,48.04731497,37.6741199
-8951, Donetska > Mariupolskyi > Manhushska,Donetska,48.04731497,37.6741199
-8952, Luhanska > Shchastynskyi > Stanychno-Luhanska,Luhanska,48.98551927,39.01773003
-8953, Dnipropetrovska,Dnipropetrovska,48.41701338,34.73173409
-8954, Donetska > Pokrovskyi > Ocheretynska,Donetska,48.04731497,37.6741199
-8955, Luhanska > Sievierodonetskyi > Popasnianska,Luhanska,48.98551927,39.01773003
-8956, Donetska > Kramatorskyi > Illinivska,Donetska,48.04731497,37.6741199
-8957, Donetska > Volnovaskyi > Vuhledarska,Donetska,48.04731497,37.6741199
-8958, Luhanska > Shchastynskyi > Shchastynska,Luhanska,48.98551927,39.01773003
-8959, Luhanska > Sievierodonetskyi > Hirska,Luhanska,48.98551927,39.01773003
-8960, Donetska > Pokrovskyi > Marinska,Donetska,48.04731497,37.6741199
-8961, Donetska > Mariupolskyi > Sartanska,Donetska,48.04731497,37.6741199
-8962, Luhanska > Shchastynskyi > Shyrokivska,Luhanska,48.98551927,39.01773003
-8963, Donetska > Bakhmutskyi > Svitlodarska,Donetska,48.04731497,37.6741199
-8964, Donetska > Pokrovskyi > Kurakhivska,Donetska,48.04731497,37.6741199
-8965, Zaporizka,Zaporizka,47.2670072,35.70000553
-8966, Kharkivska,Kharkivska,49.61499032,36.50491022
-8967, Donetska > Bakhmutskyi > Toretska,Donetska,48.04731497,37.6741199
-8968, Luhanska > Luhanskyi > Luhanska > Luhansk,Luhanska,48.98551927,39.01773003
-8969, Donetska > Pokrovskyi > Kurakhivska > Dachne,Donetska,48.04731497,37.6741199
-8970, Donetska > Pokrovskyi > Kurakhivska > Kurakhivka,Donetska,48.04731497,37.6741199
-8971, Donetska > Pokrovskyi > Kurakhivska > Hirnyk,Donetska,48.04731497,37.6741199
-8972, Donetska > Pokrovskyi > Kurakhivska > Kurakhove,Donetska,48.04731497,37.6741199
-8973, Donetska > Pokrovskyi > Selydivska > Ukrainsk,Donetska,48.04731497,37.6741199
-8974, Luhanska > Shchastynskyi > Nyzhnoteplivska,Luhanska,48.98551927,39.01773003
-8975, Donetska > Pokrovskyi > Udachnenska,Donetska,48.04731497,37.6741199
-8976, Donetska > Volnovaskyi > Komarska,Donetska,48.04731497,37.6741199
-8977, Luhanska > Sievierodonetskyi > Sievierodonetska,Luhanska,48.98551927,39.01773003
-8978, Donetska > Pokrovskyi > Avdiivska,Donetska,48.04731497,37.6741199
-8979, Donetska > Pokrovskyi > Pokrovska,Donetska,48.04731497,37.6741199
-8980, Donetska > Pokrovskyi > Selydivska,Donetska,48.04731497,37.6741199
-8981, Donetska > Bakhmutskyi > Svitlodarska > Travneve,Donetska,48.04731497,37.6741199
-8982, Donetska > Bakhmutskyi > Svitlodarska > Zaitseve,Donetska,48.04731497,37.6741199
-8983, Donetska > Bakhmutskyi > Toretska > Ozarianivka,Donetska,48.04731497,37.6741199
-8984, Donetska > Pokrovskyi > Marinska > Slavne,Donetska,48.04731497,37.6741199
-8985, Donetska > Pokrovskyi > Ocheretynska > Netailove,Donetska,48.04731497,37.6741199
-8986, Donetska > Pokrovskyi > Ocheretynska > Nevelske,Donetska,48.04731497,37.6741199
-8987, Donetska > Pokrovskyi > Ocheretynska > Vodiane,Donetska,48.04731497,37.6741199
-8988, Luhanska > Shchastynskyi > Shchastynska > Peredilske,Luhanska,48.98551927,39.01773003
-8989, Luhanska > Sievierodonetskyi > Popasnianska > Vyskryva,Luhanska,48.98551927,39.01773003
-8990, Luhanska > Sievierodonetskyi > Popasnianska > Novozvanivka,Luhanska,48.98551927,39.01773003
-8991, Donetska > Donetskyi > Ilovaiska,Donetska,48.04731497,37.6741199
-8992, Donetska > Donetskyi > Yasynuvatska,Donetska,48.04731497,37.6741199
-8993, Donetska > Horlivskyi > Khrestivska,Donetska,48.04731497,37.6741199
-8994, Donetska > Horlivskyi,Donetska,48.04731497,37.6741199
-8995, Donetska > Kalmiuskyi,Donetska,48.04731497,37.6741199
-8996, Kyivska,Kyivska,50.4488566,30.54818081
-8997, Donetska > Donetskyi,Donetska,48.04731497,37.6741199
-8929, Lvivska,Lvivska,49.71736367,23.91660016
-8931, Vinnytska,Vinnytska,48.92044212,28.6855358
-8998, Luhanska > Alchevskyi > Kadiivska > Holubivka,Luhanska,48.98551927,39.01773003
-8999, Luhanska > Dovzhanskyi > Sokyrianska > Sorokyne,Luhanska,48.98551927,39.01773003
-9000, Luhanska > Alchevskyi > Zymohirivska > Slovianoserbsk,Luhanska,48.98551927,39.01773003
-9001, Luhanska > Rovenkivskyi > Rovenkivska > Rovenky,Luhanska,48.98551927,39.01773003
-9002, Luhanska > Alchevskyi > Kadiivska > Kadiivka,Luhanska,48.98551927,39.01773003
-9003, Luhanska > Alchevskyi > Kadiivska > Pervomaisk,Luhanska,48.98551927,39.01773003
-9004, Donetska > Kramatorskyi,Donetska,48.04731497,37.6741199
-9005, Donetska > Donetskyi > Donetska > Staromykhailivka,Donetska,48.04731497,37.6741199
-9006, Donetska > Horlivskyi > Khrestivska > Khrestivka,Donetska,48.04731497,37.6741199
-9007, Donetska > Kalmiuskyi > Dokuchaievska > Dokuchaievsk,Donetska,48.04731497,37.6741199
-9008, Donetska > Kalmiuskyi > Dokuchaievska > Liubivka,Donetska,48.04731497,37.6741199
-9009, Donetska > Kalmiuskyi > Dokuchaievska > Olenivka,Donetska,48.04731497,37.6741199
-9010, Donetska > Kalmiuskyi > Novoazovska,Donetska,48.04731497,37.6741199
-9011, Donetska > Kalmiuskyi > Starobeshivska > Starobesheve,Donetska,48.04731497,37.6741199
-9012, Donetska > Horlivskyi > Zhdanivska,Donetska,48.04731497,37.6741199
-9013, Cherkaska,Cherkaska,49.26012386,31.35229576
-9014, Chernihivska,Chernihivska,51.35503976,32.00380063
-8927, Chernivetska,Chernivetska,48.26819792,25.97702081
-9015, Donetska,Donetska,48.04731497,37.6741199
-8928, Ivano-Frankivska,Ivano-Frankivska,48.70165698,24.61942916
-9016, Khersonska,Khersonska,46.67277916,33.52476149
-9017, Khmelnytska,Khmelnytska,49.50735912,26.92962493
-9018, Kirovohradska,Kirovohradska,48.47227492,32.08162392
-8996, Kyivska,Kyivska,49.81429818,30.33185237
-9019, Luhanska,Luhanska,48.98551927,39.01773003
-8932, Mykolaivska,Mykolaivska,47.43903776,31.78150644
-9020, Odeska,Odeska,46.84612595,30.45745785
-9021, Poltavska,Poltavska,49.73234182,33.77861264
-9022, Rivnenska,Rivnenska,50.91898443,26.51503357
-9023, Sumska,Sumska,51.01414035,33.96587116
-9024, Ternopilska,Ternopilska,49.40183273,25.64826593
-9025, Volynska,Volynska,51.19084609,24.87058676
-8930, Zakarpatska,Zakarpatska,48.4036198,23.27591388
-9026, Zhytomyrska,Zhytomyrska,50.63958619,28.47577421
-9027, Sucre > Sucre,Sucre,10.40997648,-63.34957604
-9028, Bolívar > Cedeño,Bolívar,6.23411231,-63.52467747
-9029, Zulia > Indígena Bolivariano Guajira,Zulia,9.89615762,-72.0865941
-9030, Zulia > Rosario De Perijá,Zulia,9.89615762,-72.0865941
-9031, Amazonas > Autónomo Atures,Amazonas,3.36082497,-65.94378949
-9032, Anzoátegui > Anaco,Anzoátegui,8.94112819,-64.42571176
-9033, Anzoátegui > Simón Rodríguez,Anzoátegui,8.94112819,-64.42571176
-9034, Falcón > Carirubana,Falcón,11.06828164,-69.77520537
-9035, Falcón > Falcón,Falcón,11.06828164,-69.77520537
-9036, Falcón > Miranda,Falcón,11.06828164,-69.77520537
-9037, Miranda > Bolivariano Guaicaipuro,Miranda,10.2374913,-66.37928634
-9038, Miranda > Lander,Miranda,10.2374913,-66.37928634
-9039, Miranda > Zamora,Miranda,10.2374913,-66.37928634
-9040, Sucre > Ribero,Sucre,10.40997648,-63.34957604
-9041, Anzoátegui > Juan Antonio Sotillo,Anzoátegui,8.94112819,-64.42571176
-9042, Bolívar > Angostura Del Orinoco,Bolívar,6.23411231,-63.52467747
-9043, Delta Amacuro > Tucupita,Delta Amacuro,8.77433049,-61.31427929
-9044, Distrito Capital > Libertador,Distrito Capital,10.46971283,-66.99452881
-9045, Sucre > Bermúdez,Sucre,10.40997648,-63.34957604
-9046, Zulia > Lagunillas,Zulia,9.89615762,-72.0865941
-9047, Zulia > Valmore Rodríguez,Zulia,9.89615762,-72.0865941
-9048, Miranda > Sucre,Miranda,10.2374913,-66.37928634
-9049, Miranda > Urdaneta,Miranda,10.2374913,-66.37928634
-9050, Zulia > Machiques De Perijá,Zulia,9.89615762,-72.0865941
-9051, Zulia > Maracaibo,Zulia,9.89615762,-72.0865941
-9052, Zulia > San Francisco,Zulia,9.89615762,-72.0865941
-9053, Bolívar > Caroní,Bolívar,6.23411231,-63.52467747
-9054, Miranda > Sucre > Petare,Miranda,10.2374913,-66.37928634
-9055, Anzoátegui > Juan Antonio Sotillo > Puerto La Cruz,Anzoátegui,8.94112819,-64.42571176
-9056, Miranda > Sucre > La Dolorita,Miranda,10.2374913,-66.37928634
-9057, Distrito Capital > Libertador > Altagracia,Distrito Capital,10.46971283,-66.99452881
-9058, Distrito Capital > Libertador > Coche,Distrito Capital,10.46971283,-66.99452881
-9059, Distrito Capital > Libertador > El Valle,Distrito Capital,10.46971283,-66.99452881
-9060, Distrito Capital > Libertador > San Pedro,Distrito Capital,10.46971283,-66.99452881
-9061, Miranda > Cristóbal Rojas > Charallave,Miranda,10.2374913,-66.37928634
-9062, Miranda > Plaza > Guarenas,Miranda,10.2374913,-66.37928634
-9063, Falcón > Miranda > Santa Ana,Falcón,11.06828164,-69.77520537
-9064, Zulia > Santa Rita,Zulia,9.89615762,-72.0865941
-9065, Miranda > Baruta,Miranda,10.2374913,-66.37928634
-9066, Miranda > Páez,Miranda,10.2374913,-66.37928634
-9067, Miranda > Chacao,Miranda,10.2374913,-66.37928634
-9068, Anzoátegui > Diego Bautista Urbaneja,Anzoátegui,8.94112819,-64.42571176
-9069, Delta Amacuro > Pedernales,Delta Amacuro,8.77433049,-61.31427929
-9070, Miranda > Sucre > Leoncio Martínez,Miranda,10.2374913,-66.37928634
-9071, Miranda > Baruta > Las Minas De Baruta,Miranda,10.2374913,-66.37928634
-9072, Miranda > El Hatillo,Miranda,10.2374913,-66.37928634
-9073, Miranda > Brión,Miranda,10.2374913,-66.37928634
-9074, Sucre > Benítez,Sucre,10.40997648,-63.34957604
-9075, Apure > San Fernando,Apure,7.1305767,-68.80698907
-9076, Apure > Achaguas,Apure,7.1305767,-68.80698907
-9077, Apure > Biruaca,Apure,7.1305767,-68.80698907
-9078, Apure > Páez,Apure,7.1305767,-68.80698907
-9079, Delta Amacuro > Antonio Díaz,Delta Amacuro,8.77433049,-61.31427929
-9080, Amazonas > Autónomo Autana,Amazonas,3.36082497,-65.94378949
-9081, Delta Amacuro > Casacoima,Delta Amacuro,8.77433049,-61.31427929
-9082, Amazonas > Autónomo Alto Orinoco,Amazonas,3.36082497,-65.94378949
-9083, Bolívar > Gran Sabana,Bolívar,6.23411231,-63.52467747
-9084, Amazonas > Autónomo Atabapo,Amazonas,3.36082497,-65.94378949
-9085, Bolívar > Sucre,Bolívar,6.23411231,-63.52467747
-9086, Distrito Capital > Libertador > La Vega,Distrito Capital,10.46971283,-66.99452881
-9087, Distrito Capital > Libertador > Santa Rosalía,Distrito Capital,10.46971283,-66.99452881
-9088, Zulia > Colón > San Carlos Del Zulia,Zulia,9.89615762,-72.0865941
-9089, Distrito Capital > Libertador > El Paraíso,Distrito Capital,10.46971283,-66.99452881
-9090, Apure > Rómulo Gallegos,Apure,7.1305767,-68.80698907
-9091, Bolívar > El Callao,Bolívar,6.23411231,-63.52467747
-9092, Bolívar > Roscio,Bolívar,6.23411231,-63.52467747
-9093, Apure > Pedro Camejo,Apure,7.1305767,-68.80698907
-9094, Bolívar > Sifontes,Bolívar,6.23411231,-63.52467747
-9095, Apure > Muñoz,Apure,7.1305767,-68.80698907
-9096, Sucre > Cruz Salmerón Acosta,Sucre,10.40997648,-63.34957604
-9097,Ibb -> Ar Radmah -> Thee Ashra,Ibb,14.05521633,44.26319019
-9098,Ibb -> Ar Radmah -> Al-Ratmah,Ibb,14.05521633,44.26319019
-9099,Sana'a -> Sa'fan,Sana'a,15.12394358,44.78727759
-9100,Sana'a -> Manakhah,Sana'a,15.12394358,44.78727759
-9101,Ibb -> Far Al Udayn,Ibb,14.05521633,44.26319019
-9102,Taizz -> As Silw,Taizz,13.39753802,43.68772167
-9103,Taizz -> Jabal Habashy,Taizz,13.39753802,43.68772167
-9104,Sana'a -> Hamdan,Sana'a,15.12394358,44.78727759
-9105,Abyan -> Ahwar,Abyan,13.6955485,46.50340692
-9106,Al Hudaydah -> As Sukhnah,Al Hudaydah,15.00062889,43.04031959
-9107,Abyan -> Khanfir,Abyan,13.6955485,46.50340692
-9108,Al Hudaydah -> Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
-9109,Dhamar -> Wusab As Safil,Dhamar,14.50737016,44.42760976
-9110,Hajjah -> Aslem,Hajjah,16.27488061,43.11225315
-9111,Hajjah -> Abs,Hajjah,16.27488061,43.11225315
-9112,Hajjah -> Qafl Shamer,Hajjah,16.27488061,43.11225315
-9113,Taizz -> Al Misrakh,Taizz,13.39753802,43.68772167
-9114,Taizz -> Al Misrakh -> Al-Sarfah,Taizz,13.39753802,43.68772167
-9115,Hajjah -> Qafl Shamer -> Bait Al-Zeeh,Hajjah,16.27488061,43.11225315
-9116,Amran -> Bani Suraim,Amran,16.3570904,43.87269369
-9117,Amran -> Huth,Amran,16.3570904,43.87269369
-9118,Amran -> Al Qaflah,Amran,16.3570904,43.87269369
-9119,Amran -> Khamir,Amran,16.3570904,43.87269369
-9120,Sa'ada -> Haydan,Sa'ada,17.25112185,43.50274965
-9121,Lahj -> Al Musaymir,Lahj,12.96593663,44.41733354
-9122,Lahj -> Al Maqatirah,Lahj,12.96593663,44.41733354
-9123,Sa'ada -> Saqayn,Sa'ada,17.25112185,43.50274965
-9124,Abyan -> Zingibar,Abyan,13.6955485,46.50340692
-9125,Hajjah -> Bani Qa'is,Hajjah,16.27488061,43.11225315
-9126,Al Hudaydah -> As Sukhnah -> Al-Damegh,Al Hudaydah,15.00062889,43.04031959
-9127,Al Hudaydah -> As Sukhnah -> Al-Madafen,Al Hudaydah,15.00062889,43.04031959
-9128,Al Hudaydah -> Al Qanawis -> Deer Dahmash,Al Hudaydah,15.00062889,43.04031959
-9129,Al Hudaydah -> As Sukhnah -> Al-Aqaryah,Al Hudaydah,15.00062889,43.04031959
-9130,Al Jawf -> Al Maton,Al Jawf,16.76813934,46.01014819
-9131,Amran -> Kharif,Amran,16.3570904,43.87269369
-9132,Ibb -> As Sayyani,Ibb,14.05521633,44.26319019
-9133,Sana'a -> Bani Matar,Sana'a,15.12394358,44.78727759
-9134,Sana'a,Sana'a,15.12394358,44.78727759
-9135,Al Dhale'e -> Jahaf,Al Dhale'e,13.85996808,44.67423913
-9136,Sa'ada -> Monabbih,Sa'ada,17.25112185,43.50274965
-9137,Al Dhale'e -> Al Azariq,Al Dhale'e,13.85996808,44.67423913
-9138,Al Hudaydah -> Bajil,Al Hudaydah,15.00062889,43.04031959
-9139,Ibb -> Al Udayn,Ibb,14.05521633,44.26319019
-9140,Al Jawf -> Bart Al Anan,Al Jawf,16.76813934,46.01014819
-9141,Hajjah -> Hajjah City,Hajjah,16.27488061,43.11225315
-9142,Sa'ada -> Razih,Sa'ada,17.25112185,43.50274965
-9143,Ibb -> Mudhaykhirah,Ibb,14.05521633,44.26319019
-9144,Ibb -> Hazm Al Udayn,Ibb,14.05521633,44.26319019
-9145,Sana'a -> Manakhah -> Manakhah,Sana'a,15.12394358,44.78727759
-9146,Hajjah,Hajjah,16.27488061,43.11225315
-9147,Abyan -> Rasad,Abyan,13.6955485,46.50340692
-9148,Hajjah -> Abs -> Bani Ahmed,Hajjah,16.27488061,43.11225315
-9149,Hajjah -> Abs -> Dabn,Hajjah,16.27488061,43.11225315
-9150,Al Hudaydah -> Az Zuhrah -> Deer Al-Sayed,Al Hudaydah,15.00062889,43.04031959
-9151,Al Hudaydah -> Az Zuhrah -> Noaman,Al Hudaydah,15.00062889,43.04031959
-9152,Hajjah -> Abs -> Abs,Hajjah,16.27488061,43.11225315
-9153,Hajjah -> Hayran -> Al-Masharefah,Hajjah,16.27488061,43.11225315
-9154,Hajjah -> Hayran -> Bani Fadhel,Hajjah,16.27488061,43.11225315
-9155,Al Hudaydah -> Az Zuhrah -> Deer Mansour,Al Hudaydah,15.00062889,43.04031959
-9156,Al Hudaydah -> Az Zuhrah -> Cadf Bani Odhaby,Al Hudaydah,15.00062889,43.04031959
-9157,Dhamar -> Jabal Ash sharq,Dhamar,14.50737016,44.42760976
-9158,Hadramaut -> Al Mukalla -> Al-Masna,Hadramaut,16.80924424,48.84638589
-9159,Hadramaut -> Al Mukalla -> Bein Al-Jebal,Hadramaut,16.80924424,48.84638589
-9160,Hadramaut -> Al Mukalla -> Hamam,Hadramaut,16.80924424,48.84638589
-9161,Hadramaut -> Ghayl Ba Wazir -> Al-Carah,Hadramaut,16.80924424,48.84638589
-9162,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
-9163,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Hadramaut,16.80924424,48.84638589
-9164,Hadramaut -> Ghayl Ba Wazir -> Gheil Al-Halekah,Hadramaut,16.80924424,48.84638589
-9165,Hadramaut -> Ghayl Ba Wazir -> Ras Al-Aqeim,Hadramaut,16.80924424,48.84638589
-9166,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
-9167,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-9168,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
-9169,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
-9170,Abyan -> Sarar,Abyan,13.6955485,46.50340692
-9171,Aden -> Dar Sad,Aden,12.84865928,45.00201169
-9172,Al Hudaydah -> Al Qanawis -> Al-Hameis,Al Hudaydah,15.00062889,43.04031959
-9173,Sana'a -> Hamdan -> Dharwan,Sana'a,15.12394358,44.78727759
-9174,Lahj -> Al Qabbaytah -> Al-Dhabrah,Lahj,12.96593663,44.41733354
-9175,Al Jawf -> Rajuzah,Al Jawf,16.76813934,46.01014819
-9176,Marib -> Harib Al Qaramish,Marib,15.56841151,45.76081505
-9177,Marib -> Marib,Marib,15.56841151,45.76081505
-9178,Marib -> Marib City,Marib,15.56841151,45.76081505
-9179,Hajjah -> Aflah Al Yaman -> Al-Mezab,Hajjah,16.27488061,43.11225315
-9180,Al Hudaydah -> Al Hajjaylah -> Al-Hujailah,Al Hudaydah,15.00062889,43.04031959
-9181,Hajjah -> Ash Shaghadirah -> Al-Hawyah,Hajjah,16.27488061,43.11225315
-9182,Hajjah -> Hajjah,Hajjah,16.27488061,43.11225315
-9183,Lahj -> Al Maqatirah -> Al-Mahelah,Lahj,12.96593663,44.41733354
-9184,Lahj -> Al Maqatirah -> Al-Maseejd,Lahj,12.96593663,44.41733354
-9185,Lahj -> Al Maqatirah -> Al-Cabeebah,Lahj,12.96593663,44.41733354
-9186,Lahj -> Al Maqatirah -> Al-Haneeshah,Lahj,12.96593663,44.41733354
-9187,Lahj -> Al Maqatirah -> Al-Mahraqah,Lahj,12.96593663,44.41733354
-9188,Lahj -> Al Maqatirah -> Araf,Lahj,12.96593663,44.41733354
-9189,Lahj -> Al Maqatirah -> Al-Barh,Lahj,12.96593663,44.41733354
-9190,Sana'a -> Sa'fan -> Al-Zabyah,Sana'a,15.12394358,44.78727759
-9191,Al Hudaydah -> As Sukhnah -> Coheil,Al Hudaydah,15.00062889,43.04031959
-9192,Al Hudaydah -> Bura -> Acamat Al-Sharf,Al Hudaydah,15.00062889,43.04031959
-9193,Al Hudaydah -> Bura -> Al-Buaymi,Al Hudaydah,15.00062889,43.04031959
-9194,Al Hudaydah -> Bura -> Al-Caheb,Al Hudaydah,15.00062889,43.04031959
-9195,Al Hudaydah -> Bura -> Al-Dhareef,Al Hudaydah,15.00062889,43.04031959
-9196,Al Hudaydah -> Bura -> Al-Jahatemah,Al Hudaydah,15.00062889,43.04031959
-9197,Al Hudaydah -> Bura -> Al-Merkham,Al Hudaydah,15.00062889,43.04031959
-9198,Al Hudaydah -> Bura -> Al-Nashah,Al Hudaydah,15.00062889,43.04031959
-9199,Al Hudaydah -> Bura -> Al-Qad,Al Hudaydah,15.00062889,43.04031959
-9200,Al Hudaydah -> Bura -> Al-Thari,Al Hudaydah,15.00062889,43.04031959
-9201,Al Hudaydah -> Bura -> Bani Al-Abadi,Al Hudaydah,15.00062889,43.04031959
-9202,Al Hudaydah -> Bura -> Beineen,Al Hudaydah,15.00062889,43.04031959
-9203,Al Hudaydah -> Bura -> Eiuon,Al Hudaydah,15.00062889,43.04031959
-9204,Al Hudaydah -> Bura -> Jailan,Al Hudaydah,15.00062889,43.04031959
-9205,Al Hudaydah -> Bura -> Mahwal,Al Hudaydah,15.00062889,43.04031959
-9206,Al Hudaydah -> Bura -> Odhr,Al Hudaydah,15.00062889,43.04031959
-9207,Al Hudaydah -> Bura -> Reqab,Al Hudaydah,15.00062889,43.04031959
-9208,Al Hudaydah -> Bura -> Abr Sad,Al Hudaydah,15.00062889,43.04031959
-9209,Al Hudaydah -> Bura -> Haz Al-Shamah,Al Hudaydah,15.00062889,43.04031959
-9210,Al Hudaydah -> Bura -> Rajn,Al Hudaydah,15.00062889,43.04031959
-9211,Al Hudaydah -> Bura -> Al-Cubah,Al Hudaydah,15.00062889,43.04031959
-9212,Hadramaut -> Al Abr,Hadramaut,16.80924424,48.84638589
-9213,Lahj -> Al Milah,Lahj,12.96593663,44.41733354
-9214,Al Hudaydah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-9215,Hadramaut -> Yabuth,Hadramaut,16.80924424,48.84638589
-9216,Hadramaut -> Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-9217,Ibb,Ibb,14.05521633,44.26319019
-9218,Taizz,Taizz,13.39753802,43.68772167
-9219,Abyan -> Al Wade'a,Abyan,13.6955485,46.50340692
-9220,Abyan -> Lawdar,Abyan,13.6955485,46.50340692
-9221,Abyan -> Mudiyah,Abyan,13.6955485,46.50340692
-9222,Aden -> Al Buraiqeh,Aden,12.84865928,45.00201169
-9223,Hajjah -> Bakil Al Mir,Hajjah,16.27488061,43.11225315
-9224,Hajjah -> Al Jamimah,Hajjah,16.27488061,43.11225315
-9225,Hajjah -> Ash Shaghadirah,Hajjah,16.27488061,43.11225315
-9226,Hajjah -> Washhah,Hajjah,16.27488061,43.11225315
-9227,Hajjah -> Kushar,Hajjah,16.27488061,43.11225315
-9228,Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
-9229,Amran -> Al Ashah,Amran,16.3570904,43.87269369
-9230,Amran -> Al Madan,Amran,16.3570904,43.87269369
-9231,Amran -> Harf Sufyan,Amran,16.3570904,43.87269369
-9232,Amran -> As Sawd,Amran,16.3570904,43.87269369
-9233,Al Bayda -> Radman Al Awad,Al Bayda,14.21742373,45.55495025
-9234,Al Bayda -> Al Malagim,Al Bayda,14.21742373,45.55495025
-9235,Al Bayda -> Al Bayda City,Al Bayda,14.21742373,45.55495025
-9236,Al Bayda -> Ash Sharyah,Al Bayda,14.21742373,45.55495025
-9237,Al Bayda -> Mukayras,Al Bayda,14.21742373,45.55495025
-9238,Al Bayda -> Al Bayda,Al Bayda,14.21742373,45.55495025
-9239,Al Bayda,Al Bayda,14.21742373,45.55495025
-9240,Al Bayda -> Rada',Al Bayda,14.21742373,45.55495025
-9241,Taizz -> At Ta'iziyah,Taizz,13.39753802,43.68772167
-9242,Taizz -> Al  Mukha,Taizz,13.39753802,43.68772167
-9243,Taizz -> Al Wazi'iyah,Taizz,13.39753802,43.68772167
-9244,Taizz -> Maqbanah,Taizz,13.39753802,43.68772167
-9245,Taizz -> Shara'b Ar Rawnah,Taizz,13.39753802,43.68772167
-9246,Dhamar -> Dhamar City,Dhamar,14.50737016,44.42760976
-9247,Dhamar -> Jahran,Dhamar,14.50737016,44.42760976
-9248,Dhamar -> Utmah,Dhamar,14.50737016,44.42760976
-9249,Dhamar -> Wusab Al Ali,Dhamar,14.50737016,44.42760976
-9250,Dhamar -> Anss,Dhamar,14.50737016,44.42760976
-9251,Al Mahwit,Al Mahwit,15.40140161,43.59523566
-9252,Amanat Al Asimah -> Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
-9253,Amanat Al Asimah -> As Sabain,Amanat Al Asimah,15.36598719,44.2020645
-9254,Amanat Al Asimah -> Az'zal,Amanat Al Asimah,15.36598719,44.2020645
-9255,Amanat Al Asimah -> Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
-9256,Amanat Al Asimah -> Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
-9257,Raymah,Raymah,14.59985617,43.68772167
-9258,Amran,Amran,16.3570904,43.87269369
-9259,Raymah -> Al Jafariyah,Raymah,14.59985617,43.68772167
-9260,Raymah -> As Salafiyah,Raymah,14.59985617,43.68772167
-9261,Raymah -> Mazhar,Raymah,14.59985617,43.68772167
-9262,Raymah -> Bilad At Ta'am,Raymah,14.59985617,43.68772167
-9263,Raymah -> Kusmah,Raymah,14.59985617,43.68772167
-9264,Raymah -> Al Jabin,Raymah,14.59985617,43.68772167
-9265,Dhamar -> Jahran -> Mabr,Dhamar,14.50737016,44.42760976
-9266,Dhamar -> Al Hada,Dhamar,14.50737016,44.42760976
-9267,Al Mahwit -> At Tawilah,Al Mahwit,15.40140161,43.59523566
-9268,Al Mahwit -> Bani Sa'd,Al Mahwit,15.40140161,43.59523566
-9269,Al Mahwit -> Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-9270,Al Mahwit -> Al Khabt,Al Mahwit,15.40140161,43.59523566
-9271,Al Mahwit -> Al Mahwait City,Al Mahwit,15.40140161,43.59523566
-9272,Al Mahwit -> Hufash,Al Mahwit,15.40140161,43.59523566
-9273,Al Mahwit -> Milhan,Al Mahwit,15.40140161,43.59523566
-9274,Abyan,Abyan,13.6955485,46.50340692
-9275,Aden,Aden,12.84865928,45.00201169
-9276,Dhamar,Dhamar,14.50737016,44.42760976
-9277,Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
-9278,Taizz -> Ash Shamayatayn,Taizz,13.39753802,43.68772167
-9279,Ibb -> Mudhaykhirah -> Al-Reis,Ibb,14.05521633,44.26319019
-9280,Ibb -> Mudhaykhirah -> Al-Ozlah,Ibb,14.05521633,44.26319019
-9281,Ibb -> Mudhaykhirah ->  Al-Nejd Market,Ibb,14.05521633,44.26319019
-9282,Ibb -> Mudhaykhirah -> Mutheikhrah,Ibb,14.05521633,44.26319019
-9283,Dhamar -> Dawran Aness,Dhamar,14.50737016,44.42760976
-9284,Lahj -> Tuban -> Al-Khadad,Lahj,12.96593663,44.41733354
-9285,Lahj -> Tuban -> Anqoudah,Lahj,12.96593663,44.41733354
-9286,Lahj -> Tuban -> Bait Eyadh,Lahj,12.96593663,44.41733354
-9287,Lahj -> Tuban -> Sefyan,Lahj,12.96593663,44.41733354
-9288,Lahj -> Tuban -> Abr Badr,Lahj,12.96593663,44.41733354
-9289,Lahj -> Tuban -> Al-Anad,Lahj,12.96593663,44.41733354
-9290,Lahj -> Tuban -> Cadmah Owad Ali,Lahj,12.96593663,44.41733354
-9291,Lahj -> Tuban -> Joal Hasan,Lahj,12.96593663,44.41733354
-9292,Lahj -> Tuban -> Tahrour,Lahj,12.96593663,44.41733354
-9293,Lahj -> Tuban -> Al-Hasky,Lahj,12.96593663,44.41733354
-9294,Lahj -> Tuban -> Joal Yemani,Lahj,12.96593663,44.41733354
-9295,Lahj -> Tuban -> Zaydah,Lahj,12.96593663,44.41733354
-9296,Lahj -> Tuban -> Al-What,Lahj,12.96593663,44.41733354
-9297,Al Hudaydah -> At Tuhayat,Al Hudaydah,15.00062889,43.04031959
-9298,Al Hudaydah -> Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
-9299,Al Hudaydah -> As Salif,Al Hudaydah,15.00062889,43.04031959
-9300,Al Hudaydah -> Bura -> Al-Gheileen,Al Hudaydah,15.00062889,43.04031959
-9301,Al Hudaydah -> Bura -> Manoub,Al Hudaydah,15.00062889,43.04031959
-9302,Al Hudaydah -> Bura -> Antarah,Al Hudaydah,15.00062889,43.04031959
-9303,Al Hudaydah -> Bura -> Al-Zeraei,Al Hudaydah,15.00062889,43.04031959
-9304,Al Mahwit -> Bani Sa'd -> Al-Carb,Al Mahwit,15.40140161,43.59523566
-9305,Al Hudaydah -> Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
-9306,Al Hudaydah -> Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
-9307,Taizz -> Dimnat Khadir,Taizz,13.39753802,43.68772167
-9308,Lahj -> Al Qabbaytah,Lahj,12.96593663,44.41733354
-9309,Al Dhale'e -> Al Husha,Al Dhale'e,13.85996808,44.67423913
-9310,Al Hudaydah -> Bayt Al Faqiah -> Al-Muzahrah,Al Hudaydah,15.00062889,43.04031959
-9311,Al Hudaydah -> Bayt Al Faqiah -> Bait Al-Faqeeh,Al Hudaydah,15.00062889,43.04031959
-9312,Al Hudaydah -> Bayt Al Faqiah -> Bani Maqboul,Al Hudaydah,15.00062889,43.04031959
-9313,Al Hudaydah -> Az Zaydiyah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-9314,Al Hudaydah -> Az Zaydiyah -> Qaryat Al-Hashaberah,Al Hudaydah,15.00062889,43.04031959
-9315,Al Mahwit -> Ar Rujum -> Al-Dhohr,Al Mahwit,15.40140161,43.59523566
-9316,Al Mahwit -> Ar Rujum -> Al-Jalbah,Al Mahwit,15.40140161,43.59523566
-9317,Al Mahwit -> Ar Rujum -> Al-Jazb,Al Mahwit,15.40140161,43.59523566
-9318,Al Mahwit -> Ar Rujum -> Al-Rujom,Al Mahwit,15.40140161,43.59523566
-9319,Al Mahwit -> Ar Rujum -> Rawhan,Al Mahwit,15.40140161,43.59523566
-9320,Al Mahwit -> Ar Rujum -> Sahl Baqel,Al Mahwit,15.40140161,43.59523566
-9321,Al Mahwit -> Ar Rujum,Al Mahwit,15.40140161,43.59523566
-9322,Amran -> Raydah -> Reidah,Amran,16.3570904,43.87269369
-9323,Abyan -> Al Mahfad,Abyan,13.6955485,46.50340692
-9324,Aden -> Craiter,Aden,12.84865928,45.00201169
-9325,Hajjah -> Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
-9326,Al Hudaydah -> At Tuhayat -> Al-Tuheita,Al Hudaydah,15.00062889,43.04031959
-9327,Hajjah -> Aflah Al Yaman,Hajjah,16.27488061,43.11225315
-9328,Hajjah -> Mustaba,Hajjah,16.27488061,43.11225315
-9329,Al Bayda -> Al Bayda City -> Al-Baida City,Al Bayda,14.21742373,45.55495025
-9330,Al Hudaydah -> As Sukhnah -> Deer Al-Hadeish,Al Hudaydah,15.00062889,43.04031959
-9331,Al Hudaydah -> Bajil -> Al-Meshwaf,Al Hudaydah,15.00062889,43.04031959
-9332,Al Hudaydah -> Bajil -> Al-Damn,Al Hudaydah,15.00062889,43.04031959
-9333,Al Hudaydah -> Bajil -> Deer Bareih,Al Hudaydah,15.00062889,43.04031959
-9334,Hajjah -> Hayran -> Al-Sadah,Hajjah,16.27488061,43.11225315
-9335,Hajjah -> Abs -> Barman,Hajjah,16.27488061,43.11225315
-9336,Hajjah -> Hayran -> Bani Al-Khamj,Hajjah,16.27488061,43.11225315
-9337,Hajjah -> Hayran -> Bani Al-Mash,Hajjah,16.27488061,43.11225315
-9338,Hajjah -> Abs -> Al-Makhzan Bani Ahmed,Hajjah,16.27488061,43.11225315
-9339,Hajjah -> Abs -> Al-Mehsam,Hajjah,16.27488061,43.11225315
-9340,Hajjah -> Abs -> Shab Al-Doush,Hajjah,16.27488061,43.11225315
-9341,Hajjah -> Abs -> Al-Okashyah,Hajjah,16.27488061,43.11225315
-9342,Hajjah -> Hayran -> Al-Awja,Hajjah,16.27488061,43.11225315
-9343,Hajjah -> Abs -> Al-Hujrah,Hajjah,16.27488061,43.11225315
-9344,Hajjah -> Abs -> Al-Nawahi Al-Sofla,Hajjah,16.27488061,43.11225315
-9345,Hajjah -> Hayran -> Al-Khowaryah,Hajjah,16.27488061,43.11225315
-9346,Hajjah -> Hayran -> Qatbah Bani Al-Aati,Hajjah,16.27488061,43.11225315
-9347,Hajjah -> Abs -> Al-Hamur,Hajjah,16.27488061,43.11225315
-9348,Hajjah -> Abs -> Al-Melakhah,Hajjah,16.27488061,43.11225315
-9349,Hajjah -> Hayran -> Al-Deer,Hajjah,16.27488061,43.11225315
-9350,Taizz -> Mawiyah,Taizz,13.39753802,43.68772167
-9351,Taizz -> Al Qahirah,Taizz,13.39753802,43.68772167
-9352,Taizz -> Al Mudhaffar,Taizz,13.39753802,43.68772167
-9353,Taizz -> Al Mawasit,Taizz,13.39753802,43.68772167
-9354,Lahj -> Tuban,Lahj,12.96593663,44.41733354
-9355,Shabwah,Shabwah,14.67178974,46.95556076
-9356,Hadramaut,Hadramaut,16.80924424,48.84638589
-9357,Lahj,Lahj,12.96593663,44.41733354
-9358,Sa'ada,Sa'ada,17.25112185,43.50274965
-9359,Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
-9360,Ibb -> Dhi As Sufal,Ibb,14.05521633,44.26319019
-9361,Hajjah -> Ku'aydinah,Hajjah,16.27488061,43.11225315
-9362,Al Hudaydah -> Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
-9363,Sana'a -> Arhab,Sana'a,15.12394358,44.78727759
-9364,Sana'a -> Attyal,Sana'a,15.12394358,44.78727759
-9365,Al Dhale'e -> Damt,Al Dhale'e,13.85996808,44.67423913
-9366,Hadramaut -> Brom Mayfa,Hadramaut,16.80924424,48.84638589
-9367,Ibb -> Dhi As Sufal -> Al-Qaedah,Ibb,14.05521633,44.26319019
-9368,Marib -> Medghal,Marib,15.56841151,45.76081505
-9369,Marib -> Sirwah,Marib,15.56841151,45.76081505
-9370,Dhamar -> Maghirib Ans,Dhamar,14.50737016,44.42760976
-9371,Dhamar -> Mayfa'at Anss,Dhamar,14.50737016,44.42760976
-9372,Shabwah -> Ataq -> Ataq,Shabwah,14.67178974,46.95556076
-9373,Al Hudaydah -> Al Marawi'ah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-9374,Al Hudaydah -> Al Marawi'ah -> Al-Afjyah,Al Hudaydah,15.00062889,43.04031959
-9375,Al Hudaydah -> Bajil -> Al-Zawmah,Al Hudaydah,15.00062889,43.04031959
-9376,Sana'a -> Sa'fan -> Al-Maghareb,Sana'a,15.12394358,44.78727759
-9377,Sana'a -> Sa'fan -> Asbab,Sana'a,15.12394358,44.78727759
-9378,Sana'a -> Sa'fan -> Rowabah,Sana'a,15.12394358,44.78727759
-9379,Sana'a -> Sa'fan -> Al-Mazabah,Sana'a,15.12394358,44.78727759
-9380,Sana'a -> Sa'fan -> Al-Marawelah,Sana'a,15.12394358,44.78727759
-9381,Sana'a -> Sa'fan -> Al-Shuabah,Sana'a,15.12394358,44.78727759
-9382,Sana'a -> Sa'fan -> Al-Wajrah,Sana'a,15.12394358,44.78727759
-9383,Sana'a -> Sa'fan -> Shalwal,Sana'a,15.12394358,44.78727759
-9384,Sana'a -> Sa'fan -> Al-Acamah,Sana'a,15.12394358,44.78727759
-9385,Sana'a -> Sa'fan -> Har Wadi,Sana'a,15.12394358,44.78727759
-9386,Sana'a -> Sa'fan -> Al-Hesn (Fort),Sana'a,15.12394358,44.78727759
-9387,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-9388,Al Hudaydah -> Al Mansuriyah -> Al-Jroup,Al Hudaydah,15.00062889,43.04031959
-9389,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-9390,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-9391,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
-9392,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
-9393,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
-9394,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
-9395,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
-9396,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
-9397,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
-9398,Hajjah -> Abs -> Al-Aredh,Hajjah,16.27488061,43.11225315
-9399,Hajjah -> Abs -> Shafar,Hajjah,16.27488061,43.11225315
-9400,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
-9401,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
-9402,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
-9403,Al Dhale'e -> Al Azariq -> Tawrasah,Al Dhale'e,13.85996808,44.67423913
-9404,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
-9405,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
-9406,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
-9407,Hajjah -> Wadhrah,Hajjah,16.27488061,43.11225315
-9408,Al Hudaydah -> Bura,Al Hudaydah,15.00062889,43.04031959
-9409,Al Hudaydah -> Az Zaydiyah -> Deer Aslah,Al Hudaydah,15.00062889,43.04031959
-9410,Al Hudaydah -> Az Zaydiyah -> Deer Ghorab,Al Hudaydah,15.00062889,43.04031959
-9411,Hajjah -> Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
-9412,Hajjah -> Ash Shahil,Hajjah,16.27488061,43.11225315
-9413,Hajjah -> Al Mahabishah,Hajjah,16.27488061,43.11225315
-9414,Al Bayda -> As Sawma'ah,Al Bayda,14.21742373,45.55495025
-9415,Al Bayda -> At Taffah,Al Bayda,14.21742373,45.55495025
-9416,Al Bayda -> Az Zahir,Al Bayda,14.21742373,45.55495025
-9417,Marib,Marib,15.56841151,45.76081505
-9418,Al Jawf,Al Jawf,16.76813934,46.01014819
-9419,Al Maharah,Al Maharah,16.59344354,51.59013758
-9420,Al Hudaydah -> Zabid,Al Hudaydah,15.00062889,43.04031959
-9421,Amanat Al Asimah -> Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
-9422,Amanat Al Asimah -> Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
-9423,Amanat Al Asimah -> Old City,Amanat Al Asimah,15.36598719,44.2020645
-9424,Hajjah -> Mabyan,Hajjah,16.27488061,43.11225315
-9425,Al Jawf -> Al Maslub,Al Jawf,16.76813934,46.01014819
-9426,Taizz -> Mawza,Taizz,13.39753802,43.68772167
-9427,Al Hudaydah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-9428,Al Hudaydah -> Al Mina,Al Hudaydah,15.00062889,43.04031959
-9429,Al Hudaydah -> Al Qanawis,Al Hudaydah,15.00062889,43.04031959
-9430,Al Hudaydah -> Al Hawak -> Al-Mandhar,Al Hudaydah,15.00062889,43.04031959
-9431,Al Hudaydah -> Az Zaydiyah -> Al-Banaya,Al Hudaydah,15.00062889,43.04031959
-9432,Al Hudaydah -> Bayt Al Faqiah -> Al-Abasy,Al Hudaydah,15.00062889,43.04031959
-9433,Al Hudaydah -> Zabid -> Al-Baratah,Al Hudaydah,15.00062889,43.04031959
-9434,Al Hudaydah -> Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
-9435,Al Hudaydah -> Al Hawak,Al Hudaydah,15.00062889,43.04031959
-9436,Lahj -> Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
-9437,Taizz -> Sabir Al Mawadim,Taizz,13.39753802,43.68772167
-9438,Taizz -> Al Ma'afer -> Al-Careibyah,Taizz,13.39753802,43.68772167
-9439,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
-9440,Lahj -> Tuban -> Al-Mekhshabah,Lahj,12.96593663,44.41733354
-9441,Taizz -> Al Ma'afer -> Al-Anyah,Taizz,13.39753802,43.68772167
-9442,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
-9443,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
-9444,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
-9445,Taizz -> Mawza -> Adeenah,Taizz,13.39753802,43.68772167
-9446,Lahj -> Tuban -> Al-Baruleitarya,Lahj,12.96593663,44.41733354
-9447,Taizz -> Al  Mukha -> Al-Arjoush,Taizz,13.39753802,43.68772167
-9448,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
-9449,Taizz -> Al  Mukha -> Thabab,Taizz,13.39753802,43.68772167
-9450,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
-9451,Taizz -> Mawza -> Al-Hameidi,Taizz,13.39753802,43.68772167
-9452,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
-9453,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
-9454,Abyan -> Jayshan,Abyan,13.6955485,46.50340692
-9455,Aden -> Al Mansura,Aden,12.84865928,45.00201169
-9456,Aden -> Al Mualla,Aden,12.84865928,45.00201169
-9457,Aden -> Ash Shaikh Outhman,Aden,12.84865928,45.00201169
-9458,Aden -> Attawahi,Aden,12.84865928,45.00201169
-9459,Al Bayda -> Al A'rsh,Al Bayda,14.21742373,45.55495025
-9460,Al Bayda -> Al Quraishyah,Al Bayda,14.21742373,45.55495025
-9461,Al Bayda -> Sabah,Al Bayda,14.21742373,45.55495025
-9462,Al Bayda -> Wald Rabi',Al Bayda,14.21742373,45.55495025
-9463,Al Dhale'e -> Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-9464,Al Dhale'e -> Al Hussein,Al Dhale'e,13.85996808,44.67423913
-9465,Al Dhale'e -> Juban,Al Dhale'e,13.85996808,44.67423913
-9466,Al Dhale'e -> Qa'atabah,Al Dhale'e,13.85996808,44.67423913
-9467,Al Hudaydah -> Ad Dahi,Al Hudaydah,15.00062889,43.04031959
-9468,Al Hudaydah -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-9469,Al Hudaydah -> Al Hali,Al Hudaydah,15.00062889,43.04031959
-9470,Al Hudaydah -> Alluheyah,Al Hudaydah,15.00062889,43.04031959
-9471,Al Hudaydah -> Hays,Al Hudaydah,15.00062889,43.04031959
-9472,Al Hudaydah -> Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
-9473,Al Jawf -> Al Humaydat,Al Jawf,16.76813934,46.01014819
-9474,Al Jawf -> Al Matammah,Al Jawf,16.76813934,46.01014819
-9475,Al Jawf -> Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
-9476,Al Maharah -> Al Ghaydah,Al Maharah,16.59344354,51.59013758
-9477,Al Maharah -> Hawf,Al Maharah,16.59344354,51.59013758
-9478,Al Maharah -> Sayhut,Al Maharah,16.59344354,51.59013758
-9479,Amanat Al Asimah -> At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
-9480,Amanat Al Asimah -> Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
-9481,Amran -> Amran,Amran,16.3570904,43.87269369
-9482,Amran -> Dhi Bin,Amran,16.3570904,43.87269369
-9483,Amran -> Iyal Surayh,Amran,16.3570904,43.87269369
-9484,Amran -> Jabal Iyal Yazid,Amran,16.3570904,43.87269369
-9485,Amran -> Maswar,Amran,16.3570904,43.87269369
-9486,Amran -> Raydah,Amran,16.3570904,43.87269369
-9487,Amran -> Thula,Amran,16.3570904,43.87269369
-9488,Hadramaut -> Al Qatn,Hadramaut,16.80924424,48.84638589
-9489,Hadramaut -> Amd,Hadramaut,16.80924424,48.84638589
-9490,Hadramaut -> Ar Raydah Wa Qusayar,Hadramaut,16.80924424,48.84638589
-9491,Hadramaut -> Hajr,Hadramaut,16.80924424,48.84638589
-9492,Hadramaut -> Rakhyah,Hadramaut,16.80924424,48.84638589
-9493,Hadramaut -> Rumah,Hadramaut,16.80924424,48.84638589
-9494,Hadramaut -> Sah,Hadramaut,16.80924424,48.84638589
-9495,Hadramaut -> Shibam,Hadramaut,16.80924424,48.84638589
-9496,Hadramaut -> Thamud,Hadramaut,16.80924424,48.84638589
-9497,Hajjah -> Al Miftah,Hajjah,16.27488061,43.11225315
-9498,Hajjah -> Haradh,Hajjah,16.27488061,43.11225315
-9499,Hajjah -> Hayran,Hajjah,16.27488061,43.11225315
-9500,Hajjah -> Midi,Hajjah,16.27488061,43.11225315
-9501,Ibb -> Al Dhihar,Ibb,14.05521633,44.26319019
-9502,Ibb -> Al Makhadir,Ibb,14.05521633,44.26319019
-9503,Ibb -> Al Mashannah,Ibb,14.05521633,44.26319019
-9504,Ibb -> Al Qafr,Ibb,14.05521633,44.26319019
-9505,Ibb -> An Nadirah,Ibb,14.05521633,44.26319019
-9506,Ibb -> Ar Radmah,Ibb,14.05521633,44.26319019
-9507,Ibb -> As Sabrah,Ibb,14.05521633,44.26319019
-9508,Ibb -> As Saddah,Ibb,14.05521633,44.26319019
-9509,Ibb -> Ash Sha'ir,Ibb,14.05521633,44.26319019
-9510,Ibb -> Ba'dan,Ibb,14.05521633,44.26319019
-9511,Ibb -> Hubaysh,Ibb,14.05521633,44.26319019
-9512,Ibb -> Jiblah,Ibb,14.05521633,44.26319019
-9513,Ibb -> Yarim,Ibb,14.05521633,44.26319019
-9514,Lahj -> Al  Hawtah,Lahj,12.96593663,44.41733354
-9515,Lahj -> Al Had,Lahj,12.96593663,44.41733354
-9516,Lahj -> Al Maflahy,Lahj,12.96593663,44.41733354
-9517,Lahj -> Habil Jabr,Lahj,12.96593663,44.41733354
-9518,Lahj -> Tur Al Bahah,Lahj,12.96593663,44.41733354
-9519,Lahj -> Yafa'a,Lahj,12.96593663,44.41733354
-9520,Lahj -> Yahr,Lahj,12.96593663,44.41733354
-9521,Marib -> Al Jubah,Marib,15.56841151,45.76081505
-9522,Marib -> Bidbadah,Marib,15.56841151,45.76081505
-9523,Marib -> Mahliyah,Marib,15.56841151,45.76081505
-9524,Marib -> Majzar,Marib,15.56841151,45.76081505
-9525,Marib -> Rahabah,Marib,15.56841151,45.76081505
-9526,Sa'ada -> As Safra,Sa'ada,17.25112185,43.50274965
-9527,Sa'ada -> Baqim,Sa'ada,17.25112185,43.50274965
-9528,Sa'ada -> Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
-9529,Sa'ada -> Majz,Sa'ada,17.25112185,43.50274965
-9530,Sa'ada -> Sahar,Sa'ada,17.25112185,43.50274965
-9531,Sana'a -> Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
-9532,Sana'a -> Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
-9533,Sana'a -> Bani Hushaysh,Sana'a,15.12394358,44.78727759
-9534,Sana'a -> Khwlan,Sana'a,15.12394358,44.78727759
-9535,Sana'a -> Sanhan,Sana'a,15.12394358,44.78727759
-9536,Shabwah -> Ain,Shabwah,14.67178974,46.95556076
-9537,Shabwah -> Al Talh,Shabwah,14.67178974,46.95556076
-9538,Shabwah -> As Said,Shabwah,14.67178974,46.95556076
-9539,Shabwah -> Bayhan,Shabwah,14.67178974,46.95556076
-9540,Shabwah -> Hatib,Shabwah,14.67178974,46.95556076
-9541,Shabwah -> Jardan,Shabwah,14.67178974,46.95556076
-9542,Shabwah -> Mayfa'a,Shabwah,14.67178974,46.95556076
-9543,Shabwah -> Merkhah Al Ulya,Shabwah,14.67178974,46.95556076
-9544,Shabwah -> Merkhah As Sufla,Shabwah,14.67178974,46.95556076
-9545,Shabwah -> Nisab,Shabwah,14.67178974,46.95556076
-9546,Shabwah -> Usaylan,Shabwah,14.67178974,46.95556076
-9547,Taizz -> Hayfan,Taizz,13.39753802,43.68772167
-9548,Taizz -> Salh,Taizz,13.39753802,43.68772167
-9549,Taizz -> Shara'b As Salam,Taizz,13.39753802,43.68772167
-9550,Al Maharah -> Huswain,Al Maharah,16.59344354,51.59013758
-9551,Al Jawf -> Kharab Al Marashi,Al Jawf,16.76813934,46.01014819
-9552,Aden -> Khur Maksar,Aden,12.84865928,45.00201169
-9553,Sa'ada -> Sa'adah,Sa'ada,17.25112185,43.50274965
-9554,Al Bayda -> Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
-9555,Sana'a -> Jihanah,Sana'a,15.12394358,44.78727759
-9556,Shabwah -> Rudum,Shabwah,14.67178974,46.95556076
-9557,Hajjah -> Qarah,Hajjah,16.27488061,43.11225315
-9558,Ibb -> Ibb,Ibb,14.05521633,44.26319019
-9559,Al Hudaydah -> Al Munirah,Al Hudaydah,15.00062889,43.04031959
-9560,Sana'a -> Nihm,Sana'a,15.12394358,44.78727759
-9561,Al Dhale'e -> Al Hussein -> Adeenah,Al Dhale'e,13.85996808,44.67423913
-9562,Al Dhale'e -> Qa'atabah -> Admah,Al Dhale'e,13.85996808,44.67423913
-9563,Lahj -> Al Musaymir -> Al-Dareijah,Lahj,12.96593663,44.41733354
-9564,Lahj -> Al Musaymir -> Al-Maseimeer,Lahj,12.96593663,44.41733354
-9565,Lahj -> Al Musaymir -> Al-Mekhraj,Lahj,12.96593663,44.41733354
-9566,Lahj -> Al Musaymir -> Al-Rameedhah,Lahj,12.96593663,44.41733354
-9567,Lahj -> Al Musaymir -> Bashryah,Lahj,12.96593663,44.41733354
-9568,Lahj -> Al Musaymir -> Habeel Hansh,Lahj,12.96593663,44.41733354
-9569,Lahj -> Al Musaymir -> Makeideem,Lahj,12.96593663,44.41733354
-9570,Lahj -> Al Musaymir -> Mareeb,Lahj,12.96593663,44.41733354
-9571,Lahj -> Al Musaymir -> Noaman,Lahj,12.96593663,44.41733354
-9572,Lahj -> Al Musaymir -> Shathah,Lahj,12.96593663,44.41733354
-9573,Taizz -> Al Ma'afer -> Al-Malekah,Taizz,13.39753802,43.68772167
-9574,Taizz -> Al Ma'afer -> Al-Naqee'e,Taizz,13.39753802,43.68772167
-9575,Taizz -> Al Ma'afer -> Nejd Al-Mashraqi,Taizz,13.39753802,43.68772167
-9576,Taizz -> Al Ma'afer -> Qaeetah Al-Jabal,Taizz,13.39753802,43.68772167
-9577,Taizz -> Al Ma'afer -> Qayttah Al-Wadi,Taizz,13.39753802,43.68772167
-9578,Taizz -> Al Ma'afer -> Sheba,Taizz,13.39753802,43.68772167
-9579,Hajjah -> Abs -> Al-Jarabyah,Hajjah,16.27488061,43.11225315
-9580,Hajjah -> Abs -> Deer Al-Ocm,Hajjah,16.27488061,43.11225315
-9581,Hajjah -> Abs -> Majar,Hajjah,16.27488061,43.11225315
-9582,Hajjah -> Abs ->  Al-Rabou Market,Hajjah,16.27488061,43.11225315
-9583,Hajjah -> Abs -> Bani Makei,Hajjah,16.27488061,43.11225315
-9584,Taizz -> Al Ma'afer -> Zeid Mountain,Taizz,13.39753802,43.68772167
-9585,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Oshah,Sana'a,15.12394358,44.78727759
-9586,Sana'a -> Al Haymah Ad Dakhiliyah -> Jabal Sharar,Sana'a,15.12394358,44.78727759
-9587,Dhamar -> Al Manar,Dhamar,14.50737016,44.42760976
-9588,Amanat Al Asimah -> As Sabain -> Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
-9589,Taizz -> Dimnat Khadir -> Al-Abhoul,Taizz,13.39753802,43.68772167
-9590,Taizz -> Dimnat Khadir -> Al-Ajraf,Taizz,13.39753802,43.68772167
-9591,Taizz -> Dimnat Khadir -> Aamaq,Taizz,13.39753802,43.68772167
-9592,Al Hudaydah -> Al Mighlaf -> Al-Mehjam,Al Hudaydah,15.00062889,43.04031959
-9593,Al Hudaydah -> Al Mighlaf -> Deer Daam,Al Hudaydah,15.00062889,43.04031959
-9594,Al Hudaydah -> Al Mighlaf -> Gheyan,Al Hudaydah,15.00062889,43.04031959
-9595,Al Hudaydah -> Al Mighlaf -> Deer Mahdi,Al Hudaydah,15.00062889,43.04031959
-9596,Al Hudaydah -> Al Mighlaf -> Al-Menwab,Al Hudaydah,15.00062889,43.04031959
-9597,Taizz -> Dhubab,Taizz,13.39753802,43.68772167
-9598,Lahj -> Tur Al Bahah -> Al-Fareeq,Lahj,12.96593663,44.41733354
-9599,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
-9600,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
-9601,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
-9602,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
-9603,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
-9604,Abyan -> Mudiyah -> Qarn Al-Washal,Abyan,13.6955485,46.50340692
-9605,Abyan -> Mudiyah -> Al-Salam,Abyan,13.6955485,46.50340692
-9606,Abyan -> Mudiyah -> Al-Aber,Abyan,13.6955485,46.50340692
-9607,Abyan -> Mudiyah -> Lahmar,Abyan,13.6955485,46.50340692
-9608,Abyan -> Mudiyah -> Cawcab,Abyan,13.6955485,46.50340692
-9609,Abyan -> Mudiyah -> Aal Al-Rabashi,Abyan,13.6955485,46.50340692
-9610,Abyan -> Mudiyah -> Jawar,Abyan,13.6955485,46.50340692
-9611,Al Jawf -> Al Ghayl,Al Jawf,16.76813934,46.01014819
-9612,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
-9613,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
-9614,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
-9615,Taizz -> Al Ma'afer,Taizz,13.39753802,43.68772167
-9616,Al Hudaydah -> Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
-9617,Aden -> Al Mualla -> Aden,Aden,12.84865928,45.00201169
-9618,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
-9619,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
-9620,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
-9621,Amran -> Kharif -> Al-Dhabr,Amran,16.3570904,43.87269369
-9622,Amran -> Kharif -> Al-Mahm,Amran,16.3570904,43.87269369
-9623,Amran -> Kharif -> Shibrah,Amran,16.3570904,43.87269369
-9624,Amran -> Kharif -> New Al-Souq,Amran,16.3570904,43.87269369
-9625,Al Jawf -> Al Hazm,Al Jawf,16.76813934,46.01014819
-9626,Sa'ada -> Sa'adah -> Al Khameis,Sa'ada,17.25112185,43.50274965
-9627,Sa'ada -> Sahar -> Al-Sahn,Sa'ada,17.25112185,43.50274965
-9628,Aden -> Craiter -> Aden,Aden,12.84865928,45.00201169
-9629,Marib -> Raghwan,Marib,15.56841151,45.76081505
-9630,Sa'ada -> Saqayn -> Al-Qadeem,Sa'ada,17.25112185,43.50274965
-9631,Hajjah -> Bani Al Awam -> Al-Barar,Hajjah,16.27488061,43.11225315
-9632,Hajjah -> Bani Al Awam -> Al-Maqaweh,Hajjah,16.27488061,43.11225315
-9633,Hajjah -> Bani Al Awam -> Bait Al-Jabri,Hajjah,16.27488061,43.11225315
-9634,Hajjah -> Bani Al Awam -> Fus'hah,Hajjah,16.27488061,43.11225315
-9635,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
-9636,Hajjah -> Bani Al Awam -> Al-Mancab,Hajjah,16.27488061,43.11225315
-9637,Hajjah -> Bani Al Awam -> Namer Mountain,Hajjah,16.27488061,43.11225315
-9638,Hajjah -> Wadhrah -> Al-Shuaybah,Hajjah,16.27488061,43.11225315
-9639,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
-9640,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
-9641,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
-9642,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
-9643,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Tharah,Sana'a,15.12394358,44.78727759
-9644,Sana'a -> Al Haymah Ad Dakhiliyah -> Dar Al-Bark,Sana'a,15.12394358,44.78727759
-9645,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Abeed,Sana'a,15.12394358,44.78727759
-9646,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Rajeh,Sana'a,15.12394358,44.78727759
-9647,Sana'a -> Al Haymah Ad Dakhiliyah -> Hajrah Al-Fadheli,Sana'a,15.12394358,44.78727759
-9648,Sana'a -> Al Haymah Ad Dakhiliyah -> Mahzar,Sana'a,15.12394358,44.78727759
-9649,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Seid,Sana'a,15.12394358,44.78727759
-9650,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Tayfi,Sana'a,15.12394358,44.78727759
-9651,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Gheithy,Sana'a,15.12394358,44.78727759
-9652,Sana'a -> Sa'fan -> Sahef,Sana'a,15.12394358,44.78727759
-9653,Sana'a -> Sa'fan -> Dahw Al-Dar,Sana'a,15.12394358,44.78727759
-9654,Al Bayda -> Al A'rsh -> Al-Khudhrah,Al Bayda,14.21742373,45.55495025
-9655,Al Bayda -> Al A'rsh -> Qarn Al-Asad,Al Bayda,14.21742373,45.55495025
-9656,Al Bayda -> Al A'rsh -> Qarn Ata'a,Al Bayda,14.21742373,45.55495025
-9657,Taizz -> Salh -> Al-Masnah,Taizz,13.39753802,43.68772167
-9658,Al Hudaydah -> Al Garrahi -> Al-Hasani,Al Hudaydah,15.00062889,43.04031959
-9659,Al Hudaydah -> Al Mansuriyah -> Al-Khedhar,Al Hudaydah,15.00062889,43.04031959
-9660,Al Hudaydah -> Al Mansuriyah -> Al-Mahal,Al Hudaydah,15.00062889,43.04031959
-9661,Al Hudaydah -> Al Garrahi -> Mahwa Al-Bahlol,Al Hudaydah,15.00062889,43.04031959
-9662,Al Hudaydah -> Al Mansuriyah -> Al-Calalyah,Al Hudaydah,15.00062889,43.04031959
-9663,Al Hudaydah -> Al Mansuriyah -> Al-Hajmah,Al Hudaydah,15.00062889,43.04031959
-9664,Al Hudaydah -> Al Mansuriyah -> Al-Sawlah,Al Hudaydah,15.00062889,43.04031959
-9665,Al Hudaydah -> Al Mansuriyah -> Deer Cananh,Al Hudaydah,15.00062889,43.04031959
-9666,Al Hudaydah -> Al Mansuriyah -> Mahjour Al-Aala,Al Hudaydah,15.00062889,43.04031959
-9667,Al Hudaydah -> Al Mansuriyah -> Saneif Al-Manaserah,Al Hudaydah,15.00062889,43.04031959
-9668,Al Hudaydah -> Al Mansuriyah -> Shatt Al-Maghawein,Al Hudaydah,15.00062889,43.04031959
-9669,Al Hudaydah -> Al Mansuriyah -> Al-Habeel Al-Aala,Al Hudaydah,15.00062889,43.04031959
-9670,Al Hudaydah -> Al Garrahi -> Shab Al-Dali,Al Hudaydah,15.00062889,43.04031959
-9671,Al Hudaydah -> Al Mansuriyah -> Al-Demnah,Al Hudaydah,15.00062889,43.04031959
-9672,Al Hudaydah -> Al Garrahi -> Al-Jarahei Al-Aala,Al Hudaydah,15.00062889,43.04031959
-9673,Al Hudaydah -> Al Garrahi -> Al-Rawakeb,Al Hudaydah,15.00062889,43.04031959
-9674,Al Hudaydah -> Al Mansuriyah -> Al-Mansourah,Al Hudaydah,15.00062889,43.04031959
-9675,Al Hudaydah -> As Sukhnah -> Deer Al-Mazbal,Al Hudaydah,15.00062889,43.04031959
-9676,Al Hudaydah -> Az Zaydiyah -> Al-Baynyah,Al Hudaydah,15.00062889,43.04031959
-9677,Al Hudaydah -> Az Zaydiyah -> Deer Ayash,Al Hudaydah,15.00062889,43.04031959
-9678,Al Hudaydah -> Az Zaydiyah -> Al-Ajlanyah,Al Hudaydah,15.00062889,43.04031959
-9679,Al Hudaydah -> As Sukhnah -> Deer Cadaf,Al Hudaydah,15.00062889,43.04031959
-9680,Al Hudaydah -> Az Zaydiyah -> Al-Hujrah,Al Hudaydah,15.00062889,43.04031959
-9681,Al Hudaydah -> As Sukhnah -> Al-Batrah and Al-Meina,Al Hudaydah,15.00062889,43.04031959
-9682,Al Hudaydah -> As Sukhnah -> Beuot Al-Boutah,Al Hudaydah,15.00062889,43.04031959
-9683,Al Hudaydah -> As Sukhnah -> Mahal Al-Rowaid,Al Hudaydah,15.00062889,43.04031959
-9684,Amran -> Suwayr,Amran,16.3570904,43.87269369
-9685, Sana'a > Bani Dhabyan,Sana'a,15.12394358,44.78727759
-9686, Sana'a > Nihm,Sana'a,15.12394358,44.78727759
-9687, Taizz > Al Mudhaffar,Taizz,13.39753802,43.68772167
-9688, Al Bayda > Wald Rabi' > Homat Serar,Al Bayda,14.21742373,45.55495025
-9689, Al Bayda > Wald Rabi' > Al-Manaseh,Al Bayda,14.21742373,45.55495025
-9690, Al Dhale'e > Ash Shu'ayb,Al Dhale'e,13.85996808,44.67423913
-9691, Al Dhale'e > Juban,Al Dhale'e,13.85996808,44.67423913
-9692, Amran > Dhi Bin,Amran,16.3570904,43.87269369
-9693, Amran > Thula,Amran,16.3570904,43.87269369
-9694, Ibb > As Sayyani,Ibb,14.05521633,44.26319019
-9695, Ibb > Ibb,Ibb,14.05521633,44.26319019
-9696, Aden > Al Buraiqeh,Aden,12.84865928,45.00201169
-9697, Aden > Al Mansura,Aden,12.84865928,45.00201169
-9698, Aden > Dar Sad,Aden,12.84865928,45.00201169
-9699, Al Hudaydah > Ad Dahi,Al Hudaydah,15.00062889,43.04031959
-9700, Al Hudaydah > Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
-9701, Al Hudaydah > Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-9702, Al Hudaydah > Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
-9703, Al Hudaydah > Al Hali,Al Hudaydah,15.00062889,43.04031959
-9704, Al Hudaydah > Al Hawak,Al Hudaydah,15.00062889,43.04031959
-9705, Al Hudaydah > Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
-9706, Al Hudaydah > Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
-9707, Al Hudaydah > Al Munirah,Al Hudaydah,15.00062889,43.04031959
-9708, Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
-9709, Sana'a > Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
-9710, Sana'a > Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
-9711, Sana'a > Al Husn,Sana'a,15.12394358,44.78727759
-9712, Sana'a > Arhab,Sana'a,15.12394358,44.78727759
-9713, Sana'a > Attyal,Sana'a,15.12394358,44.78727759
-9714, Sana'a > Bani Hushaysh,Sana'a,15.12394358,44.78727759
-9715, Sana'a > Bani Matar,Sana'a,15.12394358,44.78727759
-9716, Sana'a > Bilad Ar Rus,Sana'a,15.12394358,44.78727759
-9717, Sana'a > Hamdan,Sana'a,15.12394358,44.78727759
-9718, Sana'a > Jihanah,Sana'a,15.12394358,44.78727759
-9719, Sana'a > Khwlan,Sana'a,15.12394358,44.78727759
-9720, Sana'a > Manakhah,Sana'a,15.12394358,44.78727759
-9721, Sana'a > Sa'fan,Sana'a,15.12394358,44.78727759
-9722, Sana'a > Sanhan,Sana'a,15.12394358,44.78727759
-9723, Ibb > Al Qafr,Ibb,14.05521633,44.26319019
-9724, Taizz > Salh,Taizz,13.39753802,43.68772167
-9725, Taizz > Sabir Al Mawadim,Taizz,13.39753802,43.68772167
-9726, Amanat Al Asimah > Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
-9727, Amanat Al Asimah > Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
-9728, Amanat Al Asimah > At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
-9729, Amanat Al Asimah > Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
-9730, Amanat Al Asimah > Az'zal,Amanat Al Asimah,15.36598719,44.2020645
-9731, Amanat Al Asimah > As Sabain,Amanat Al Asimah,15.36598719,44.2020645
-9732, Amanat Al Asimah > Ma'ain > Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
-9733, Al Hudaydah > Alluheyah,Al Hudaydah,15.00062889,43.04031959
-9734, Amran > Amran,Amran,16.3570904,43.87269369
-9735, Hajjah > Hajjah City,Hajjah,16.27488061,43.11225315
-9736, Ibb > Yarim,Ibb,14.05521633,44.26319019
-9737, Ibb > Ar Radmah,Ibb,14.05521633,44.26319019
-9738, Al Hudaydah > Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
-9739, Al Hudaydah > Zabid,Al Hudaydah,15.00062889,43.04031959
-9740, Ibb > Al Makhadir,Ibb,14.05521633,44.26319019
-9741, Sa'ada > Monabbih,Sa'ada,17.25112185,43.50274965
-9742, Amran > Kharif,Amran,16.3570904,43.87269369
-9743, Dhamar > Anss,Dhamar,14.50737016,44.42760976
-9744, Dhamar > Maghirib Ans,Dhamar,14.50737016,44.42760976
-9745, Dhamar > Utmah,Dhamar,14.50737016,44.42760976
-9746, Dhamar > Dhamar City,Dhamar,14.50737016,44.42760976
-9747, Amran > Jabal Iyal Yazid,Amran,16.3570904,43.87269369
-9748, Aden > Ash Shaikh Outhman,Aden,12.84865928,45.00201169
-9749, Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-9750, Amanat Al Asimah > Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
-9751, Hajjah > Abs,Hajjah,16.27488061,43.11225315
-9752, Amanat Al Asimah > Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
-9753, Abyan > Ahwar,Abyan,13.6955485,46.50340692
-9754, Al Bayda > Al A'rsh,Al Bayda,14.21742373,45.55495025
-9755, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
-9756, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
-9757, Al Mahwit > Al Khabt,Al Mahwit,15.40140161,43.59523566
-9758, Amanat Al Asimah > Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
-9759, Amran > Al Ashah,Amran,16.3570904,43.87269369
-9760, Dhamar > Al Hada,Dhamar,14.50737016,44.42760976
-9761, Hadramaut > Ad Dis,Hadramaut,16.80924424,48.84638589
-9762, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
-9763, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
-9764, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
-9765, Raymah > Al Jabin,Raymah,14.59985617,43.68772167
-9766, Sa'ada > Al Dhaher,Sa'ada,17.25112185,43.50274965
-9767, Shabwah > Ain,Shabwah,14.67178974,46.95556076
-9768, Socotra > Hidaybu,Socotra,12.493306,54.085473
-9769, Taizz > Al  Mukha,Taizz,13.39753802,43.68772167
-9770, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
-9771, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
-9772, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
-9773, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
-9774, Taizz > Mashra'a Wa Hadnan,Taizz,13.39753802,43.68772167
-9775, Abyan > Lawdar,Abyan,13.6955485,46.50340692
-9776, Al Hudaydah > Al Mina,Al Hudaydah,15.00062889,43.04031959
-9777, Al Hudaydah > As Sukhnah,Al Hudaydah,15.00062889,43.04031959
-9778, Hajjah > Ku'aydinah,Hajjah,16.27488061,43.11225315
-9779, Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
-9780, Taizz > Mawiyah,Taizz,13.39753802,43.68772167
-9781, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
-9782, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-9783, Abyan > Khanfir,Abyan,13.6955485,46.50340692
-9784, Al Mahwit > Al Mahwait City,Al Mahwit,15.40140161,43.59523566
-9785, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
-9786, Ibb > As Saddah,Ibb,14.05521633,44.26319019
-9787, Ibb > Dhi As Sufal,Ibb,14.05521633,44.26319019
-9788, Marib > Marib City,Marib,15.56841151,45.76081505
-9789, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
-9790, Shabwah > Bayhan,Shabwah,14.67178974,46.95556076
-9791, Taizz > Al Mawasit,Taizz,13.39753802,43.68772167
-9792, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
-9793, Taizz > Ash Shamayatayn,Taizz,13.39753802,43.68772167
-9794, Taizz > Maqbanah,Taizz,13.39753802,43.68772167
-9795, Hajjah > Mabyan,Hajjah,16.27488061,43.11225315
-9796, Al Jawf > Al Hazm,Al Jawf,16.76813934,46.01014819
-9797, Ibb > Al Mashannah,Ibb,14.05521633,44.26319019
-9798, Sa'ada > Sa'adah,Sa'ada,17.25112185,43.50274965
-9799, Abyan > Al Wade'a,Abyan,13.6955485,46.50340692
-9800, Al Dhale'e > Damt,Al Dhale'e,13.85996808,44.67423913
-9801, Al Hudaydah > Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
-9802, Amran > Harf Sufyan,Amran,16.3570904,43.87269369
-9803, Hajjah > Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
-9804, Hajjah > Kushar,Hajjah,16.27488061,43.11225315
-9805, Sa'ada > Razih,Sa'ada,17.25112185,43.50274965
-9806, Abyan > Zingibar,Abyan,13.6955485,46.50340692
-9807, Taizz > Al Ma'afer,Taizz,13.39753802,43.68772167
-9808, Taizz > Dimnat Khadir,Taizz,13.39753802,43.68772167
-9809, Ibb > Al Udayn,Ibb,14.05521633,44.26319019
-9810, Al Hudaydah > At Tuhayat,Al Hudaydah,15.00062889,43.04031959
-9811, Hajjah > Aslem,Hajjah,16.27488061,43.11225315
-9812, Amran > Al Qaflah,Amran,16.3570904,43.87269369
-9813, Al Dhale'e > Qa'atabah,Al Dhale'e,13.85996808,44.67423913
-9814, Lahj > Tuban,Lahj,12.96593663,44.41733354
-9815, Hajjah > Mustaba > Al-Sabyah,Hajjah,16.27488061,43.11225315
-9816, Hajjah > Khayran Al Muharraq > Al-Sharqi,Hajjah,16.27488061,43.11225315
-9817, Amran > Huth,Amran,16.3570904,43.87269369
-9818, Hajjah > Bakil Al Mir,Hajjah,16.27488061,43.11225315
-9819, Hajjah > Mustaba,Hajjah,16.27488061,43.11225315
-9820, Abyan > Sarar,Abyan,13.6955485,46.50340692
-9821, Lahj > Al Musaymir,Lahj,12.96593663,44.41733354
-9822, Hajjah > Hayran > Al-Sadah,Hajjah,16.27488061,43.11225315
-9823, Hajjah > Midi > Al-Teenah,Hajjah,16.27488061,43.11225315
-9824, Hajjah > Aslem > Al-Qudhah,Hajjah,16.27488061,43.11225315
-9825, Hajjah > Midi > Al-Harajah,Hajjah,16.27488061,43.11225315
-9826, Hajjah > Aslem > Al-Mashratah,Hajjah,16.27488061,43.11225315
-9827, Ibb > Jiblah,Ibb,14.05521633,44.26319019
-9828, Marib > Harib Al Qaramish,Marib,15.56841151,45.76081505
-9829, Dhamar > Jahran,Dhamar,14.50737016,44.42760976
-9830, Marib > Marib,Marib,15.56841151,45.76081505
-9831, Sa'ada > As Safra,Sa'ada,17.25112185,43.50274965
-9832, Sa'ada > Haydan,Sa'ada,17.25112185,43.50274965
-9833, Sa'ada > Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
-9834, Taizz > Mawza,Taizz,13.39753802,43.68772167
-9835, Al Bayda > Maswarah,Al Bayda,14.21742373,45.55495025
-9836, Amran > Maswar,Amran,16.3570904,43.87269369
-9837, Amran > Suwayr,Amran,16.3570904,43.87269369
-9838, Hadramaut > Al Abr,Hadramaut,16.80924424,48.84638589
-9839, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
-9840, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
-9841, Sa'ada > Baqim,Sa'ada,17.25112185,43.50274965
-9842, Taizz > Dhubab,Taizz,13.39753802,43.68772167
-9843, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
-9844, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
-9845, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
-9846, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
-9847, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
-9848, Al Jawf > Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
-9849, Al Jawf > Al Maton,Al Jawf,16.76813934,46.01014819
-9850, Sa'ada > Majz,Sa'ada,17.25112185,43.50274965
-9851, Marib > Harib,Marib,15.56841151,45.76081505
-9852, Marib > Sirwah,Marib,15.56841151,45.76081505
-9853, Taizz > As Silw,Taizz,13.39753802,43.68772167
-9854, Hajjah > Hajjah,Hajjah,16.27488061,43.11225315
-9855, Ibb > Far Al Udayn,Ibb,14.05521633,44.26319019
-9856, Lahj > Al Qabbaytah,Lahj,12.96593663,44.41733354
-9857, Al Hudaydah > Al Munirah > Al-Qasheeri (Al-Qashri),Al Hudaydah,15.00062889,43.04031959
-9858, Al Hudaydah > Az Zaydiyah > Al-Mahdaly,Al Hudaydah,15.00062889,43.04031959
-9859, Al Hudaydah > Az Zaydiyah > Al-Rahmah,Al Hudaydah,15.00062889,43.04031959
-9860, Al Hudaydah > Az Zaydiyah > Mahal Hasan Abdallah,Al Hudaydah,15.00062889,43.04031959
-9861, Al Hudaydah > Al Munirah > Ebn Abas,Al Hudaydah,15.00062889,43.04031959
-9862, Al Hudaydah > Al Munirah > Al-Harounyah,Al Hudaydah,15.00062889,43.04031959
-9863, Al Hudaydah > Az Zaydiyah > Deer Jalalah,Al Hudaydah,15.00062889,43.04031959
-9864, Al Hudaydah > Al Munirah > Al-Jarb,Al Hudaydah,15.00062889,43.04031959
-9865, Al Hudaydah > Az Zaydiyah > Bait Ata,Al Hudaydah,15.00062889,43.04031959
-9866, Al Hudaydah > Az Zaydiyah > Deer Abdo Rabo,Al Hudaydah,15.00062889,43.04031959
-9867, Al Bayda > As Sawma'ah > Al-Majmah,Al Bayda,14.21742373,45.55495025
-9868, Al Bayda > As Sawma'ah > Al-Rahah,Al Bayda,14.21742373,45.55495025
-9869, Al Bayda > As Sawma'ah > Al-Seilah,Al Bayda,14.21742373,45.55495025
-9870, Al Bayda > As Sawma'ah > Om Salmah,Al Bayda,14.21742373,45.55495025
-9871, Al Bayda > Wald Rabi' > Al-Jashm,Al Bayda,14.21742373,45.55495025
-9872, Hajjah > Abs > Al-Khademah,Hajjah,16.27488061,43.11225315
-9873, Hajjah > Abs > Al-Merwagh,Hajjah,16.27488061,43.11225315
-9874, Hajjah > Abs > Bani Cazabah,Hajjah,16.27488061,43.11225315
-9875, Hajjah > Abs > Al-Melakhah,Hajjah,16.27488061,43.11225315
-9876, Hajjah > Abs > Al-Badah,Hajjah,16.27488061,43.11225315
-9877, Hajjah > Abs > Shab Yaqout,Hajjah,16.27488061,43.11225315
-9878, Hajjah > Abs > Al-Medhbar,Hajjah,16.27488061,43.11225315
-9879, Hajjah > Abs > Al-Makhzan,Hajjah,16.27488061,43.11225315
-9880, Hajjah > Abs > Abs,Hajjah,16.27488061,43.11225315
-9881, Taizz > Sama,Taizz,13.39753802,43.68772167
-9882, Sa'ada > Sahar,Sa'ada,17.25112185,43.50274965
-9883, Hajjah > Aflah Al Yaman,Hajjah,16.27488061,43.11225315
-9884, Sana'a,Sana'a,15.12394358,44.78727759
-9885, Sa'ada,Sa'ada,17.25112185,43.50274965
-9886, Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
-9887, Hajjah,Hajjah,16.27488061,43.11225315
-9888, Aden,Aden,12.84865928,45.00201169
-9889, Ibb,Ibb,14.05521633,44.26319019
-9890, Lahj > Al Milah,Lahj,12.96593663,44.41733354
-9891, Hajjah > Najrah,Hajjah,16.27488061,43.11225315
-9892, Lahj > Al Maqatirah,Lahj,12.96593663,44.41733354
-9893, Lahj > Radfan,Lahj,12.96593663,44.41733354
-9894, Dhamar > Jabal Ash sharq,Dhamar,14.50737016,44.42760976
-9895, Hadramaut > Brom Mayfa,Hadramaut,16.80924424,48.84638589
-9896, Lahj > Tur Al Bahah,Lahj,12.96593663,44.41733354
-9897, Taizz > Hayfan,Taizz,13.39753802,43.68772167
-9898, Lahj > Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
-9899, Abyan > Rasad,Abyan,13.6955485,46.50340692
-9900, Dhamar > Dawran Aness,Dhamar,14.50737016,44.42760976
-9901, Marib > Rahabah,Marib,15.56841151,45.76081505
-9902, Al Dhale'e > Jahaf,Al Dhale'e,13.85996808,44.67423913
-9903, Al Hudaydah > Hays,Al Hudaydah,15.00062889,43.04031959
-9904, Amran > Raydah,Amran,16.3570904,43.87269369
-9905, Hadramaut > Al Mukalla,Hadramaut,16.80924424,48.84638589
-9906, Raymah > As Salafiyah,Raymah,14.59985617,43.68772167
-9907, Al Mahwit > Al Mahwait,Al Mahwit,15.40140161,43.59523566
-9908, Shabwah > Rudum,Shabwah,14.67178974,46.95556076
-9909, Al Bayda > Al Bayda,Al Bayda,14.21742373,45.55495025
-9910, Sa'ada > Al Hashwah,Sa'ada,17.25112185,43.50274965
-9911, Al Dhale'e > Al Hussein,Al Dhale'e,13.85996808,44.67423913
-9912, Amran > Al Madan,Amran,16.3570904,43.87269369
-9913, Sa'ada > Saqayn,Sa'ada,17.25112185,43.50274965
-9914, Al Hudaydah > Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-9915, Ibb > Mudhaykhirah,Ibb,14.05521633,44.26319019
-9916, Al Bayda > Sabah,Al Bayda,14.21742373,45.55495025
-9917, Al Hudaydah > Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
-9918, Dhamar > Mayfa'at Anss,Dhamar,14.50737016,44.42760976
-9919, Al Dhale'e > Al Husha,Al Dhale'e,13.85996808,44.67423913
-9920, Al Bayda > Al Bayda City,Al Bayda,14.21742373,45.55495025
-9921, Al Bayda > Rada',Al Bayda,14.21742373,45.55495025
-9922, Socotra > Qulensya Wa Abd Al Kuri,Socotra,12.493306,54.085473
-9923, Aden > Khur Maksar,Aden,12.84865928,45.00201169
-9924, Hadramaut > Al Mukalla City,Hadramaut,16.80924424,48.84638589
-9925, Hadramaut > Sayun,Hadramaut,16.80924424,48.84638589
-9926, Hadramaut > Al Qatn,Hadramaut,16.80924424,48.84638589
-9927, Socotra,Socotra,12.493306,54.085473
-9928, Raymah,Raymah,14.59985617,43.68772167
-9929, Al Jawf,Al Jawf,16.76813934,46.01014819
-9930, Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
-9931, Al Bayda,Al Bayda,14.21742373,45.55495025
-9932, Shabwah,Shabwah,14.67178974,46.95556076
-9933, Al Maharah,Al Maharah,16.59344354,51.59013758
-9934, Al Mahwit,Al Mahwit,15.40140161,43.59523566
-9935, Marib,Marib,15.56841151,45.76081505
-9936, Dhamar,Dhamar,14.50737016,44.42760976
-9937, Taizz,Taizz,13.39753802,43.68772167
-9938, Amran,Amran,16.3570904,43.87269369
-9939, Lahj,Lahj,12.96593663,44.41733354
-9940, Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
-9941, Hadramaut,Hadramaut,16.80924424,48.84638589
-9942, Abyan,Abyan,13.6955485,46.50340692
-9943, Hajjah > Qarah,Hajjah,16.27488061,43.11225315
-9944, Hajjah > Washhah,Hajjah,16.27488061,43.11225315
-9945, Al Mahwit > Bani Sa'd,Al Mahwit,15.40140161,43.59523566
-9946, Dhamar > Wusab Al Ali,Dhamar,14.50737016,44.42760976
-9947, Hadramaut > Tarim,Hadramaut,16.80924424,48.84638589
-9948, Ibb > Al Dhihar > Al-Dhabr,Ibb,14.05521633,44.26319019
-9949, Ibb > Al Mashannah > Al-Lahj,Ibb,14.05521633,44.26319019
-9950, Lahj > Al Madaribah Wa Al Arah > Al-Saqya,Lahj,12.96593663,44.41733354
-9951, Lahj > Al Madaribah Wa Al Arah > Al-Aarah,Lahj,12.96593663,44.41733354
-9952, Amran > As Sudah,Amran,16.3570904,43.87269369
-9953, Al Bayda > At Taffah,Al Bayda,14.21742373,45.55495025
-9954, Al Bayda > Al Quraishyah,Al Bayda,14.21742373,45.55495025
-9955, Al Bayda > Radman Al Awad,Al Bayda,14.21742373,45.55495025
-9956, Hajjah > Al Maghrabah,Hajjah,16.27488061,43.11225315
-9957, Sa'ada > Shada'a,Sa'ada,17.25112185,43.50274965
-9958, Al Bayda > Mukayras,Al Bayda,14.21742373,45.55495025
-9959, Al Bayda > Nati',Al Bayda,14.21742373,45.55495025
-9960, Ibb > Ba'dan,Ibb,14.05521633,44.26319019
-9961, Al Bayda > As Sawadiyah,Al Bayda,14.21742373,45.55495025
-9962, Al Jawf > Al Maslub,Al Jawf,16.76813934,46.01014819
-9963, Aden > Attawahi,Aden,12.84865928,45.00201169
-9964, Aden > Craiter,Aden,12.84865928,45.00201169
-9965, Abyan > Al Mahfad,Abyan,13.6955485,46.50340692
-9966, Abyan > Mudiyah,Abyan,13.6955485,46.50340692
-9967, Aden > Al Mualla,Aden,12.84865928,45.00201169
-9968, Marib > Al Jubah,Marib,15.56841151,45.76081505
-9969, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-9970, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-9971, Marib > Raghwan,Marib,15.56841151,45.76081505
-9972, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
-9973, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
-9974, Lahj > Halimayn,Lahj,12.96593663,44.41733354
-9975, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
-9976, Lahj > Yahr,Lahj,12.96593663,44.41733354
-9977, Lahj > Al Maflahy,Lahj,12.96593663,44.41733354
-9978, Lahj > Al Had,Lahj,12.96593663,44.41733354
-9979, Al Bayda > Al Malagim,Al Bayda,14.21742373,45.55495025
-9980, Al Bayda > Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
-9981, Al Bayda > Ash Sharyah,Al Bayda,14.21742373,45.55495025
-9982, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
-9983, Hajjah > Al Miftah,Hajjah,16.27488061,43.11225315
-9984, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
-9985, Hajjah > Ash Shahil,Hajjah,16.27488061,43.11225315
-9986, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
-9987, Hajjah > Kuhlan Affar,Hajjah,16.27488061,43.11225315
-9988, Hajjah > Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
-9989, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
-9990, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
-9991, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
-9992, Marib > Majzar,Marib,15.56841151,45.76081505
-9993, Marib > Medghal,Marib,15.56841151,45.76081505
-9994, Raymah > Kusmah,Raymah,14.59985617,43.68772167
-9995, Ibb > Al Mashannah > Akhbab,Ibb,14.05521633,44.26319019
-9996, Ibb > Al Dhihar > Al-Aden Al-Aala,Ibb,14.05521633,44.26319019
-9997, Sa'ada > Sahar > Beer Al-Wadi,Sa'ada,17.25112185,43.50274965
-9998, Sa'ada > Sahar > Hafsein,Sa'ada,17.25112185,43.50274965
-9999, Sa'ada > Sahar > Qamal,Sa'ada,17.25112185,43.50274965
-10000, Sa'ada > As Safra > Damaj,Sa'ada,17.25112185,43.50274965
-10001, Dhamar > Jahran > Mabr,Dhamar,14.50737016,44.42760976
-10002, Amran > Khamir,Amran,16.3570904,43.87269369
-10003, Ibb > Hazm Al Udayn,Ibb,14.05521633,44.26319019
-10004, Amran > As Sawd,Amran,16.3570904,43.87269369
-10005, Amran > Shaharah,Amran,16.3570904,43.87269369
-10006, Abyan > Al Wade'a > Al-Wadhee'e,Abyan,13.6955485,46.50340692
-10007, Abyan > Khanfir > Shaqrah,Abyan,13.6955485,46.50340692
-10008, Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
-10009, Al Mahwit > At Tawilah,Al Mahwit,15.40140161,43.59523566
-10010, Al Mahwit > Hufash,Al Mahwit,15.40140161,43.59523566
-10011, Amanat Al Asimah > Old City,Amanat Al Asimah,15.36598719,44.2020645
-10012, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
-10013, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
-10014, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-10015, Amran > Habur Zulaymah,Amran,16.3570904,43.87269369
-10016, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
-10017, Hadramaut > Thamud,Hadramaut,16.80924424,48.84638589
-10018, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
-10019, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-10020, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
-10021, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-10022, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-10023, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
-10024, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-10025, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-10026, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-10027, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-10028, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-10029, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-10030, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-10031, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-10032, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-10033, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-10034, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-10035, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-10036, Shabwah > Habban,Shabwah,14.67178974,46.95556076
-10037, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
-10038, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
-10039, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
-10040, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
-10041, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
-10042, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-10043, Marib > Bidbadah,Marib,15.56841151,45.76081505
-10044, Marib > Mahliyah,Marib,15.56841151,45.76081505
-10045, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-10046, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
-10047, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
-10048, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
-10049, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
-10050, Amran > Jabal Iyal Yazid > Al-Sararah,Amran,16.3570904,43.87269369
-10051, Al Jawf > Rajuzah,Al Jawf,16.76813934,46.01014819
-10052, Al Jawf > Khabb wa ash Sha'af > Al-Feradh,Al Jawf,16.76813934,46.01014819
-10053, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
-10054, Al Jawf > Khabb wa ash Sha'af > Al-Yatamah,Al Jawf,16.76813934,46.01014819
-10055, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
+8654, Aleppo > Afrin > Sharan > Doha,Aleppo,36.206013,37.15242
+8655, Aleppo > Afrin > Sharan > Mashaala,Aleppo,36.206013,37.15242
+8656, Aleppo > Afrin > Sharan > Qastal Jend,Aleppo,36.206013,37.15242
+8657, Syria Cross border > Idleb > Harim > Dana > Sarmada,Idleb,35.929008,36.635276
+8658, Syria Cross border > Idleb > Harim > Dana > Termanin,Idleb,35.929008,36.635276
+8659, Syria Cross border > Aleppo > Afrin > Jandairis > Kafr Safra,Aleppo,36.206013,37.15242
+8660, Syria Cross border > Aleppo > Afrin > Jandairis > Mhamadia,Aleppo,36.206013,37.15242
+8661, Syria Cross border > Aleppo > Afrin > Jandairis > Tal Slur,Aleppo,36.206013,37.15242
+8662, Syria Cross border > Idleb > Harim > Harim > Besnaya - Bseineh,Idleb,35.929008,36.635276
+8663, Syria Cross border > Aleppo > Jebel Saman (Aleppo) > Atareb > Atareb,Aleppo,36.206013,37.15242
+8664, Syria Cross border > Aleppo > Afrin > Jandairis > Jandairis,Aleppo,36.206013,37.15242
+8665, Donetska > Bakhmutskyi > Bakhmutskyi > Dacha,Donetska,48.047609,37.673962
+8666, Donetska > Bakhmutskyi > Bakhmutskyi > Mykolaivka Druha,Donetska,48.047609,37.673962
+8667, Donetska > Bakhmutskyi > Bakhmutskyi > Travneve,Donetska,48.047609,37.673962
+8668, Donetska > Marinskyi > Marinskyi > Taramchuk,Donetska,48.047609,37.673962
+8669, Donetska > Toretska > Toretska > Shumy,Donetska,48.047609,37.673962
+8670, Donetska > Volnovaskyi > Volnovaskyi > Bohdanivka,Donetska,48.047609,37.673962
+8671, Donetska > Volnovaskyi > Volnovaskyi > Novohryhorivka,Donetska,48.047609,37.673962
+8672, Donetska > Yasynuvatskyi > Yasynuvatskyi > Kamianka,Donetska,48.047609,37.673962
+8673, Donetska > Yasynuvatskyi > Yasynuvatskyi > Nevelske,Donetska,48.047609,37.673962
+8674, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novoselivka Druha,Donetska,48.047609,37.673962
+8675, Donetska > Yasynuvatskyi > Yasynuvatskyi > Opytne,Donetska,48.047609,37.673962
+8676, Donetska > Bakhmutskyi > Bakhmutskyi > Mykolaivka,Donetska,48.047609,37.673962
+8677, Donetska > Bakhmutskyi > Bakhmutskyi > Vershyna,Donetska,48.047609,37.673962
+8678, Donetska > Bakhmutskyi > Bakhmutskyi > Vyimka,Donetska,48.047609,37.673962
+8679, Donetska > Marinskyi > Marinskyi > Slavne,Donetska,48.047609,37.673962
+8680, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novobakhmutivka,Donetska,48.047609,37.673962
+8681, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pisky,Donetska,48.047609,37.673962
+8682, Donetska > Yasynuvatskyi > Yasynuvatskyi > Vodiane,Donetska,48.047609,37.673962
+8683, Donetska > Bakhmutskyi > Bakhmutskyi > Spirne,Donetska,48.047609,37.673962
+8684, Donetska > Toretska > Toretska > Pivdenne,Donetska,48.047609,37.673962
+8685, Donetska > Yasynuvatskyi > Yasynuvatskyi > Verkhnotoretske,Donetska,48.047609,37.673962
+8686, Donetska > Volnovaskyi > Volnovaskyi > Hranitne,Donetska,48.047609,37.673962
+8687, Donetska > Marinskyi > Marinskyi > Marinka,Donetska,48.047609,37.673962
+8688, Donetska > Toretska > Toretska > Novhorodske,Donetska,48.047609,37.673962
+8689, Donetska > Marinskyi > Marinskyi > Krasnohorivka,Donetska,48.047609,37.673962
+8690, Luhanska > Perevalskyi > Perevalskyi > Perevalsk,Luhanska,48.985485,39.017663
+8691, Luhanska > Krasnolutska > Krasnolutska > Khrustalnyi,Luhanska,48.985485,39.017663
+8692, Luhanska > Rovenkivska > Rovenkivska > Rovenky,Luhanska,48.985485,39.017663
+8693, Luhanska > Briankivska > Briankivska > Brianka,Luhanska,48.985485,39.017663
+8694, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Zymohiria,Luhanska,48.985485,39.017663
+8695, Luhanska > Stakhanovska > Stakhanovska > Kadiivka,Luhanska,48.985485,39.017663
+8696, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Slovianoserbsk,Luhanska,48.985485,39.017663
+8697, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Mykolaivka,Luhanska,48.985485,39.017663
+8698, Luhanska > Krasnodonska > Krasnodonska > Sorokyne,Luhanska,48.985485,39.017663
+8699, Luhanska > Antratsytska > Antratsytska > Antratsyt,Luhanska,48.985485,39.017663
+8700, Luhanska > Luhanska > Luhanska > Luhansk,Luhanska,48.985485,39.017663
+8701, Donetska > Bakhmutskyi > Bakhmutskyi > Luhanske,Donetska,48.047609,37.673962
+8702, Donetska > Volnovaskyi > Volnovaskyi > Novohnativka,Donetska,48.047609,37.673962
+8703, Luhanska > Popasnianskyi > Popasnianskyi > Zolote,Luhanska,48.985485,39.017663
+8704, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Heivka,Luhanska,48.985485,39.017663
+8705, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Staryi Aidar,Luhanska,48.985485,39.017663
+8706, Luhanska > Novoaidarskyi > Novoaidarskyi > Kriakivka,Luhanska,48.985485,39.017663
+8707, Luhanska > Novoaidarskyi > Novoaidarskyi > Krymske,Luhanska,48.985485,39.017663
+8708, Donetska > Bakhmutskyi > Bakhmutskyi > Zaitseve,Donetska,48.047609,37.673962
+8709, Donetska > Volnovaskyi > Volnovaskyi > Starohnativka,Donetska,48.047609,37.673962
+8710, Luhanska > Novoaidarskyi > Novoaidarskyi > Shchastia,Luhanska,48.985485,39.017663
+8711, Donetska > Novoazovskyi > Novoazovskyi > Sakhanka,Donetska,48.047609,37.673962
+8712, Donetska > Yasynuvatskyi > Yasynuvatskyi > Spartak,Donetska,48.047609,37.673962
+8713, Donetska > Dokuchaievska > Dokuchaievska > Dokuchaievsk,Donetska,48.047609,37.673962
+8714, Donetska > Donetska > Donetska > Donetsk,Donetska,48.047609,37.673962
+8715, Donetska > Horlivska > Horlivska > Holmivskyi,Donetska,48.047609,37.673962
+8716, Donetska > Horlivska > Horlivska > Horlivka,Donetska,48.047609,37.673962
+8717, Donetska > Horlivska > Horlivska > Panteleimonivka,Donetska,48.047609,37.673962
+8718, Donetska > Marinskyi > Marinskyi > Oleksandrivka,Donetska,48.047609,37.673962
+8719, Donetska > Marinskyi > Marinskyi > Staromykhailivka,Donetska,48.047609,37.673962
+8720, Donetska > Marinskyi > Marinskyi > Syhnalne,Donetska,48.047609,37.673962
+8721, Donetska > Yasynuvatskyi > Yasynuvatskyi > Betmanove,Donetska,48.047609,37.673962
+8722, Donetska > Marinskyi > Marinskyi > Katerynivka,Donetska,48.047609,37.673962
+8723, Donetska > Bakhmutskyi > Bakhmutskyi > Chasiv Yar,Donetska,48.047609,37.673962
+8724, Luhanska > Novoaidarskyi > Novoaidarskyi > Lopaskyne,Luhanska,48.985485,39.017663
+8725, Luhanska > Popasnianskyi > Popasnianskyi > Novooleksandrivka,Luhanska,48.985485,39.017663
+8726, Luhanska > Popasnianskyi > Popasnianskyi > Novozvanivka,Luhanska,48.985485,39.017663
+8727, Luhanska > Novoaidarskyi > Novoaidarskyi > Orikhove-Donetske,Luhanska,48.985485,39.017663
+8728, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Pishchane,Luhanska,48.985485,39.017663
+8729, Donetska > Horlivska > Horlivska > Hladosove,Donetska,48.047609,37.673962
+8730, Donetska > Volnovaskyi > Volnovaskyi > Staromarivka,Donetska,48.047609,37.673962
+8731, Luhanska > Novoaidarskyi > Novoaidarskyi > Lobacheve,Luhanska,48.985485,39.017663
+8732, Donetska > Bakhmutskyi > Bakhmutskyi > Vidrodzhennia,Donetska,48.047609,37.673962
+8733, Donetska > Volnovaskyi > Volnovaskyi > Chermalyk,Donetska,48.047609,37.673962
+8734, Luhanska > Popasnianskyi > Popasnianskyi > Troitske,Luhanska,48.985485,39.017663
+8735, Luhanska > Kirovska > Kirovska > Donetskyi,Luhanska,48.985485,39.017663
+8736, Luhanska > Kirovska > Kirovska > Holubivka,Luhanska,48.985485,39.017663
+8737, Luhanska > Pervomaiska > Pervomaiska > Pervomaisk,Luhanska,48.985485,39.017663
+8738, Donetska > Volnovaskyi > Volnovaskyi > Vodiane,Donetska,48.047609,37.673962
+8739, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Syze,Luhanska,48.985485,39.017663
+8740, Donetska > Volnovaskyi > Volnovaskyi > Berdianske,Donetska,48.047609,37.673962
+8741, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Bolotene,Luhanska,48.985485,39.017663
+8742, Donetska > Volnovaskyi > Volnovaskyi > Sopyne,Donetska,48.047609,37.673962
+8743, Donetska > Volnovaskyi > Volnovaskyi > Lebedynske,Donetska,48.047609,37.673962
+8744, Donetska > Volnovaskyi > Volnovaskyi > Pavlopil,Donetska,48.047609,37.673962
+8745, Luhanska > Popasnianskyi > Popasnianskyi > Katerynivka,Luhanska,48.985485,39.017663
+8746, Donetska > Yasynuvatskyi > Yasynuvatskyi > Lozove,Donetska,48.047609,37.673962
+8747, Donetska > Horlivska > Horlivska > Mykhailivka,Donetska,48.047609,37.673962
+8748, Donetska > Yasynuvatskyi > Yasynuvatskyi > Mineralne,Donetska,48.047609,37.673962
+8749, Donetska > Yasynuvatskyi > Yasynuvatskyi > Vesele,Donetska,48.047609,37.673962
+8750, Donetska > Yasynuvatskyi > Yasynuvatskyi > Yakovlivka,Donetska,48.047609,37.673962
+8751, Donetska > Snizhnianska > Snizhnianska > Snizhne,Donetska,48.047609,37.673962
+8752, Donetska > Torezka > Torezka > Chystiakove,Donetska,48.047609,37.673962
+8753, Donetska > Khartsyzka > Khartsyzka > Khartsyzk,Donetska,48.047609,37.673962
+8754, Donetska > Amvrosiivskyi > Amvrosiivskyi > Amvrosiivka,Donetska,48.047609,37.673962
+8755, Donetska > Shakhtarska > Shakhtarska > Shakhtarsk,Donetska,48.047609,37.673962
+8756, Donetska > Yenakiivska > Yenakiivska > Yenakiieve,Donetska,48.047609,37.673962
+8757, Donetska > Yasynuvatska > Yasynuvatska > Yasynuvata,Donetska,48.047609,37.673962
+8758, Donetska > Slovianskyi > Slovianskyi,Donetska,48.047609,37.673962
+8759, Luhanska > Novopskovskyi > Novopskovskyi,Luhanska,48.985485,39.017663
+8760, Luhanska > Popasnianskyi > Popasnianskyi,Luhanska,48.985485,39.017663
+8761, Luhanska > Rubizhanska > Rubizhanska,Luhanska,48.985485,39.017663
+8762, Luhanska > Sievierodonetska > Sievierodonetska,Luhanska,48.985485,39.017663
+8763, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi,Luhanska,48.985485,39.017663
+8764, Luhanska > Lysychanska > Lysychanska,Luhanska,48.985485,39.017663
+8765, Donetska > Volnovaskyi > Volnovaskyi > Novoselivka Druha,Donetska,48.047609,37.673962
+8766, Donetska > Lymanska > Lymanska,Donetska,48.047609,37.673962
+8767, Donetska > Nikolskyi > Nikolskyi,Donetska,48.047609,37.673962
+8768, Donetska > Novohrodivska > Novohrodivska,Donetska,48.047609,37.673962
+8769, Donetska > Oleksandrivskyi > Oleksandrivskyi,Donetska,48.047609,37.673962
+8770, Donetska > Pokrovska > Pokrovska,Donetska,48.047609,37.673962
+8771, Donetska > Selydivska > Selydivska,Donetska,48.047609,37.673962
+8772, Donetska > Slovianska > Slovianska,Donetska,48.047609,37.673962
+8773, Donetska > Yasynuvatskyi > Yasynuvatskyi,Donetska,48.047609,37.673962
+8774, Donetska > Avdiivska > Avdiivska,Donetska,48.047609,37.673962
+8775, Donetska > Kostiantynivska > Kostiantynivska,Donetska,48.047609,37.673962
+8776, Donetska > Kramatorska > Kramatorska,Donetska,48.047609,37.673962
+8777, Donetska > Marinskyi > Marinskyi,Donetska,48.047609,37.673962
+8778, Donetska > Volnovaskyi > Volnovaskyi,Donetska,48.047609,37.673962
+8779, Donetska > Vuhledarska > Vuhledarska,Donetska,48.047609,37.673962
+8780, Donetska > Manhushskyi > Manhushskyi,Donetska,48.047609,37.673962
+8781, Donetska > Toretska > Toretska,Donetska,48.047609,37.673962
+8782, Donetska > Bakhmutska > Bakhmutska,Donetska,48.047609,37.673962
+8783, Donetska > Dobropilska > Dobropilska,Donetska,48.047609,37.673962
+8784, Donetska > Druzhkivska > Druzhkivska,Donetska,48.047609,37.673962
+8785, Donetska > Mariupolska > Mariupolska,Donetska,48.047609,37.673962
+8786, Donetska > Bakhmutska > Bakhmutska > Bakhmut,Donetska,48.047609,37.673962
+8787, Donetska > Kostiantynivska > Kostiantynivska > Kostiantynivka,Donetska,48.047609,37.673962
+8788, Donetska > Marinskyi > Marinskyi > Kurakhove,Donetska,48.047609,37.673962
+8789, Luhanska > Sievierodonetska > Sievierodonetska > Sievierodonetsk,Luhanska,48.985485,39.017663
+8790, Donetska > Toretska > Toretska > Zalizne,Donetska,48.047609,37.673962
+8791, Donetska > Bakhmutskyi > Bakhmutskyi > Novoluhanske,Donetska,48.047609,37.673962
+8792, Donetska > Volnovaskyi > Volnovaskyi > Chernenko,Donetska,48.047609,37.673962
+8793, Donetska > Volnovaskyi > Volnovaskyi > Pyshchevyk,Donetska,48.047609,37.673962
+8794, Donetska > Bakhmutskyi > Bakhmutskyi > Klishchiivka,Donetska,48.047609,37.673962
+8795, Donetska > Bakhmutskyi > Bakhmutskyi > Myronivka,Donetska,48.047609,37.673962
+8796, Donetska > Bakhmutskyi > Bakhmutskyi > Roty,Donetska,48.047609,37.673962
+8797, Donetska > Bakhmutskyi > Bakhmutskyi > Serebrianka,Donetska,48.047609,37.673962
+8798, Donetska > Bakhmutskyi > Bakhmutskyi > Vozdvyzhenka,Donetska,48.047609,37.673962
+8799, Donetska > Kostiantynivskyi > Kostiantynivskyi > Illinivka,Donetska,48.047609,37.673962
+8800, Donetska > Toretska > Toretska > Druzhba,Donetska,48.047609,37.673962
+8801, Donetska > Toretska > Toretska > Pivnichne,Donetska,48.047609,37.673962
+8802, Donetska > Yasynuvatskyi > Yasynuvatskyi > Krasnohorivka,Donetska,48.047609,37.673962
+8803, Donetska > Yasynuvatskyi > Yasynuvatskyi > Netailove,Donetska,48.047609,37.673962
+8804, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pervomaiske,Donetska,48.047609,37.673962
+8805, Luhanska > Novoaidarskyi > Novoaidarskyi > Bakhmutivka,Luhanska,48.985485,39.017663
+8806, Luhanska > Novoaidarskyi > Novoaidarskyi > Hrechyshkyne,Luhanska,48.985485,39.017663
+8807, Luhanska > Sievierodonetska > Sievierodonetska > Bobrove,Luhanska,48.985485,39.017663
+8808, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Artema,Luhanska,48.985485,39.017663
+8809, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnia Vilkhova,Luhanska,48.985485,39.017663
+8810, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Plotyna,Luhanska,48.985485,39.017663
+8811, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnia Vilkhova,Luhanska,48.985485,39.017663
+8812, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Zolotarivka,Luhanska,48.985485,39.017663
+8813, Donetska > Marinskyi > Marinskyi > Novomykhailivka,Donetska,48.047609,37.673962
+8814, Luhanska > Novoaidarskyi > Novoaidarskyi > Trokhizbenka,Luhanska,48.985485,39.017663
+8815, Donetska > Bakhmutskyi > Bakhmutskyi > Odradivka,Donetska,48.047609,37.673962
+8816, Donetska > Volnovaskyi > Volnovaskyi > Mykolaivka,Donetska,48.047609,37.673962
+8817, Donetska > Bakhmutskyi > Bakhmutskyi > Zelenopillia,Donetska,48.047609,37.673962
+8818, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnii Minchenok,Luhanska,48.985485,39.017663
+8819, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Pshenychne,Luhanska,48.985485,39.017663
+8820, Donetska > Bakhmutskyi > Bakhmutskyi > Vesela Dolyna,Donetska,48.047609,37.673962
+8821, Donetska > Avdiivska > Avdiivska > Avdiivka,Donetska,48.047609,37.673962
+8822, Donetska > Bakhmutskyi > Bakhmutskyi > Kodema,Donetska,48.047609,37.673962
+8823, Donetska > Bakhmutskyi > Bakhmutskyi > Midna Ruda,Donetska,48.047609,37.673962
+8824, Donetska > Volnovaskyi > Volnovaskyi > Novotroitske,Donetska,48.047609,37.673962
+8825, Donetska > Volnovaskyi > Volnovaskyi > Orlovske,Donetska,48.047609,37.673962
+8826, Luhanska > Popasnianskyi > Popasnianskyi > Novotoshkivske,Luhanska,48.985485,39.017663
+8827, Luhanska > Popasnianskyi > Popasnianskyi > Popasna,Luhanska,48.985485,39.017663
+8828, Luhanska > Popasnianskyi > Popasnianskyi > Vyskryva,Luhanska,48.985485,39.017663
+8829, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Kolesnykivka,Luhanska,48.985485,39.017663
+8830, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Malynove,Luhanska,48.985485,39.017663
+8831, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnii Minchenok,Luhanska,48.985485,39.017663
+8832, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Peredilske,Luhanska,48.985485,39.017663
+8833, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Yuhanivka,Luhanska,48.985485,39.017663
+8834, Donetska > Bakhmutskyi > Bakhmutskyi > Pylypchatyne,Donetska,48.047609,37.673962
+8835, Donetska > Bakhmutskyi > Bakhmutskyi > Semyhiria,Donetska,48.047609,37.673962
+8836, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Serednoteple,Luhanska,48.985485,39.017663
+8837, Donetska > Marinskyi > Marinskyi > Paraskoviivka,Donetska,48.047609,37.673962
+8838, Donetska > Yasynuvatskyi > Yasynuvatskyi > Panteleimonivka,Donetska,48.047609,37.673962
+8839, Donetska > Yasynuvatskyi > Yasynuvatskyi > Oleksandropil,Donetska,48.047609,37.673962
+8840, Luhanska > Popasnianskyi > Popasnianskyi > Orikhove,Luhanska,48.985485,39.017663
+8841, Donetska > Yasynuvatskyi > Yasynuvatskyi > Novoselivka,Donetska,48.047609,37.673962
+8842, Donetska > Volnovaskyi > Volnovaskyi > Novoselivka,Donetska,48.047609,37.673962
+8843, Donetska > Volnovaskyi > Volnovaskyi > Kamianka,Donetska,48.047609,37.673962
+8844, Donetska > Volnovaskyi > Volnovaskyi > Myrne,Donetska,48.047609,37.673962
+8845, Luhanska > Alchevska,Luhanska,48.985485,39.017663
+8846, Luhanska > Antratsytivskyi,Luhanska,48.985485,39.017663
+8847, Luhanska > Antratsytska,Luhanska,48.985485,39.017663
+8848, Luhanska > Briankivska,Luhanska,48.985485,39.017663
+8849, Luhanska > Dovzhanskyi,Luhanska,48.985485,39.017663
+8850, Luhanska > Krasnodonska,Luhanska,48.985485,39.017663
+8851, Luhanska > Krasnolutska,Luhanska,48.985485,39.017663
+8852, Luhanska > Luhanska,Luhanska,48.985485,39.017663
+8853, Luhanska > Perevalskyi,Luhanska,48.985485,39.017663
+8854, Luhanska > Pervomaiska,Luhanska,48.985485,39.017663
+8855, Luhanska > Popasnianskyi,Luhanska,48.985485,39.017663
+8856, Luhanska > Slovianoserbskyi,Luhanska,48.985485,39.017663
+8857, Luhanska > Sorokynskyi,Luhanska,48.985485,39.017663
+8858, Luhanska > Stakhanovska,Luhanska,48.985485,39.017663
+8859, Donetska > Zhdanivska,Donetska,48.047609,37.673962
+8860, Donetska > Yenakiivska,Donetska,48.047609,37.673962
+8861, Donetska > Amvrosiivskyi,Donetska,48.047609,37.673962
+8862, Donetska > Bakhmutskyi,Donetska,48.047609,37.673962
+8863, Donetska > Boikivskyi,Donetska,48.047609,37.673962
+8864, Donetska > Debaltsevcka,Donetska,48.047609,37.673962
+8865, Donetska > Dokuchaievska,Donetska,48.047609,37.673962
+8866, Donetska > Donetska,Donetska,48.047609,37.673962
+8867, Donetska > Horlivska,Donetska,48.047609,37.673962
+8868, Donetska > Khartsyzka,Donetska,48.047609,37.673962
+8869, Donetska > Kirovska,Donetska,48.047609,37.673962
+8870, Donetska > Makiivska,Donetska,48.047609,37.673962
+8871, Donetska > Novoazovskyi,Donetska,48.047609,37.673962
+8872, Donetska > Shakhtarska,Donetska,48.047609,37.673962
+8873, Donetska > Shakhtarskyi,Donetska,48.047609,37.673962
+8874, Donetska > Snizhnianska,Donetska,48.047609,37.673962
+8875, Donetska > Starobeshivskyi,Donetska,48.047609,37.673962
+8876, Donetska > Torezka,Donetska,48.047609,37.673962
+8877, Donetska > Yasynuvatska,Donetska,48.047609,37.673962
+8878, Luhanska > Lutuhynskyi,Luhanska,48.985485,39.017663
+8879, Donetska > Toretska,Donetska,48.047609,37.673962
+8880, Donetska > Yasynuvatskyi,Donetska,48.047609,37.673962
+8881, Luhanska > Kirovska,Luhanska,48.985485,39.017663
+8882, Luhanska > Krasnodonska > Krasnodonska,Luhanska,48.985485,39.017663
+8883, Luhanska > Sverdlovska,Luhanska,48.985485,39.017663
+8884, Luhanska > Antratsytivskyi > Antratsytivskyi > Krasnolutskyi,Luhanska,48.985485,39.017663
+8885, Luhanska > Stakhanovska > Stakhanovska,Luhanska,48.985485,39.017663
+8886, Donetska > Kramatorska,Donetska,48.047609,37.673962
+8887, Donetska > Pokrovskyi,Donetska,48.047609,37.673962
+8888, Ternopilska > Ternopilska,Ternopilska,49.402385,25.648542
+8889, Zakarpatska > Uzhhorodska,Zakarpatska,48.403607,23.275962
+8890, Luhanska > Sievierodonetska,Luhanska,48.985485,39.017663
+8891, Zaporizka > Zaporizka > Zaporizka,Zaporizka,47.267047,35.700095
+8892, Luhanska > Stanychno-Luhanskyi,Luhanska,48.985485,39.017663
+8893, Kyivska > Kyivska > Kyivska,Kyivska,50.299325,30.455344
+8894, Donetska > Volnovaskyi,Donetska,48.047609,37.673962
+8895, Donetska > Amvrosiivskyi > Amvrosiivskyi,Donetska,48.047609,37.673962
+8896, Donetska > Snizhnianska > Snizhnianska,Donetska,48.047609,37.673962
+8897, Donetska > Shakhtarska > Shakhtarska,Donetska,48.047609,37.673962
+8898, Luhanska > Antratsytivskyi > Antratsytivskyi,Luhanska,48.985485,39.017663
+8899, Luhanska > Lutuhynskyi > Lutuhynskyi > Cheliuskinets,Luhanska,48.985485,39.017663
+8900, Luhanska > Perevalskyi > Perevalskyi > Mykhailivka,Luhanska,48.985485,39.017663
+8901, Luhanska > Sverdlovska > Sverdlovska,Luhanska,48.985485,39.017663
+8902, Donetska > Boikivskyi > Boikivskyi,Donetska,48.047609,37.673962
+8903, Luhanska > Lutuhynskyi > Lutuhynskyi > Peremozhne,Luhanska,48.985485,39.017663
+8904, Luhanska > Perevalskyi > Perevalskyi > Komisarivka,Luhanska,48.985485,39.017663
+8905, Luhanska > Perevalskyi > Perevalskyi > Maloivanivka,Luhanska,48.985485,39.017663
+8906, Luhanska > Perevalskyi > Perevalskyi > Zorynsk,Luhanska,48.985485,39.017663
+8907, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Stepove,Luhanska,48.985485,39.017663
+8908, Luhanska > Lutuhynskyi > Lutuhynskyi > Kamianka,Luhanska,48.985485,39.017663
+8909, Luhanska > Perevalskyi > Perevalskyi > Olenivka,Luhanska,48.985485,39.017663
+8910, Donetska > Novoazovskyi > Novoazovskyi,Donetska,48.047609,37.673962
+8911, Donetska > Starobeshivskyi > Starobeshivskyi,Donetska,48.047609,37.673962
+8912, Luhanska > Lutuhynskyi > Lutuhynskyi > Lutuhyne,Luhanska,48.985485,39.017663
+8913, Luhanska > Slovianoserbskyi > Slovianoserbskyi > Smile,Luhanska,48.985485,39.017663
+8914, Donetska > Debaltsevcka > Debaltsevcka > Debaltseve,Donetska,48.047609,37.673962
+8915, Donetska > Makiivska > Makiivska > Makiivka,Donetska,48.047609,37.673962
+8916, Luhanska > Lutuhynskyi > Lutuhynskyi > Rozkishne,Luhanska,48.985485,39.017663
+8917, Luhanska > Popasnianskyi > Popasnianskyi > Chornukhyne,Luhanska,48.985485,39.017663
+8918, Luhanska > Lutuhynskyi > Lutuhynskyi > Heorhiivka,Luhanska,48.985485,39.017663
+8919, Luhanska > Sorokynskyi > Sorokynskyi > Novosvitlivka,Luhanska,48.985485,39.017663
+8920, Donetska > Marinskyi > Marinskyi > Luhanske,Donetska,48.047609,37.673962
+8921, Donetska > Kirovska > Kirovska,Donetska,48.047609,37.673962
+8922, Donetska > Makiivska > Makiivska,Donetska,48.047609,37.673962
+8923, Donetska > Donetska > Donetska,Donetska,48.047609,37.673962
+8924, Donetska > Horlivska > Horlivska,Donetska,48.047609,37.673962
+8925, Dnipropetrovska > Dniprovska > Dniprovska > Dnipro,Dnipropetrovska,48.301032,34.844186
+8926, Lvivska > Lvivska > Lvivska > Lviv,Lvivska,49.717456,23.916579
+8927, Chernivetska > Chernivetska > Chernivetska > Chernivtsi,Chernivetska,48.26821,25.977472
+8928, Ivano-Frankivska > Ivano-Frankivska > Ivano-Frankivska > Ivano-Frankivsk,Ivano-Frankivska,48.702082,24.619994
+8929, Zaporizka > Zaporizka > Zaporizka > Zaporizhzhia,Zaporizka,47.267047,35.700095
+8930, Donetska > Khartsyzka > Khartsyzka > Ilovaisk,Donetska,48.047609,37.673962
+8931, Donetska > Khartsyzka > Khartsyzka > Zuivka,Donetska,48.047609,37.673962
+8932, Donetska > Novoazovskyi > Novoazovskyi > Siedove,Donetska,48.047609,37.673962
+8933, Donetska > Marinskyi,Donetska,48.047609,37.673962
+8934, Luhanska > Briankivska > Briankivska,Luhanska,48.985485,39.017663
+8935, Luhanska > Kirovska > Kirovska,Luhanska,48.985485,39.017663
+8936, Luhanska > Pervomaiska > Pervomaiska,Luhanska,48.985485,39.017663
+8937, Luhanska > Slovianoserbskyi > Slovianoserbskyi,Luhanska,48.985485,39.017663
+8938, Chernivetska,Chernivetska,48.26821,25.977472
+8939, Ivano-Frankivska,Ivano-Frankivska,48.702082,24.619994
+8940, Lvivska,Lvivska,49.717456,23.916579
+8941, Zakarpatska,Zakarpatska,48.403607,23.275962
+8942, Vinnytska,Vinnytska,48.920481,28.685515
+8943, Mykolaivska,Mykolaivska,47.438624,31.782032
+8944, Donetska > Donetskyi > Khartsyzka,Donetska,48.04731497,37.6741199
+8945, Donetska > Horlivskyi > Horlivska,Donetska,48.04731497,37.6741199
+8946, Donetska > Horlivskyi > Snizhnianska,Donetska,48.04731497,37.6741199
+8947, Donetska > Horlivskyi > Yenakiievska,Donetska,48.04731497,37.6741199
+8948, Donetska > Donetskyi > Donetska,Donetska,48.04731497,37.6741199
+8949, Donetska > Donetskyi > Amvrosiivska,Donetska,48.04731497,37.6741199
+8950, Donetska > Donetskyi > Makiivska,Donetska,48.04731497,37.6741199
+8951, Donetska > Horlivskyi > Chystiakivska,Donetska,48.04731497,37.6741199
+8952, Donetska > Horlivskyi > Debaltsivska,Donetska,48.04731497,37.6741199
+8953, Donetska > Kalmiuskyi > Boikivska,Donetska,48.04731497,37.6741199
+8954, Donetska > Kalmiuskyi > Starobeshivska,Donetska,48.04731497,37.6741199
+8955, Donetska > Horlivskyi > Shakhtarska,Donetska,48.04731497,37.6741199
+8849, Luhanska > Dovzhanskyi,Luhanska,48.98551927,39.01773003
+8956, Luhanska > Alchevskyi,Luhanska,48.98551927,39.01773003
+8957, Luhanska > Rovenkivskyi,Luhanska,48.98551927,39.01773003
+8958, Luhanska > Luhanskyi,Luhanska,48.98551927,39.01773003
+8959, Donetska > Mariupolskyi,Donetska,48.04731497,37.6741199
+8960, Luhanska > Sievierodonetskyi,Luhanska,48.98551927,39.01773003
+8887, Donetska > Pokrovskyi,Donetska,48.04731497,37.6741199
+8894, Donetska > Volnovaskyi,Donetska,48.04731497,37.6741199
+8961, Luhanska > Shchastynskyi,Luhanska,48.98551927,39.01773003
+8862, Donetska > Bakhmutskyi,Donetska,48.04731497,37.6741199
+8962, Donetska > Mariupolskyi > Manhushska,Donetska,48.04731497,37.6741199
+8963, Luhanska > Shchastynskyi > Stanychno-Luhanska,Luhanska,48.98551927,39.01773003
+8964, Dnipropetrovska,Dnipropetrovska,48.41701338,34.73173409
+8965, Donetska > Pokrovskyi > Ocheretynska,Donetska,48.04731497,37.6741199
+8966, Luhanska > Sievierodonetskyi > Popasnianska,Luhanska,48.98551927,39.01773003
+8967, Donetska > Kramatorskyi > Illinivska,Donetska,48.04731497,37.6741199
+8968, Donetska > Volnovaskyi > Vuhledarska,Donetska,48.04731497,37.6741199
+8969, Luhanska > Shchastynskyi > Shchastynska,Luhanska,48.98551927,39.01773003
+8970, Luhanska > Sievierodonetskyi > Hirska,Luhanska,48.98551927,39.01773003
+8971, Donetska > Pokrovskyi > Marinska,Donetska,48.04731497,37.6741199
+8972, Donetska > Mariupolskyi > Sartanska,Donetska,48.04731497,37.6741199
+8973, Luhanska > Shchastynskyi > Shyrokivska,Luhanska,48.98551927,39.01773003
+8974, Donetska > Bakhmutskyi > Svitlodarska,Donetska,48.04731497,37.6741199
+8975, Donetska > Pokrovskyi > Kurakhivska,Donetska,48.04731497,37.6741199
+8976, Zaporizka,Zaporizka,47.2670072,35.70000553
+8977, Kharkivska,Kharkivska,49.61499032,36.50491022
+8978, Donetska > Bakhmutskyi > Toretska,Donetska,48.04731497,37.6741199
+8979, Luhanska > Luhanskyi > Luhanska > Luhansk,Luhanska,48.98551927,39.01773003
+8980, Donetska > Pokrovskyi > Kurakhivska > Dachne,Donetska,48.04731497,37.6741199
+8981, Donetska > Pokrovskyi > Kurakhivska > Kurakhivka,Donetska,48.04731497,37.6741199
+8982, Donetska > Pokrovskyi > Kurakhivska > Hirnyk,Donetska,48.04731497,37.6741199
+8983, Donetska > Pokrovskyi > Kurakhivska > Kurakhove,Donetska,48.04731497,37.6741199
+8984, Donetska > Pokrovskyi > Selydivska > Ukrainsk,Donetska,48.04731497,37.6741199
+8985, Luhanska > Shchastynskyi > Nyzhnoteplivska,Luhanska,48.98551927,39.01773003
+8986, Donetska > Pokrovskyi > Udachnenska,Donetska,48.04731497,37.6741199
+8987, Donetska > Volnovaskyi > Komarska,Donetska,48.04731497,37.6741199
+8988, Luhanska > Sievierodonetskyi > Sievierodonetska,Luhanska,48.98551927,39.01773003
+8989, Donetska > Pokrovskyi > Avdiivska,Donetska,48.04731497,37.6741199
+8990, Donetska > Pokrovskyi > Pokrovska,Donetska,48.04731497,37.6741199
+8991, Donetska > Pokrovskyi > Selydivska,Donetska,48.04731497,37.6741199
+8992, Donetska > Bakhmutskyi > Svitlodarska > Travneve,Donetska,48.04731497,37.6741199
+8993, Donetska > Bakhmutskyi > Svitlodarska > Zaitseve,Donetska,48.04731497,37.6741199
+8994, Donetska > Bakhmutskyi > Toretska > Ozarianivka,Donetska,48.04731497,37.6741199
+8995, Donetska > Pokrovskyi > Marinska > Slavne,Donetska,48.04731497,37.6741199
+8996, Donetska > Pokrovskyi > Ocheretynska > Netailove,Donetska,48.04731497,37.6741199
+8997, Donetska > Pokrovskyi > Ocheretynska > Nevelske,Donetska,48.04731497,37.6741199
+8998, Donetska > Pokrovskyi > Ocheretynska > Vodiane,Donetska,48.04731497,37.6741199
+8999, Luhanska > Shchastynskyi > Shchastynska > Peredilske,Luhanska,48.98551927,39.01773003
+9000, Luhanska > Sievierodonetskyi > Popasnianska > Vyskryva,Luhanska,48.98551927,39.01773003
+9001, Luhanska > Sievierodonetskyi > Popasnianska > Novozvanivka,Luhanska,48.98551927,39.01773003
+9002, Donetska > Donetskyi > Ilovaiska,Donetska,48.04731497,37.6741199
+9003, Donetska > Donetskyi > Yasynuvatska,Donetska,48.04731497,37.6741199
+9004, Donetska > Horlivskyi > Khrestivska,Donetska,48.04731497,37.6741199
+9005, Donetska > Horlivskyi,Donetska,48.04731497,37.6741199
+9006, Donetska > Kalmiuskyi,Donetska,48.04731497,37.6741199
+9007, Kyivska,Kyivska,50.4488566,30.54818081
+9008, Donetska > Donetskyi,Donetska,48.04731497,37.6741199
+8940, Lvivska,Lvivska,49.71736367,23.91660016
+8942, Vinnytska,Vinnytska,48.92044212,28.6855358
+9009, Luhanska > Alchevskyi > Kadiivska > Holubivka,Luhanska,48.98551927,39.01773003
+9010, Luhanska > Dovzhanskyi > Sokyrianska > Sorokyne,Luhanska,48.98551927,39.01773003
+9011, Luhanska > Alchevskyi > Zymohirivska > Slovianoserbsk,Luhanska,48.98551927,39.01773003
+9012, Luhanska > Rovenkivskyi > Rovenkivska > Rovenky,Luhanska,48.98551927,39.01773003
+9013, Luhanska > Alchevskyi > Kadiivska > Kadiivka,Luhanska,48.98551927,39.01773003
+9014, Luhanska > Alchevskyi > Kadiivska > Pervomaisk,Luhanska,48.98551927,39.01773003
+9015, Donetska > Kramatorskyi,Donetska,48.04731497,37.6741199
+9016, Donetska > Donetskyi > Donetska > Staromykhailivka,Donetska,48.04731497,37.6741199
+9017, Donetska > Horlivskyi > Khrestivska > Khrestivka,Donetska,48.04731497,37.6741199
+9018, Donetska > Kalmiuskyi > Dokuchaievska > Dokuchaievsk,Donetska,48.04731497,37.6741199
+9019, Donetska > Kalmiuskyi > Dokuchaievska > Liubivka,Donetska,48.04731497,37.6741199
+9020, Donetska > Kalmiuskyi > Dokuchaievska > Olenivka,Donetska,48.04731497,37.6741199
+9021, Donetska > Kalmiuskyi > Novoazovska,Donetska,48.04731497,37.6741199
+9022, Donetska > Kalmiuskyi > Starobeshivska > Starobesheve,Donetska,48.04731497,37.6741199
+9023, Donetska > Horlivskyi > Zhdanivska,Donetska,48.04731497,37.6741199
+9024, Cherkaska,Cherkaska,49.26012386,31.35229576
+9025, Chernihivska,Chernihivska,51.35503976,32.00380063
+8938, Chernivetska,Chernivetska,48.26819792,25.97702081
+9026, Donetska,Donetska,48.04731497,37.6741199
+8939, Ivano-Frankivska,Ivano-Frankivska,48.70165698,24.61942916
+9027, Khersonska,Khersonska,46.67277916,33.52476149
+9028, Khmelnytska,Khmelnytska,49.50735912,26.92962493
+9029, Kirovohradska,Kirovohradska,48.47227492,32.08162392
+9007, Kyivska,Kyivska,49.81429818,30.33185237
+9030, Luhanska,Luhanska,48.98551927,39.01773003
+8943, Mykolaivska,Mykolaivska,47.43903776,31.78150644
+9031, Odeska,Odeska,46.84612595,30.45745785
+9032, Poltavska,Poltavska,49.73234182,33.77861264
+9033, Rivnenska,Rivnenska,50.91898443,26.51503357
+9034, Sumska,Sumska,51.01414035,33.96587116
+9035, Ternopilska,Ternopilska,49.40183273,25.64826593
+9036, Volynska,Volynska,51.19084609,24.87058676
+8941, Zakarpatska,Zakarpatska,48.4036198,23.27591388
+9037, Zhytomyrska,Zhytomyrska,50.63958619,28.47577421
+9038, Sucre > Sucre,Sucre,10.40997648,-63.34957604
+9039, Bolívar > Cedeño,Bolívar,6.23411231,-63.52467747
+9040, Zulia > Indígena Bolivariano Guajira,Zulia,9.89615762,-72.0865941
+9041, Zulia > Rosario De Perijá,Zulia,9.89615762,-72.0865941
+9042, Amazonas > Autónomo Atures,Amazonas,3.36082497,-65.94378949
+9043, Anzoátegui > Anaco,Anzoátegui,8.94112819,-64.42571176
+9044, Anzoátegui > Simón Rodríguez,Anzoátegui,8.94112819,-64.42571176
+9045, Falcón > Carirubana,Falcón,11.06828164,-69.77520537
+9046, Falcón > Falcón,Falcón,11.06828164,-69.77520537
+9047, Falcón > Miranda,Falcón,11.06828164,-69.77520537
+9048, Miranda > Bolivariano Guaicaipuro,Miranda,10.2374913,-66.37928634
+9049, Miranda > Lander,Miranda,10.2374913,-66.37928634
+9050, Miranda > Zamora,Miranda,10.2374913,-66.37928634
+9051, Sucre > Ribero,Sucre,10.40997648,-63.34957604
+9052, Anzoátegui > Juan Antonio Sotillo,Anzoátegui,8.94112819,-64.42571176
+9053, Bolívar > Angostura Del Orinoco,Bolívar,6.23411231,-63.52467747
+9054, Delta Amacuro > Tucupita,Delta Amacuro,8.77433049,-61.31427929
+9055, Distrito Capital > Libertador,Distrito Capital,10.46971283,-66.99452881
+9056, Sucre > Bermúdez,Sucre,10.40997648,-63.34957604
+9057, Zulia > Lagunillas,Zulia,9.89615762,-72.0865941
+9058, Zulia > Valmore Rodríguez,Zulia,9.89615762,-72.0865941
+9059, Miranda > Sucre,Miranda,10.2374913,-66.37928634
+9060, Miranda > Urdaneta,Miranda,10.2374913,-66.37928634
+9061, Zulia > Machiques De Perijá,Zulia,9.89615762,-72.0865941
+9062, Zulia > Maracaibo,Zulia,9.89615762,-72.0865941
+9063, Zulia > San Francisco,Zulia,9.89615762,-72.0865941
+9064, Bolívar > Caroní,Bolívar,6.23411231,-63.52467747
+9065, Miranda > Sucre > Petare,Miranda,10.2374913,-66.37928634
+9066, Anzoátegui > Juan Antonio Sotillo > Puerto La Cruz,Anzoátegui,8.94112819,-64.42571176
+9067, Miranda > Sucre > La Dolorita,Miranda,10.2374913,-66.37928634
+9068, Distrito Capital > Libertador > Altagracia,Distrito Capital,10.46971283,-66.99452881
+9069, Distrito Capital > Libertador > Coche,Distrito Capital,10.46971283,-66.99452881
+9070, Distrito Capital > Libertador > El Valle,Distrito Capital,10.46971283,-66.99452881
+9071, Distrito Capital > Libertador > San Pedro,Distrito Capital,10.46971283,-66.99452881
+9072, Miranda > Cristóbal Rojas > Charallave,Miranda,10.2374913,-66.37928634
+9073, Miranda > Plaza > Guarenas,Miranda,10.2374913,-66.37928634
+9074, Falcón > Miranda > Santa Ana,Falcón,11.06828164,-69.77520537
+9075, Zulia > Santa Rita,Zulia,9.89615762,-72.0865941
+9076, Miranda > Baruta,Miranda,10.2374913,-66.37928634
+9077, Miranda > Páez,Miranda,10.2374913,-66.37928634
+9078, Miranda > Chacao,Miranda,10.2374913,-66.37928634
+9079, Anzoátegui > Diego Bautista Urbaneja,Anzoátegui,8.94112819,-64.42571176
+9080, Delta Amacuro > Pedernales,Delta Amacuro,8.77433049,-61.31427929
+9081, Miranda > Sucre > Leoncio Martínez,Miranda,10.2374913,-66.37928634
+9082, Miranda > Baruta > Las Minas De Baruta,Miranda,10.2374913,-66.37928634
+9083, Miranda > El Hatillo,Miranda,10.2374913,-66.37928634
+9084, Miranda > Brión,Miranda,10.2374913,-66.37928634
+9085, Sucre > Benítez,Sucre,10.40997648,-63.34957604
+9086, Apure > San Fernando,Apure,7.1305767,-68.80698907
+9087, Apure > Achaguas,Apure,7.1305767,-68.80698907
+9088, Apure > Biruaca,Apure,7.1305767,-68.80698907
+9089, Apure > Páez,Apure,7.1305767,-68.80698907
+9090, Delta Amacuro > Antonio Díaz,Delta Amacuro,8.77433049,-61.31427929
+9091, Amazonas > Autónomo Autana,Amazonas,3.36082497,-65.94378949
+9092, Delta Amacuro > Casacoima,Delta Amacuro,8.77433049,-61.31427929
+9093, Amazonas > Autónomo Alto Orinoco,Amazonas,3.36082497,-65.94378949
+9094, Bolívar > Gran Sabana,Bolívar,6.23411231,-63.52467747
+9095, Amazonas > Autónomo Atabapo,Amazonas,3.36082497,-65.94378949
+9096, Bolívar > Sucre,Bolívar,6.23411231,-63.52467747
+9097, Distrito Capital > Libertador > La Vega,Distrito Capital,10.46971283,-66.99452881
+9098, Distrito Capital > Libertador > Santa Rosalía,Distrito Capital,10.46971283,-66.99452881
+9099, Zulia > Colón > San Carlos Del Zulia,Zulia,9.89615762,-72.0865941
+9100, Distrito Capital > Libertador > El Paraíso,Distrito Capital,10.46971283,-66.99452881
+9101, Apure > Rómulo Gallegos,Apure,7.1305767,-68.80698907
+9102, Bolívar > El Callao,Bolívar,6.23411231,-63.52467747
+9103, Bolívar > Roscio,Bolívar,6.23411231,-63.52467747
+9104, Apure > Pedro Camejo,Apure,7.1305767,-68.80698907
+9105, Bolívar > Sifontes,Bolívar,6.23411231,-63.52467747
+9106, Apure > Muñoz,Apure,7.1305767,-68.80698907
+9107, Sucre > Cruz Salmerón Acosta,Sucre,10.40997648,-63.34957604
+9108,Ibb -> Ar Radmah -> Thee Ashra,Ibb,14.05521633,44.26319019
+9109,Ibb -> Ar Radmah -> Al-Ratmah,Ibb,14.05521633,44.26319019
+9110,Sana'a -> Sa'fan,Sana'a,15.12394358,44.78727759
+9111,Sana'a -> Manakhah,Sana'a,15.12394358,44.78727759
+9112,Ibb -> Far Al Udayn,Ibb,14.05521633,44.26319019
+9113,Taizz -> As Silw,Taizz,13.39753802,43.68772167
+9114,Taizz -> Jabal Habashy,Taizz,13.39753802,43.68772167
+9115,Sana'a -> Hamdan,Sana'a,15.12394358,44.78727759
+9116,Abyan -> Ahwar,Abyan,13.6955485,46.50340692
+9117,Al Hudaydah -> As Sukhnah,Al Hudaydah,15.00062889,43.04031959
+9118,Abyan -> Khanfir,Abyan,13.6955485,46.50340692
+9119,Al Hudaydah -> Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
+9120,Dhamar -> Wusab As Safil,Dhamar,14.50737016,44.42760976
+9121,Hajjah -> Aslem,Hajjah,16.27488061,43.11225315
+9122,Hajjah -> Abs,Hajjah,16.27488061,43.11225315
+9123,Hajjah -> Qafl Shamer,Hajjah,16.27488061,43.11225315
+9124,Taizz -> Al Misrakh,Taizz,13.39753802,43.68772167
+9125,Taizz -> Al Misrakh -> Al-Sarfah,Taizz,13.39753802,43.68772167
+9126,Hajjah -> Qafl Shamer -> Bait Al-Zeeh,Hajjah,16.27488061,43.11225315
+9127,Amran -> Bani Suraim,Amran,16.3570904,43.87269369
+9128,Amran -> Huth,Amran,16.3570904,43.87269369
+9129,Amran -> Al Qaflah,Amran,16.3570904,43.87269369
+9130,Amran -> Khamir,Amran,16.3570904,43.87269369
+9131,Sa'ada -> Haydan,Sa'ada,17.25112185,43.50274965
+9132,Lahj -> Al Musaymir,Lahj,12.96593663,44.41733354
+9133,Lahj -> Al Maqatirah,Lahj,12.96593663,44.41733354
+9134,Sa'ada -> Saqayn,Sa'ada,17.25112185,43.50274965
+9135,Abyan -> Zingibar,Abyan,13.6955485,46.50340692
+9136,Hajjah -> Bani Qa'is,Hajjah,16.27488061,43.11225315
+9137,Al Hudaydah -> As Sukhnah -> Al-Damegh,Al Hudaydah,15.00062889,43.04031959
+9138,Al Hudaydah -> As Sukhnah -> Al-Madafen,Al Hudaydah,15.00062889,43.04031959
+9139,Al Hudaydah -> Al Qanawis -> Deer Dahmash,Al Hudaydah,15.00062889,43.04031959
+9140,Al Hudaydah -> As Sukhnah -> Al-Aqaryah,Al Hudaydah,15.00062889,43.04031959
+9141,Al Jawf -> Al Maton,Al Jawf,16.76813934,46.01014819
+9142,Amran -> Kharif,Amran,16.3570904,43.87269369
+9143,Ibb -> As Sayyani,Ibb,14.05521633,44.26319019
+9144,Sana'a -> Bani Matar,Sana'a,15.12394358,44.78727759
+9145,Sana'a,Sana'a,15.12394358,44.78727759
+9146,Al Dhale'e -> Jahaf,Al Dhale'e,13.85996808,44.67423913
+9147,Sa'ada -> Monabbih,Sa'ada,17.25112185,43.50274965
+9148,Al Dhale'e -> Al Azariq,Al Dhale'e,13.85996808,44.67423913
+9149,Al Hudaydah -> Bajil,Al Hudaydah,15.00062889,43.04031959
+9150,Ibb -> Al Udayn,Ibb,14.05521633,44.26319019
+9151,Al Jawf -> Bart Al Anan,Al Jawf,16.76813934,46.01014819
+9152,Hajjah -> Hajjah City,Hajjah,16.27488061,43.11225315
+9153,Sa'ada -> Razih,Sa'ada,17.25112185,43.50274965
+9154,Ibb -> Mudhaykhirah,Ibb,14.05521633,44.26319019
+9155,Ibb -> Hazm Al Udayn,Ibb,14.05521633,44.26319019
+9156,Sana'a -> Manakhah -> Manakhah,Sana'a,15.12394358,44.78727759
+9157,Hajjah,Hajjah,16.27488061,43.11225315
+9158,Abyan -> Rasad,Abyan,13.6955485,46.50340692
+9159,Hajjah -> Abs -> Bani Ahmed,Hajjah,16.27488061,43.11225315
+9160,Hajjah -> Abs -> Dabn,Hajjah,16.27488061,43.11225315
+9161,Al Hudaydah -> Az Zuhrah -> Deer Al-Sayed,Al Hudaydah,15.00062889,43.04031959
+9162,Al Hudaydah -> Az Zuhrah -> Noaman,Al Hudaydah,15.00062889,43.04031959
+9163,Hajjah -> Abs -> Abs,Hajjah,16.27488061,43.11225315
+9164,Hajjah -> Hayran -> Al-Masharefah,Hajjah,16.27488061,43.11225315
+9165,Hajjah -> Hayran -> Bani Fadhel,Hajjah,16.27488061,43.11225315
+9166,Al Hudaydah -> Az Zuhrah -> Deer Mansour,Al Hudaydah,15.00062889,43.04031959
+9167,Al Hudaydah -> Az Zuhrah -> Cadf Bani Odhaby,Al Hudaydah,15.00062889,43.04031959
+9168,Dhamar -> Jabal Ash sharq,Dhamar,14.50737016,44.42760976
+9169,Hadramaut -> Al Mukalla -> Al-Masna,Hadramaut,16.80924424,48.84638589
+9170,Hadramaut -> Al Mukalla -> Bein Al-Jebal,Hadramaut,16.80924424,48.84638589
+9171,Hadramaut -> Al Mukalla -> Hamam,Hadramaut,16.80924424,48.84638589
+9172,Hadramaut -> Ghayl Ba Wazir -> Al-Carah,Hadramaut,16.80924424,48.84638589
+9173,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
+9174,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Hadramaut,16.80924424,48.84638589
+9175,Hadramaut -> Ghayl Ba Wazir -> Gheil Al-Halekah,Hadramaut,16.80924424,48.84638589
+9176,Hadramaut -> Ghayl Ba Wazir -> Ras Al-Aqeim,Hadramaut,16.80924424,48.84638589
+9177,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
+9178,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+9179,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
+9180,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
+9181,Abyan -> Sarar,Abyan,13.6955485,46.50340692
+9182,Aden -> Dar Sad,Aden,12.84865928,45.00201169
+9183,Al Hudaydah -> Al Qanawis -> Al-Hameis,Al Hudaydah,15.00062889,43.04031959
+9184,Sana'a -> Hamdan -> Dharwan,Sana'a,15.12394358,44.78727759
+9185,Lahj -> Al Qabbaytah -> Al-Dhabrah,Lahj,12.96593663,44.41733354
+9186,Al Jawf -> Rajuzah,Al Jawf,16.76813934,46.01014819
+9187,Marib -> Harib Al Qaramish,Marib,15.56841151,45.76081505
+9188,Marib -> Marib,Marib,15.56841151,45.76081505
+9189,Marib -> Marib City,Marib,15.56841151,45.76081505
+9190,Hajjah -> Aflah Al Yaman -> Al-Mezab,Hajjah,16.27488061,43.11225315
+9191,Al Hudaydah -> Al Hajjaylah -> Al-Hujailah,Al Hudaydah,15.00062889,43.04031959
+9192,Hajjah -> Ash Shaghadirah -> Al-Hawyah,Hajjah,16.27488061,43.11225315
+9193,Hajjah -> Hajjah,Hajjah,16.27488061,43.11225315
+9194,Lahj -> Al Maqatirah -> Al-Mahelah,Lahj,12.96593663,44.41733354
+9195,Lahj -> Al Maqatirah -> Al-Maseejd,Lahj,12.96593663,44.41733354
+9196,Lahj -> Al Maqatirah -> Al-Cabeebah,Lahj,12.96593663,44.41733354
+9197,Lahj -> Al Maqatirah -> Al-Haneeshah,Lahj,12.96593663,44.41733354
+9198,Lahj -> Al Maqatirah -> Al-Mahraqah,Lahj,12.96593663,44.41733354
+9199,Lahj -> Al Maqatirah -> Araf,Lahj,12.96593663,44.41733354
+9200,Lahj -> Al Maqatirah -> Al-Barh,Lahj,12.96593663,44.41733354
+9201,Sana'a -> Sa'fan -> Al-Zabyah,Sana'a,15.12394358,44.78727759
+9202,Al Hudaydah -> As Sukhnah -> Coheil,Al Hudaydah,15.00062889,43.04031959
+9203,Al Hudaydah -> Bura -> Acamat Al-Sharf,Al Hudaydah,15.00062889,43.04031959
+9204,Al Hudaydah -> Bura -> Al-Buaymi,Al Hudaydah,15.00062889,43.04031959
+9205,Al Hudaydah -> Bura -> Al-Caheb,Al Hudaydah,15.00062889,43.04031959
+9206,Al Hudaydah -> Bura -> Al-Dhareef,Al Hudaydah,15.00062889,43.04031959
+9207,Al Hudaydah -> Bura -> Al-Jahatemah,Al Hudaydah,15.00062889,43.04031959
+9208,Al Hudaydah -> Bura -> Al-Merkham,Al Hudaydah,15.00062889,43.04031959
+9209,Al Hudaydah -> Bura -> Al-Nashah,Al Hudaydah,15.00062889,43.04031959
+9210,Al Hudaydah -> Bura -> Al-Qad,Al Hudaydah,15.00062889,43.04031959
+9211,Al Hudaydah -> Bura -> Al-Thari,Al Hudaydah,15.00062889,43.04031959
+9212,Al Hudaydah -> Bura -> Bani Al-Abadi,Al Hudaydah,15.00062889,43.04031959
+9213,Al Hudaydah -> Bura -> Beineen,Al Hudaydah,15.00062889,43.04031959
+9214,Al Hudaydah -> Bura -> Eiuon,Al Hudaydah,15.00062889,43.04031959
+9215,Al Hudaydah -> Bura -> Jailan,Al Hudaydah,15.00062889,43.04031959
+9216,Al Hudaydah -> Bura -> Mahwal,Al Hudaydah,15.00062889,43.04031959
+9217,Al Hudaydah -> Bura -> Odhr,Al Hudaydah,15.00062889,43.04031959
+9218,Al Hudaydah -> Bura -> Reqab,Al Hudaydah,15.00062889,43.04031959
+9219,Al Hudaydah -> Bura -> Abr Sad,Al Hudaydah,15.00062889,43.04031959
+9220,Al Hudaydah -> Bura -> Haz Al-Shamah,Al Hudaydah,15.00062889,43.04031959
+9221,Al Hudaydah -> Bura -> Rajn,Al Hudaydah,15.00062889,43.04031959
+9222,Al Hudaydah -> Bura -> Al-Cubah,Al Hudaydah,15.00062889,43.04031959
+9223,Hadramaut -> Al Abr,Hadramaut,16.80924424,48.84638589
+9224,Lahj -> Al Milah,Lahj,12.96593663,44.41733354
+9225,Al Hudaydah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+9226,Hadramaut -> Yabuth,Hadramaut,16.80924424,48.84638589
+9227,Hadramaut -> Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+9228,Ibb,Ibb,14.05521633,44.26319019
+9229,Taizz,Taizz,13.39753802,43.68772167
+9230,Abyan -> Al Wade'a,Abyan,13.6955485,46.50340692
+9231,Abyan -> Lawdar,Abyan,13.6955485,46.50340692
+9232,Abyan -> Mudiyah,Abyan,13.6955485,46.50340692
+9233,Aden -> Al Buraiqeh,Aden,12.84865928,45.00201169
+9234,Hajjah -> Bakil Al Mir,Hajjah,16.27488061,43.11225315
+9235,Hajjah -> Al Jamimah,Hajjah,16.27488061,43.11225315
+9236,Hajjah -> Ash Shaghadirah,Hajjah,16.27488061,43.11225315
+9237,Hajjah -> Washhah,Hajjah,16.27488061,43.11225315
+9238,Hajjah -> Kushar,Hajjah,16.27488061,43.11225315
+9239,Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
+9240,Amran -> Al Ashah,Amran,16.3570904,43.87269369
+9241,Amran -> Al Madan,Amran,16.3570904,43.87269369
+9242,Amran -> Harf Sufyan,Amran,16.3570904,43.87269369
+9243,Amran -> As Sawd,Amran,16.3570904,43.87269369
+9244,Al Bayda -> Radman Al Awad,Al Bayda,14.21742373,45.55495025
+9245,Al Bayda -> Al Malagim,Al Bayda,14.21742373,45.55495025
+9246,Al Bayda -> Al Bayda City,Al Bayda,14.21742373,45.55495025
+9247,Al Bayda -> Ash Sharyah,Al Bayda,14.21742373,45.55495025
+9248,Al Bayda -> Mukayras,Al Bayda,14.21742373,45.55495025
+9249,Al Bayda -> Al Bayda,Al Bayda,14.21742373,45.55495025
+9250,Al Bayda,Al Bayda,14.21742373,45.55495025
+9251,Al Bayda -> Rada',Al Bayda,14.21742373,45.55495025
+9252,Taizz -> At Ta'iziyah,Taizz,13.39753802,43.68772167
+9253,Taizz -> Al  Mukha,Taizz,13.39753802,43.68772167
+9254,Taizz -> Al Wazi'iyah,Taizz,13.39753802,43.68772167
+9255,Taizz -> Maqbanah,Taizz,13.39753802,43.68772167
+9256,Taizz -> Shara'b Ar Rawnah,Taizz,13.39753802,43.68772167
+9257,Dhamar -> Dhamar City,Dhamar,14.50737016,44.42760976
+9258,Dhamar -> Jahran,Dhamar,14.50737016,44.42760976
+9259,Dhamar -> Utmah,Dhamar,14.50737016,44.42760976
+9260,Dhamar -> Wusab Al Ali,Dhamar,14.50737016,44.42760976
+9261,Dhamar -> Anss,Dhamar,14.50737016,44.42760976
+9262,Al Mahwit,Al Mahwit,15.40140161,43.59523566
+9263,Amanat Al Asimah -> Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
+9264,Amanat Al Asimah -> As Sabain,Amanat Al Asimah,15.36598719,44.2020645
+9265,Amanat Al Asimah -> Az'zal,Amanat Al Asimah,15.36598719,44.2020645
+9266,Amanat Al Asimah -> Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
+9267,Amanat Al Asimah -> Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
+9268,Raymah,Raymah,14.59985617,43.68772167
+9269,Amran,Amran,16.3570904,43.87269369
+9270,Raymah -> Al Jafariyah,Raymah,14.59985617,43.68772167
+9271,Raymah -> As Salafiyah,Raymah,14.59985617,43.68772167
+9272,Raymah -> Mazhar,Raymah,14.59985617,43.68772167
+9273,Raymah -> Bilad At Ta'am,Raymah,14.59985617,43.68772167
+9274,Raymah -> Kusmah,Raymah,14.59985617,43.68772167
+9275,Raymah -> Al Jabin,Raymah,14.59985617,43.68772167
+9276,Dhamar -> Jahran -> Mabr,Dhamar,14.50737016,44.42760976
+9277,Dhamar -> Al Hada,Dhamar,14.50737016,44.42760976
+9278,Al Mahwit -> At Tawilah,Al Mahwit,15.40140161,43.59523566
+9279,Al Mahwit -> Bani Sa'd,Al Mahwit,15.40140161,43.59523566
+9280,Al Mahwit -> Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+9281,Al Mahwit -> Al Khabt,Al Mahwit,15.40140161,43.59523566
+9282,Al Mahwit -> Al Mahwait City,Al Mahwit,15.40140161,43.59523566
+9283,Al Mahwit -> Hufash,Al Mahwit,15.40140161,43.59523566
+9284,Al Mahwit -> Milhan,Al Mahwit,15.40140161,43.59523566
+9285,Abyan,Abyan,13.6955485,46.50340692
+9286,Aden,Aden,12.84865928,45.00201169
+9287,Dhamar,Dhamar,14.50737016,44.42760976
+9288,Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
+9289,Taizz -> Ash Shamayatayn,Taizz,13.39753802,43.68772167
+9290,Ibb -> Mudhaykhirah -> Al-Reis,Ibb,14.05521633,44.26319019
+9291,Ibb -> Mudhaykhirah -> Al-Ozlah,Ibb,14.05521633,44.26319019
+9292,Ibb -> Mudhaykhirah ->  Al-Nejd Market,Ibb,14.05521633,44.26319019
+9293,Ibb -> Mudhaykhirah -> Mutheikhrah,Ibb,14.05521633,44.26319019
+9294,Dhamar -> Dawran Aness,Dhamar,14.50737016,44.42760976
+9295,Lahj -> Tuban -> Al-Khadad,Lahj,12.96593663,44.41733354
+9296,Lahj -> Tuban -> Anqoudah,Lahj,12.96593663,44.41733354
+9297,Lahj -> Tuban -> Bait Eyadh,Lahj,12.96593663,44.41733354
+9298,Lahj -> Tuban -> Sefyan,Lahj,12.96593663,44.41733354
+9299,Lahj -> Tuban -> Abr Badr,Lahj,12.96593663,44.41733354
+9300,Lahj -> Tuban -> Al-Anad,Lahj,12.96593663,44.41733354
+9301,Lahj -> Tuban -> Cadmah Owad Ali,Lahj,12.96593663,44.41733354
+9302,Lahj -> Tuban -> Joal Hasan,Lahj,12.96593663,44.41733354
+9303,Lahj -> Tuban -> Tahrour,Lahj,12.96593663,44.41733354
+9304,Lahj -> Tuban -> Al-Hasky,Lahj,12.96593663,44.41733354
+9305,Lahj -> Tuban -> Joal Yemani,Lahj,12.96593663,44.41733354
+9306,Lahj -> Tuban -> Zaydah,Lahj,12.96593663,44.41733354
+9307,Lahj -> Tuban -> Al-What,Lahj,12.96593663,44.41733354
+9308,Al Hudaydah -> At Tuhayat,Al Hudaydah,15.00062889,43.04031959
+9309,Al Hudaydah -> Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
+9310,Al Hudaydah -> As Salif,Al Hudaydah,15.00062889,43.04031959
+9311,Al Hudaydah -> Bura -> Al-Gheileen,Al Hudaydah,15.00062889,43.04031959
+9312,Al Hudaydah -> Bura -> Manoub,Al Hudaydah,15.00062889,43.04031959
+9313,Al Hudaydah -> Bura -> Antarah,Al Hudaydah,15.00062889,43.04031959
+9314,Al Hudaydah -> Bura -> Al-Zeraei,Al Hudaydah,15.00062889,43.04031959
+9315,Al Mahwit -> Bani Sa'd -> Al-Carb,Al Mahwit,15.40140161,43.59523566
+9316,Al Hudaydah -> Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
+9317,Al Hudaydah -> Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
+9318,Taizz -> Dimnat Khadir,Taizz,13.39753802,43.68772167
+9319,Lahj -> Al Qabbaytah,Lahj,12.96593663,44.41733354
+9320,Al Dhale'e -> Al Husha,Al Dhale'e,13.85996808,44.67423913
+9321,Al Hudaydah -> Bayt Al Faqiah -> Al-Muzahrah,Al Hudaydah,15.00062889,43.04031959
+9322,Al Hudaydah -> Bayt Al Faqiah -> Bait Al-Faqeeh,Al Hudaydah,15.00062889,43.04031959
+9323,Al Hudaydah -> Bayt Al Faqiah -> Bani Maqboul,Al Hudaydah,15.00062889,43.04031959
+9324,Al Hudaydah -> Az Zaydiyah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+9325,Al Hudaydah -> Az Zaydiyah -> Qaryat Al-Hashaberah,Al Hudaydah,15.00062889,43.04031959
+9326,Al Mahwit -> Ar Rujum -> Al-Dhohr,Al Mahwit,15.40140161,43.59523566
+9327,Al Mahwit -> Ar Rujum -> Al-Jalbah,Al Mahwit,15.40140161,43.59523566
+9328,Al Mahwit -> Ar Rujum -> Al-Jazb,Al Mahwit,15.40140161,43.59523566
+9329,Al Mahwit -> Ar Rujum -> Al-Rujom,Al Mahwit,15.40140161,43.59523566
+9330,Al Mahwit -> Ar Rujum -> Rawhan,Al Mahwit,15.40140161,43.59523566
+9331,Al Mahwit -> Ar Rujum -> Sahl Baqel,Al Mahwit,15.40140161,43.59523566
+9332,Al Mahwit -> Ar Rujum,Al Mahwit,15.40140161,43.59523566
+9333,Amran -> Raydah -> Reidah,Amran,16.3570904,43.87269369
+9334,Abyan -> Al Mahfad,Abyan,13.6955485,46.50340692
+9335,Aden -> Craiter,Aden,12.84865928,45.00201169
+9336,Hajjah -> Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
+9337,Al Hudaydah -> At Tuhayat -> Al-Tuheita,Al Hudaydah,15.00062889,43.04031959
+9338,Hajjah -> Aflah Al Yaman,Hajjah,16.27488061,43.11225315
+9339,Hajjah -> Mustaba,Hajjah,16.27488061,43.11225315
+9340,Al Bayda -> Al Bayda City -> Al-Baida City,Al Bayda,14.21742373,45.55495025
+9341,Al Hudaydah -> As Sukhnah -> Deer Al-Hadeish,Al Hudaydah,15.00062889,43.04031959
+9342,Al Hudaydah -> Bajil -> Al-Meshwaf,Al Hudaydah,15.00062889,43.04031959
+9343,Al Hudaydah -> Bajil -> Al-Damn,Al Hudaydah,15.00062889,43.04031959
+9344,Al Hudaydah -> Bajil -> Deer Bareih,Al Hudaydah,15.00062889,43.04031959
+9345,Hajjah -> Hayran -> Al-Sadah,Hajjah,16.27488061,43.11225315
+9346,Hajjah -> Abs -> Barman,Hajjah,16.27488061,43.11225315
+9347,Hajjah -> Hayran -> Bani Al-Khamj,Hajjah,16.27488061,43.11225315
+9348,Hajjah -> Hayran -> Bani Al-Mash,Hajjah,16.27488061,43.11225315
+9349,Hajjah -> Abs -> Al-Makhzan Bani Ahmed,Hajjah,16.27488061,43.11225315
+9350,Hajjah -> Abs -> Al-Mehsam,Hajjah,16.27488061,43.11225315
+9351,Hajjah -> Abs -> Shab Al-Doush,Hajjah,16.27488061,43.11225315
+9352,Hajjah -> Abs -> Al-Okashyah,Hajjah,16.27488061,43.11225315
+9353,Hajjah -> Hayran -> Al-Awja,Hajjah,16.27488061,43.11225315
+9354,Hajjah -> Abs -> Al-Hujrah,Hajjah,16.27488061,43.11225315
+9355,Hajjah -> Abs -> Al-Nawahi Al-Sofla,Hajjah,16.27488061,43.11225315
+9356,Hajjah -> Hayran -> Al-Khowaryah,Hajjah,16.27488061,43.11225315
+9357,Hajjah -> Hayran -> Qatbah Bani Al-Aati,Hajjah,16.27488061,43.11225315
+9358,Hajjah -> Abs -> Al-Hamur,Hajjah,16.27488061,43.11225315
+9359,Hajjah -> Abs -> Al-Melakhah,Hajjah,16.27488061,43.11225315
+9360,Hajjah -> Hayran -> Al-Deer,Hajjah,16.27488061,43.11225315
+9361,Taizz -> Mawiyah,Taizz,13.39753802,43.68772167
+9362,Taizz -> Al Qahirah,Taizz,13.39753802,43.68772167
+9363,Taizz -> Al Mudhaffar,Taizz,13.39753802,43.68772167
+9364,Taizz -> Al Mawasit,Taizz,13.39753802,43.68772167
+9365,Lahj -> Tuban,Lahj,12.96593663,44.41733354
+9366,Shabwah,Shabwah,14.67178974,46.95556076
+9367,Hadramaut,Hadramaut,16.80924424,48.84638589
+9368,Lahj,Lahj,12.96593663,44.41733354
+9369,Sa'ada,Sa'ada,17.25112185,43.50274965
+9370,Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
+9371,Ibb -> Dhi As Sufal,Ibb,14.05521633,44.26319019
+9372,Hajjah -> Ku'aydinah,Hajjah,16.27488061,43.11225315
+9373,Al Hudaydah -> Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
+9374,Sana'a -> Arhab,Sana'a,15.12394358,44.78727759
+9375,Sana'a -> Attyal,Sana'a,15.12394358,44.78727759
+9376,Al Dhale'e -> Damt,Al Dhale'e,13.85996808,44.67423913
+9377,Hadramaut -> Brom Mayfa,Hadramaut,16.80924424,48.84638589
+9378,Ibb -> Dhi As Sufal -> Al-Qaedah,Ibb,14.05521633,44.26319019
+9379,Marib -> Medghal,Marib,15.56841151,45.76081505
+9380,Marib -> Sirwah,Marib,15.56841151,45.76081505
+9381,Dhamar -> Maghirib Ans,Dhamar,14.50737016,44.42760976
+9382,Dhamar -> Mayfa'at Anss,Dhamar,14.50737016,44.42760976
+9383,Shabwah -> Ataq -> Ataq,Shabwah,14.67178974,46.95556076
+9384,Al Hudaydah -> Al Marawi'ah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+9385,Al Hudaydah -> Al Marawi'ah -> Al-Afjyah,Al Hudaydah,15.00062889,43.04031959
+9386,Al Hudaydah -> Bajil -> Al-Zawmah,Al Hudaydah,15.00062889,43.04031959
+9387,Sana'a -> Sa'fan -> Al-Maghareb,Sana'a,15.12394358,44.78727759
+9388,Sana'a -> Sa'fan -> Asbab,Sana'a,15.12394358,44.78727759
+9389,Sana'a -> Sa'fan -> Rowabah,Sana'a,15.12394358,44.78727759
+9390,Sana'a -> Sa'fan -> Al-Mazabah,Sana'a,15.12394358,44.78727759
+9391,Sana'a -> Sa'fan -> Al-Marawelah,Sana'a,15.12394358,44.78727759
+9392,Sana'a -> Sa'fan -> Al-Shuabah,Sana'a,15.12394358,44.78727759
+9393,Sana'a -> Sa'fan -> Al-Wajrah,Sana'a,15.12394358,44.78727759
+9394,Sana'a -> Sa'fan -> Shalwal,Sana'a,15.12394358,44.78727759
+9395,Sana'a -> Sa'fan -> Al-Acamah,Sana'a,15.12394358,44.78727759
+9396,Sana'a -> Sa'fan -> Har Wadi,Sana'a,15.12394358,44.78727759
+9397,Sana'a -> Sa'fan -> Al-Hesn (Fort),Sana'a,15.12394358,44.78727759
+9398,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+9399,Al Hudaydah -> Al Mansuriyah -> Al-Jroup,Al Hudaydah,15.00062889,43.04031959
+9400,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+9401,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+9402,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
+9403,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
+9404,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
+9405,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
+9406,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
+9407,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
+9408,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
+9409,Hajjah -> Abs -> Al-Aredh,Hajjah,16.27488061,43.11225315
+9410,Hajjah -> Abs -> Shafar,Hajjah,16.27488061,43.11225315
+9411,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
+9412,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
+9413,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
+9414,Al Dhale'e -> Al Azariq -> Tawrasah,Al Dhale'e,13.85996808,44.67423913
+9415,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
+9416,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
+9417,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
+9418,Hajjah -> Wadhrah,Hajjah,16.27488061,43.11225315
+9419,Al Hudaydah -> Bura,Al Hudaydah,15.00062889,43.04031959
+9420,Al Hudaydah -> Az Zaydiyah -> Deer Aslah,Al Hudaydah,15.00062889,43.04031959
+9421,Al Hudaydah -> Az Zaydiyah -> Deer Ghorab,Al Hudaydah,15.00062889,43.04031959
+9422,Hajjah -> Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
+9423,Hajjah -> Ash Shahil,Hajjah,16.27488061,43.11225315
+9424,Hajjah -> Al Mahabishah,Hajjah,16.27488061,43.11225315
+9425,Al Bayda -> As Sawma'ah,Al Bayda,14.21742373,45.55495025
+9426,Al Bayda -> At Taffah,Al Bayda,14.21742373,45.55495025
+9427,Al Bayda -> Az Zahir,Al Bayda,14.21742373,45.55495025
+9428,Marib,Marib,15.56841151,45.76081505
+9429,Al Jawf,Al Jawf,16.76813934,46.01014819
+9430,Al Maharah,Al Maharah,16.59344354,51.59013758
+9431,Al Hudaydah -> Zabid,Al Hudaydah,15.00062889,43.04031959
+9432,Amanat Al Asimah -> Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
+9433,Amanat Al Asimah -> Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
+9434,Amanat Al Asimah -> Old City,Amanat Al Asimah,15.36598719,44.2020645
+9435,Hajjah -> Mabyan,Hajjah,16.27488061,43.11225315
+9436,Al Jawf -> Al Maslub,Al Jawf,16.76813934,46.01014819
+9437,Taizz -> Mawza,Taizz,13.39753802,43.68772167
+9438,Al Hudaydah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+9439,Al Hudaydah -> Al Mina,Al Hudaydah,15.00062889,43.04031959
+9440,Al Hudaydah -> Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+9441,Al Hudaydah -> Al Hawak -> Al-Mandhar,Al Hudaydah,15.00062889,43.04031959
+9442,Al Hudaydah -> Az Zaydiyah -> Al-Banaya,Al Hudaydah,15.00062889,43.04031959
+9443,Al Hudaydah -> Bayt Al Faqiah -> Al-Abasy,Al Hudaydah,15.00062889,43.04031959
+9444,Al Hudaydah -> Zabid -> Al-Baratah,Al Hudaydah,15.00062889,43.04031959
+9445,Al Hudaydah -> Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
+9446,Al Hudaydah -> Al Hawak,Al Hudaydah,15.00062889,43.04031959
+9447,Lahj -> Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
+9448,Taizz -> Sabir Al Mawadim,Taizz,13.39753802,43.68772167
+9449,Taizz -> Al Ma'afer -> Al-Careibyah,Taizz,13.39753802,43.68772167
+9450,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
+9451,Lahj -> Tuban -> Al-Mekhshabah,Lahj,12.96593663,44.41733354
+9452,Taizz -> Al Ma'afer -> Al-Anyah,Taizz,13.39753802,43.68772167
+9453,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
+9454,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
+9455,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
+9456,Taizz -> Mawza -> Adeenah,Taizz,13.39753802,43.68772167
+9457,Lahj -> Tuban -> Al-Baruleitarya,Lahj,12.96593663,44.41733354
+9458,Taizz -> Al  Mukha -> Al-Arjoush,Taizz,13.39753802,43.68772167
+9459,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
+9460,Taizz -> Al  Mukha -> Thabab,Taizz,13.39753802,43.68772167
+9461,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
+9462,Taizz -> Mawza -> Al-Hameidi,Taizz,13.39753802,43.68772167
+9463,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
+9464,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
+9465,Abyan -> Jayshan,Abyan,13.6955485,46.50340692
+9466,Aden -> Al Mansura,Aden,12.84865928,45.00201169
+9467,Aden -> Al Mualla,Aden,12.84865928,45.00201169
+9468,Aden -> Ash Shaikh Outhman,Aden,12.84865928,45.00201169
+9469,Aden -> Attawahi,Aden,12.84865928,45.00201169
+9470,Al Bayda -> Al A'rsh,Al Bayda,14.21742373,45.55495025
+9471,Al Bayda -> Al Quraishyah,Al Bayda,14.21742373,45.55495025
+9472,Al Bayda -> Sabah,Al Bayda,14.21742373,45.55495025
+9473,Al Bayda -> Wald Rabi',Al Bayda,14.21742373,45.55495025
+9474,Al Dhale'e -> Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
+9475,Al Dhale'e -> Al Hussein,Al Dhale'e,13.85996808,44.67423913
+9476,Al Dhale'e -> Juban,Al Dhale'e,13.85996808,44.67423913
+9477,Al Dhale'e -> Qa'atabah,Al Dhale'e,13.85996808,44.67423913
+9478,Al Hudaydah -> Ad Dahi,Al Hudaydah,15.00062889,43.04031959
+9479,Al Hudaydah -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+9480,Al Hudaydah -> Al Hali,Al Hudaydah,15.00062889,43.04031959
+9481,Al Hudaydah -> Alluheyah,Al Hudaydah,15.00062889,43.04031959
+9482,Al Hudaydah -> Hays,Al Hudaydah,15.00062889,43.04031959
+9483,Al Hudaydah -> Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+9484,Al Jawf -> Al Humaydat,Al Jawf,16.76813934,46.01014819
+9485,Al Jawf -> Al Matammah,Al Jawf,16.76813934,46.01014819
+9486,Al Jawf -> Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
+9487,Al Maharah -> Al Ghaydah,Al Maharah,16.59344354,51.59013758
+9488,Al Maharah -> Hawf,Al Maharah,16.59344354,51.59013758
+9489,Al Maharah -> Sayhut,Al Maharah,16.59344354,51.59013758
+9490,Amanat Al Asimah -> At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
+9491,Amanat Al Asimah -> Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
+9492,Amran -> Amran,Amran,16.3570904,43.87269369
+9493,Amran -> Dhi Bin,Amran,16.3570904,43.87269369
+9494,Amran -> Iyal Surayh,Amran,16.3570904,43.87269369
+9495,Amran -> Jabal Iyal Yazid,Amran,16.3570904,43.87269369
+9496,Amran -> Maswar,Amran,16.3570904,43.87269369
+9497,Amran -> Raydah,Amran,16.3570904,43.87269369
+9498,Amran -> Thula,Amran,16.3570904,43.87269369
+9499,Hadramaut -> Al Qatn,Hadramaut,16.80924424,48.84638589
+9500,Hadramaut -> Amd,Hadramaut,16.80924424,48.84638589
+9501,Hadramaut -> Ar Raydah Wa Qusayar,Hadramaut,16.80924424,48.84638589
+9502,Hadramaut -> Hajr,Hadramaut,16.80924424,48.84638589
+9503,Hadramaut -> Rakhyah,Hadramaut,16.80924424,48.84638589
+9504,Hadramaut -> Rumah,Hadramaut,16.80924424,48.84638589
+9505,Hadramaut -> Sah,Hadramaut,16.80924424,48.84638589
+9506,Hadramaut -> Shibam,Hadramaut,16.80924424,48.84638589
+9507,Hadramaut -> Thamud,Hadramaut,16.80924424,48.84638589
+9508,Hajjah -> Al Miftah,Hajjah,16.27488061,43.11225315
+9509,Hajjah -> Haradh,Hajjah,16.27488061,43.11225315
+9510,Hajjah -> Hayran,Hajjah,16.27488061,43.11225315
+9511,Hajjah -> Midi,Hajjah,16.27488061,43.11225315
+9512,Ibb -> Al Dhihar,Ibb,14.05521633,44.26319019
+9513,Ibb -> Al Makhadir,Ibb,14.05521633,44.26319019
+9514,Ibb -> Al Mashannah,Ibb,14.05521633,44.26319019
+9515,Ibb -> Al Qafr,Ibb,14.05521633,44.26319019
+9516,Ibb -> An Nadirah,Ibb,14.05521633,44.26319019
+9517,Ibb -> Ar Radmah,Ibb,14.05521633,44.26319019
+9518,Ibb -> As Sabrah,Ibb,14.05521633,44.26319019
+9519,Ibb -> As Saddah,Ibb,14.05521633,44.26319019
+9520,Ibb -> Ash Sha'ir,Ibb,14.05521633,44.26319019
+9521,Ibb -> Ba'dan,Ibb,14.05521633,44.26319019
+9522,Ibb -> Hubaysh,Ibb,14.05521633,44.26319019
+9523,Ibb -> Jiblah,Ibb,14.05521633,44.26319019
+9524,Ibb -> Yarim,Ibb,14.05521633,44.26319019
+9525,Lahj -> Al  Hawtah,Lahj,12.96593663,44.41733354
+9526,Lahj -> Al Had,Lahj,12.96593663,44.41733354
+9527,Lahj -> Al Maflahy,Lahj,12.96593663,44.41733354
+9528,Lahj -> Habil Jabr,Lahj,12.96593663,44.41733354
+9529,Lahj -> Tur Al Bahah,Lahj,12.96593663,44.41733354
+9530,Lahj -> Yafa'a,Lahj,12.96593663,44.41733354
+9531,Lahj -> Yahr,Lahj,12.96593663,44.41733354
+9532,Marib -> Al Jubah,Marib,15.56841151,45.76081505
+9533,Marib -> Bidbadah,Marib,15.56841151,45.76081505
+9534,Marib -> Mahliyah,Marib,15.56841151,45.76081505
+9535,Marib -> Majzar,Marib,15.56841151,45.76081505
+9536,Marib -> Rahabah,Marib,15.56841151,45.76081505
+9537,Sa'ada -> As Safra,Sa'ada,17.25112185,43.50274965
+9538,Sa'ada -> Baqim,Sa'ada,17.25112185,43.50274965
+9539,Sa'ada -> Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
+9540,Sa'ada -> Majz,Sa'ada,17.25112185,43.50274965
+9541,Sa'ada -> Sahar,Sa'ada,17.25112185,43.50274965
+9542,Sana'a -> Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
+9543,Sana'a -> Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
+9544,Sana'a -> Bani Hushaysh,Sana'a,15.12394358,44.78727759
+9545,Sana'a -> Khwlan,Sana'a,15.12394358,44.78727759
+9546,Sana'a -> Sanhan,Sana'a,15.12394358,44.78727759
+9547,Shabwah -> Ain,Shabwah,14.67178974,46.95556076
+9548,Shabwah -> Al Talh,Shabwah,14.67178974,46.95556076
+9549,Shabwah -> As Said,Shabwah,14.67178974,46.95556076
+9550,Shabwah -> Bayhan,Shabwah,14.67178974,46.95556076
+9551,Shabwah -> Hatib,Shabwah,14.67178974,46.95556076
+9552,Shabwah -> Jardan,Shabwah,14.67178974,46.95556076
+9553,Shabwah -> Mayfa'a,Shabwah,14.67178974,46.95556076
+9554,Shabwah -> Merkhah Al Ulya,Shabwah,14.67178974,46.95556076
+9555,Shabwah -> Merkhah As Sufla,Shabwah,14.67178974,46.95556076
+9556,Shabwah -> Nisab,Shabwah,14.67178974,46.95556076
+9557,Shabwah -> Usaylan,Shabwah,14.67178974,46.95556076
+9558,Taizz -> Hayfan,Taizz,13.39753802,43.68772167
+9559,Taizz -> Salh,Taizz,13.39753802,43.68772167
+9560,Taizz -> Shara'b As Salam,Taizz,13.39753802,43.68772167
+9561,Al Maharah -> Huswain,Al Maharah,16.59344354,51.59013758
+9562,Al Jawf -> Kharab Al Marashi,Al Jawf,16.76813934,46.01014819
+9563,Aden -> Khur Maksar,Aden,12.84865928,45.00201169
+9564,Sa'ada -> Sa'adah,Sa'ada,17.25112185,43.50274965
+9565,Al Bayda -> Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
+9566,Sana'a -> Jihanah,Sana'a,15.12394358,44.78727759
+9567,Shabwah -> Rudum,Shabwah,14.67178974,46.95556076
+9568,Hajjah -> Qarah,Hajjah,16.27488061,43.11225315
+9569,Ibb -> Ibb,Ibb,14.05521633,44.26319019
+9570,Al Hudaydah -> Al Munirah,Al Hudaydah,15.00062889,43.04031959
+9571,Sana'a -> Nihm,Sana'a,15.12394358,44.78727759
+9572,Al Dhale'e -> Al Hussein -> Adeenah,Al Dhale'e,13.85996808,44.67423913
+9573,Al Dhale'e -> Qa'atabah -> Admah,Al Dhale'e,13.85996808,44.67423913
+9574,Lahj -> Al Musaymir -> Al-Dareijah,Lahj,12.96593663,44.41733354
+9575,Lahj -> Al Musaymir -> Al-Maseimeer,Lahj,12.96593663,44.41733354
+9576,Lahj -> Al Musaymir -> Al-Mekhraj,Lahj,12.96593663,44.41733354
+9577,Lahj -> Al Musaymir -> Al-Rameedhah,Lahj,12.96593663,44.41733354
+9578,Lahj -> Al Musaymir -> Bashryah,Lahj,12.96593663,44.41733354
+9579,Lahj -> Al Musaymir -> Habeel Hansh,Lahj,12.96593663,44.41733354
+9580,Lahj -> Al Musaymir -> Makeideem,Lahj,12.96593663,44.41733354
+9581,Lahj -> Al Musaymir -> Mareeb,Lahj,12.96593663,44.41733354
+9582,Lahj -> Al Musaymir -> Noaman,Lahj,12.96593663,44.41733354
+9583,Lahj -> Al Musaymir -> Shathah,Lahj,12.96593663,44.41733354
+9584,Taizz -> Al Ma'afer -> Al-Malekah,Taizz,13.39753802,43.68772167
+9585,Taizz -> Al Ma'afer -> Al-Naqee'e,Taizz,13.39753802,43.68772167
+9586,Taizz -> Al Ma'afer -> Nejd Al-Mashraqi,Taizz,13.39753802,43.68772167
+9587,Taizz -> Al Ma'afer -> Qaeetah Al-Jabal,Taizz,13.39753802,43.68772167
+9588,Taizz -> Al Ma'afer -> Qayttah Al-Wadi,Taizz,13.39753802,43.68772167
+9589,Taizz -> Al Ma'afer -> Sheba,Taizz,13.39753802,43.68772167
+9590,Hajjah -> Abs -> Al-Jarabyah,Hajjah,16.27488061,43.11225315
+9591,Hajjah -> Abs -> Deer Al-Ocm,Hajjah,16.27488061,43.11225315
+9592,Hajjah -> Abs -> Majar,Hajjah,16.27488061,43.11225315
+9593,Hajjah -> Abs ->  Al-Rabou Market,Hajjah,16.27488061,43.11225315
+9594,Hajjah -> Abs -> Bani Makei,Hajjah,16.27488061,43.11225315
+9595,Taizz -> Al Ma'afer -> Zeid Mountain,Taizz,13.39753802,43.68772167
+9596,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Oshah,Sana'a,15.12394358,44.78727759
+9597,Sana'a -> Al Haymah Ad Dakhiliyah -> Jabal Sharar,Sana'a,15.12394358,44.78727759
+9598,Dhamar -> Al Manar,Dhamar,14.50737016,44.42760976
+9599,Amanat Al Asimah -> As Sabain -> Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
+9600,Taizz -> Dimnat Khadir -> Al-Abhoul,Taizz,13.39753802,43.68772167
+9601,Taizz -> Dimnat Khadir -> Al-Ajraf,Taizz,13.39753802,43.68772167
+9602,Taizz -> Dimnat Khadir -> Aamaq,Taizz,13.39753802,43.68772167
+9603,Al Hudaydah -> Al Mighlaf -> Al-Mehjam,Al Hudaydah,15.00062889,43.04031959
+9604,Al Hudaydah -> Al Mighlaf -> Deer Daam,Al Hudaydah,15.00062889,43.04031959
+9605,Al Hudaydah -> Al Mighlaf -> Gheyan,Al Hudaydah,15.00062889,43.04031959
+9606,Al Hudaydah -> Al Mighlaf -> Deer Mahdi,Al Hudaydah,15.00062889,43.04031959
+9607,Al Hudaydah -> Al Mighlaf -> Al-Menwab,Al Hudaydah,15.00062889,43.04031959
+9608,Taizz -> Dhubab,Taizz,13.39753802,43.68772167
+9609,Lahj -> Tur Al Bahah -> Al-Fareeq,Lahj,12.96593663,44.41733354
+9610,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
+9611,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
+9612,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
+9613,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
+9614,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
+9615,Abyan -> Mudiyah -> Qarn Al-Washal,Abyan,13.6955485,46.50340692
+9616,Abyan -> Mudiyah -> Al-Salam,Abyan,13.6955485,46.50340692
+9617,Abyan -> Mudiyah -> Al-Aber,Abyan,13.6955485,46.50340692
+9618,Abyan -> Mudiyah -> Lahmar,Abyan,13.6955485,46.50340692
+9619,Abyan -> Mudiyah -> Cawcab,Abyan,13.6955485,46.50340692
+9620,Abyan -> Mudiyah -> Aal Al-Rabashi,Abyan,13.6955485,46.50340692
+9621,Abyan -> Mudiyah -> Jawar,Abyan,13.6955485,46.50340692
+9622,Al Jawf -> Al Ghayl,Al Jawf,16.76813934,46.01014819
+9623,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
+9624,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
+9625,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
+9626,Taizz -> Al Ma'afer,Taizz,13.39753802,43.68772167
+9627,Al Hudaydah -> Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
+9628,Aden -> Al Mualla -> Aden,Aden,12.84865928,45.00201169
+9629,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
+9630,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
+9631,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
+9632,Amran -> Kharif -> Al-Dhabr,Amran,16.3570904,43.87269369
+9633,Amran -> Kharif -> Al-Mahm,Amran,16.3570904,43.87269369
+9634,Amran -> Kharif -> Shibrah,Amran,16.3570904,43.87269369
+9635,Amran -> Kharif -> New Al-Souq,Amran,16.3570904,43.87269369
+9636,Al Jawf -> Al Hazm,Al Jawf,16.76813934,46.01014819
+9637,Sa'ada -> Sa'adah -> Al Khameis,Sa'ada,17.25112185,43.50274965
+9638,Sa'ada -> Sahar -> Al-Sahn,Sa'ada,17.25112185,43.50274965
+9639,Aden -> Craiter -> Aden,Aden,12.84865928,45.00201169
+9640,Marib -> Raghwan,Marib,15.56841151,45.76081505
+9641,Sa'ada -> Saqayn -> Al-Qadeem,Sa'ada,17.25112185,43.50274965
+9642,Hajjah -> Bani Al Awam -> Al-Barar,Hajjah,16.27488061,43.11225315
+9643,Hajjah -> Bani Al Awam -> Al-Maqaweh,Hajjah,16.27488061,43.11225315
+9644,Hajjah -> Bani Al Awam -> Bait Al-Jabri,Hajjah,16.27488061,43.11225315
+9645,Hajjah -> Bani Al Awam -> Fus'hah,Hajjah,16.27488061,43.11225315
+9646,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
+9647,Hajjah -> Bani Al Awam -> Al-Mancab,Hajjah,16.27488061,43.11225315
+9648,Hajjah -> Bani Al Awam -> Namer Mountain,Hajjah,16.27488061,43.11225315
+9649,Hajjah -> Wadhrah -> Al-Shuaybah,Hajjah,16.27488061,43.11225315
+9650,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
+9651,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
+9652,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
+9653,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
+9654,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Tharah,Sana'a,15.12394358,44.78727759
+9655,Sana'a -> Al Haymah Ad Dakhiliyah -> Dar Al-Bark,Sana'a,15.12394358,44.78727759
+9656,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Abeed,Sana'a,15.12394358,44.78727759
+9657,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Rajeh,Sana'a,15.12394358,44.78727759
+9658,Sana'a -> Al Haymah Ad Dakhiliyah -> Hajrah Al-Fadheli,Sana'a,15.12394358,44.78727759
+9659,Sana'a -> Al Haymah Ad Dakhiliyah -> Mahzar,Sana'a,15.12394358,44.78727759
+9660,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Seid,Sana'a,15.12394358,44.78727759
+9661,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Tayfi,Sana'a,15.12394358,44.78727759
+9662,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Gheithy,Sana'a,15.12394358,44.78727759
+9663,Sana'a -> Sa'fan -> Sahef,Sana'a,15.12394358,44.78727759
+9664,Sana'a -> Sa'fan -> Dahw Al-Dar,Sana'a,15.12394358,44.78727759
+9665,Al Bayda -> Al A'rsh -> Al-Khudhrah,Al Bayda,14.21742373,45.55495025
+9666,Al Bayda -> Al A'rsh -> Qarn Al-Asad,Al Bayda,14.21742373,45.55495025
+9667,Al Bayda -> Al A'rsh -> Qarn Ata'a,Al Bayda,14.21742373,45.55495025
+9668,Taizz -> Salh -> Al-Masnah,Taizz,13.39753802,43.68772167
+9669,Al Hudaydah -> Al Garrahi -> Al-Hasani,Al Hudaydah,15.00062889,43.04031959
+9670,Al Hudaydah -> Al Mansuriyah -> Al-Khedhar,Al Hudaydah,15.00062889,43.04031959
+9671,Al Hudaydah -> Al Mansuriyah -> Al-Mahal,Al Hudaydah,15.00062889,43.04031959
+9672,Al Hudaydah -> Al Garrahi -> Mahwa Al-Bahlol,Al Hudaydah,15.00062889,43.04031959
+9673,Al Hudaydah -> Al Mansuriyah -> Al-Calalyah,Al Hudaydah,15.00062889,43.04031959
+9674,Al Hudaydah -> Al Mansuriyah -> Al-Hajmah,Al Hudaydah,15.00062889,43.04031959
+9675,Al Hudaydah -> Al Mansuriyah -> Al-Sawlah,Al Hudaydah,15.00062889,43.04031959
+9676,Al Hudaydah -> Al Mansuriyah -> Deer Cananh,Al Hudaydah,15.00062889,43.04031959
+9677,Al Hudaydah -> Al Mansuriyah -> Mahjour Al-Aala,Al Hudaydah,15.00062889,43.04031959
+9678,Al Hudaydah -> Al Mansuriyah -> Saneif Al-Manaserah,Al Hudaydah,15.00062889,43.04031959
+9679,Al Hudaydah -> Al Mansuriyah -> Shatt Al-Maghawein,Al Hudaydah,15.00062889,43.04031959
+9680,Al Hudaydah -> Al Mansuriyah -> Al-Habeel Al-Aala,Al Hudaydah,15.00062889,43.04031959
+9681,Al Hudaydah -> Al Garrahi -> Shab Al-Dali,Al Hudaydah,15.00062889,43.04031959
+9682,Al Hudaydah -> Al Mansuriyah -> Al-Demnah,Al Hudaydah,15.00062889,43.04031959
+9683,Al Hudaydah -> Al Garrahi -> Al-Jarahei Al-Aala,Al Hudaydah,15.00062889,43.04031959
+9684,Al Hudaydah -> Al Garrahi -> Al-Rawakeb,Al Hudaydah,15.00062889,43.04031959
+9685,Al Hudaydah -> Al Mansuriyah -> Al-Mansourah,Al Hudaydah,15.00062889,43.04031959
+9686,Al Hudaydah -> As Sukhnah -> Deer Al-Mazbal,Al Hudaydah,15.00062889,43.04031959
+9687,Al Hudaydah -> Az Zaydiyah -> Al-Baynyah,Al Hudaydah,15.00062889,43.04031959
+9688,Al Hudaydah -> Az Zaydiyah -> Deer Ayash,Al Hudaydah,15.00062889,43.04031959
+9689,Al Hudaydah -> Az Zaydiyah -> Al-Ajlanyah,Al Hudaydah,15.00062889,43.04031959
+9690,Al Hudaydah -> As Sukhnah -> Deer Cadaf,Al Hudaydah,15.00062889,43.04031959
+9691,Al Hudaydah -> Az Zaydiyah -> Al-Hujrah,Al Hudaydah,15.00062889,43.04031959
+9692,Al Hudaydah -> As Sukhnah -> Al-Batrah and Al-Meina,Al Hudaydah,15.00062889,43.04031959
+9693,Al Hudaydah -> As Sukhnah -> Beuot Al-Boutah,Al Hudaydah,15.00062889,43.04031959
+9694,Al Hudaydah -> As Sukhnah -> Mahal Al-Rowaid,Al Hudaydah,15.00062889,43.04031959
+9695,Amran -> Suwayr,Amran,16.3570904,43.87269369
+9696, Sana'a > Bani Dhabyan,Sana'a,15.12394358,44.78727759
+9697, Sana'a > Nihm,Sana'a,15.12394358,44.78727759
+9698, Taizz > Al Mudhaffar,Taizz,13.39753802,43.68772167
+9699, Al Bayda > Wald Rabi' > Homat Serar,Al Bayda,14.21742373,45.55495025
+9700, Al Bayda > Wald Rabi' > Al-Manaseh,Al Bayda,14.21742373,45.55495025
+9701, Al Dhale'e > Ash Shu'ayb,Al Dhale'e,13.85996808,44.67423913
+9702, Al Dhale'e > Juban,Al Dhale'e,13.85996808,44.67423913
+9703, Amran > Dhi Bin,Amran,16.3570904,43.87269369
+9704, Amran > Thula,Amran,16.3570904,43.87269369
+9705, Ibb > As Sayyani,Ibb,14.05521633,44.26319019
+9706, Ibb > Ibb,Ibb,14.05521633,44.26319019
+9707, Aden > Al Buraiqeh,Aden,12.84865928,45.00201169
+9708, Aden > Al Mansura,Aden,12.84865928,45.00201169
+9709, Aden > Dar Sad,Aden,12.84865928,45.00201169
+9710, Al Hudaydah > Ad Dahi,Al Hudaydah,15.00062889,43.04031959
+9711, Al Hudaydah > Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
+9712, Al Hudaydah > Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+9713, Al Hudaydah > Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
+9714, Al Hudaydah > Al Hali,Al Hudaydah,15.00062889,43.04031959
+9715, Al Hudaydah > Al Hawak,Al Hudaydah,15.00062889,43.04031959
+9716, Al Hudaydah > Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
+9717, Al Hudaydah > Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
+9718, Al Hudaydah > Al Munirah,Al Hudaydah,15.00062889,43.04031959
+9719, Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
+9720, Sana'a > Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
+9721, Sana'a > Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
+9722, Sana'a > Al Husn,Sana'a,15.12394358,44.78727759
+9723, Sana'a > Arhab,Sana'a,15.12394358,44.78727759
+9724, Sana'a > Attyal,Sana'a,15.12394358,44.78727759
+9725, Sana'a > Bani Hushaysh,Sana'a,15.12394358,44.78727759
+9726, Sana'a > Bani Matar,Sana'a,15.12394358,44.78727759
+9727, Sana'a > Bilad Ar Rus,Sana'a,15.12394358,44.78727759
+9728, Sana'a > Hamdan,Sana'a,15.12394358,44.78727759
+9729, Sana'a > Jihanah,Sana'a,15.12394358,44.78727759
+9730, Sana'a > Khwlan,Sana'a,15.12394358,44.78727759
+9731, Sana'a > Manakhah,Sana'a,15.12394358,44.78727759
+9732, Sana'a > Sa'fan,Sana'a,15.12394358,44.78727759
+9733, Sana'a > Sanhan,Sana'a,15.12394358,44.78727759
+9734, Ibb > Al Qafr,Ibb,14.05521633,44.26319019
+9735, Taizz > Salh,Taizz,13.39753802,43.68772167
+9736, Taizz > Sabir Al Mawadim,Taizz,13.39753802,43.68772167
+9737, Amanat Al Asimah > Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
+9738, Amanat Al Asimah > Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
+9739, Amanat Al Asimah > At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
+9740, Amanat Al Asimah > Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
+9741, Amanat Al Asimah > Az'zal,Amanat Al Asimah,15.36598719,44.2020645
+9742, Amanat Al Asimah > As Sabain,Amanat Al Asimah,15.36598719,44.2020645
+9743, Amanat Al Asimah > Ma'ain > Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
+9744, Al Hudaydah > Alluheyah,Al Hudaydah,15.00062889,43.04031959
+9745, Amran > Amran,Amran,16.3570904,43.87269369
+9746, Hajjah > Hajjah City,Hajjah,16.27488061,43.11225315
+9747, Ibb > Yarim,Ibb,14.05521633,44.26319019
+9748, Ibb > Ar Radmah,Ibb,14.05521633,44.26319019
+9749, Al Hudaydah > Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
+9750, Al Hudaydah > Zabid,Al Hudaydah,15.00062889,43.04031959
+9751, Ibb > Al Makhadir,Ibb,14.05521633,44.26319019
+9752, Sa'ada > Monabbih,Sa'ada,17.25112185,43.50274965
+9753, Amran > Kharif,Amran,16.3570904,43.87269369
+9754, Dhamar > Anss,Dhamar,14.50737016,44.42760976
+9755, Dhamar > Maghirib Ans,Dhamar,14.50737016,44.42760976
+9756, Dhamar > Utmah,Dhamar,14.50737016,44.42760976
+9757, Dhamar > Dhamar City,Dhamar,14.50737016,44.42760976
+9758, Amran > Jabal Iyal Yazid,Amran,16.3570904,43.87269369
+9759, Aden > Ash Shaikh Outhman,Aden,12.84865928,45.00201169
+9760, Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
+9761, Amanat Al Asimah > Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
+9762, Hajjah > Abs,Hajjah,16.27488061,43.11225315
+9763, Amanat Al Asimah > Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
+9764, Abyan > Ahwar,Abyan,13.6955485,46.50340692
+9765, Al Bayda > Al A'rsh,Al Bayda,14.21742373,45.55495025
+9766, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
+9767, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
+9768, Al Mahwit > Al Khabt,Al Mahwit,15.40140161,43.59523566
+9769, Amanat Al Asimah > Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
+9770, Amran > Al Ashah,Amran,16.3570904,43.87269369
+9771, Dhamar > Al Hada,Dhamar,14.50737016,44.42760976
+9772, Hadramaut > Ad Dis,Hadramaut,16.80924424,48.84638589
+9773, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
+9774, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
+9775, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
+9776, Raymah > Al Jabin,Raymah,14.59985617,43.68772167
+9777, Sa'ada > Al Dhaher,Sa'ada,17.25112185,43.50274965
+9778, Shabwah > Ain,Shabwah,14.67178974,46.95556076
+9779, Socotra > Hidaybu,Socotra,12.493306,54.085473
+9780, Taizz > Al  Mukha,Taizz,13.39753802,43.68772167
+9781, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+9782, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
+9783, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
+9784, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
+9785, Taizz > Mashra'a Wa Hadnan,Taizz,13.39753802,43.68772167
+9786, Abyan > Lawdar,Abyan,13.6955485,46.50340692
+9787, Al Hudaydah > Al Mina,Al Hudaydah,15.00062889,43.04031959
+9788, Al Hudaydah > As Sukhnah,Al Hudaydah,15.00062889,43.04031959
+9789, Hajjah > Ku'aydinah,Hajjah,16.27488061,43.11225315
+9790, Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
+9791, Taizz > Mawiyah,Taizz,13.39753802,43.68772167
+9792, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
+9793, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+9794, Abyan > Khanfir,Abyan,13.6955485,46.50340692
+9795, Al Mahwit > Al Mahwait City,Al Mahwit,15.40140161,43.59523566
+9796, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
+9797, Ibb > As Saddah,Ibb,14.05521633,44.26319019
+9798, Ibb > Dhi As Sufal,Ibb,14.05521633,44.26319019
+9799, Marib > Marib City,Marib,15.56841151,45.76081505
+9800, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
+9801, Shabwah > Bayhan,Shabwah,14.67178974,46.95556076
+9802, Taizz > Al Mawasit,Taizz,13.39753802,43.68772167
+9803, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
+9804, Taizz > Ash Shamayatayn,Taizz,13.39753802,43.68772167
+9805, Taizz > Maqbanah,Taizz,13.39753802,43.68772167
+9806, Hajjah > Mabyan,Hajjah,16.27488061,43.11225315
+9807, Al Jawf > Al Hazm,Al Jawf,16.76813934,46.01014819
+9808, Ibb > Al Mashannah,Ibb,14.05521633,44.26319019
+9809, Sa'ada > Sa'adah,Sa'ada,17.25112185,43.50274965
+9810, Abyan > Al Wade'a,Abyan,13.6955485,46.50340692
+9811, Al Dhale'e > Damt,Al Dhale'e,13.85996808,44.67423913
+9812, Al Hudaydah > Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
+9813, Amran > Harf Sufyan,Amran,16.3570904,43.87269369
+9814, Hajjah > Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
+9815, Hajjah > Kushar,Hajjah,16.27488061,43.11225315
+9816, Sa'ada > Razih,Sa'ada,17.25112185,43.50274965
+9817, Abyan > Zingibar,Abyan,13.6955485,46.50340692
+9818, Taizz > Al Ma'afer,Taizz,13.39753802,43.68772167
+9819, Taizz > Dimnat Khadir,Taizz,13.39753802,43.68772167
+9820, Ibb > Al Udayn,Ibb,14.05521633,44.26319019
+9821, Al Hudaydah > At Tuhayat,Al Hudaydah,15.00062889,43.04031959
+9822, Hajjah > Aslem,Hajjah,16.27488061,43.11225315
+9823, Amran > Al Qaflah,Amran,16.3570904,43.87269369
+9824, Al Dhale'e > Qa'atabah,Al Dhale'e,13.85996808,44.67423913
+9825, Lahj > Tuban,Lahj,12.96593663,44.41733354
+9826, Hajjah > Mustaba > Al-Sabyah,Hajjah,16.27488061,43.11225315
+9827, Hajjah > Khayran Al Muharraq > Al-Sharqi,Hajjah,16.27488061,43.11225315
+9828, Amran > Huth,Amran,16.3570904,43.87269369
+9829, Hajjah > Bakil Al Mir,Hajjah,16.27488061,43.11225315
+9830, Hajjah > Mustaba,Hajjah,16.27488061,43.11225315
+9831, Abyan > Sarar,Abyan,13.6955485,46.50340692
+9832, Lahj > Al Musaymir,Lahj,12.96593663,44.41733354
+9833, Hajjah > Hayran > Al-Sadah,Hajjah,16.27488061,43.11225315
+9834, Hajjah > Midi > Al-Teenah,Hajjah,16.27488061,43.11225315
+9835, Hajjah > Aslem > Al-Qudhah,Hajjah,16.27488061,43.11225315
+9836, Hajjah > Midi > Al-Harajah,Hajjah,16.27488061,43.11225315
+9837, Hajjah > Aslem > Al-Mashratah,Hajjah,16.27488061,43.11225315
+9838, Ibb > Jiblah,Ibb,14.05521633,44.26319019
+9839, Marib > Harib Al Qaramish,Marib,15.56841151,45.76081505
+9840, Dhamar > Jahran,Dhamar,14.50737016,44.42760976
+9841, Marib > Marib,Marib,15.56841151,45.76081505
+9842, Sa'ada > As Safra,Sa'ada,17.25112185,43.50274965
+9843, Sa'ada > Haydan,Sa'ada,17.25112185,43.50274965
+9844, Sa'ada > Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
+9845, Taizz > Mawza,Taizz,13.39753802,43.68772167
+9846, Al Bayda > Maswarah,Al Bayda,14.21742373,45.55495025
+9847, Amran > Maswar,Amran,16.3570904,43.87269369
+9848, Amran > Suwayr,Amran,16.3570904,43.87269369
+9849, Hadramaut > Al Abr,Hadramaut,16.80924424,48.84638589
+9850, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
+9851, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
+9852, Sa'ada > Baqim,Sa'ada,17.25112185,43.50274965
+9853, Taizz > Dhubab,Taizz,13.39753802,43.68772167
+9854, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
+9855, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
+9856, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
+9857, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
+9858, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
+9859, Al Jawf > Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
+9860, Al Jawf > Al Maton,Al Jawf,16.76813934,46.01014819
+9861, Sa'ada > Majz,Sa'ada,17.25112185,43.50274965
+9862, Marib > Harib,Marib,15.56841151,45.76081505
+9863, Marib > Sirwah,Marib,15.56841151,45.76081505
+9864, Taizz > As Silw,Taizz,13.39753802,43.68772167
+9865, Hajjah > Hajjah,Hajjah,16.27488061,43.11225315
+9866, Ibb > Far Al Udayn,Ibb,14.05521633,44.26319019
+9867, Lahj > Al Qabbaytah,Lahj,12.96593663,44.41733354
+9868, Al Hudaydah > Al Munirah > Al-Qasheeri (Al-Qashri),Al Hudaydah,15.00062889,43.04031959
+9869, Al Hudaydah > Az Zaydiyah > Al-Mahdaly,Al Hudaydah,15.00062889,43.04031959
+9870, Al Hudaydah > Az Zaydiyah > Al-Rahmah,Al Hudaydah,15.00062889,43.04031959
+9871, Al Hudaydah > Az Zaydiyah > Mahal Hasan Abdallah,Al Hudaydah,15.00062889,43.04031959
+9872, Al Hudaydah > Al Munirah > Ebn Abas,Al Hudaydah,15.00062889,43.04031959
+9873, Al Hudaydah > Al Munirah > Al-Harounyah,Al Hudaydah,15.00062889,43.04031959
+9874, Al Hudaydah > Az Zaydiyah > Deer Jalalah,Al Hudaydah,15.00062889,43.04031959
+9875, Al Hudaydah > Al Munirah > Al-Jarb,Al Hudaydah,15.00062889,43.04031959
+9876, Al Hudaydah > Az Zaydiyah > Bait Ata,Al Hudaydah,15.00062889,43.04031959
+9877, Al Hudaydah > Az Zaydiyah > Deer Abdo Rabo,Al Hudaydah,15.00062889,43.04031959
+9878, Al Bayda > As Sawma'ah > Al-Majmah,Al Bayda,14.21742373,45.55495025
+9879, Al Bayda > As Sawma'ah > Al-Rahah,Al Bayda,14.21742373,45.55495025
+9880, Al Bayda > As Sawma'ah > Al-Seilah,Al Bayda,14.21742373,45.55495025
+9881, Al Bayda > As Sawma'ah > Om Salmah,Al Bayda,14.21742373,45.55495025
+9882, Al Bayda > Wald Rabi' > Al-Jashm,Al Bayda,14.21742373,45.55495025
+9883, Hajjah > Abs > Al-Khademah,Hajjah,16.27488061,43.11225315
+9884, Hajjah > Abs > Al-Merwagh,Hajjah,16.27488061,43.11225315
+9885, Hajjah > Abs > Bani Cazabah,Hajjah,16.27488061,43.11225315
+9886, Hajjah > Abs > Al-Melakhah,Hajjah,16.27488061,43.11225315
+9887, Hajjah > Abs > Al-Badah,Hajjah,16.27488061,43.11225315
+9888, Hajjah > Abs > Shab Yaqout,Hajjah,16.27488061,43.11225315
+9889, Hajjah > Abs > Al-Medhbar,Hajjah,16.27488061,43.11225315
+9890, Hajjah > Abs > Al-Makhzan,Hajjah,16.27488061,43.11225315
+9891, Hajjah > Abs > Abs,Hajjah,16.27488061,43.11225315
+9892, Taizz > Sama,Taizz,13.39753802,43.68772167
+9893, Sa'ada > Sahar,Sa'ada,17.25112185,43.50274965
+9894, Hajjah > Aflah Al Yaman,Hajjah,16.27488061,43.11225315
+9895, Sana'a,Sana'a,15.12394358,44.78727759
+9896, Sa'ada,Sa'ada,17.25112185,43.50274965
+9897, Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
+9898, Hajjah,Hajjah,16.27488061,43.11225315
+9899, Aden,Aden,12.84865928,45.00201169
+9900, Ibb,Ibb,14.05521633,44.26319019
+9901, Lahj > Al Milah,Lahj,12.96593663,44.41733354
+9902, Hajjah > Najrah,Hajjah,16.27488061,43.11225315
+9903, Lahj > Al Maqatirah,Lahj,12.96593663,44.41733354
+9904, Lahj > Radfan,Lahj,12.96593663,44.41733354
+9905, Dhamar > Jabal Ash sharq,Dhamar,14.50737016,44.42760976
+9906, Hadramaut > Brom Mayfa,Hadramaut,16.80924424,48.84638589
+9907, Lahj > Tur Al Bahah,Lahj,12.96593663,44.41733354
+9908, Taizz > Hayfan,Taizz,13.39753802,43.68772167
+9909, Lahj > Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
+9910, Abyan > Rasad,Abyan,13.6955485,46.50340692
+9911, Dhamar > Dawran Aness,Dhamar,14.50737016,44.42760976
+9912, Marib > Rahabah,Marib,15.56841151,45.76081505
+9913, Al Dhale'e > Jahaf,Al Dhale'e,13.85996808,44.67423913
+9914, Al Hudaydah > Hays,Al Hudaydah,15.00062889,43.04031959
+9915, Amran > Raydah,Amran,16.3570904,43.87269369
+9916, Hadramaut > Al Mukalla,Hadramaut,16.80924424,48.84638589
+9917, Raymah > As Salafiyah,Raymah,14.59985617,43.68772167
+9918, Al Mahwit > Al Mahwait,Al Mahwit,15.40140161,43.59523566
+9919, Shabwah > Rudum,Shabwah,14.67178974,46.95556076
+9920, Al Bayda > Al Bayda,Al Bayda,14.21742373,45.55495025
+9921, Sa'ada > Al Hashwah,Sa'ada,17.25112185,43.50274965
+9922, Al Dhale'e > Al Hussein,Al Dhale'e,13.85996808,44.67423913
+9923, Amran > Al Madan,Amran,16.3570904,43.87269369
+9924, Sa'ada > Saqayn,Sa'ada,17.25112185,43.50274965
+9925, Al Hudaydah > Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+9926, Ibb > Mudhaykhirah,Ibb,14.05521633,44.26319019
+9927, Al Bayda > Sabah,Al Bayda,14.21742373,45.55495025
+9928, Al Hudaydah > Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
+9929, Dhamar > Mayfa'at Anss,Dhamar,14.50737016,44.42760976
+9930, Al Dhale'e > Al Husha,Al Dhale'e,13.85996808,44.67423913
+9931, Al Bayda > Al Bayda City,Al Bayda,14.21742373,45.55495025
+9932, Al Bayda > Rada',Al Bayda,14.21742373,45.55495025
+9933, Socotra > Qulensya Wa Abd Al Kuri,Socotra,12.493306,54.085473
+9934, Aden > Khur Maksar,Aden,12.84865928,45.00201169
+9935, Hadramaut > Al Mukalla City,Hadramaut,16.80924424,48.84638589
+9936, Hadramaut > Sayun,Hadramaut,16.80924424,48.84638589
+9937, Hadramaut > Al Qatn,Hadramaut,16.80924424,48.84638589
+9938, Socotra,Socotra,12.493306,54.085473
+9939, Raymah,Raymah,14.59985617,43.68772167
+9940, Al Jawf,Al Jawf,16.76813934,46.01014819
+9941, Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
+9942, Al Bayda,Al Bayda,14.21742373,45.55495025
+9943, Shabwah,Shabwah,14.67178974,46.95556076
+9944, Al Maharah,Al Maharah,16.59344354,51.59013758
+9945, Al Mahwit,Al Mahwit,15.40140161,43.59523566
+9946, Marib,Marib,15.56841151,45.76081505
+9947, Dhamar,Dhamar,14.50737016,44.42760976
+9948, Taizz,Taizz,13.39753802,43.68772167
+9949, Amran,Amran,16.3570904,43.87269369
+9950, Lahj,Lahj,12.96593663,44.41733354
+9951, Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
+9952, Hadramaut,Hadramaut,16.80924424,48.84638589
+9953, Abyan,Abyan,13.6955485,46.50340692
+9954, Hajjah > Qarah,Hajjah,16.27488061,43.11225315
+9955, Hajjah > Washhah,Hajjah,16.27488061,43.11225315
+9956, Al Mahwit > Bani Sa'd,Al Mahwit,15.40140161,43.59523566
+9957, Dhamar > Wusab Al Ali,Dhamar,14.50737016,44.42760976
+9958, Hadramaut > Tarim,Hadramaut,16.80924424,48.84638589
+9959, Ibb > Al Dhihar > Al-Dhabr,Ibb,14.05521633,44.26319019
+9960, Ibb > Al Mashannah > Al-Lahj,Ibb,14.05521633,44.26319019
+9961, Lahj > Al Madaribah Wa Al Arah > Al-Saqya,Lahj,12.96593663,44.41733354
+9962, Lahj > Al Madaribah Wa Al Arah > Al-Aarah,Lahj,12.96593663,44.41733354
+9963, Amran > As Sudah,Amran,16.3570904,43.87269369
+9964, Al Bayda > At Taffah,Al Bayda,14.21742373,45.55495025
+9965, Al Bayda > Al Quraishyah,Al Bayda,14.21742373,45.55495025
+9966, Al Bayda > Radman Al Awad,Al Bayda,14.21742373,45.55495025
+9967, Hajjah > Al Maghrabah,Hajjah,16.27488061,43.11225315
+9968, Sa'ada > Shada'a,Sa'ada,17.25112185,43.50274965
+9969, Al Bayda > Mukayras,Al Bayda,14.21742373,45.55495025
+9970, Al Bayda > Nati',Al Bayda,14.21742373,45.55495025
+9971, Ibb > Ba'dan,Ibb,14.05521633,44.26319019
+9972, Al Bayda > As Sawadiyah,Al Bayda,14.21742373,45.55495025
+9973, Al Jawf > Al Maslub,Al Jawf,16.76813934,46.01014819
+9974, Aden > Attawahi,Aden,12.84865928,45.00201169
+9975, Aden > Craiter,Aden,12.84865928,45.00201169
+9976, Abyan > Al Mahfad,Abyan,13.6955485,46.50340692
+9977, Abyan > Mudiyah,Abyan,13.6955485,46.50340692
+9978, Aden > Al Mualla,Aden,12.84865928,45.00201169
+9979, Marib > Al Jubah,Marib,15.56841151,45.76081505
+9980, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+9981, Marib > Jabal Murad,Marib,15.56841151,45.76081505
+9982, Marib > Raghwan,Marib,15.56841151,45.76081505
+9983, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+9984, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
+9985, Lahj > Halimayn,Lahj,12.96593663,44.41733354
+9986, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
+9987, Lahj > Yahr,Lahj,12.96593663,44.41733354
+9988, Lahj > Al Maflahy,Lahj,12.96593663,44.41733354
+9989, Lahj > Al Had,Lahj,12.96593663,44.41733354
+9990, Al Bayda > Al Malagim,Al Bayda,14.21742373,45.55495025
+9991, Al Bayda > Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
+9992, Al Bayda > Ash Sharyah,Al Bayda,14.21742373,45.55495025
+9993, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
+9994, Hajjah > Al Miftah,Hajjah,16.27488061,43.11225315
+9995, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
+9996, Hajjah > Ash Shahil,Hajjah,16.27488061,43.11225315
+9997, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
+9998, Hajjah > Kuhlan Affar,Hajjah,16.27488061,43.11225315
+9999, Hajjah > Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
+10000, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
+10001, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
+10002, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
+10003, Marib > Majzar,Marib,15.56841151,45.76081505
+10004, Marib > Medghal,Marib,15.56841151,45.76081505
+10005, Raymah > Kusmah,Raymah,14.59985617,43.68772167
+10006, Ibb > Al Mashannah > Akhbab,Ibb,14.05521633,44.26319019
+10007, Ibb > Al Dhihar > Al-Aden Al-Aala,Ibb,14.05521633,44.26319019
+10008, Sa'ada > Sahar > Beer Al-Wadi,Sa'ada,17.25112185,43.50274965
+10009, Sa'ada > Sahar > Hafsein,Sa'ada,17.25112185,43.50274965
+10010, Sa'ada > Sahar > Qamal,Sa'ada,17.25112185,43.50274965
+10011, Sa'ada > As Safra > Damaj,Sa'ada,17.25112185,43.50274965
+10012, Dhamar > Jahran > Mabr,Dhamar,14.50737016,44.42760976
+10013, Amran > Khamir,Amran,16.3570904,43.87269369
+10014, Ibb > Hazm Al Udayn,Ibb,14.05521633,44.26319019
+10015, Amran > As Sawd,Amran,16.3570904,43.87269369
+10016, Amran > Shaharah,Amran,16.3570904,43.87269369
+10017, Abyan > Al Wade'a > Al-Wadhee'e,Abyan,13.6955485,46.50340692
+10018, Abyan > Khanfir > Shaqrah,Abyan,13.6955485,46.50340692
+10019, Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
+10020, Al Mahwit > At Tawilah,Al Mahwit,15.40140161,43.59523566
+10021, Al Mahwit > Hufash,Al Mahwit,15.40140161,43.59523566
+10022, Amanat Al Asimah > Old City,Amanat Al Asimah,15.36598719,44.2020645
+10023, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
+10024, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
+10025, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+10026, Amran > Habur Zulaymah,Amran,16.3570904,43.87269369
+10027, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
+10028, Hadramaut > Thamud,Hadramaut,16.80924424,48.84638589
+10029, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
+10030, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
+10031, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
+10032, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+10033, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+10034, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
+10035, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+10036, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+10037, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+10038, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+10039, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
+10040, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+10041, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+10042, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+10043, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+10044, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+10045, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+10046, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+10047, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+10048, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
+10049, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+10050, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
+10051, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
+10052, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
+10053, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+10054, Marib > Bidbadah,Marib,15.56841151,45.76081505
+10055, Marib > Mahliyah,Marib,15.56841151,45.76081505
+10056, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+10057, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+10058, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
+10059, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
+10060, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
+10061, Amran > Jabal Iyal Yazid > Al-Sararah,Amran,16.3570904,43.87269369
+10062, Al Jawf > Rajuzah,Al Jawf,16.76813934,46.01014819
+10063, Al Jawf > Khabb wa ash Sha'af > Al-Feradh,Al Jawf,16.76813934,46.01014819
+10064, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
+10065, Al Jawf > Khabb wa ash Sha'af > Al-Yatamah,Al Jawf,16.76813934,46.01014819
+10066, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589

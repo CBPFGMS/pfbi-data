@@ -8595,6 +8595,19 @@ occupied Palestinian territory,2023,Rapid Response,4756,23-RR-CEF-054,"Water, Sa
 occupied Palestinian territory,2023,Rapid Response,4757,23-RR-RWA-002,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,3000000.0,CERF
 occupied Palestinian territory,2023,Rapid Response,4758,23-RR-WFP-047,Food Assistance,Food Assistance,100.0,2000000.0,CERF
 occupied Palestinian territory,2023,Rapid Response,4759,23-RR-WHO-039,Health,Health,100.0,2000000.0,CERF
+Armenia,2023,Rapid Response,4760,23-RR-IOM-033,Health,Health,73.0,401500.0,CERF
+Armenia,2023,Rapid Response,4760,23-RR-IOM-033,Shelter and Non-Food Items,Shelter and Non-Food Items,27.0,148500.0,CERF
+Armenia,2023,Rapid Response,4761,23-RR-UDP-004,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,550000.0,CERF
+Armenia,2023,Rapid Response,4762,23-RR-FPA-042,Protection,Protection,50.0,200000.0,CERF
+Armenia,2023,Rapid Response,4762,23-RR-FPA-042,Health,Health,50.0,200000.0,CERF
+Armenia,2023,Rapid Response,4763,23-RR-HCR-031,Protection,Protection,9.0,63000.0,CERF
+Armenia,2023,Rapid Response,4763,23-RR-HCR-031,Shelter and Non-Food Items,Shelter and Non-Food Items,91.0,637000.0,CERF
+Armenia,2023,Rapid Response,4764,23-RR-CEF-055,Protection,Protection,42.000022878321644,293728.0,CERF
+Armenia,2023,Rapid Response,4764,23-RR-CEF-055,Multi-Purpose Cash,Multi-Purpose Cash,57.999977121678356,405624.0,CERF
+Armenia,2023,Rapid Response,4765,23-RR-WFP-048,Food Assistance,Food Assistance,100.0,728860.0,CERF
+Afghanistan,2023,Rapid Response,4767,23-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000001.0,CERF
+Afghanistan,2023,Rapid Response,4769,23-RR-WFP-049,Food Assistance,Food Assistance,100.0,1500000.0,CERF
+Afghanistan,2023,Rapid Response,4771,23-RR-FPA-043,Protection,Protection,100.0,500000.0,CERF
 Republic of the Sudan,2023,Rapid Response,4778,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0,CERF
 Afghanistan,2023,Underfunded Emergencies,4779,23-UF-AFG-61194(TBD),To be determined,To be determined,100.0,20000000.0,CERF
 Bangladesh,2023,Underfunded Emergencies,4780,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,8000000.0,CERF
@@ -8611,8 +8624,9 @@ Venezuela,2023,Underfunded Emergencies,4790,23-UF-VEN-61207(TBD),To be determine
 Yemen,2023,Underfunded Emergencies,4791,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,20000000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4792,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 occupied Palestinian territory,2023,Underfunded Emergencies,4793,23-UF-PSE-61205(TBD),To be determined,To be determined,100.0,500000.0,CERF
-Armenia,2023,Rapid Response,4794,23-RR-ARM-61419(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Somalia,2023,Rapid Response,4795,23-RR-SOM-61671(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Armenia,2023,Rapid Response,4794,23-RR-ARM-61419(TBD),To be determined,To be determined,100.0,371788.0,CERF
+Afghanistan,2023,Rapid Response,4795,23-RR-AFG-61441(TBD),To be determined,To be determined,100.0,1999999.0,CERF
+Somalia,2023,Rapid Response,4796,23-RR-SOM-61671(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -9838,9 +9852,24 @@ Afghanistan,2023,Reserve,26730,CBPF-AFG-23-R-UN-26730,Protection,,23.0,230000.0,
 Afghanistan,2023,Reserve,26730,CBPF-AFG-23-R-UN-26730,Water Sanitation Hygiene,,77.0,770000.0,CBPF
 Afghanistan,2023,Reserve,26733,CBPF-AFG-23-R-UN-26733,Emergency Shelter and NFI,,100.0,1000000.0,CBPF
 Afghanistan,2023,Reserve,26740,CBPF-AFG-23-R-UN-26740,Food Security,,100.0,1000005.77,CBPF
+Afghanistan,2023,Standard,26299,CBPF-AFG-23-S-INGO-26299,Food Security,,100.0,700000.0,CBPF
+Afghanistan,2023,Standard,26300,CBPF-AFG-23-S-INGO-26300,Water Sanitation Hygiene,,100.0,491369.24,CBPF
+Afghanistan,2023,Standard,26301,CBPF-AFG-23-S-INGO-26301,Emergency Shelter and NFI,,100.0,699999.94,CBPF
+Afghanistan,2023,Standard,26303,CBPF-AFG-23-S-INGO-26303,Emergency Shelter and NFI,,100.0,499990.68,CBPF
+Afghanistan,2023,Standard,26305,CBPF-AFG-23-S-INGO-26305,Emergency Shelter and NFI,,100.0,699956.04,CBPF
+Afghanistan,2023,Standard,26319,CBPF-AFG-23-S-INGO-26319,Emergency Shelter and NFI,,100.0,499750.24,CBPF
+Afghanistan,2023,Standard,26333,CBPF-AFG-23-S-INGO-26333,Food Security,,100.0,675867.86,CBPF
+Afghanistan,2023,Standard,26337,CBPF-AFG-23-S-INGO-26337,Emergency Shelter and NFI,,100.0,596783.73,CBPF
+Afghanistan,2023,Standard,26348,CBPF-AFG-23-S-INGO-26348,Emergency Shelter and NFI,,100.0,688872.31,CBPF
+Afghanistan,2023,Standard,26359,CBPF-AFG-23-S-INGO-26359,Food Security,,100.0,590271.11,CBPF
+Afghanistan,2023,Standard,26363,CBPF-AFG-23-S-INGO-26363,Health,,100.0,652845.41,CBPF
+Afghanistan,2023,Standard,26376,CBPF-AFG-23-S-INGO-26376,Food Security,,100.0,700000.0,CBPF
+Afghanistan,2023,Standard,26387,CBPF-AFG-23-S-INGO-26387,Emergency Shelter and NFI,,100.0,690169.15,CBPF
+Afghanistan,2023,Standard,26426,CBPF-AFG-23-S-INGO-26426,Emergency Shelter and NFI,,100.0,645107.13,CBPF
 Afghanistan,2023,Standard,26306,CBPF-AFG-23-S-NGO-26306,Emergency Shelter and NFI,,100.0,697442.09,CBPF
 Afghanistan,2023,Standard,26326,CBPF-AFG-23-S-NGO-26326,Food Security,,100.0,499964.37,CBPF
 Afghanistan,2023,Standard,26331,CBPF-AFG-23-S-NGO-26331,Food Security,,100.0,695410.38,CBPF
+Afghanistan,2023,Standard,26339,CBPF-AFG-23-S-NGO-26339,Food Security,,100.0,491873.36,CBPF
 Afghanistan,2023,Standard,26344,CBPF-AFG-23-S-NGO-26344,Food Security,,100.0,465450.64,CBPF
 Afghanistan,2023,Standard,26346,CBPF-AFG-23-S-NGO-26346,Food Security,,100.0,493227.2,CBPF
 Afghanistan,2023,Standard,26354,CBPF-AFG-23-S-NGO-26354,Food Security,,100.0,489787.52,CBPF

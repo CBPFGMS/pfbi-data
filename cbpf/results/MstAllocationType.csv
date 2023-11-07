@@ -49,8 +49,8 @@ AllocationType,AllocationtypeId
 (CAF) 2022 First Standard Allocation,39218
 (CAF) 2022 Second Standard Allocation,42718
 (CAF) Reserve 2017,2417
-(CAF) Allocation Standard 1,2517
-(CAF) Allocation Standard 2,2717
+(CAF) 2017 Allocation Standard 1,2517
+(CAF) 2017 Allocation Standard 2,2717
 (CAF) Reserve 2017 - Hot spots,2617
 (CAF) 2018 First Reserve Allocation,2817
 (CAF) 2018 First Standard Allocation,2917
@@ -127,18 +127,18 @@ AllocationType,AllocationtypeId
 (ETH) 2021 2nd Round Standard Allocation,38353
 (ETH) 2022 1st Round Reserve Allocation,40153
 (ETH) 2022 2nd Round Reserve Allocation,40853
-(IRQ) IHPF 2nd Reserve Allocation,10072
-(IRQ) 6th Reserve Allocation Hawiga Response,13072
+(IRQ) 2017 IHPF 2nd Reserve Allocation,10072
+(IRQ) 2017 6th Reserve Allocation Hawiga Response,13072
 (IRQ) 1st Reserve Allocation 2017-National NGOs Window Iraq,9572
-"(IRQ) 5th Reserve-NIMRUD,SALAMIYAH, TAL AFAR RESPONSE",12472
+"(IRQ) 2017 5th Reserve-NIMRUD,SALAMIYAH, TAL AFAR RESPONSE",12472
 (IRQ) IHPF 4th Reserve 2017 (Camp Electrification),11772
-(IRQ) Jeddah and Winterization  (7th Reserve),13772
-(IRQ) IHPF 3rd Reserve Allocation,10972
-(IRQ) Iraq First Standard Allocation,10572
-(IRQ) Nation-Wide Vaccination Campaigh,17972
+(IRQ) 2017 Jeddah and Winterization  (7th Reserve),13772
+(IRQ) 2017 IHPF 3rd Reserve Allocation,10972
+(IRQ) 2017 Iraq First Standard Allocation,10572
+(IRQ) 2018 Nation-Wide Vaccination Campaigh,17972
 (IRQ) 2018 First Standard Allocation,14572
-(IRQ) 1st Reserve-Tent replacement in IDP camps,20272
-(IRQ) 2nd Reserve-NCCI Bureaucratic Liaison Unit,21472
+(IRQ) 2019 1st Reserve-Tent replacement in IDP camps,20272
+(IRQ) 2019 2nd Reserve-NCCI Bureaucratic Liaison Unit,21472
 (IRQ) 1st Standard Allocation 2019,18672
 (IRQ) 2nd Standard Allocation 2019,22072
 (IRQ) 2020 1st Reserve Allocation - COVID-19 Q/I areas in IDP camps,30472
@@ -162,7 +162,7 @@ AllocationType,AllocationtypeId
 (JOR) Jordan first reserve allocation March 2019,20173
 (JOR) Jordan second Reserve Allocation October 2019,22573
 (JOR) Jordan call for proposals April 2019,20673
-(JOR) Jordan call for proposals November,23173
+(JOR) 2019 Jordan call for proposals November,23173
 (JOR) Jordan First Reserve Allocation March 2020,24573
 (JOR) Jordan Second Reserve Allocation July 2020,27973
 (JOR) Jordan First Standard Allocation May 2020,26673
@@ -231,30 +231,30 @@ AllocationType,AllocationtypeId
 (NGA) 1st Standard Allocation 2022 - Nigeria,43175
 (PSE) Gaza Reserve allocation 2017,12067
 (PSE) 1st standard allocation 2017,11067
-(PSE) EMERGENCY WINDOW: Rolling basis,9167
+(PSE) 2017 EMERGENCY WINDOW: Rolling basis,9167
 (PSE) 1st Reserve Allocation for Gaza (2018),16267
-(PSE) West Bank demolition emergency response,13867
-(PSE) Emergency Response / Gap Filling for Health and Food Security in West Bank,14367
+(PSE) 2018 West Bank demolition emergency response,13867
+(PSE) 2018 Emergency Response / Gap Filling for Health and Food Security in West Bank,14367
 (PSE) 2nd  Reserve Allocation (2018),16867
-(PSE) 3rd Reserve allocation (Gaza),18067
+(PSE) 2018 3rd Reserve allocation (Gaza),18067
 (PSE) 1st Standard allocation 2018,16067
 (PSE) 2nd Standard allocation 2018,18267
 (PSE) 1st standard allocation (2019),19967
 (PSE) 2nd Standard Allocation 2019,22267
-(PSE) oPt HF 2nd Reserve allocation to support the Inter-Agency COVID-19 Response Plan for Palestine,24667
+(PSE) 2020 oPt HF 2nd Reserve allocation to support the Inter-Agency COVID-19 Response Plan for Palestine,24667
 (PSE) 1st Reserve Allocation 2020,23667
-(PSE) 3rd Reserve allocation to support COVID-19 Response Plan,24767
-(PSE) 4th Reserve allocation to support enabling operational environment,28167
+(PSE) 2020 3rd Reserve allocation to support COVID-19 Response Plan,24767
+(PSE) 2020 4th Reserve allocation to support enabling operational environment,28167
 (PSE) 1st Standard Allocation 2020,24067
 (PSE) Second Standard Allocation 2020 (Fast Track),28967
-(PSE) Second Standard Allocation (Normal Track),29067
+(PSE) 2020 Second Standard Allocation (Normal Track),29067
 (PSE) 1st Standard Allocation 2021,37267
 (PSE) 3rd Reserve allocation 'May 2021 Escalation',33967
 (PSE) 2021 Multi-Sector Needs Assessment (MSNA) in oPt,31467
 (PSE) 2nd reserve allocation 2021 (COVID related),32967
 (PSE) Support to Augusta Victoria Hospital and 2022 Multi-Sector Needs Assessment (MSNA) in oPt,40767
 (PSE) 1st Standard Allocation 2022,41567
-(PSE) 2nd Standard Allocation,44367
+(PSE) 2022 2nd Standard Allocation,44367
 (PAK) 1st Standard Allocation 2017,11160
 (PAK) First Standard Allocation 2018,14160
 (PAK) 1st Reserve Allocation 2018,15360
@@ -270,14 +270,14 @@ AllocationType,AllocationtypeId
 (SOM) Reserve 2017,1721
 (SOM) Standard Allocation 1 (Jan 2017),1821
 (SOM) Standard Allocation 2 (Nov-Dec 2017),2021
-(SOM) Reserve,2221
+(SOM) 2018 Reserve,2221
 (SOM) Reserve 2018 Cyclone Sagar Response,2321
 "(SOM) Reserve 2018 North (Bari, Nugaal, Sool, Sanaag)",2421
 "(SOM) Reserve 4 2018 Shelter/NFI (Middle Shabelle, Hiran)",2521
 (SOM) Standard Allocation 1 (Feb -Mar 2018),2121
 (SOM) Standard Allocation (Nov-Dec 2018),2621
 (SOM) Reserve 2019 Flood Response,3021
-(SOM) Reserve Allocation,2821
+(SOM) 2019 Reserve Allocation,2821
 (SOM) Reserve 2019 Drought Response,2921
 (SOM) Standard Allocation 1 (Mar 2019),2721
 (SOM) Reserve 2020 Flood response,3321
@@ -292,32 +292,32 @@ AllocationType,AllocationtypeId
 (SOM) Reserve Allocation 3 (July 2022),4521
 (SOM) Reserve Allocation 4 (October 2022),4621
 (SOM) Standard Allocation 1 (February 2022),4221
-(SSD) Reserve Allocation 1,26820
-(SSD) Reserve Allocation 2,29720
-(SSD) Reserve Allocation 3,31220
-(SSD) 1st Round Standard Allocation,24320
-(SSD) Reserve Allocation 1,36020
-(SSD) 1st Round Standard Allocation,34320
-(SSD) Reserve Allocation 1,39420
-(SSD) Reserve Allocation 2,40220
-(SSD) Reserve Allocation 3,41120
-(SSD) Reserve Allocation 4,42220
-(SSD) Reserve Allocation 5,44120
-(SSD) 1st Round Standard Allocation,42120
+(SSD) 2020 Reserve Allocation 1,26820
+(SSD) 2020 Reserve Allocation 2,29720
+(SSD) 2020 Reserve Allocation 3,31220
+(SSD) 2020 1st Round Standard Allocation,24320
+(SSD) 2021 Reserve Allocation 1,36020
+(SSD) 2021 1st Round Standard Allocation,34320
+(SSD) 2022 Reserve Allocation 1,39420
+(SSD) 2022 Reserve Allocation 2,40220
+(SSD) 2022 Reserve Allocation 3,41120
+(SSD) 2022 Reserve Allocation 4,42220
+(SSD) 2022 Reserve Allocation 5,44120
+(SSD) 2022 1st Round Standard Allocation,42120
 (SSD) HF Direct Cost 2017,2119
-(SSD) Reserve Allocation 1,2419
-(SSD) 1st Round Standard Allocation,2219
-(SSD) 2nd Round Standard Allocation,2319
-(SSD) Reserve Allocation 1,2719
-(SSD) 1st Round Standard Allocation,2519
-(SSD) 2nd Round Standard Allocation,2619
-(SSD) Reserve Allocation 1,2919
-(SSD) Reserve Allocation 2,3119
-(SSD) 1st Round Standard Allocation,2819
-(SSD) 2nd Round Standard Allocation,3019
+(SSD) 2017 Reserve Allocation 1,2419
+(SSD) 2017 1st Round Standard Allocation,2219
+(SSD) 2017 2nd Round Standard Allocation,2319
+(SSD) 2018 Reserve Allocation 1,2719
+(SSD) 2018 1st Round Standard Allocation,2519
+(SSD) 2018 2nd Round Standard Allocation,2619
+(SSD) 2019 Reserve Allocation 1,2919
+(SSD) 2019 Reserve Allocation 2,3119
+(SSD) 2019 1st Round Standard Allocation,2819
+(SSD) 2019 2nd Round Standard Allocation,3019
 (SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30816
 (SDN) 2020 - SHF Reserve for Emergencies (Newly accessible areas in Jebel Marra and Two Areas),30916
-(SDN) Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28616
+(SDN) 2020 Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28616
 (SDN) 2020 - SHF Reserve for Emergencies (Floods),28016
 (SDN) 2020 - SHF Reserve for Emergencies (Polio Response),29816
 (SDN) 2020 - SHF Reserve for Emergencies,23916
@@ -354,36 +354,36 @@ AllocationType,AllocationtypeId
 (SDN) 2019 – SHF 2nd Round Standard Allocation,2715
 (SYR) 1st Standard Allocation-2017,9362
 (SYR) 2nd Standard Allocation 2017,13262
-(SYR) Reserve Allocation,9962
-(SYR) Reserve,15462
+(SYR) 2017 Reserve Allocation,9962
+(SYR) 2018 Reserve,15462
 (SYR) 1st Reserve Allocation 2018,15262
 (SYR) 1st Standard Allocation 2018,15162
 (SYR) 2017 NNGOs Projects approved in 2019,21262
 (SYR) 2018 NNGOs Projects approved in 2019,21362
-(SYR) Reserve Allocation,20962
+(SYR) 2019 Reserve Allocation,20962
 (SYR) 1st Reserve Allocation 2019,19762
 (SYR) 2nd Reserve Allocation 2019,19862
 (SYR) 3rd Reserve Allocation 2019,22862
-(SYR) 1st Standard Allocation,21962
+(SYR) 2019 1st Standard Allocation,21962
 (SYR) 2019 NNGO Projects approved in 2020,25962
-(SYR) Institutional Feeding Support to in Quarantine Centres,26762
-(SYR) COVID 19 Reserve allocation,25662
-(SYR) Launch of UNHAS emergence transport services,25362
-(SYR) Reserve Allocation - Urgent Winterization for Palestinian refugees,23762
+(SYR) 2020 Institutional Feeding Support to in Quarantine Centres,26762
+(SYR) 2020 COVID 19 Reserve allocation,25662
+(SYR) 2020 Launch of UNHAS emergence transport services,25362
+(SYR) 2020 Reserve Allocation - Urgent Winterization for Palestinian refugees,23762
 (SYR) 1st Standard Allocation 2020,27762
 (SYR) 1st Reserve Allocation 2021,31362
 (SYR) 2nd Reserve Allocation 2021,36262
-(SYR) 3rd Reserve Allocation to Support UNHAS,38662
-(SYR) 1st Standard Allocation,34462
+(SYR) 2021 3rd Reserve Allocation to Support UNHAS,38662
+(SYR) 2021 1st Standard Allocation,34462
 (SYR) 1st Reserve Allocation 2022,43962
 (SYR) 2nd Reserve Allocation 2022 - Winteriaztion,44262
-(SYR) Saving lives through averting further deterioration of the nutritional situation and strengthening resilience of the most critically affected people,42062
-(TUR) Rolling basis,9770
+(SYR) 2022 Saving lives through averting further deterioration of the nutritional situation and strengthening resilience of the most critically affected people,42062
+(TUR) 2017 Rolling basis,9770
 (TUR) 2017 Reserve Allocation (WASH & Nutrition),13670
-(TUR) Standard Allocation,9670
-(TUR) HF Second Standard Allocation,12870
-(TUR) Northwest Emergency Allocation,14270
-(TUR) E-Ghouta Reserve Allocation,14770
+(TUR) 2017 Standard Allocation,9670
+(TUR) 2017 HF Second Standard Allocation,12870
+(TUR) 2018 Northwest Emergency Allocation,14270
+(TUR) 2018 E-Ghouta Reserve Allocation,14770
 (TUR) 2018 Northwest 2 Emergency Allocation,16170
 (TUR) 2018 4th Reserve Allocation,18770
 (TUR) 2018 1st Standard Allocation,16470
@@ -396,7 +396,7 @@ AllocationType,AllocationtypeId
 (TUR) 2020 1st Reserve Allocation,23870
 (TUR) 2020 2nd Reserve Allocation - COVID-19 Response,25070
 (TUR) 2020 3rd Reserve Allocation,28770
-(TUR) UNDSS Security Adviser Team NWS,25170
+(TUR) 2020 UNDSS Security Adviser Team NWS,25170
 (TUR) 2020 1st Standard Allocation,26470
 (TUR) 2020 2nd Standard Allocation,29970
 (TUR) 2021 1st Reserve Allocation - Response Enabler,32070
@@ -408,9 +408,9 @@ AllocationType,AllocationtypeId
 (TUR) 2022 1st Reserve Allocation,43670
 (TUR) 2022 1st Standard Allocation,40670
 (TUR) 2022 2nd Standard Allocation,45370
-(UKR) UHF 1st Standard Allocation,21781
-(UKR) UHF COVID-19 Allocation for Eastern Ukraine,24881
-(UKR) UHF COVID-19 Allocation for Non-Government Controlled Areas of Eastern Ukraine,26281
+(UKR) 2019 UHF 1st Standard Allocation,21781
+(UKR) 2020 UHF COVID-19 Allocation for Eastern Ukraine,24881
+(UKR) 2020 UHF COVID-19 Allocation for Non-Government Controlled Areas of Eastern Ukraine,26281
 (UKR) 2020 Standard Allocation,29481
 (UKR) 2020 Standard Allocation_Supporting sustainability of response,29681
 (UKR) 2020 Supporting Access in NGCA,27281
@@ -429,7 +429,7 @@ AllocationType,AllocationtypeId
 (YEM) First Standard Allocation 2017,10664
 (YEM) Second Reserve Allocation 2017 Yemen,11264
 (YEM) Second Standard Allocation 2017,12764
-(YEM) 3rd Reserve Allocation - Scale up humanitarian Response,11664
+(YEM) 2017 3rd Reserve Allocation - Scale up humanitarian Response,11664
 (YEM) 1st Reserve Allocation - January 2017,9464
 (YEM) 1st Reserve Allocation - June 2018,16564
 (YEM) 2nd Reserve Allocation - July 2018,17464
