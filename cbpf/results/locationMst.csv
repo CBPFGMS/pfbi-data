@@ -4889,7 +4889,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4660,Awdal -> Baki -> Caracad,Awdal,10.602,43.349
 4661,Awdal -> Baki -> Xoorrey,Awdal,10.602,43.349
 4662,Awdal -> Baki -> Baki,Awdal,10.602,43.349
-4663,Awdal -> Baki -> Hadayta,Awdal,10.602,43.349
+4663,Baki -> Hadayta -> Awdal,Awdal,10.602,43.349
 4664,Awdal -> Baki -> Cabdi Geeddi,Awdal,10.602,43.349
 4665,Awdal -> Baki -> Gargaara,Awdal,10.602,43.349
 4666,Bari -> Caluula -> Murcanyo,Bari,10.648,50.232
