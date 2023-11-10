@@ -8605,27 +8605,30 @@ Armenia,2023,Rapid Response,4763,23-RR-HCR-031,Shelter and Non-Food Items,Shelte
 Armenia,2023,Rapid Response,4764,23-RR-CEF-055,Protection,Protection,42.000022878321644,293728.0
 Armenia,2023,Rapid Response,4764,23-RR-CEF-055,Multi-Purpose Cash,Multi-Purpose Cash,57.999977121678356,405624.0
 Armenia,2023,Rapid Response,4765,23-RR-WFP-048,Food Assistance,Food Assistance,100.0,728860.0
+Armenia,2023,Rapid Response,4766,23-RR-WHO-040,Health,Health,100.0,369418.0
 Afghanistan,2023,Rapid Response,4767,23-RR-IOM-034,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000001.0
 Afghanistan,2023,Rapid Response,4768,23-RR-HCR-032,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000330.0
 Afghanistan,2023,Rapid Response,4769,23-RR-WFP-049,Food Assistance,Food Assistance,100.0,1500000.0
 Afghanistan,2023,Rapid Response,4771,23-RR-FPA-043,Protection,Protection,100.0,500000.0
-Republic of the Sudan,2023,Rapid Response,4778,23-RR-SDN-61031(TBD),To be determined,To be determined,100.0,20000000.0
-Afghanistan,2023,Underfunded Emergencies,4779,23-UF-AFG-61194(TBD),To be determined,To be determined,100.0,20000000.0
-Bangladesh,2023,Underfunded Emergencies,4780,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,8000000.0
-Burkina Faso,2023,Underfunded Emergencies,4781,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0
-Cameroon,2023,Underfunded Emergencies,4782,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0
-Central African Republic,2023,Underfunded Emergencies,4783,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0
-Haiti,2023,Underfunded Emergencies,4784,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0
-Malawi,2023,Underfunded Emergencies,4785,23-UF-MWI-61200(TBD),To be determined,To be determined,100.0,4000000.0
-Mali,2023,Underfunded Emergencies,4786,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0
-Mozambique,2023,Underfunded Emergencies,4787,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0
-Myanmar,2023,Underfunded Emergencies,4788,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,9000000.0
-Uganda,2023,Underfunded Emergencies,4789,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0
-Venezuela,2023,Underfunded Emergencies,4790,23-UF-VEN-61207(TBD),To be determined,To be determined,100.0,8000000.0
-Yemen,2023,Underfunded Emergencies,4791,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,20000000.0
-Democratic Republic of the Congo,2023,Rapid Response,4792,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,10000000.0
-Ethiopia,2023,Rapid Response,4793,23-RR-ETH-61597(TBD),To be determined,To be determined,100.0,7500000.0
-occupied Palestinian territory,2023,Underfunded Emergencies,4794,23-UF-PSE-61205(TBD),To be determined,To be determined,100.0,500000.0
-Armenia,2023,Rapid Response,4795,23-RR-ARM-61419(TBD),To be determined,To be determined,100.0,371788.0
-Afghanistan,2023,Rapid Response,4796,23-RR-AFG-61441(TBD),To be determined,To be determined,100.0,999669.0
-Somalia,2023,Rapid Response,4797,23-RR-SOM-61671(TBD),To be determined,To be determined,100.0,10000000.0
+Somalia,2023,Rapid Response,4772,23-RR-FAO-032,Food Assistance,Food Assistance,100.0,1375000.0
+Somalia,2023,Rapid Response,4773,23-RR-IOM-035,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1200000.0
+Somalia,2023,Rapid Response,4774,23-RR-HCR-033,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2000000.0
+Somalia,2023,Rapid Response,4775,23-RR-CEF-056,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1800009.0
+Somalia,2023,Rapid Response,4776,23-RR-WFP-050,Food Assistance,Food Assistance,100.0,1375000.0
+Afghanistan,2023,Underfunded Emergencies,4786,23-UF-AFG-61194(TBD),To be determined,To be determined,100.0,20000000.0
+Bangladesh,2023,Underfunded Emergencies,4787,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,8000000.0
+Burkina Faso,2023,Underfunded Emergencies,4788,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0
+Cameroon,2023,Underfunded Emergencies,4789,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0
+Central African Republic,2023,Underfunded Emergencies,4790,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0
+Haiti,2023,Underfunded Emergencies,4791,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0
+Malawi,2023,Underfunded Emergencies,4792,23-UF-MWI-61200(TBD),To be determined,To be determined,100.0,4000000.0
+Mali,2023,Underfunded Emergencies,4793,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0
+Mozambique,2023,Underfunded Emergencies,4794,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0
+Myanmar,2023,Underfunded Emergencies,4795,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,9000000.0
+Uganda,2023,Underfunded Emergencies,4796,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0
+Venezuela,2023,Underfunded Emergencies,4797,23-UF-VEN-61207(TBD),To be determined,To be determined,100.0,8000000.0
+Democratic Republic of the Congo,2023,Rapid Response,4798,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,10000000.0
+Ethiopia,2023,Rapid Response,4799,23-RR-ETH-61597(TBD),To be determined,To be determined,100.0,7500000.0
+occupied Palestinian territory,2023,Underfunded Emergencies,4800,23-UF-PSE-61205(TBD),To be determined,To be determined,100.0,500000.0
+Afghanistan,2023,Rapid Response,4801,23-RR-AFG-61441(TBD),To be determined,To be determined,100.0,999669.0
+Somalia,2023,Rapid Response,4802,23-RR-SOM-61671(TBD),To be determined,To be determined,100.0,2249991.0
