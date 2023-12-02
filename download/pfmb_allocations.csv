@@ -9916,6 +9916,7 @@ Afghanistan,2023,Standard,26420,CBPF-AFG-23-S-INGO-26420,Emergency Shelter and N
 Afghanistan,2023,Standard,26426,CBPF-AFG-23-S-INGO-26426,Emergency Shelter and NFI,,100.0,645107.13,CBPF
 Afghanistan,2023,Standard,26306,CBPF-AFG-23-S-NGO-26306,Emergency Shelter and NFI,,100.0,697442.09,CBPF
 Afghanistan,2023,Standard,26308,CBPF-AFG-23-S-NGO-26308,Water Sanitation Hygiene,,100.0,474829.62,CBPF
+Afghanistan,2023,Standard,26315,CBPF-AFG-23-S-NGO-26315,Health,,100.0,166283.61,CBPF
 Afghanistan,2023,Standard,26326,CBPF-AFG-23-S-NGO-26326,Food Security,,100.0,499964.37,CBPF
 Afghanistan,2023,Standard,26331,CBPF-AFG-23-S-NGO-26331,Food Security,,100.0,695410.38,CBPF
 Afghanistan,2023,Standard,26339,CBPF-AFG-23-S-NGO-26339,Food Security,,100.0,491873.36,CBPF
@@ -12248,10 +12249,21 @@ Ethiopia,2023,Reserve,26878,CBPF-ETH-23-R-NGO-26878,Water Sanitation Hygiene,,20
 Ethiopia,2023,Reserve,26877,CBPF-ETH-23-R-O-26877,Health,,50.0,350000.0,CBPF
 Ethiopia,2023,Reserve,26877,CBPF-ETH-23-R-O-26877,Multi-purpose CASH,,50.0,350000.0,CBPF
 Ethiopia,2023,Reserve,25605,CBPF-ETH-23-R-UN-25605,Coordination and Support Services,,100.0,249738.0,CBPF
+Ethiopia,2023,Standard,26482,CBPF-ETH-23-S-INGO-26482,Education,,25.0,250000.0,CBPF
+Ethiopia,2023,Standard,26482,CBPF-ETH-23-S-INGO-26482,Emergency Shelter and NFI,,30.0,300000.0,CBPF
+Ethiopia,2023,Standard,26482,CBPF-ETH-23-S-INGO-26482,Food Security,,20.0,200000.0,CBPF
+Ethiopia,2023,Standard,26482,CBPF-ETH-23-S-INGO-26482,Protection,,25.0,250000.0,CBPF
+Ethiopia,2023,Standard,26483,CBPF-ETH-23-S-INGO-26483,Education,,20.0,200000.0,CBPF
+Ethiopia,2023,Standard,26483,CBPF-ETH-23-S-INGO-26483,Emergency Shelter and NFI,,40.0,400000.0,CBPF
+Ethiopia,2023,Standard,26483,CBPF-ETH-23-S-INGO-26483,Water Sanitation Hygiene,,40.0,400000.0,CBPF
 Ethiopia,2023,Standard,26484,CBPF-ETH-23-S-INGO-26484,Education,,37.0,259000.0,CBPF
 Ethiopia,2023,Standard,26484,CBPF-ETH-23-S-INGO-26484,Food Security,,23.0,161000.0,CBPF
 Ethiopia,2023,Standard,26484,CBPF-ETH-23-S-INGO-26484,Health,,23.0,161000.0,CBPF
 Ethiopia,2023,Standard,26484,CBPF-ETH-23-S-INGO-26484,Protection,,17.0,119000.0,CBPF
+Ethiopia,2023,Standard,26531,CBPF-ETH-23-S-INGO-26531,Emergency Shelter and NFI,,15.0,330000.0,CBPF
+Ethiopia,2023,Standard,26531,CBPF-ETH-23-S-INGO-26531,Food Security,,30.0,660000.0,CBPF
+Ethiopia,2023,Standard,26531,CBPF-ETH-23-S-INGO-26531,Multi-purpose CASH,,25.0,550000.0,CBPF
+Ethiopia,2023,Standard,26531,CBPF-ETH-23-S-INGO-26531,Water Sanitation Hygiene,,30.0,660000.0,CBPF
 Ethiopia,2023,Standard,26592,CBPF-ETH-23-S-INGO-26592,Camp Coordination / Management,,11.0,110000.0,CBPF
 Ethiopia,2023,Standard,26592,CBPF-ETH-23-S-INGO-26592,Emergency Shelter and NFI,,22.0,220000.0,CBPF
 Ethiopia,2023,Standard,26592,CBPF-ETH-23-S-INGO-26592,Multi-purpose CASH,,15.0,150000.0,CBPF
@@ -12283,6 +12295,10 @@ Ethiopia,2023,Standard,26469,CBPF-ETH-23-S-NGO-26469,Water Sanitation Hygiene,,2
 Ethiopia,2023,Standard,26530,CBPF-ETH-23-S-NGO-26530,Emergency Shelter and NFI,,50.0,500000.0,CBPF
 Ethiopia,2023,Standard,26530,CBPF-ETH-23-S-NGO-26530,Multi-purpose CASH,,25.0,250000.0,CBPF
 Ethiopia,2023,Standard,26530,CBPF-ETH-23-S-NGO-26530,Water Sanitation Hygiene,,25.0,250000.0,CBPF
+Ethiopia,2023,Standard,26636,CBPF-ETH-23-S-NGO-26636,Food Security,,25.0,250000.0,CBPF
+Ethiopia,2023,Standard,26636,CBPF-ETH-23-S-NGO-26636,Health,,35.0,350000.0,CBPF
+Ethiopia,2023,Standard,26636,CBPF-ETH-23-S-NGO-26636,Nutrition,,15.0,150000.0,CBPF
+Ethiopia,2023,Standard,26636,CBPF-ETH-23-S-NGO-26636,Water Sanitation Hygiene,,25.0,250000.0,CBPF
 Ethiopia,2013,Reserve,23,ETH-13/X/DDA-3379/ER/A/INGO/23,Nutrition,,100.0,254168.27,CBPF
 Ethiopia,2013,Reserve,154,ETH-13/X/DDA-3379/ER/E/INGO/154,Education,,100.0,368884.0,CBPF
 Ethiopia,2013,Reserve,170,ETH-13/X/DDA-3379/ER/FS/INGO/170,Food Security,,100.0,649464.53,CBPF
