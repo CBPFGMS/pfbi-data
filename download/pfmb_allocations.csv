@@ -8637,21 +8637,22 @@ Vanuatu,2023,Rapid Response,4798,23-RR-CEF-060,"Water, Sanitation and Hygiene","
 Vanuatu,2023,Rapid Response,4798,23-RR-CEF-060,Nutrition,Nutrition,30.0,198000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4869,23-UF-VEN-61207(TBD),To be determined,To be determined,100.0,8000000.0,CERF
 Myanmar,2023,Rapid Response,4870,23-RR-MMR-62123(TBD),To be determined,To be determined,100.0,7000000.0,CERF
-Yemen,2023,Underfunded Emergencies,4871,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,16975000.0,CERF
-Bangladesh,2023,Underfunded Emergencies,4872,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Uganda,2023,Underfunded Emergencies,4873,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Malawi,2023,Underfunded Emergencies,4874,23-UF-MWI-61200(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Ethiopia,2023,Rapid Response,4875,23-RR-ETH-61597(TBD),To be determined,To be determined,100.0,7500000.0,CERF
-Democratic Republic of the Congo,2023,Rapid Response,4876,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Burkina Faso,2023,Underfunded Emergencies,4877,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Haiti,2023,Underfunded Emergencies,4878,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Afghanistan,2023,Underfunded Emergencies,4879,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Mali,2023,Underfunded Emergencies,4880,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Mozambique,2023,Underfunded Emergencies,4881,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0,CERF
-Myanmar,2023,Underfunded Emergencies,4882,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Cameroon,2023,Underfunded Emergencies,4883,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Central African Republic,2023,Underfunded Emergencies,4884,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0,CERF
-Afghanistan,2023,Rapid Response,4885,23-RR-AFG-61962(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Madagascar,2023,Rapid Response,4871,23-RR-MDG-62409(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Yemen,2023,Underfunded Emergencies,4872,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,16975000.0,CERF
+Bangladesh,2023,Underfunded Emergencies,4873,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Uganda,2023,Underfunded Emergencies,4874,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Malawi,2023,Underfunded Emergencies,4875,23-UF-MWI-61200(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Ethiopia,2023,Rapid Response,4876,23-RR-ETH-61597(TBD),To be determined,To be determined,100.0,7500000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4877,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Burkina Faso,2023,Underfunded Emergencies,4878,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0,CERF
+Haiti,2023,Underfunded Emergencies,4879,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Afghanistan,2023,Underfunded Emergencies,4880,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Mali,2023,Underfunded Emergencies,4881,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Mozambique,2023,Underfunded Emergencies,4882,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0,CERF
+Myanmar,2023,Underfunded Emergencies,4883,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,9000000.0,CERF
+Cameroon,2023,Underfunded Emergencies,4884,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Central African Republic,2023,Underfunded Emergencies,4885,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0,CERF
+Afghanistan,2023,Rapid Response,4886,23-RR-AFG-61962(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -12254,6 +12255,9 @@ Ethiopia,2023,Reserve,26878,CBPF-ETH-23-R-NGO-26878,Water Sanitation Hygiene,,20
 Ethiopia,2023,Reserve,26877,CBPF-ETH-23-R-O-26877,Health,,50.0,350000.0,CBPF
 Ethiopia,2023,Reserve,26877,CBPF-ETH-23-R-O-26877,Multi-purpose CASH,,50.0,350000.0,CBPF
 Ethiopia,2023,Reserve,25605,CBPF-ETH-23-R-UN-25605,Coordination and Support Services,,100.0,249738.0,CBPF
+Ethiopia,2023,Standard,26477,CBPF-ETH-23-S-INGO-26477,Health,,50.0,499999.195,CBPF
+Ethiopia,2023,Standard,26477,CBPF-ETH-23-S-INGO-26477,Nutrition,,30.0,299999.517,CBPF
+Ethiopia,2023,Standard,26477,CBPF-ETH-23-S-INGO-26477,Protection,,20.0,199999.678,CBPF
 Ethiopia,2023,Standard,26481,CBPF-ETH-23-S-INGO-26481,Emergency Shelter and NFI,,20.0,200000.0,CBPF
 Ethiopia,2023,Standard,26481,CBPF-ETH-23-S-INGO-26481,Protection,,35.0,350000.0,CBPF
 Ethiopia,2023,Standard,26481,CBPF-ETH-23-S-INGO-26481,Water Sanitation Hygiene,,45.0,450000.0,CBPF
@@ -17080,13 +17084,17 @@ Somalia,2023,Reserve,26597,CBPF-SOM-23-R-NGO-26597,Health,,100.0,349998.07,CBPF
 Somalia,2023,Reserve,26613,CBPF-SOM-23-R-NGO-26613,Water Sanitation Hygiene,,100.0,495185.0,CBPF
 Somalia,2023,Reserve,26614,CBPF-SOM-23-R-NGO-26614,Water Sanitation Hygiene,,100.0,449996.88,CBPF
 Somalia,2023,Reserve,26618,CBPF-SOM-23-R-NGO-26618,Protection,,100.0,322839.97,CBPF
+Somalia,2023,Reserve,27071,CBPF-SOM-23-R-NGO-27071,Water Sanitation Hygiene,,100.0,499992.51,CBPF
+Somalia,2023,Reserve,27072,CBPF-SOM-23-R-NGO-27072,Protection,,100.0,199933.3,CBPF
 Somalia,2023,Reserve,27073,CBPF-SOM-23-R-NGO-27073,Emergency Shelter and NFI,,100.0,500000.0,CBPF
 Somalia,2023,Reserve,27075,CBPF-SOM-23-R-NGO-27075,Health,,100.0,400000.0,CBPF
 Somalia,2023,Reserve,27081,CBPF-SOM-23-R-NGO-27081,Emergency Shelter and NFI,,100.0,400000.0,CBPF
 Somalia,2023,Reserve,27082,CBPF-SOM-23-R-NGO-27082,Health,,100.0,399740.02,CBPF
+Somalia,2023,Reserve,27083,CBPF-SOM-23-R-NGO-27083,Water Sanitation Hygiene,,100.0,500000.0,CBPF
 Somalia,2023,Reserve,27084,CBPF-SOM-23-R-NGO-27084,Water Sanitation Hygiene,,100.0,500000.0,CBPF
 Somalia,2023,Reserve,27085,CBPF-SOM-23-R-NGO-27085,Protection,,100.0,200000.0,CBPF
 Somalia,2023,Reserve,27098,CBPF-SOM-23-R-NGO-27098,Emergency Shelter and NFI,,100.0,499999.99,CBPF
+Somalia,2023,Reserve,27106,CBPF-SOM-23-R-NGO-27106,Water Sanitation Hygiene,,100.0,500000.0,CBPF
 Somalia,2023,Reserve,24517,CBPF-SOM-23-R-UN-24517,Multi-Sector,,100.0,965506.45,CBPF
 Somalia,2023,Reserve,26849,CBPF-SOM-23-R-UN-26849,Logistics,,100.0,600000.66,CBPF
 Somalia,2023,Standard,25029,CBPF-SOM-23-S-INGO-25029,Camp Coordination / Management,,100.0,394574.48,CBPF
