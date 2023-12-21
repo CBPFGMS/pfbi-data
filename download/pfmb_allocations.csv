@@ -8663,9 +8663,15 @@ Democratic Republic of the Congo,2023,Rapid Response,4820,23-RR-IOM-042,Shelter 
 Democratic Republic of the Congo,2023,Rapid Response,4821,23-RR-FAO-037,Agriculture,Agriculture,100.0,800000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4822,23-RR-HCR-039,Shelter and Non-Food Items,Shelter and Non-Food Items,80.0,1120000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4822,23-RR-HCR-039,Protection,Protection,20.0,280000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4823,23-RR-CEF-065,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",46.0,1955000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4823,23-RR-CEF-065,Protection,Protection,18.0,765000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4823,23-RR-CEF-065,Shelter and Non-Food Items,Shelter and Non-Food Items,36.0,1530000.0,CERF
 Egypt,2023,Rapid Response,4829,23-RR-IOM-044,Protection,Protection,89.9999749999375,719998.0,CERF
 Egypt,2023,Rapid Response,4829,23-RR-IOM-044,Health,Health,10.0000250000625,80000.0,CERF
 Democratic Republic of the Congo,2023,Rapid Response,4832,23-RR-WFP-060,Food Assistance,Food Assistance,100.0,1200000.0,CERF
+Myanmar,2023,Underfunded Emergencies,4845,23-UF-FPA-051,Health,Health,53.0,397500.0,CERF
+Myanmar,2023,Underfunded Emergencies,4845,23-UF-FPA-051,Protection,Protection,47.0,352500.0,CERF
+Myanmar,2023,Underfunded Emergencies,4852,23-UF-WHO-050,Health,Health,100.0,499972.0,CERF
 Afghanistan,2023,Rapid Response,4863,23-RR-IOM-048,Multi-Purpose Cash,Multi-Purpose Cash,51.0,1020000.0,CERF
 Afghanistan,2023,Rapid Response,4863,23-RR-IOM-048,Shelter and Non-Food Items,Shelter and Non-Food Items,34.0,680000.0,CERF
 Afghanistan,2023,Rapid Response,4863,23-RR-IOM-048,Camp Coordination and Camp Management,Camp Coordination and Camp Management,15.0,300000.0,CERF
@@ -8677,20 +8683,20 @@ Afghanistan,2023,Rapid Response,4866,23-RR-FPA-057,Protection,Protection,50.0,20
 Afghanistan,2023,Rapid Response,4866,23-RR-FPA-057,Health,Health,50.0,200000.0,CERF
 Afghanistan,2023,Rapid Response,4867,23-RR-WFP-066,Agriculture,Agriculture,100.0,3853666.0,CERF
 Afghanistan,2023,Rapid Response,4868,23-RR-WHO-052,Health,Health,100.0,500000.0,CERF
-Myanmar,2023,Rapid Response,4889,23-RR-MMR-62123(TBD),To be determined,To be determined,100.0,7000000.0,CERF
-Yemen,2023,Underfunded Emergencies,4890,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,3349986.0,CERF
-Uganda,2023,Underfunded Emergencies,4891,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Democratic Republic of the Congo,2023,Rapid Response,4892,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,6100000.0,CERF
-Burkina Faso,2023,Underfunded Emergencies,4893,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Haiti,2023,Underfunded Emergencies,4894,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Afghanistan,2023,Underfunded Emergencies,4895,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Mali,2023,Underfunded Emergencies,4896,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Mozambique,2023,Underfunded Emergencies,4897,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0,CERF
-Myanmar,2023,Underfunded Emergencies,4898,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,9000000.0,CERF
-Cameroon,2023,Underfunded Emergencies,4899,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Central African Republic,2023,Underfunded Emergencies,4900,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0,CERF
-Venezuela,2023,Underfunded Emergencies,4901,23-UF-VEN-61207(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Madagascar,2023,Rapid Response,4902,23-RR-MDG-62409(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Myanmar,2023,Rapid Response,4893,23-RR-MMR-62123(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Yemen,2023,Underfunded Emergencies,4894,23-UF-YEM-61208(TBD),To be determined,To be determined,100.0,3349986.0,CERF
+Uganda,2023,Underfunded Emergencies,4895,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Democratic Republic of the Congo,2023,Rapid Response,4896,23-RR-COD-61580(TBD),To be determined,To be determined,100.0,1850000.0,CERF
+Burkina Faso,2023,Underfunded Emergencies,4897,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,9000000.0,CERF
+Haiti,2023,Underfunded Emergencies,4898,23-UF-HTI-61199(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Afghanistan,2023,Underfunded Emergencies,4899,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Mali,2023,Underfunded Emergencies,4900,23-UF-MLI-61202(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Mozambique,2023,Underfunded Emergencies,4901,23-UF-MOZ-61203(TBD),To be determined,To be determined,100.0,6500000.0,CERF
+Myanmar,2023,Underfunded Emergencies,4902,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,7750028.0,CERF
+Cameroon,2023,Underfunded Emergencies,4903,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Central African Republic,2023,Underfunded Emergencies,4904,23-UF-CAF-61198(TBD),To be determined,To be determined,100.0,6500000.0,CERF
+Venezuela,2023,Underfunded Emergencies,4905,23-UF-VEN-61207(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Madagascar,2023,Rapid Response,4906,23-RR-MDG-62409(TBD),To be determined,To be determined,100.0,4000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
