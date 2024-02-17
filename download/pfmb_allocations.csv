@@ -8205,8 +8205,6 @@ Myanmar,2023,Rapid Response,4909,23-RR-CEF-078,Health,Health,43.0,1204000.0,CERF
 Myanmar,2023,Rapid Response,4909,23-RR-CEF-078,Protection,Protection,14.000000000000002,392000.0,CERF
 Myanmar,2023,Rapid Response,4909,23-RR-CEF-078,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",43.0,1204000.0,CERF
 Myanmar,2023,Rapid Response,4910,23-RR-WFP-070,Food Assistance,Food Assistance,100.0,2000000.0,CERF
-occupied Palestinian territory,2023,Rapid Response,4893,23-RR-RWA-003,Common Services,Common Services,100.0,3000000.0,CERF
-Ethiopia,2023,Rapid Response,4894,23-RR-FAO-043,Agriculture,Agriculture,100.0,1000000.0,CERF
 Ethiopia,2023,Rapid Response,4897,23-RR-IOM-051,Multi-Purpose Cash,Multi-Purpose Cash,50.0,1250000.0,CERF
 Ethiopia,2023,Rapid Response,4897,23-RR-IOM-051,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,1250000.0,CERF
 Ethiopia,2023,Rapid Response,4898,23-RR-HCR-049,Protection,Protection,66.0,660000.0,CERF
@@ -8222,6 +8220,8 @@ Zimbabwe,2023,Rapid Response,4903,23-RR-CEF-077,"Water, Sanitation and Hygiene",
 Zimbabwe,2023,Rapid Response,4903,23-RR-CEF-077,Nutrition,Nutrition,23.0,598000.0,CERF
 Zimbabwe,2023,Rapid Response,4904,23-RR-FAO-044,Agriculture,Agriculture,100.0,1200000.0,CERF
 Zimbabwe,2023,Rapid Response,4905,23-RR-WHO-055,Health,Health,100.0,699538.0,CERF
+occupied Palestinian territory,2023,Rapid Response,4893,23-RR-RWA-003,Common Services,Common Services,100.0,3000000.0,CERF
+Ethiopia,2023,Rapid Response,4894,23-RR-FAO-043,Agriculture,Agriculture,100.0,1000000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,Protection,Protection,20.0,450000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,675000.0,CERF
 Türkiye,2023,Rapid Response,4495,23-RR-IOM-004,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,1125000.0,CERF
@@ -8803,19 +8803,19 @@ Madagascar,2023,Rapid Response,4879,23-RR-CEF-074,Protection,Protection,20.0,150
 Madagascar,2023,Rapid Response,4879,23-RR-CEF-074,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.0,300000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,Health,Health,70.0,840000.0,CERF
 Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,360000.0,CERF
-Bangladesh,2023,Underfunded Emergencies,4948,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,350000.0,CERF
-Uganda,2023,Underfunded Emergencies,4949,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,499999.0,CERF
-Burkina Faso,2023,Underfunded Emergencies,4950,23-UF-BFA-61196(TBD),To be determined,To be determined,100.0,-344.0,CERF
-Afghanistan,2023,Underfunded Emergencies,4951,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,649983.0,CERF
-Myanmar,2023,Underfunded Emergencies,4952,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,5417.0,CERF
-Cameroon,2023,Underfunded Emergencies,4953,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,350000.0,CERF
-Zambia,2024,Rapid Response,4954,24-RR-ZMB-63502(TBD),To be determined,To be determined,100.0,2500000.0,CERF
-Mauritania,2024,Rapid Response,4955,24-RR-MRT-63535(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Bangladesh,2023,Underfunded Emergencies,4951,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,350000.0,CERF
+Uganda,2023,Underfunded Emergencies,4952,23-UF-UGA-61206(TBD),To be determined,To be determined,100.0,499999.0,CERF
+Afghanistan,2023,Underfunded Emergencies,4953,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,649983.0,CERF
+Myanmar,2023,Underfunded Emergencies,4954,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,5417.0,CERF
+Cameroon,2023,Underfunded Emergencies,4955,23-UF-CMR-61197(TBD),To be determined,To be determined,100.0,350000.0,CERF
+Zambia,2024,Rapid Response,4956,24-RR-ZMB-63502(TBD),To be determined,To be determined,100.0,2500000.0,CERF
+Mauritania,2024,Rapid Response,4957,24-RR-MRT-63535(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,4958,24-RR-COD-63589(TBD),To be determined,To be determined,100.0,6000000.0,CERF
 Mozambique,2024,Underfunded Emergencies,4890,23-UF-IOM-050,Protection,Protection,100.0,300000.0,CERF
 Central African Republic,2024,Underfunded Emergencies,4891,23-UF-CEF-075,Protection,Protection,100.0,500000.0,CERF
 Venezuela,2024,Underfunded Emergencies,4892,23-UF-FPA-060,Protection,Protection,100.0,245000.0,CERF
+Burkina Faso,2024,Underfunded Emergencies,4895,23-UF-HCR-048,Protection,Protection,100.0,641500.0,CERF
 occupied Palestinian territory,2024,Underfunded Emergencies,4906,23-UF-WOM-005,Protection,Protection,100.0,700000.0,CERF
-Democratic Republic of the Congo,2024,Rapid Response,4947,24-RR-COD-63589(TBD),To be determined,To be determined,100.0,6000000.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",85.0,726750.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,Health,Health,15.0,128250.0,CERF
 Mozambique,2024,Rapid Response,4913,24-RR-WHO-001,Health,Health,100.0,645000.0,CERF
