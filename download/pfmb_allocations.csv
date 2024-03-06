@@ -8735,6 +8735,8 @@ Mozambique,2023,Underfunded Emergencies,4839,23-UF-CEF-068,Education,Education,5
 Mozambique,2023,Underfunded Emergencies,4839,23-UF-CEF-068,Protection,Protection,47.0,1034000.0,CERF
 Mozambique,2023,Underfunded Emergencies,4840,23-UF-WFP-062,Food Assistance,Food Assistance,100.0,1000000.0,CERF
 Mozambique,2023,Underfunded Emergencies,4841,23-UF-HCR-042,Protection,Protection,100.0,1150000.0,CERF
+Mozambique,2023,Underfunded Emergencies,4841,23-UF-HCR-042,Protection,Protection,0.0,0.0,CERF
+Mozambique,2023,Underfunded Emergencies,4841,23-UF-HCR-042,Protection,Protection,0.0,0.0,CERF
 Afghanistan,2023,Underfunded Emergencies,4842,23-UF-WFP-063,Food Assistance,Food Assistance,100.0,13000000.0,CERF
 Myanmar,2023,Underfunded Emergencies,4843,23-UF-FAO-039,Agriculture,Agriculture,100.0,600000.0,CERF
 Myanmar,2023,Underfunded Emergencies,4844,23-UF-IOM-046,Health,Health,100.0,500000.0,CERF
@@ -8807,7 +8809,7 @@ Bangladesh,2023,Underfunded Emergencies,4966,23-UF-BGD-61195(TBD),To be determin
 Afghanistan,2023,Underfunded Emergencies,4967,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,649983.0,CERF
 Myanmar,2023,Underfunded Emergencies,4968,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,5417.0,CERF
 Republic of the Sudan,2024,Rapid Response,4969,24-RR-SDN-63674(TBD),To be determined,To be determined,100.0,7501641.0,CERF
-Democratic Republic of the Congo,2024,Rapid Response,4970,24-RR-COD-63589(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,4970,24-RR-COD-63589(TBD),To be determined,To be determined,100.0,4500000.0,CERF
 Ethiopia,2024,Rapid Response,4971,24-RR-ETH-63876(TBD),To be determined,To be determined,100.0,17000000.0,CERF
 Haiti,2024,Underfunded Emergencies,4888,23-UF-HCR-047,Protection,Protection,100.0,289993.0,CERF
 Uganda,2024,Underfunded Emergencies,4889,23-UF-WOM-004,Protection,Protection,100.0,500000.0,CERF
@@ -8855,6 +8857,7 @@ Mauritania,2024,Rapid Response,4935,24-RR-HCR-003,Protection,Protection,64.99998
 Mauritania,2024,Rapid Response,4935,24-RR-HCR-003,Shelter and Non-Food Items,Shelter and Non-Food Items,25.00002019205063,309528.0,CERF
 Mauritania,2024,Rapid Response,4935,24-RR-HCR-003,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",9.999991923179747,123811.0,CERF
 Republic of the Sudan,2024,Rapid Response,4942,24-RR-CEF-009,Nutrition,Nutrition,100.0,7498359.0,CERF
+Democratic Republic of the Congo,2024,Rapid Response,4950,24-RR-WFP-009,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1500000.0,CERF
 Burkina Faso,2024,Underfunded Emergencies,4895,23-UF-HCR-048,Protection,Protection,100.0,641500.0,CERF
 Cameroon,2024,Underfunded Emergencies,4896,23-UF-WFP-069,Protection,Protection,100.0,349999.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
@@ -25283,6 +25286,9 @@ Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Protection,,52.0,335261.602,
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Water Sanitation Hygiene,,6.0,38684.031,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Emergency Shelter and NFI,,33.0,328969.3572,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Food Security,,67.0,667907.4828,CBPF
+Ukraine,2024,Standard,27434,CBPF-UKR-24-S-NGO-27434,Water Sanitation Hygiene,,100.0,249972.13,CBPF
+Ukraine,2024,Standard,27439,CBPF-UKR-24-S-NGO-27439,Food Security,,70.0,174981.38,CBPF
+Ukraine,2024,Standard,27439,CBPF-UKR-24-S-NGO-27439,Water Sanitation Hygiene,,30.0,74992.02,CBPF
 Ukraine,2024,Standard,27523,CBPF-UKR-24-S-NGO-27523,Emergency Shelter and NFI,,100.0,249958.32,CBPF
 Ukraine,2019,Standard,13624,UKR-19/UKR_CBPF/SA1/FSL/NGO/13624,Food Security,,100.0,208896.41,CBPF
 Ukraine,2019,Standard,14396,UKR-19/UKR_CBPF/SA1/H-N/INGO/14396,Health,,100.0,419499.99,CBPF
