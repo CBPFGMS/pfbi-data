@@ -8807,9 +8807,8 @@ Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,Health,Health,70.0,840
 Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,360000.0
 Bangladesh,2023,Underfunded Emergencies,4974,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,350000.0
 Afghanistan,2023,Underfunded Emergencies,4975,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,649983.0
-Myanmar,2023,Underfunded Emergencies,4976,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,5417.0
-Ethiopia,2024,Rapid Response,4977,24-RR-ETH-63876(TBD),To be determined,To be determined,100.0,11333333.0
-Yemen,2024,Rapid Response,4978,24-RR-YEM-64129(TBD),To be determined,To be determined,100.0,7000000.0
+Ethiopia,2024,Rapid Response,4976,24-RR-ETH-63876(TBD),To be determined,To be determined,100.0,5666666.0
+Yemen,2024,Rapid Response,4977,24-RR-YEM-64129(TBD),To be determined,To be determined,100.0,7000000.0
 Republic of the Sudan,2024,Underfunded Emergencies,4967,24-UF-SDN-64063(TBD),To be determined,To be determined,100.0,20000000.0
 Lebanon,2024,Underfunded Emergencies,4968,24-UF-LBN-64069(TBD),To be determined,To be determined,100.0,9000000.0
 Chad,2024,Underfunded Emergencies,4969,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,15000000.0
@@ -8825,6 +8824,7 @@ Venezuela,2024,Underfunded Emergencies,4892,23-UF-FPA-060,Protection,Protection,
 Burkina Faso,2024,Underfunded Emergencies,4895,23-UF-HCR-048,Protection,Protection,100.0,641500.0
 Cameroon,2024,Underfunded Emergencies,4896,23-UF-WFP-069,Protection,Protection,100.0,349999.0
 occupied Palestinian territory,2024,Underfunded Emergencies,4906,23-UF-WOM-005,Protection,Protection,100.0,700000.0
+Myanmar,2024,Underfunded Emergencies,4911,23-UF-IOM-053,Protection,Protection,100.0,400000.0
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",85.0,726750.0
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,Health,Health,15.0,128250.0
 Mozambique,2024,Rapid Response,4913,24-RR-WHO-001,Health,Health,100.0,645000.0
@@ -8876,3 +8876,5 @@ Democratic Republic of the Congo,2024,Rapid Response,4949,24-RR-HCR-004,Shelter 
 Democratic Republic of the Congo,2024,Rapid Response,4950,24-RR-WFP-009,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1500000.0
 Ethiopia,2024,Rapid Response,4959,24-RR-CEF-014,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",67.00000194117635,3796667.0
 Ethiopia,2024,Rapid Response,4959,24-RR-CEF-014,Nutrition,Nutrition,32.99999805882364,1870000.0
+Ethiopia,2024,Rapid Response,4960,24-RR-WFP-012,Food Assistance,Food Assistance,59.99999647058844,3400000.0
+Ethiopia,2024,Rapid Response,4960,24-RR-WFP-012,Nutrition,Nutrition,40.00000352941156,2266667.0

@@ -8807,9 +8807,8 @@ Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,Health,Health,70.0,840
 Venezuela,2023,Underfunded Emergencies,4880,23-UF-WHO-051,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.0,360000.0,CERF
 Bangladesh,2023,Underfunded Emergencies,4974,23-UF-BGD-61195(TBD),To be determined,To be determined,100.0,350000.0,CERF
 Afghanistan,2023,Underfunded Emergencies,4975,23-UF-AFG-58643(TBD),To be determined,To be determined,100.0,649983.0,CERF
-Myanmar,2023,Underfunded Emergencies,4976,23-UF-MMR-61204(TBD),To be determined,To be determined,100.0,5417.0,CERF
-Ethiopia,2024,Rapid Response,4977,24-RR-ETH-63876(TBD),To be determined,To be determined,100.0,11333333.0,CERF
-Yemen,2024,Rapid Response,4978,24-RR-YEM-64129(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Ethiopia,2024,Rapid Response,4976,24-RR-ETH-63876(TBD),To be determined,To be determined,100.0,5666666.0,CERF
+Yemen,2024,Rapid Response,4977,24-RR-YEM-64129(TBD),To be determined,To be determined,100.0,7000000.0,CERF
 Republic of the Sudan,2024,Underfunded Emergencies,4967,24-UF-SDN-64063(TBD),To be determined,To be determined,100.0,20000000.0,CERF
 Lebanon,2024,Underfunded Emergencies,4968,24-UF-LBN-64069(TBD),To be determined,To be determined,100.0,9000000.0,CERF
 Chad,2024,Underfunded Emergencies,4969,24-UF-TCD-64070(TBD),To be determined,To be determined,100.0,15000000.0,CERF
@@ -8825,6 +8824,7 @@ Venezuela,2024,Underfunded Emergencies,4892,23-UF-FPA-060,Protection,Protection,
 Burkina Faso,2024,Underfunded Emergencies,4895,23-UF-HCR-048,Protection,Protection,100.0,641500.0,CERF
 Cameroon,2024,Underfunded Emergencies,4896,23-UF-WFP-069,Protection,Protection,100.0,349999.0,CERF
 occupied Palestinian territory,2024,Underfunded Emergencies,4906,23-UF-WOM-005,Protection,Protection,100.0,700000.0,CERF
+Myanmar,2024,Underfunded Emergencies,4911,23-UF-IOM-053,Protection,Protection,100.0,400000.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",85.0,726750.0,CERF
 Mozambique,2024,Rapid Response,4912,24-RR-CEF-001,Health,Health,15.0,128250.0,CERF
 Mozambique,2024,Rapid Response,4913,24-RR-WHO-001,Health,Health,100.0,645000.0,CERF
@@ -8876,6 +8876,8 @@ Democratic Republic of the Congo,2024,Rapid Response,4949,24-RR-HCR-004,Shelter 
 Democratic Republic of the Congo,2024,Rapid Response,4950,24-RR-WFP-009,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1500000.0,CERF
 Ethiopia,2024,Rapid Response,4959,24-RR-CEF-014,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",67.00000194117635,3796667.0,CERF
 Ethiopia,2024,Rapid Response,4959,24-RR-CEF-014,Nutrition,Nutrition,32.99999805882364,1870000.0,CERF
+Ethiopia,2024,Rapid Response,4960,24-RR-WFP-012,Food Assistance,Food Assistance,59.99999647058844,3400000.0,CERF
+Ethiopia,2024,Rapid Response,4960,24-RR-WFP-012,Nutrition,Nutrition,40.00000352941156,2266667.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -11471,6 +11473,7 @@ DRC,2023,Reserve,27332,CBPF-DRC-23-R-NGO-27332,Food Security,,100.0,499999.77,CB
 DRC,2023,Reserve,26134,CBPF-DRC-23-R-O-26134,Emergency Shelter and NFI,,100.0,400000.0,CBPF
 DRC,2023,Reserve,26095,CBPF-DRC-23-R-UN-26095,Protection,,100.0,700000.0,CBPF
 DRC,2023,Reserve,26142,CBPF-DRC-23-R-UN-26142,Health,,100.0,1000000.0,CBPF
+DRC,2024,Reserve,27578,CBPF-DRC-24-R-INGO-27578,Emergency Shelter and NFI,,100.0,1500000.0,CBPF
 DRC,2020,Reserve,15859,DRC-20/HCG10/RA1/HLT/INGO/15859,Health,,100.0,700000.39,CBPF
 DRC,2020,Reserve,15860,DRC-20/HCG10/RA1/HLT/NGO/15860,Health,,100.0,700000.0,CBPF
 DRC,2020,Reserve,15888,DRC-20/HCG10/RA1/HLT/UN/15888,Health,,100.0,509860.59,CBPF
@@ -25313,6 +25316,10 @@ Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Protection,,52.0,335261.602,
 Ukraine,2023,Standard,25054,CBPF-UKR-23-S-NGO-25054,Water Sanitation Hygiene,,6.0,38684.031,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Emergency Shelter and NFI,,33.0,328969.3572,CBPF
 Ukraine,2023,Standard,25065,CBPF-UKR-23-S-NGO-25065,Food Security,,67.0,667907.4828,CBPF
+Ukraine,2024,Standard,27532,CBPF-UKR-24-S-INGO-27532,Emergency Shelter and NFI,,100.0,2203416.12,CBPF
+Ukraine,2024,Standard,27278,CBPF-UKR-24-S-NGO-27278,Emergency Shelter and NFI,,41.0,1372972.0512,CBPF
+Ukraine,2024,Standard,27278,CBPF-UKR-24-S-NGO-27278,Health,,4.0,133948.4928,CBPF
+Ukraine,2024,Standard,27278,CBPF-UKR-24-S-NGO-27278,Water Sanitation Hygiene,,55.0,1841791.776,CBPF
 Ukraine,2024,Standard,27434,CBPF-UKR-24-S-NGO-27434,Water Sanitation Hygiene,,100.0,249972.13,CBPF
 Ukraine,2024,Standard,27439,CBPF-UKR-24-S-NGO-27439,Food Security,,70.0,174981.38,CBPF
 Ukraine,2024,Standard,27439,CBPF-UKR-24-S-NGO-27439,Water Sanitation Hygiene,,30.0,74992.02,CBPF
