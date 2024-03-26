@@ -1281,5 +1281,22 @@
     "donorName": "Mohamed Fathi Ahmed Ibrahim",
     "donorType": "Private",
     "donorISO2Code": "XPRV"
+  },{
+    "id": 211,
+    "donorName": "Qatar Charity",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 212,
+    "donorName": "Burkina Faso",
+    "donorType": "Member State",
+    "donorISO2Code": "BF"
+  },
+  {
+    "id": 213,
+    "donorName": "Zimbabwe",
+    "donorType": "Member State",
+    "donorISO2Code": "ZW"
   }
 ]
