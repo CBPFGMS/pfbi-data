@@ -19,5 +19,12 @@
     "RFundName": "Burkina Faso (RhPF - WCA)",
     "StartYearDate": "09-2022",
     "CBPFId": 85
+  },
+   {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean,
+    "RFundAbbrv": "RhPF - LAC",
+    "RFundName": "Colombia (RhPF - LAC)",
+    "StartYearDate": "03-2024",
+    "CBPFId": 87
   }
 ]
