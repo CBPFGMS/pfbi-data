@@ -193,6 +193,7 @@ AllocationType,AllocationtypeId
 (JOR) Jordan first Standard Allocation May 2021,33673
 (JOR) Jordan first Reserve Allocation April - 2022,40373
 (LBN) 2023 1st Reserve Allocation (Pillar I-48Hours),51671
+(LBN) 2023 1st Reserve Allocation (Pillar II),51571
 (LBN) 2023 1st Standard Allocation,47171
 (LBN) 2017 Reserve Allocation,10771
 (LBN) 2017 First Standard Allocation,11571
@@ -504,6 +505,7 @@ AllocationType,AllocationtypeId
 (UKR) 2022 First Standard Allocation_Envelope 2,43481
 (UKR) 2022 First Standard Allocation_Envelope 1,43381
 (VEN) Primera Asignación Ordinaria 2023,47683
+(VEN) Segunda Asignación Ordinaria 2023,50883
 (VEN) Primera asignación ordinaria 2021,31583
 (VEN) Segunda asignación ordinaria 2021,36183
 (VEN) Primera Asignación Ordinaria 2022,41683
