@@ -9414,6 +9414,7 @@ Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Protection,Protectio
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",27.00000007690032,351103.87,CERF
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Education,Education,22.99999992309968,299088.48,CERF
 Colombia,2025,Rapid Response,34830,CERF-COL-25-RR-CEF-34830,Nutrition,Nutrition,21.99999969239872,286084.63,CERF
+Democratic Republic of the Congo,2025,Rapid Response,34882,CERF-COD-25-RR-WHO-34882,Health,Health,100.0,375000.12,CERF
 Democratic Republic of the Congo,2025,Rapid Response,34883,CERF-COD-25-RR-CEF-34883,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,375000.31,CERF
 Democratic Republic of the Congo,2025,Rapid Response,34896,CERF-COD-25-RR-WFP-34896,Food Aid,Food Aid,84.00000008000053,4199971.57,CERF
 Democratic Republic of the Congo,2025,Rapid Response,34896,CERF-COD-25-RR-WFP-34896,Common Services,Common Services,15.999999919999455,799994.58,CERF
@@ -9428,17 +9429,16 @@ Democratic Republic of the Congo,2025,Rapid Response,34902,CERF-COD-25-RR-FPA-34
 Democratic Republic of the Congo,2025,Rapid Response,34903,CERF-COD-25-RR-IOM-34903,Camp Coordination and Camp Management,Camp Coordination and Camp Management,10.00000029999998,100000.01,CERF
 Democratic Republic of the Congo,2025,Rapid Response,34903,CERF-COD-25-RR-IOM-34903,Shelter and Non-Food Items,Shelter and Non-Food Items,89.99999970000003,900000.06,CERF
 Lebanon,2025,Rapid Response,34929,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Democratic Republic of the Congo,2025,Rapid Response,34930,CERF-COD-25-RR-1445(TBD),To be determined,To be determined,100.0,374999.69,CERF
-Republic of the Sudan,2025,Underfunded Emergencies,34931,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,22000000.0,CERF
-Venezuela,2025,Underfunded Emergencies,34932,CERF-VEN-25-UF-1452(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Afghanistan,2025,Underfunded Emergencies,34933,CERF-AFG-25-UF-1453(TBD),To be determined,To be determined,100.0,19000000.0,CERF
-Mauritania,2025,Underfunded Emergencies,34934,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Honduras,2025,Underfunded Emergencies,34935,CERF-HND-25-UF-1455(TBD),To be determined,To be determined,100.0,5000000.0,CERF
-Niger,2025,Underfunded Emergencies,34936,CERF-NER-25-UF-1456(TBD),To be determined,To be determined,100.0,7000000.0,CERF
-Somalia,2025,Underfunded Emergencies,34937,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,13000000.0,CERF
-Zambia,2025,Underfunded Emergencies,34938,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Central African Republic,2025,Underfunded Emergencies,34939,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,6000000.0,CERF
-Chad,2025,Underfunded Emergencies,34940,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,12000000.0,CERF
+Republic of the Sudan,2025,Underfunded Emergencies,34930,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,22000000.0,CERF
+Venezuela,2025,Underfunded Emergencies,34931,CERF-VEN-25-UF-1452(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Afghanistan,2025,Underfunded Emergencies,34932,CERF-AFG-25-UF-1453(TBD),To be determined,To be determined,100.0,19000000.0,CERF
+Mauritania,2025,Underfunded Emergencies,34933,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Honduras,2025,Underfunded Emergencies,34934,CERF-HND-25-UF-1455(TBD),To be determined,To be determined,100.0,5000000.0,CERF
+Niger,2025,Underfunded Emergencies,34935,CERF-NER-25-UF-1456(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Somalia,2025,Underfunded Emergencies,34936,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,13000000.0,CERF
+Zambia,2025,Underfunded Emergencies,34937,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Central African Republic,2025,Underfunded Emergencies,34938,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,6000000.0,CERF
+Chad,2025,Underfunded Emergencies,34939,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,12000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
