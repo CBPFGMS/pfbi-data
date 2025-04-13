@@ -1300,10 +1300,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1298,ARAUCA -> ARAUCA,ARAUCA,6.569909,-70.968822
 1299, DRC > Sud-Kivu > Kalehe > Kalehe,Sud-Kivu,-2.500021,28.866667
 1300, DRC > Ituri > Mambasa > Mambasa,Ituri,1.562489,30.248427
-1301, DRC > Nord-Kivu > Rutshuru > Bambo,Nord-Kivu,-1.6882,29.2371
+1301, DRC > Nord-Kivu > Rutshuru > Kibirizi,Nord-Kivu,-1.6882,29.2371
 1302, DRC > Nord-Kivu > Lubero > Alimbongo,Nord-Kivu,-1.6882,29.2371
 1303, DRC > Nord-Kivu > Lubero > Kayna,Nord-Kivu,-1.6882,29.2371
-1304, DRC > Nord-Kivu > Rutshuru > Kibirizi,Nord-Kivu,-1.6882,29.2371
+1304, DRC > Nord-Kivu > Rutshuru > Bambo,Nord-Kivu,-1.6882,29.2371
 1305, DRC > Nord-Kivu > Rutshuru > Birambizo,Nord-Kivu,-1.6882,29.2371
 1306, DRC > Ituri > Mambasa > Mandima,Ituri,1.562489,30.248427
 1307, DRC > Nord-Kivu > Beni > Oicha,Nord-Kivu,-1.6882,29.2371
@@ -1374,10 +1374,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1372, Kasai Central > Kananga > Kananga,Kasai Central,-6.15,23.599989
 1373, Kinshasa > Kinshasa > Gombe,Kinshasa,-4.339502,15.309483
 1374, Nord-Kivu > Goma > Goma,Nord-Kivu,-1.6882,29.2371
-1375, Sud-Kivu > Bukavu > Bagira,Sud-Kivu,-2.500021,28.866667
-1376, Tanganyika > Kalemie > Kalemie,Tanganyika,-6.255568,29.510771
-1377, Sud-Kivu > Fizi > Minembwe,Sud-Kivu,-2.500021,28.866667
-1378, Sud-Kivu > Mwenga > Itombwe,Sud-Kivu,-2.500021,28.866667
+1375, Tanganyika > Kalemie > Kalemie,Tanganyika,-6.255568,29.510771
+1376, Sud-Kivu > Bukavu > Bagira,Sud-Kivu,-2.500021,28.866667
+1377, Sud-Kivu > Mwenga > Itombwe,Sud-Kivu,-2.500021,28.866667
+1378, Sud-Kivu > Fizi > Minembwe,Sud-Kivu,-2.500021,28.866667
 1379, Sud-Kivu > Uvira > Hauts-Plateaux,Sud-Kivu,-2.500021,28.866667
 1380, Sud-Kivu > Fizi > Fizi,Sud-Kivu,-2.500021,28.866667
 1381, Sud-Kivu > Uvira > Lemera,Sud-Kivu,-2.500021,28.866667
@@ -4343,18 +4343,18 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4062, Yangon > Yangon (East) > Dagon Myothit (East),Yangon,16.8,96.15
 4063, Sagaing > Monywa > Chaung-U,Sagaing,21.5,95.6167
 4064, Sagaing > Yinmabin > Salingyi,Sagaing,21.5,95.6167
-4065, Sagaing > Monywa > Ayadaw,Sagaing,21.5,95.6167
-4066, Sagaing > Monywa > Monywa,Sagaing,21.5,95.6167
-4067, Sagaing > Yinmabin > Kani,Sagaing,21.5,95.6167
-4068, Sagaing > Monywa > Budalin,Sagaing,21.5,95.6167
-4069, Sagaing > Yinmabin > Pale,Sagaing,21.5,95.6167
-4070, Sagaing > Shwebo > Tabayin,Sagaing,21.5,95.6167
-4071, Sagaing > Yinmabin > Yinmabin,Sagaing,21.5,95.6167
+4065, Sagaing > Monywa > Monywa,Sagaing,21.5,95.6167
+4066, Sagaing > Yinmabin > Yinmabin,Sagaing,21.5,95.6167
+4067, Sagaing > Monywa > Ayadaw,Sagaing,21.5,95.6167
+4068, Sagaing > Yinmabin > Kani,Sagaing,21.5,95.6167
+4069, Sagaing > Monywa > Budalin,Sagaing,21.5,95.6167
+4070, Sagaing > Yinmabin > Pale,Sagaing,21.5,95.6167
+4071, Sagaing > Shwebo > Tabayin,Sagaing,21.5,95.6167
 4072, Sagaing > Kale > Mingin,Sagaing,21.5,95.6167
 4073, Mon > Thaton > Thaton,Mon,16.1667,97.6667
 4074, Magway > Pakokku > Yesagyo,Magway,20.25,94.75
-4075, Magway > Pakokku > Myaing,Magway,20.25,94.75
-4076, Magway > Pakokku > Pauk,Magway,20.25,94.75
+4075, Magway > Pakokku > Pauk,Magway,20.25,94.75
+4076, Magway > Pakokku > Myaing,Magway,20.25,94.75
 4077, Sagaing > Sagaing > Sagaing,Sagaing,21.5,95.6167
 4078, Sagaing > Shwebo > Taze,Sagaing,21.5,95.6167
 4079, Mon > Mawlamyine > Ye,Mon,16.1667,97.6667
@@ -4795,10 +4795,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4514, oPt > West Bank > Hebron > Umm al Kheir,West Bank,31.985981,35.299947
 4515, oPt > West Bank > Bethlehem > Ar Rawa'in,West Bank,31.985981,35.299947
 4516, oPt > West Bank > Jerusalem > Az Za'ayyem Za'atreh Herders,West Bank,31.985981,35.299947
-4517, oPt > West Bank > Tulkarm,West Bank,31.985981,35.299947
-4518, oPt > West Bank > Hebron,West Bank,31.985981,35.299947
-4519, oPt > West Bank > Bethlehem,West Bank,31.985981,35.299947
-4520, oPt > West Bank > Tubas,West Bank,31.985981,35.299947
+4517, oPt > West Bank > Hebron,West Bank,31.985981,35.299947
+4518, oPt > West Bank > Tulkarm,West Bank,31.985981,35.299947
+4519, oPt > West Bank > Tubas,West Bank,31.985981,35.299947
+4520, oPt > West Bank > Bethlehem,West Bank,31.985981,35.299947
 4521, oPt > West Bank > Jenin,West Bank,31.985981,35.299947
 4522,Gaza Strip -> Khan Yunis -> Khuza'a,Gaza Strip,31.356442,34.327047
 4523,Gaza Strip -> Khan Yunis -> 'Abasan al Kabira,Gaza Strip,31.356442,34.327047
@@ -4832,38 +4832,38 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4551,West Bank -> Hebron -> Ar Rihiya,West Bank,31.985981,35.299947
 4552,West Bank -> Hebron -> Deir Razih,West Bank,31.985981,35.299947
 4553,West Bank -> Hebron -> Zif,West Bank,31.985981,35.299947
-4554,Gaza Strip -> Khan Yunis,Gaza Strip,31.356442,34.327047
-4555,Gaza Strip -> Deir Al-Balah,Gaza Strip,31.356442,34.327047
+4554,Gaza Strip -> Deir Al-Balah,Gaza Strip,31.356442,34.327047
+4555,Gaza Strip -> Khan Yunis,Gaza Strip,31.356442,34.327047
 4556,Gaza Strip -> Rafah,Gaza Strip,31.356442,34.327047
-4557,West Bank -> Bethlehem -> Dar Salah,West Bank,31.985981,35.299947
-4558,West Bank -> Ramallah -> Deir 'Ammar,West Bank,31.985981,35.299947
+4557,West Bank -> Hebron -> Taffuh,West Bank,31.985981,35.299947
+4558,West Bank -> Ramallah -> Kafr Malik,West Bank,31.985981,35.299947
 4559,West Bank -> Bethlehem -> Beit Fajjar,West Bank,31.985981,35.299947
 4560,West Bank -> Bethlehem -> Al Khas,West Bank,31.985981,35.299947
-4561,West Bank -> Hebron -> Taffuh,West Bank,31.985981,35.299947
-4562,West Bank -> Ramallah -> Kafr Malik,West Bank,31.985981,35.299947
+4561,West Bank -> Bethlehem -> Dar Salah,West Bank,31.985981,35.299947
+4562,West Bank -> Ramallah -> Deir 'Ammar,West Bank,31.985981,35.299947
 4563,West Bank -> Bethlehem -> Tuqu',West Bank,31.985981,35.299947
 4564,West Bank -> Hebron -> Al 'Arrub Camp,West Bank,31.985981,35.299947
-4565,West Bank -> Hebron -> Ras al Jora,West Bank,31.985981,35.299947
-4566,West Bank -> Bethlehem -> Jurat ash Sham'a,West Bank,31.985981,35.299947
+4565,West Bank -> Hebron -> Khirbet Salama,West Bank,31.985981,35.299947
+4566,West Bank -> Hebron -> Beit 'Awwa,West Bank,31.985981,35.299947
 4567,West Bank -> Hebron -> Al Burj,West Bank,31.985981,35.299947
 4568,West Bank -> Bethlehem -> Hindaza,West Bank,31.985981,35.299947
-4569,West Bank -> Hebron -> Khirbet Salama,West Bank,31.985981,35.299947
-4570,West Bank -> Hebron -> Beit 'Awwa,West Bank,31.985981,35.299947
+4569,West Bank -> Hebron -> Ras al Jora,West Bank,31.985981,35.299947
+4570,West Bank -> Bethlehem -> Jurat ash Sham'a,West Bank,31.985981,35.299947
 4571,West Bank -> Hebron -> As Samu',West Bank,31.985981,35.299947
 4572,West Bank -> Hebron -> Sa'ir,West Bank,31.985981,35.299947
-4573,West Bank -> Ramallah -> Kharbatha Bani Harith,West Bank,31.985981,35.299947
-4574,West Bank -> Ramallah -> Beit Liqya,West Bank,31.985981,35.299947
+4573,West Bank -> Ramallah -> Beitin,West Bank,31.985981,35.299947
+4574,West Bank -> Ramallah -> Bil'in,West Bank,31.985981,35.299947
 4575,West Bank -> Hebron -> Fuqeiqis,West Bank,31.985981,35.299947
 4576,West Bank -> Hebron -> Al Hijra,West Bank,31.985981,35.299947
-4577,West Bank -> Ramallah -> Beitin,West Bank,31.985981,35.299947
-4578,West Bank -> Ramallah -> Bil'in,West Bank,31.985981,35.299947
+4577,West Bank -> Ramallah -> Kharbatha Bani Harith,West Bank,31.985981,35.299947
+4578,West Bank -> Ramallah -> Beit Liqya,West Bank,31.985981,35.299947
 4579,West Bank -> Bethlehem -> Ad Doha,West Bank,31.985981,35.299947
 4580,West Bank -> Ramallah -> Deir Jarir,West Bank,31.985981,35.299947
-4581,West Bank -> Bethlehem -> Al Khadr,West Bank,31.985981,35.299947
+4581,West Bank -> Bethlehem -> Beit Jala,West Bank,31.985981,35.299947
 4582,West Bank -> Ramallah -> Turmus'ayya,West Bank,31.985981,35.299947
 4583,West Bank -> Ramallah -> Ein Qiniya,West Bank,31.985981,35.299947
 4584,West Bank -> Hebron -> Kharas,West Bank,31.985981,35.299947
-4585,West Bank -> Bethlehem -> Beit Jala,West Bank,31.985981,35.299947
+4585,West Bank -> Bethlehem -> Al Khadr,West Bank,31.985981,35.299947
 4586,West Bank -> Ramallah -> Deir Ibzi',West Bank,31.985981,35.299947
 4587,West Bank -> Bethlehem -> Al Jab'a,West Bank,31.985981,35.299947
 4588,West Bank -> Hebron -> Dura,West Bank,31.985981,35.299947
@@ -5130,20 +5130,20 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4849,West Bank -> Nablus -> Zeita Jamma'in,West Bank,31.985981,35.299947
 4850,West Bank -> Jerusalem -> Al 'Isawiya,West Bank,31.985981,35.299947
 4851,West Bank -> Jerusalem -> Shu'fat Camp,West Bank,31.985981,35.299947
-4852, West Bank > Ramallah > Al Mughayyir,West Bank,31.985981,35.299947
+4852, West Bank > Jerusalem > Qatanna,West Bank,31.985981,35.299947
 4853, West Bank > Jerusalem > Al Qubeiba,West Bank,31.985981,35.299947
-4854, West Bank > Jerusalem > Qatanna,West Bank,31.985981,35.299947
+4854, West Bank > Jerusalem > Beit 'Anan,West Bank,31.985981,35.299947
 4855, West Bank > Jerusalem > Bir Nabala,West Bank,31.985981,35.299947
-4856, West Bank > Jerusalem > Beit 'Anan,West Bank,31.985981,35.299947
+4856, West Bank > Jerusalem > Beit Ijza,West Bank,31.985981,35.299947
 4857, West Bank > Jerusalem > Biddu,West Bank,31.985981,35.299947
-4858, West Bank > Jerusalem > Beit Ijza,West Bank,31.985981,35.299947
+4858, West Bank > Jerusalem > Beit Duqqu,West Bank,31.985981,35.299947
 4859, West Bank > Jerusalem > Beit Surik,West Bank,31.985981,35.299947
-4860, West Bank > Jerusalem > Beit Duqqu,West Bank,31.985981,35.299947
+4860, West Bank > Ramallah > Al Mughayyir,West Bank,31.985981,35.299947
 4861, West Bank > Hebron,West Bank,31.985981,35.299947
-4862, West Bank > Jericho,West Bank,31.985981,35.299947
-4863, West Bank > Salfit,West Bank,31.985981,35.299947
-4864, West Bank > Jerusalem,West Bank,31.985981,35.299947
-4865, West Bank > Nablus,West Bank,31.985981,35.299947
+4862, West Bank > Salfit,West Bank,31.985981,35.299947
+4863, West Bank > Jericho,West Bank,31.985981,35.299947
+4864, West Bank > Nablus,West Bank,31.985981,35.299947
+4865, West Bank > Jerusalem,West Bank,31.985981,35.299947
 4866, West Bank > Bethlehem,West Bank,31.985981,35.299947
 4867, Gaza Strip > Gaza North,Gaza Strip,31.356442,34.327047
 4868, Gaza Strip > Gaza,Gaza Strip,31.356442,34.327047
@@ -12712,9 +12712,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12402, Aden > Craiter,Aden,12.84865928,45.00201169
 12403, Aden > Al Mualla,Aden,12.84865928,45.00201169
 12404, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-12405, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-12406, Marib > Raghwan,Marib,15.56841151,45.76081505
-12407, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+12405, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+12406, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+12407, Marib > Raghwan,Marib,15.56841151,45.76081505
 12408, Lahj > Halimayn,Lahj,12.96593663,44.41733354
 12409, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
 12410, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
@@ -12768,17 +12768,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12458, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12459, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
 12460, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12461, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12462, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12463, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12464, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-12465, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12466, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12461, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12462, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12463, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12464, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12465, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12466, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
 12467, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12468, Shabwah > Habban,Shabwah,14.67178974,46.95556076
-12469, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12470, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-12471, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12468, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12469, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12470, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12471, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12472, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12473, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 12474, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
