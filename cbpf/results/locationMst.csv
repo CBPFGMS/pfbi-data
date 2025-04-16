@@ -1276,8 +1276,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1274,Basse Kotto,Basse Kotto,5.0,21.5
 1275,Haut Mbomou,Haut Mbomou,6.0,26.0
 1276,Mbomou,Mbomou,5.0764181,23.3093406
-1277,Kémo -> Dékoa,Kémo,5.75,19.0833
-1278,Kémo -> Mala,Kémo,5.75,19.0833
+1277,Kémo -> Mala,Kémo,5.75,19.0833
+1278,Kémo -> Dékoa,Kémo,5.75,19.0833
 1279,Ouham Péndé -> Bozoum,Ouham Péndé,7.0,16.0
 1280,Nana Gribizi,Nana Gribizi,6.657806,19.666148
 1281, Ouham > Nana Bakassa,Ouham,7.0,18.0
@@ -5589,11 +5589,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5308, West Bank > Jenin > Khirbet ash Sheikh Sa'eed,West Bank,31.985981,35.299947
 5309, West Bank > Jenin > Khirbet al Muntar ash Sharqiya,West Bank,31.985981,35.299947
 5310, West Bank > Jerusalem > Abu Dis,West Bank,31.985981,35.299947
-5311, West Bank > Jerusalem > Shu'fat,West Bank,31.985981,35.299947
-5312, West Bank > Hebron > Khirbet at Tabban,West Bank,31.985981,35.299947
-5313, West Bank > Jerusalem > Kafr 'Aqab,West Bank,31.985981,35.299947
-5314, West Bank > Hebron > Isfey al Tihta,West Bank,31.985981,35.299947
-5315, West Bank > Hebron > Halaweh,West Bank,31.985981,35.299947
+5311, West Bank > Jerusalem > Kafr 'Aqab,West Bank,31.985981,35.299947
+5312, West Bank > Hebron > Isfey al Tihta,West Bank,31.985981,35.299947
+5313, West Bank > Jerusalem > Shu'fat,West Bank,31.985981,35.299947
+5314, West Bank > Hebron > Halaweh,West Bank,31.985981,35.299947
+5315, West Bank > Hebron > Khirbet at Tabban,West Bank,31.985981,35.299947
 5316, West Bank > Ramallah > Abu Qash,West Bank,31.985981,35.299947
 5317, West Bank > Jenin > Khallet Anjas,West Bank,31.985981,35.299947
 5318, West Bank > Salfit > Abu Sultan,West Bank,31.985981,35.299947
@@ -5619,8 +5619,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5338, West Bank > Hebron > Ar Rifa'iyya,West Bank,31.985981,35.299947
 5339, West Bank > Hebron > Ar Ramadin,West Bank,31.985981,35.299947
 5340, West Bank > Hebron > Khirbet Ghuwein al Fauqa,West Bank,31.985981,35.299947
-5341, West Bank > Hebron > Birin,West Bank,31.985981,35.299947
-5342, West Bank > Hebron > Khirbet Bism,West Bank,31.985981,35.299947
+5341, West Bank > Hebron > Khirbet Bism,West Bank,31.985981,35.299947
+5342, West Bank > Hebron > Birin,West Bank,31.985981,35.299947
 5343, West Bank > Hebron > Khirbet Zanuta,West Bank,31.985981,35.299947
 5344, West Bank > Hebron > Wadi ar Rim,West Bank,31.985981,35.299947
 5345, West Bank > Jenin > Al Mansura,West Bank,31.985981,35.299947
@@ -5748,11 +5748,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5467, Somalia > Middle Shabelle > Jowhar > Shamiindo,Middle Shabelle,2.825,45.937
 5468, Somalia > Hiraan > Belet Weyne,Hiraan,4.223,45.376
 5469, Somalia > Gedo > Baardheere,Gedo,2.802,41.688
-5470, Somalia > Mudug > Gaalkacyo > Sarjimaale,Mudug,6.491,48.01
-5471, Somalia > Mudug > Gaalkacyo > Carfuuda,Mudug,6.491,48.01
-5472, Somalia > Mudug > Gaalkacyo > Gaalkacyo,Mudug,6.491,48.01
-5473, Somalia > Mudug > Gaalkacyo > Dagaari,Mudug,6.491,48.01
-5474, Somalia > Mudug > Gaalkacyo > Laaso Cadale,Mudug,6.491,48.01
+5470, Somalia > Mudug > Gaalkacyo > Gaalkacyo,Mudug,6.491,48.01
+5471, Somalia > Mudug > Gaalkacyo > Laaso Cadale,Mudug,6.491,48.01
+5472, Somalia > Mudug > Gaalkacyo > Sarjimaale,Mudug,6.491,48.01
+5473, Somalia > Mudug > Gaalkacyo > Carfuuda,Mudug,6.491,48.01
+5474, Somalia > Mudug > Gaalkacyo > Dagaari,Mudug,6.491,48.01
 5475, Somalia > Sool > Xudun > Xudun,Sool,8.724,47.529
 5476, Somalia > Sool > Xudun > Gorofley,Sool,8.724,47.529
 5477, Somalia > Sool > Xudun > Faraguul,Sool,8.724,47.529
@@ -8036,10 +8036,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7755,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Karm Homed,Aleppo,36.206013,37.15242
 7756,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Al-Ansari,Aleppo,36.206013,37.15242
 7757,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> As-Sukkari,Aleppo,36.206013,37.15242
-7758,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Jamiliyeh,Aleppo,36.206013,37.15242
-7759,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Fardos,Aleppo,36.206013,37.15242
-7760,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Midan,Aleppo,36.206013,37.15242
-7761,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Bayada,Aleppo,36.206013,37.15242
+7758,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Midan,Aleppo,36.206013,37.15242
+7759,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Jamiliyeh,Aleppo,36.206013,37.15242
+7760,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Bayada,Aleppo,36.206013,37.15242
+7761,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Fardos,Aleppo,36.206013,37.15242
 7762,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Bustan Az-Zahra,Aleppo,36.206013,37.15242
 7763,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Al-Ansari Mashhad,Aleppo,36.206013,37.15242
 7764,Aleppo -> Jebel Saman -> Jebel Saman -> Aleppo -> Al-Madina Old Souq,Aleppo,36.206013,37.15242
@@ -8142,77 +8142,77 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7860,Al-Hasakeh -> Quamishli -> Amuda -> Hettin Amuda,Al-Hasakeh,36.505375,40.742899
 7861,Al-Hasakeh -> Al-Hasakeh -> Al-Hasakeh -> Sofya,Al-Hasakeh,36.505375,40.742899
 7862,Al-Hasakeh -> Al-Hasakeh -> Al-Hasakeh -> Tal Majdal,Al-Hasakeh,36.505375,40.742899
-7863,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Tal Al-Jazireh,Al-Hasakeh,36.505375,40.742899
-7864,Deir-ez-Zor -> Al Mayadin -> Ashara -> Quriyeh,Deir-ez-Zor,35.331885,40.146071
-7865,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Um Elkeif,Al-Hasakeh,36.505375,40.742899
+7863,Deir-ez-Zor -> Al Mayadin -> Ashara -> Quriyeh,Deir-ez-Zor,35.331885,40.146071
+7864,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Tal Al-Jazireh,Al-Hasakeh,36.505375,40.742899
+7865,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Mrat,Deir-ez-Zor,35.331885,40.146071
 7866,Al-Hasakeh -> Al-Hasakeh -> Al-Hasakeh -> Tweineh,Al-Hasakeh,36.505375,40.742899
 7867,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Tal Hermez,Al-Hasakeh,36.505375,40.742899
-7868,Al-Hasakeh -> Al-Hasakeh -> Shadadah -> Adla,Al-Hasakeh,36.505375,40.742899
-7869,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Little Maghalla,Ar-Raqqa,35.953075,39.006062
+7868,Hama -> As-Suqaylabiyah -> Madiq Castle -> Aziziyeh,Hama,35.133742,36.761291
+7869,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Um Elkeif,Al-Hasakeh,36.505375,40.742899
 7870,Al-Hasakeh -> Al-Hasakeh -> Al-Hasakeh -> Tal Baydar Haskeh,Al-Hasakeh,36.505375,40.742899
 7871,Al-Hasakeh -> Ras Al Ain -> Ras Al Ain -> Abu Rasin,Al-Hasakeh,36.505375,40.742899
-7872,Hama -> As-Suqaylabiyah -> Madiq Castle -> Aziziyeh,Hama,35.133742,36.761291
-7873,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Sweida,Ar-Raqqa,35.953075,39.006062
+7872,Al-Hasakeh -> Al-Hasakeh -> Shadadah -> Adla,Al-Hasakeh,36.505375,40.742899
+7873,Hama -> Masyaf -> Jeb Ramleh -> Jeb Ramleh,Hama,35.133742,36.761291
 7874,Al-Hasakeh -> Al-Hasakeh -> Tal Tamer -> Tal Tamer,Al-Hasakeh,36.505375,40.742899
 7875,Al-Hasakeh -> Quamishli -> Qahtaniyyeh -> Qahtaniyyeh,Al-Hasakeh,36.505375,40.742899
-7876,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Khamisiyeh,Ar-Raqqa,35.953075,39.006062
-7877,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Zur Shummar,Ar-Raqqa,35.953075,39.006062
+7876,Hama -> Muhradah -> Muhradah -> Sifsafiyeh,Hama,35.133742,36.761291
+7877,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Little Maghalla,Ar-Raqqa,35.953075,39.006062
 7878,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Jaber,Ar-Raqqa,35.953075,39.006062
-7879,Hama -> Muhradah -> Muhradah -> Sifsafiyeh,Hama,35.133742,36.761291
-7880,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Atshana,Ar-Raqqa,35.953075,39.006062
-7881,Al-Hasakeh -> Quamishli -> Qahtaniyyeh -> Sofiyeh,Al-Hasakeh,36.505375,40.742899
-7882,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> Hiyalin,Hama,35.133742,36.761291
-7883,Al-Hasakeh -> Quamishli -> Qahtaniyyeh -> Tanuriyeh,Al-Hasakeh,36.505375,40.742899
-7884,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Mrat,Deir-ez-Zor,35.331885,40.146071
-7885,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Daama,Ar-Raqqa,35.953075,39.006062
-7886,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Big Maghalla,Ar-Raqqa,35.953075,39.006062
-7887,Deir-ez-Zor -> Al Mayadin -> Ashara -> Dablan,Deir-ez-Zor,35.331885,40.146071
-7888,Ar-Raqqa -> Ath-Thawrah -> Mansura -> Debsi Afnan,Ar-Raqqa,35.953075,39.006062
-7889,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Namisa,Ar-Raqqa,35.953075,39.006062
-7890,Hama -> Masyaf -> Jeb Ramleh -> Jeb Ramleh,Hama,35.133742,36.761291
-7891,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Zbara,Deir-ez-Zor,35.331885,40.146071
-7892,Deir-ez-Zor -> Deir-ez-Zor -> Deir-ez-Zor -> Baglieh (Deleted),Deir-ez-Zor,35.331885,40.146071
-7893,Deir-ez-Zor -> Al Mayadin -> Ashara -> Sbeikhan,Deir-ez-Zor,35.331885,40.146071
-7894,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Mathlum,Deir-ez-Zor,35.331885,40.146071
-7895,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> Ein Elkorum,Hama,35.133742,36.761291
-7896,Hama -> As-Suqaylabiyah -> Tell Salhib -> Tal Salhab,Hama,35.133742,36.761291
-7897,Hama -> As-Suqaylabiyah -> Tell Salhib -> Abu Faraj,Hama,35.133742,36.761291
-7898,Hama -> As-Suqaylabiyah -> Tell Salhib -> Asharneh,Hama,35.133742,36.761291
-7899,Hama -> Hama -> Suran -> Suran,Hama,35.133742,36.761291
-7900,Hama -> Hama -> Suran -> Maan,Hama,35.133742,36.761291
-7901,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Mahkan,Deir-ez-Zor,35.331885,40.146071
-7902,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Saalu,Deir-ez-Zor,35.331885,40.146071
-7903,Deir-ez-Zor -> Al Mayadin -> Ashara -> Dweir,Deir-ez-Zor,35.331885,40.146071
-7904,Hama -> Hama -> Suran -> Kawkab,Hama,35.133742,36.761291
-7905,Hama -> Hama -> Hama -> Hama,Hama,35.133742,36.761291
-7906,Hama -> Hama -> Hama -> Kafraa,Hama,35.133742,36.761291
-7907,Deir-ez-Zor -> Deir-ez-Zor -> Deir-ez-Zor -> Hwaijet Saker ,Deir-ez-Zor,35.331885,40.146071
-7908,Deir-ez-Zor -> Deir-ez-Zor -> Tabni -> Hawayej Thyab Shamiyeh,Deir-ez-Zor,35.331885,40.146071
-7909,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> As-Suqaylabiyah,Hama,35.133742,36.761291
-7910,Hama -> As-Suqaylabiyah -> Shat-ha -> Lower Shateha,Hama,35.133742,36.761291
-7911,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Khasham,Deir-ez-Zor,35.331885,40.146071
-7912,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Jabli,Ar-Raqqa,35.953075,39.006062
-7913,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Rahbi,Ar-Raqqa,35.953075,39.006062
-7914,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Lower Baqras,Deir-ez-Zor,35.331885,40.146071
-7915,Deir-ez-Zor -> Al Mayadin -> Ashara -> Tishrine,Deir-ez-Zor,35.331885,40.146071
-7916,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Tabiyet Jazira,Deir-ez-Zor,35.331885,40.146071
-7917,Hama -> As-Suqaylabiyah -> Madiq Castle -> Rasif,Hama,35.133742,36.761291
-7918,Hama -> Muhradah -> Muhradah -> Muhradah,Hama,35.133742,36.761291
-7919,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Tiba,Deir-ez-Zor,35.331885,40.146071
-7920,Deir-ez-Zor -> Al Mayadin -> Ashara -> Gharibeh,Deir-ez-Zor,35.331885,40.146071
-7921,Deir-ez-Zor -> Deir-ez-Zor -> Tabni -> Old Maadan,Deir-ez-Zor,35.331885,40.146071
-7922,Hama -> As-Suqaylabiyah -> Shat-ha -> Frikeh,Hama,35.133742,36.761291
+7879,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Khamisiyeh,Ar-Raqqa,35.953075,39.006062
+7880,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Sweida,Ar-Raqqa,35.953075,39.006062
+7881,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Atshana,Ar-Raqqa,35.953075,39.006062
+7882,Al-Hasakeh -> Quamishli -> Qahtaniyyeh -> Sofiyeh,Al-Hasakeh,36.505375,40.742899
+7883,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> Hiyalin,Hama,35.133742,36.761291
+7884,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Zur Shummar,Ar-Raqqa,35.953075,39.006062
+7885,Al-Hasakeh -> Quamishli -> Qahtaniyyeh -> Tanuriyeh,Al-Hasakeh,36.505375,40.742899
+7886,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Jabli,Ar-Raqqa,35.953075,39.006062
+7887,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Daama,Ar-Raqqa,35.953075,39.006062
+7888,Ar-Raqqa -> Ar-Raqqa -> Sabka -> Rahbi,Ar-Raqqa,35.953075,39.006062
+7889,Deir-ez-Zor -> Al Mayadin -> Ashara -> Dablan,Deir-ez-Zor,35.331885,40.146071
+7890,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Big Maghalla,Ar-Raqqa,35.953075,39.006062
+7891,Deir-ez-Zor -> Deir-ez-Zor -> Tabni -> Hawayej Thyab Shamiyeh,Deir-ez-Zor,35.331885,40.146071
+7892,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Lower Baqras,Deir-ez-Zor,35.331885,40.146071
+7893,Deir-ez-Zor -> Deir-ez-Zor -> Deir-ez-Zor -> Baglieh (Deleted),Deir-ez-Zor,35.331885,40.146071
+7894,Ar-Raqqa -> Ath-Thawrah -> Mansura -> Debsi Afnan,Ar-Raqqa,35.953075,39.006062
+7895,Deir-ez-Zor -> Al Mayadin -> Ashara -> Tishrine,Deir-ez-Zor,35.331885,40.146071
+7896,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Mathlum,Deir-ez-Zor,35.331885,40.146071
+7897,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Mahkan,Deir-ez-Zor,35.331885,40.146071
+7898,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> As-Suqaylabiyah,Hama,35.133742,36.761291
+7899,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Tabiyet Jazira,Deir-ez-Zor,35.331885,40.146071
+7900,Hama -> As-Suqaylabiyah -> Tell Salhib -> Tal Salhab,Hama,35.133742,36.761291
+7901,Ar-Raqqa -> Ar-Raqqa -> Maadan -> Namisa,Ar-Raqqa,35.953075,39.006062
+7902,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Zbara,Deir-ez-Zor,35.331885,40.146071
+7903,Hama -> As-Suqaylabiyah -> Madiq Castle -> Rasif,Hama,35.133742,36.761291
+7904,Hama -> As-Suqaylabiyah -> Shat-ha -> Lower Shateha,Hama,35.133742,36.761291
+7905,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Saalu,Deir-ez-Zor,35.331885,40.146071
+7906,Deir-ez-Zor -> Al Mayadin -> Ashara -> Sbeikhan,Deir-ez-Zor,35.331885,40.146071
+7907,Hama -> Muhradah -> Muhradah -> Muhradah,Hama,35.133742,36.761291
+7908,Deir-ez-Zor -> Deir-ez-Zor -> Khasham -> Khasham,Deir-ez-Zor,35.331885,40.146071
+7909,Hama -> As-Suqaylabiyah -> As-Suqaylabiyah -> Ein Elkorum,Hama,35.133742,36.761291
+7910,Deir-ez-Zor -> Al Mayadin -> Ashara -> Dweir,Deir-ez-Zor,35.331885,40.146071
+7911,Hama -> As-Suqaylabiyah -> Tell Salhib -> Abu Faraj,Hama,35.133742,36.761291
+7912,Deir-ez-Zor -> Al Mayadin -> Al Mayadin -> Tiba,Deir-ez-Zor,35.331885,40.146071
+7913,Hama -> As-Suqaylabiyah -> Tell Salhib -> Asharneh,Hama,35.133742,36.761291
+7914,Hama -> Hama -> Suran -> Kawkab,Hama,35.133742,36.761291
+7915,Hama -> Hama -> Suran -> Suran,Hama,35.133742,36.761291
+7916,Deir-ez-Zor -> Al Mayadin -> Ashara -> Gharibeh,Deir-ez-Zor,35.331885,40.146071
+7917,Hama -> Hama -> Suran -> Maan,Hama,35.133742,36.761291
+7918,Hama -> Hama -> Hama -> Hama,Hama,35.133742,36.761291
+7919,Deir-ez-Zor -> Deir-ez-Zor -> Tabni -> Old Maadan,Deir-ez-Zor,35.331885,40.146071
+7920,Hama -> Hama -> Hama -> Kafraa,Hama,35.133742,36.761291
+7921,Hama -> As-Suqaylabiyah -> Shat-ha -> Frikeh,Hama,35.133742,36.761291
+7922,Deir-ez-Zor -> Deir-ez-Zor -> Deir-ez-Zor -> Hwaijet Saker ,Deir-ez-Zor,35.331885,40.146071
 7923,Deir-ez-Zor -> Deir-ez-Zor -> Deir-ez-Zor -> Husseinieh (Archived),Deir-ez-Zor,35.331885,40.146071
 7924,Hama -> Hama -> Suran -> Tiba Elemam,Hama,35.133742,36.761291
 7925,Hama -> Muhradah -> Muhradah -> Halfaya,Hama,35.133742,36.761291
 7926,Rural Damascus -> Duma -> Nashabiyeh -> Deir Salman,Rural Damascus,33.324514,36.216111
 7927,Rural Damascus -> Rural Damascus -> Arbin -> Zamalka,Rural Damascus,33.324514,36.216111
 7928,Rural Damascus -> Rural Damascus -> Kafr Batna,Rural Damascus,33.324514,36.216111
+7929,Rural Damascus -> Duma -> Harasta,Rural Damascus,33.324514,36.216111
 3064,Rural Damascus -> Rural Damascus -> Kafr Batna -> Saqba,Rural Damascus,33.324514,36.216111
-7929,Rural Damascus -> Duma -> Duma,Rural Damascus,33.324514,36.216111
-7930,Rural Damascus -> Duma -> Harasta,Rural Damascus,33.324514,36.216111
-7931,Rural Damascus -> Rural Damascus -> Arbin -> Arbin,Rural Damascus,33.324514,36.216111
-7932,Rural Damascus -> Rural Damascus -> Maliha -> Deir Elasafir,Rural Damascus,33.324514,36.216111
+7930,Rural Damascus -> Rural Damascus -> Maliha -> Deir Elasafir,Rural Damascus,33.324514,36.216111
+7931,Rural Damascus -> Duma -> Duma,Rural Damascus,33.324514,36.216111
+7932,Rural Damascus -> Rural Damascus -> Arbin -> Arbin,Rural Damascus,33.324514,36.216111
 7933,Aleppo -> A'zaz,Aleppo,36.206013,37.15242
 7934,Rural Damascus -> Rural Damascus -> Babella -> Babella,Rural Damascus,33.324514,36.216111
 7935,Damascus -> Damascus -> Damascus -> Yarmuk,Damascus,33.517175,36.27671
@@ -10271,9 +10271,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 9983, Aleppo  > Al Bab  > Al Bab  > Qabasin ,Aleppo ,36.206013,37.15242
 9984, Aleppo  > Afrin  > Sharan  > Deir Siwan ,Aleppo ,36.206013,37.15242
 9985, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Kafr Karmin ,Aleppo ,36.206013,37.15242
-9986, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Maaret Atarib ,Aleppo ,36.206013,37.15242
-9987, Aleppo  > Afrin  > Sharan  > Kafr Janna ,Aleppo ,36.206013,37.15242
-9988, Aleppo  > Al Bab  > Al Bab  > Al Bab ,Aleppo ,36.206013,37.15242
+9986, Aleppo  > Al Bab  > Al Bab  > Al Bab ,Aleppo ,36.206013,37.15242
+9987, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Maaret Atarib ,Aleppo ,36.206013,37.15242
+9988, Aleppo  > Afrin  > Sharan  > Kafr Janna ,Aleppo ,36.206013,37.15242
 9989, Idleb  > Idleb ,Idleb ,35.929008,36.635276
 9990, Aleppo  > Jarablus ,Aleppo ,36.206013,37.15242
 9991, Aleppo  > Afrin ,Aleppo ,36.206013,37.15242
@@ -12196,16 +12196,16 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11886,Taizz -> Al  Mukha -> Thabab,Taizz,13.39753802,43.68772167
 11887,Lahj -> Tuban -> Al-Mekhshabah,Lahj,12.96593663,44.41733354
 11888,Taizz -> Al Ma'afer -> Al-Anyah,Taizz,13.39753802,43.68772167
-11889,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
+11889,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
 11890,Taizz -> Mawza -> Al-Hameidi,Taizz,13.39753802,43.68772167
-11891,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
+11891,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
 11892,Taizz -> Al  Mukha -> Al-Arjoush,Taizz,13.39753802,43.68772167
-11893,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
-11894,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
-11895,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
-11896,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
-11897,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
-11898,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
+11893,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
+11894,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
+11895,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
+11896,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
+11897,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
+11898,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
 11899,Abyan -> Jayshan,Abyan,13.6955485,46.50340692
 11900,Al Bayda -> Al A'rsh,Al Bayda,14.21742373,45.55495025
 11901,Aden -> Ash Shaikh Outhman,Aden,12.84865928,45.00201169
@@ -12351,11 +12351,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12041,Al Hudaydah -> Al Mighlaf -> Gheyan,Al Hudaydah,15.00062889,43.04031959
 12042,Taizz -> Dhubab,Taizz,13.39753802,43.68772167
 12043,Lahj -> Tur Al Bahah -> Al-Fareeq,Lahj,12.96593663,44.41733354
-12044,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
-12045,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
-12046,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
-12047,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
-12048,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
+12044,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
+12045,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
+12046,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
+12047,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
+12048,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
 12049,Abyan -> Mudiyah -> Qarn Al-Washal,Abyan,13.6955485,46.50340692
 12050,Abyan -> Mudiyah -> Lahmar,Abyan,13.6955485,46.50340692
 12051,Abyan -> Mudiyah -> Al-Aber,Abyan,13.6955485,46.50340692
@@ -12590,16 +12590,16 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12280, Al Bayda > Maswarah,Al Bayda,14.21742373,45.55495025
 12281, Hadramaut > Al Abr,Hadramaut,16.80924424,48.84638589
 12282, Amran > Maswar,Amran,16.3570904,43.87269369
-12283, Amran > Suwayr,Amran,16.3570904,43.87269369
-12284, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
-12285, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
+12283, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
+12284, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
+12285, Amran > Suwayr,Amran,16.3570904,43.87269369
 12286, Sa'ada > Baqim,Sa'ada,17.25112185,43.50274965
-12287, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
-12288, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
-12289, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
-12290, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
-12291, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
-12292, Taizz > Dhubab,Taizz,13.39753802,43.68772167
+12287, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
+12288, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
+12289, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
+12290, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
+12291, Taizz > Dhubab,Taizz,13.39753802,43.68772167
+12292, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
 12293, Al Jawf > Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
 12294, Al Jawf > Al Maton,Al Jawf,16.76813934,46.01014819
 12295, Marib > Harib,Marib,15.56841151,45.76081505
@@ -12741,8 +12741,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12431, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
 12432, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
 12433, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
-12434, Marib > Majzar,Marib,15.56841151,45.76081505
-12435, Marib > Medghal,Marib,15.56841151,45.76081505
+12434, Marib > Medghal,Marib,15.56841151,45.76081505
+12435, Marib > Majzar,Marib,15.56841151,45.76081505
 12436, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
 12437, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
 12438, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
@@ -12778,12 +12778,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12468, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12469, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
 12470, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12471, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12472, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12473, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12474, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-12475, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12476, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12471, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12472, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12473, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12474, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12475, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12476, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
 12477, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
 12478, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
 12479, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
