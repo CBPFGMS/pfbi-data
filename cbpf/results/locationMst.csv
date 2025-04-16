@@ -4385,10 +4385,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4104, Myanmar > Sagaing > Monywa > Budalin,Sagaing,21.5,95.6167
 4105, Magway > Pakokku > Seikphyu,Magway,20.25,94.75
 4106, Niger > Tillabéri > Ouallam > Ouallam,Tillabéri,14.187017,2.191618
-4107, Niger > Tillabéri > Ayerou > Ayerou,Tillabéri,14.187017,2.191618
-4108, Niger > Tillabéri > Ayerou > Inatès,Tillabéri,14.187017,2.191618
-4109, Niger > Tillabéri > Ouallam > Tondikiwindi,Tillabéri,14.187017,2.191618
-4110, Niger > Tillabéri > Téra > Téra,Tillabéri,14.187017,2.191618
+4107, Niger > Tillabéri > Téra > Téra,Tillabéri,14.187017,2.191618
+4108, Niger > Tillabéri > Ayerou > Ayerou,Tillabéri,14.187017,2.191618
+4109, Niger > Tillabéri > Ayerou > Inatès,Tillabéri,14.187017,2.191618
+4110, Niger > Tillabéri > Ouallam > Tondikiwindi,Tillabéri,14.187017,2.191618
 4111, Niger > Diffa > Diffa ville > Gueskérou,Diffa,15.865877,13.217075
 4112, Tillabéri > Torodi,Tillabéri,14.187017,2.191618
 4113, Tillabéri > Ouallam,Tillabéri,14.187017,2.191618
@@ -12781,11 +12781,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12471, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
 12472, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
 12473, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12474, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12475, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12474, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12475, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
 12476, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-12477, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12478, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12477, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12478, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
 12479, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
 12480, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 12481, Shabwah > Habban,Shabwah,14.67178974,46.95556076
