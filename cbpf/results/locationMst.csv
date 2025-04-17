@@ -4780,15 +4780,15 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4499, oPt > West Bank > Jericho > Fasayil al Fauqa,West Bank,31.985981,35.299947
 4500, oPt > West Bank > Nablus > Al Lubban ash Sharqiya,West Bank,31.985981,35.299947
 4501, oPt > Gaza Strip > Khan Yunis > Qa' al Qurein,Gaza Strip,31.356442,34.327047
-4502, oPt > Gaza Strip > Gaza North > Arab Maslakh Beit Lahya,Gaza Strip,31.356442,34.327047
-4503, oPt > Gaza Strip > Khan Yunis > Qizan an Najjar,Gaza Strip,31.356442,34.327047
-4504, oPt > Gaza Strip > Khan Yunis > Umm Kameil,Gaza Strip,31.356442,34.327047
-4505, oPt > Gaza Strip > Khan Yunis > Umm al Kilab,Gaza Strip,31.356442,34.327047
-4506, oPt > Gaza Strip > Khan Yunis > Qa' al Kharaba,Gaza Strip,31.356442,34.327047
-4507, oPt > West Bank > Jericho > An Nuwei'ma,West Bank,31.985981,35.299947
-4508, oPt > West Bank > Nablus > Yanun,West Bank,31.985981,35.299947
-4509, oPt > West Bank > Jericho > Al 'Auja,West Bank,31.985981,35.299947
-4510, oPt > West Bank > Jericho > Fasayil,West Bank,31.985981,35.299947
+4502, oPt > Gaza Strip > Khan Yunis > Qa' al Kharaba,Gaza Strip,31.356442,34.327047
+4503, oPt > Gaza Strip > Gaza North > Arab Maslakh Beit Lahya,Gaza Strip,31.356442,34.327047
+4504, oPt > Gaza Strip > Khan Yunis > Qizan an Najjar,Gaza Strip,31.356442,34.327047
+4505, oPt > Gaza Strip > Khan Yunis > Umm Kameil,Gaza Strip,31.356442,34.327047
+4506, oPt > Gaza Strip > Khan Yunis > Umm al Kilab,Gaza Strip,31.356442,34.327047
+4507, oPt > West Bank > Nablus > Yanun,West Bank,31.985981,35.299947
+4508, oPt > West Bank > Jericho > An Nuwei'ma,West Bank,31.985981,35.299947
+4509, oPt > West Bank > Jericho > Fasayil,West Bank,31.985981,35.299947
+4510, oPt > West Bank > Jericho > Al 'Auja,West Bank,31.985981,35.299947
 4511, oPt > West Bank > Jericho > Az Zubeidat,West Bank,31.985981,35.299947
 4512, oPt > West Bank > Jericho > Marj al Ghazal,West Bank,31.985981,35.299947
 4513, oPt > West Bank > Jericho > Jericho,West Bank,31.985981,35.299947
@@ -9391,11 +9391,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 9103, Syria Cross border > Idleb > Jisr-Ash-Shugur > Jisr-Ash-Shugur,Idleb,35.929008,36.635276
 9104, Syria Cross border > Idleb > Idleb > Idleb,Idleb,35.929008,36.635276
 9105, Syria Cross border > Aleppo > Al Bab > A'rima > Sunbula - Saboyran,Aleppo,36.206013,37.15242
-9106, Syria Cross border > Idleb > Idleb > Maaret Tamsrin > Ram Hamdan,Idleb,35.929008,36.635276
-9107, Syria Cross border > Aleppo > Al Bab > A'rima > Um Adae Ajami,Aleppo,36.206013,37.15242
-9108, Syria Cross border > Aleppo > Al Bab > A'rima > Big Sukariyeh,Aleppo,36.206013,37.15242
-9109, Syria Cross border > Aleppo > Al Bab > A'rima > Jeb Naassan,Aleppo,36.206013,37.15242
-9110, Syria Cross border > Aleppo > Al Bab > A'rima > Barshaya,Aleppo,36.206013,37.15242
+9106, Syria Cross border > Aleppo > Al Bab > A'rima > Jeb Naassan,Aleppo,36.206013,37.15242
+9107, Syria Cross border > Aleppo > Al Bab > A'rima > Big Sukariyeh,Aleppo,36.206013,37.15242
+9108, Syria Cross border > Aleppo > Al Bab > A'rima > Um Adae Ajami,Aleppo,36.206013,37.15242
+9109, Syria Cross border > Aleppo > Al Bab > A'rima > Barshaya,Aleppo,36.206013,37.15242
+9110, Syria Cross border > Idleb > Idleb > Maaret Tamsrin > Ram Hamdan,Idleb,35.929008,36.635276
 9111, Syria Cross border > Aleppo > Al Bab > A'rima > Shdar,Aleppo,36.206013,37.15242
 9112, Syria Cross border > Aleppo > Al Bab > A'rima > Jeb Eldam Elbab,Aleppo,36.206013,37.15242
 9113, Syria Cross border > Aleppo > Al Bab > A'rima > Zamka,Aleppo,36.206013,37.15242
@@ -12723,9 +12723,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12413, Aden > Craiter,Aden,12.84865928,45.00201169
 12414, Aden > Al Mualla,Aden,12.84865928,45.00201169
 12415, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-12416, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
-12417, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-12418, Marib > Raghwan,Marib,15.56841151,45.76081505
+12416, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+12417, Marib > Raghwan,Marib,15.56841151,45.76081505
+12418, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
 12419, Lahj > Halimayn,Lahj,12.96593663,44.41733354
 12420, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
 12421, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
@@ -12779,17 +12779,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12469, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12470, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
 12471, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12472, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12473, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12474, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12475, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-12476, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12477, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12478, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12479, Shabwah > Habban,Shabwah,14.67178974,46.95556076
-12480, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12481, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-12482, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12472, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12473, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12474, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12475, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12476, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12477, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12478, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12479, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+12480, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12481, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12482, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12483, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12484, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 12485, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
@@ -12797,8 +12797,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12487, Marib > Bidbadah,Marib,15.56841151,45.76081505
 12488, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 12489, Marib > Mahliyah,Marib,15.56841151,45.76081505
-12490, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-12491, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+12490, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+12491, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
 12492, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 12493, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 12494, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
@@ -12823,8 +12823,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12513, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
 12514, Al Bayda > Na'man,Al Bayda,14.21742373,45.55495025
 12515, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
-12516, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-12517, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12516, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12517, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
 12518, Hajjah > Aslem > Al-Waset,Hajjah,16.27488061,43.11225315
 12519, Sa'ada > Al Dhaher > Baitah,Sa'ada,17.25112185,43.50274965
 12520, Sa'ada > Al Dhaher > Al-Qaoud,Sa'ada,17.25112185,43.50274965
