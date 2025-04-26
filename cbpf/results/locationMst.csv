@@ -12824,17 +12824,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12514, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 12515, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12516, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-12517, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12518, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12519, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12520, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12517, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+12518, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12519, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12520, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
 12521, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
 12522, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12523, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12524, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-12525, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12526, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12527, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12523, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12524, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+12525, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12526, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12527, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 12528, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12529, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12530, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
@@ -12869,8 +12869,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12559, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
 12560, Al Bayda > Na'man,Al Bayda,14.21742373,45.55495025
 12561, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
-12562, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-12563, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12562, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+12563, Yemen > Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
 12564, Hajjah > Aslem > Al-Waset,Hajjah,16.27488061,43.11225315
 12565, Sa'ada > Al Dhaher > Baitah,Sa'ada,17.25112185,43.50274965
 12566, Sa'ada > Al Dhaher > Al-Qaoud,Sa'ada,17.25112185,43.50274965
