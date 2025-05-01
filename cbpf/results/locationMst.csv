@@ -1646,8 +1646,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1644, Ethiopia > Tigray > North Western > Selekleka,Tigray,13.79437533,39.1047303
 1645, Ethiopia > Tigray > North Western > Asgede,Tigray,13.79437533,39.1047303
 1646, Ethiopia > Tigray > Central > Axum town,Tigray,13.79437533,39.1047303
-1647,Somali -> Afder -> Hargele,Somali,6.93277841,43.32988331
-1648,Somali -> Afder -> Chereti/Weyib,Somali,6.93277841,43.32988331
+1647,Somali -> Afder -> Chereti/Weyib,Somali,6.93277841,43.32988331
+1648,Somali -> Afder -> Hargele,Somali,6.93277841,43.32988331
 1649,Somali -> Afder -> Serer/Elkere,Somali,6.93277841,43.32988331
 1650,Somali -> Korahe -> Shilabo,Somali,6.93277841,43.32988331
 1651,Somali -> Korahe -> Kebridehar,Somali,6.93277841,43.32988331
@@ -1924,9 +1924,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1922,Dire Dawa -> Dire Dawa -> Dire Dawa/Town,Dire Dawa,9.60626919,42.00302689
 1923,Addis Ababa -> Bole -> Bole,Addis Ababa,8.980483,38.78553835
 1924,Afar -> Zone 1,Afar,12.03644506,40.77273541
-1925,Oromia -> Guji -> Gumi Eldalo,Oromia,7.50798643,38.7652127
-1926,Oromia -> Guji -> Saba Boru,Oromia,7.50798643,38.7652127
-1927,SNNPR -> Gamo Gofa -> Zala,SNNPR,6.46580872,36.80646946
+1925,SNNPR -> Gamo Gofa -> Zala,SNNPR,6.46580872,36.80646946
+1926,Oromia -> Guji -> Gumi Eldalo,Oromia,7.50798643,38.7652127
+1927,Oromia -> Guji -> Saba Boru,Oromia,7.50798643,38.7652127
 1928,Oromia -> Guji -> Aga Wayu,Oromia,7.50798643,38.7652127
 1929,Somali -> Nogob -> Selahad,Somali,6.93277841,43.32988331
 1930,Somali -> Nogob -> Lagahida,Somali,6.93277841,43.32988331
@@ -2071,10 +2071,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2069, Oromia > East Hararge > Kurfa Chele,Oromia,7.50798643,38.7652127
 2070, Somali > Fafan > Kebribeyah,Somali,6.93277841,43.32988331
 2071, Somali > Jarar > Degehabur,Somali,6.93277841,43.32988331
-2072, Somali > Fafan > Tuliguled,Somali,6.93277841,43.32988331
-2073, Somali > Doolo > Danod,Somali,6.93277841,43.32988331
-2074, Somali > Shabelle > Berocano,Somali,6.93277841,43.32988331
-2075, Somali > Fafan > Gursum (Somali),Somali,6.93277841,43.32988331
+2072, Somali > Doolo > Danod,Somali,6.93277841,43.32988331
+2073, Somali > Fafan > Tuliguled,Somali,6.93277841,43.32988331
+2074, Somali > Fafan > Gursum (Somali),Somali,6.93277841,43.32988331
+2075, Somali > Shabelle > Berocano,Somali,6.93277841,43.32988331
 2076, Amhara > North Gondar > Telemt,Amhara,11.56495248,38.04353615
 2077, Amhara > Wag Hamra > Abergele,Amhara,11.56495248,38.04353615
 2078, Amhara > North Gondar > Beyeda,Amhara,11.56495248,38.04353615
@@ -2387,7 +2387,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2328, Somali > Shabelle > Ferfer,Somali,6.92946999,43.32903576
 2037, Somali > Shabelle > Kelafo,Somali,6.92946999,43.32903576
 2329, Somali > Korahe > Goglo,Somali,6.92946999,43.32903576
-2072, Somali > Fafan > Tuliguled,Somali,6.92946999,43.32903576
+2073, Somali > Fafan > Tuliguled,Somali,6.92946999,43.32903576
 2330, Somali > Afder > Charati,Somali,6.92946999,43.32903576
 2008, Somali > Shabelle > Adadle,Somali,6.92946999,43.32903576
 2331, Somali > Korahe > Higloley,Somali,6.92946999,43.32903576
@@ -2453,7 +2453,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2085, Oromia > East Hararge > Girawa,Oromia,7.50805539,38.76512402
 2084, Oromia > East Hararge > Bedeno,Oromia,7.50805539,38.76512402
 2165, Oromia > Borena > Miyo,Oromia,7.50805539,38.76512402
-2075, Somali > Fafan > Gursum (Somali),Somali,6.92946999,43.32903576
+2074, Somali > Fafan > Gursum (Somali),Somali,6.92946999,43.32903576
 2144, Somali > Shabelle > Danan,Somali,6.92946999,43.32903576
 2095, Somali > Liban > Goro Baqaqsa,Somali,6.92946999,43.32903576
 2189, Somali > Afder > Barey,Somali,6.92946999,43.32903576
@@ -2675,16 +2675,16 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2502, Tigray > Eastern > Adigrat town,Tigray,13.77711683,38.43867474
 2503, Amhara > Awi > Chagni town,Amhara,11.56495271,38.04353749
 2504, Oromia > East Wellega > Wayu Tuka,Oromia,7.50805539,38.76512402
-2505, SNNP > Amaro > Amaro,SNNP,6.4523204,36.69125228
-2506, SNNP > Derashe > Derashe Special,SNNP,6.4523204,36.69125228
-2507, Oromia > East Wellega > Sibu Sire,Oromia,7.50805539,38.76512402
+2505, Oromia > West Hararge > Tulo (OR),Oromia,7.50805539,38.76512402
+2506, SNNP > Amaro > Amaro,SNNP,6.4523204,36.69125228
+2507, SNNP > Derashe > Derashe Special,SNNP,6.4523204,36.69125228
 2508, SNNP > Konso > Segen Zuria,SNNP,6.4523204,36.69125228
 2509, Somali > Fafan > Babile (SM),Somali,6.92946999,43.32903576
-2510, SNNP > Konso > Karat Zuria,SNNP,6.4523204,36.69125228
+2510, Oromia > East Wellega > Sibu Sire,Oromia,7.50805539,38.76512402
+2511, SNNP > Konso > Karat Zuria,SNNP,6.4523204,36.69125228
 2068, Oromia > West Wellega > Kiltu Kara,Oromia,7.50805539,38.76512402
-2511, Oromia > West Hararge > Tulo (OR),Oromia,7.50805539,38.76512402
-2512, Tigray > Central > Adwa town,Tigray,13.77711683,38.43867474
-2513, Tigray > Eastern > Wukro town,Tigray,13.77711683,38.43867474
+2512, Tigray > Eastern > Wukro town,Tigray,13.77711683,38.43867474
+2513, Tigray > Central > Adwa town,Tigray,13.77711683,38.43867474
 2514, Somali > Daawa > Moyale (SM),Somali,6.92946999,43.32903576
 2515, Amhara > Awi > Guangua,Amhara,11.56495271,38.04353749
 2516, Tigray > Eastern > Saesie,Tigray,13.77711683,38.43867474
@@ -2765,8 +2765,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2123, Benishangul Gumz > Asosa > Assosa,Benishangul Gumz,10.50292407,35.44030741
 2573, Somali > Nogob > Sagag,Somali,6.92946999,43.32903576
 2574, Dire Dawa > Dire Dawa rural > Aseliso,Dire Dawa,9.60626922,42.00302692
-2575, Amhara > Awi > Ankasha,Amhara,11.56495271,38.04353749
-2576, Sidama > Sidama > Aleta Chuko,Sidama,6.66415957,38.54573866
+2575, Sidama > Sidama > Aleta Chuko,Sidama,6.66415957,38.54573866
+2576, Amhara > Awi > Ankasha,Amhara,11.56495271,38.04353749
 2577, Oromia > Arsi > Amigna,Oromia,7.50805539,38.76512402
 2578, Oromia > West Wellega > Begi,Oromia,7.50805539,38.76512402
 2579, Oromia > West Wellega > Gudetu Kondole,Oromia,7.50805539,38.76512402
@@ -2795,9 +2795,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2593, SNNP > Gofa > Uba Debre Tsehay,SNNP,5.92715271,37.23485443
 2061, Oromia > West Guji > Suro Berguda,Oromia,7.52471684,40.76594682
 1997, Oromia > West Guji > Dugda Dawa,Oromia,7.52471684,40.76594682
-2505, SNNP > Amaro > Amaro,SNNP,5.92715271,37.23485443
+2506, SNNP > Amaro > Amaro,SNNP,5.92715271,37.23485443
 2363, SNNP > Alle > Alle Special,SNNP,5.92715271,37.23485443
-2510, SNNP > Konso > Karat Zuria,SNNP,5.92715271,37.23485443
+2511, SNNP > Konso > Karat Zuria,SNNP,5.92715271,37.23485443
 2285, SNNP > South Omo > Bena Tsemay,SNNP,5.92715271,37.23485443
 2594, SNNP > South Omo > Malie,SNNP,5.92715271,37.23485443
 2486, SNNP > South Omo > Dasenech /Kuraz,SNNP,5.92715271,37.23485443
@@ -2857,7 +2857,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 2610, Ethiopia > Tigray > North Western > Seyemti Adyabo,Tigray,13.79437533,39.1047303
 2428, Tigray > Eastern > Freweyni town,Tigray,13.79437533,39.1047303
 2414, Tigray > North Western > Indasilassie town,Tigray,13.79437533,39.1047303
-2513, Tigray > Eastern > Wukro town,Tigray,13.79437533,39.1047303
+2512, Tigray > Eastern > Wukro town,Tigray,13.79437533,39.1047303
 2611, Ethiopia > Tigray > North Western > Endabaguna town,Tigray,13.79437533,39.1047303
 2502, Tigray > Eastern > Adigrat town,Tigray,13.79437533,39.1047303
 2612, Ethiopia > Tigray > Mekelle > Mekelle,Tigray,13.79437533,39.1047303
@@ -3957,32 +3957,32 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3676, Baalbek El Hermel > Baalbek > Chaat,Baalbek El Hermel,34.398038,36.387342
 3677, Beirut > Beirut > Zoqaq el Blat,Beirut,33.8869,35.5131
 3678, Mount Lebanon > Kesrwane > Haret Sakher,Mount Lebanon,33.8333,35.5333
-3679, Beirut > Beirut > Basta Tahta,Beirut,33.8869,35.5131
-3680, South > Saida > Merouaniye,South,33.55,35.3833
+3679, Baalbek El Hermel > Baalbek > Saaide,Baalbek El Hermel,34.398038,36.387342
+3680, Beirut > Beirut > Basta Tahta,Beirut,33.8869,35.5131
 3681, Beirut > Beirut > Basta Faouka,Beirut,33.8869,35.5131
 3682, Mount Lebanon > Kesrwane > Bouar,Mount Lebanon,33.8333,35.5333
 3683, Mount Lebanon > Kesrwane > Raifoun,Mount Lebanon,33.8333,35.5333
-3684, South > Saida > Saksakiye,South,33.55,35.3833
+3684, Baalbek El Hermel > Baalbek > Tamnine El Faouqa,Baalbek El Hermel,34.398038,36.387342
 3685, Mount Lebanon > Kesrwane > Kfour,Mount Lebanon,33.8333,35.5333
 3686, Beirut > Beirut > Ras El Nabaa,Beirut,33.8869,35.5131
-3687, Mount Lebanon > Kesrwane > Zouq Mkayel,Mount Lebanon,33.8333,35.5333
-3688, Akkar > Akkar > Sammouniye,Akkar,34.5506,36.0781
+3687, South > Saida > Merouaniye,South,33.55,35.3833
+3688, Mount Lebanon > Kesrwane > Zouq Mkayel,Mount Lebanon,33.8333,35.5333
 3689, Mount Lebanon > Kesrwane > Safra kesrwane,Mount Lebanon,33.8333,35.5333
 3690, South > Saida > Aaddoussiye,South,33.55,35.3833
-3691, Mount Lebanon > Kesrwane > Sarba,Mount Lebanon,33.8333,35.5333
-3692, South > Saida > Babliye,South,33.55,35.3833
+3691, South > Saida > Saksakiye,South,33.55,35.3833
+3692, Mount Lebanon > Kesrwane > Sarba,Mount Lebanon,33.8333,35.5333
 3693, Mount Lebanon > Kesrwane > Sahel Aalma,Mount Lebanon,33.8333,35.5333
-3694, South > Saida > Zrariye,South,33.55,35.3833
-3695, Baalbek El Hermel > Baalbek > Beit Chama,Baalbek El Hermel,34.398038,36.387342
-3696, Baalbek El Hermel > Baalbek > Saaide,Baalbek El Hermel,34.398038,36.387342
-3697, Akkar > Akkar > Tal Meaayan,Akkar,34.5506,36.0781
-3698, Beirut > Beirut > Medouar,Beirut,33.8869,35.5131
-3699, Baalbek El Hermel > Baalbek > Tamnine El Faouqa,Baalbek El Hermel,34.398038,36.387342
-3700, Akkar > Akkar > Aamara,Akkar,34.5506,36.0781
-3701, Beirut > Beirut > El Zarif,Beirut,33.8869,35.5131
-3702, Baalbek El Hermel > Baalbek > Laboue,Baalbek El Hermel,34.398038,36.387342
-3703, Akkar > Akkar > Kawashra,Akkar,34.5506,36.0781
-3704, Mount Lebanon > Kesrwane > Tabarja,Mount Lebanon,33.8333,35.5333
+3694, South > Saida > Babliye,South,33.55,35.3833
+3695, South > Saida > Zrariye,South,33.55,35.3833
+3696, Beirut > Beirut > El Zarif,Beirut,33.8869,35.5131
+3697, Akkar > Akkar > Sammouniye,Akkar,34.5506,36.0781
+3698, Akkar > Akkar > Tal Meaayan,Akkar,34.5506,36.0781
+3699, Baalbek El Hermel > Baalbek > Beit Chama,Baalbek El Hermel,34.398038,36.387342
+3700, Beirut > Beirut > Medouar,Beirut,33.8869,35.5131
+3701, Mount Lebanon > Kesrwane > Tabarja,Mount Lebanon,33.8333,35.5333
+3702, Akkar > Akkar > Aamara,Akkar,34.5506,36.0781
+3703, Baalbek El Hermel > Baalbek > Laboue,Baalbek El Hermel,34.398038,36.387342
+3704, Akkar > Akkar > Kawashra,Akkar,34.5506,36.0781
 3705, South > Saida > Aadloun,South,33.55,35.3833
 3706, South > Saida > Toufahta,South,33.55,35.3833
 3707, Mount Lebanon > Baabda > Boutchai,Mount Lebanon,33.8333,35.5333
@@ -4103,20 +4103,20 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3822,Kachin -> Myitkyina -> Waingmaw -> Gang Dau Yang -> Gang Dau Yang,Kachin,26.0,97.5
 3823,Kachin -> Bhamo -> Mansi -> Maing Khaung -> Maing Khaung,Kachin,26.0,97.5
 3824,Kachin -> Myitkyina -> Injangyang,Kachin,26.0,97.5
-3825,Shan (North) -> Muse -> Muse -> Man Nway (Pang Hseng (Kyu Koke)) Sub-township -> Nam Hkawng Khu,Shan (North),23.502854,98.141989
-3826,Kachin -> Myitkyina -> Waingmaw -> Ma Ga Ran Yang,Kachin,26.0,97.5
-3827,Kachin -> Myitkyina -> Chipwi -> Zan Nawng -> Zan Nawng,Kachin,26.0,97.5
-3828,Kachin -> Bhamo -> Shwegu -> Pan Khun Yang (Myo Hla Sub-township) -> Pan Khun Yang,Kachin,26.0,97.5
-3829,Kachin -> Bhamo -> Bhamo -> Man Khun -> Man Khun,Kachin,26.0,97.5
-3830,Kachin -> Myitkyina -> Myitkyina -> Man Kin (Sinbo Sub-township) -> Man Kin,Kachin,26.0,97.5
-3831,Kachin -> Myitkyina -> Waingmaw -> Gang Dau Yang -> Ma Li Yang,Kachin,26.0,97.5
-3832,Shan (North) -> Muse -> Muse -> Mone Yu Tit Yar Ngar Maing -> Mone Yu Tit Yar Ngar Maing,Shan (North),23.502854,98.141989
-3833,Kachin -> Bhamo -> Momauk -> Myo Thit -> Myo Thit,Kachin,26.0,97.5
-3834,Kachin -> Bhamo -> Mansi -> Man Wein -> Man Wein,Kachin,26.0,97.5
-3835,Kachin -> Myitkyina,Kachin,26.0,97.5
-3836,Kachin,Kachin,26.0,97.5
-3837,Shan (North) -> Laukkaing (Kokang SAZ),Shan (North),23.502854,98.141989
-3838,Shan (North),Shan (North),23.502854,98.141989
+3825,Kachin -> Myitkyina -> Waingmaw -> Ma Ga Ran Yang,Kachin,26.0,97.5
+3826,Shan (North) -> Muse -> Muse -> Man Nway (Pang Hseng (Kyu Koke)) Sub-township -> Nam Hkawng Khu,Shan (North),23.502854,98.141989
+3827,Kachin -> Bhamo -> Bhamo -> Man Khun -> Man Khun,Kachin,26.0,97.5
+3828,Kachin -> Myitkyina -> Myitkyina -> Man Kin (Sinbo Sub-township) -> Man Kin,Kachin,26.0,97.5
+3829,Kachin -> Myitkyina -> Chipwi -> Zan Nawng -> Zan Nawng,Kachin,26.0,97.5
+3830,Shan (North) -> Muse -> Muse -> Mone Yu Tit Yar Ngar Maing -> Mone Yu Tit Yar Ngar Maing,Shan (North),23.502854,98.141989
+3831,Kachin -> Bhamo -> Momauk -> Myo Thit -> Myo Thit,Kachin,26.0,97.5
+3832,Kachin -> Bhamo -> Mansi -> Man Wein -> Man Wein,Kachin,26.0,97.5
+3833,Kachin -> Myitkyina -> Waingmaw -> Gang Dau Yang -> Ma Li Yang,Kachin,26.0,97.5
+3834,Kachin -> Bhamo -> Shwegu -> Pan Khun Yang (Myo Hla Sub-township) -> Pan Khun Yang,Kachin,26.0,97.5
+3835,Shan (North) -> Laukkaing (Kokang SAZ),Shan (North),23.502854,98.141989
+3836,Shan (North),Shan (North),23.502854,98.141989
+3837,Kachin -> Myitkyina,Kachin,26.0,97.5
+3838,Kachin,Kachin,26.0,97.5
 3839,Shan (North) -> Kyaukme,Shan (North),23.502854,98.141989
 3840,Kachin -> Bhamo,Kachin,26.0,97.5
 3841,Kachin -> Myitkyina -> Myitkyina,Kachin,26.0,97.5
@@ -4124,14 +4124,14 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3843,Kachin -> Myitkyina -> Waingmaw,Kachin,26.0,97.5
 3844,Shan (North) -> Lashio -> Hseni,Shan (North),23.502854,98.141989
 3845,Shan (North) -> Lashio -> Lashio,Shan (North),23.502854,98.141989
-3846,Shan (North) -> Muse -> Muse,Shan (North),23.502854,98.141989
+3846,Shan (North) -> Kyaukme -> Kyaukme,Shan (North),23.502854,98.141989
 3847,Shan (North) -> Kyaukme -> Manton,Shan (North),23.502854,98.141989
 3848,Shan (North) -> Lashio -> Mongyai,Shan (North),23.502854,98.141989
 3849,Shan (North) -> Kyaukme -> Namhsan,Shan (North),23.502854,98.141989
-3850,Shan (North) -> Kyaukme -> Kyaukme,Shan (North),23.502854,98.141989
+3850,Shan (North) -> Muse -> Muse,Shan (North),23.502854,98.141989
 3851,Shan (North) -> Muse -> Namhkan,Shan (North),23.502854,98.141989
-3852,Kachin -> Myitkyina -> Chipwi,Kachin,26.0,97.5
-3853,Kachin -> Myitkyina -> Tanai,Kachin,26.0,97.5
+3852,Kachin -> Myitkyina -> Tanai,Kachin,26.0,97.5
+3853,Kachin -> Myitkyina -> Chipwi,Kachin,26.0,97.5
 3854,Kachin -> Bhamo -> Momauk,Kachin,26.0,97.5
 3855,Kachin -> Mohnyin -> Hpakant,Kachin,26.0,97.5
 3856,Kachin -> Bhamo -> Mansi,Kachin,26.0,97.5
