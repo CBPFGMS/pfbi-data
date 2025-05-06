@@ -38,6 +38,7 @@ AllocationType,AllocationtypeId
 (AFG) 2023 2nd Reserve Allocation - Health Sector,5623
 (AFG) 2023 3rd Reserve Allocation - Earthquicke Response,5723
 (AFG) 2023 1st Standard Allocation,5523
+(AFG) 2024 1st Reserve Allocation,5923
 (BFA) 2022 Reserve Allocation,45085
 (BFA) 2022 Standard Allocation,40085
 (BFA) 2023 Standard Allocation,48685
@@ -319,6 +320,7 @@ AllocationType,AllocationtypeId
 (SOM) Reserve Allocation 7.1 2023 Flood response Baidoa,5421
 (SOM) Standard Allocation 1 2023,4921
 (SOM) 2024 PILOT Anticipatory Action Allocation,5721
+(SOM) Standard Allocation 1 2024,5821
 "(SOM) Reserve 2017 Integrated Response Round 2 (Galmudug, Togdheer, Lower Shabelle)",1921
 (SOM) Reserve 2017,1721
 (SOM) Standard Allocation 1 (Jan 2017),1821
@@ -490,6 +492,7 @@ AllocationType,AllocationtypeId
 (UKR) 2023 Ukraine First Reserve Allocation,45881
 (UKR) UHF 2023 Second Reserve Allocation (Winterization),49581
 (UKR) 2023 Ukraine First Standard Allocation,46281
+(UKR) 2024 First Reserve Allocation (Winterization),128381
 (UKR) 2024 First Standard Allocation,52181
 (UKR) 2019 UHF 1st Standard Allocation,21781
 (UKR) 2020 UHF COVID-19 Allocation for Eastern Ukraine,24881
