@@ -1338,13 +1338,13 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1334, DRC > Nord-Kivu > Lubero > Lubero,Nord-Kivu,-1.6882,29.2371
 1335, DRC > Ituri > Irumu > Komanda,Ituri,1.562489,30.248427
 1336, DRC > Kwango > Kenge > Boko,Kwango,-4.866367,16.983376
-1337, Kinshasa > Lemba,Kinshasa,-4.339502,15.309483
-1338, Kinshasa > Mont Ngafula,Kinshasa,-4.339502,15.309483
-1339, Kinshasa > Limete,Kinshasa,-4.339502,15.309483
+1337, Kinshasa > Mont Ngafula,Kinshasa,-4.339502,15.309483
+1338, Kinshasa > Lemba,Kinshasa,-4.339502,15.309483
+1339, Kinshasa > Kimbanseke,Kinshasa,-4.339502,15.309483
 1340, Kinshasa > Masina,Kinshasa,-4.339502,15.309483
-1341, Kinshasa > Ndjili,Kinshasa,-4.339502,15.309483
-1342, Kwilu > Idiofa,Kwilu,-3.298349,17.389665
-1343, Kinshasa > Kimbanseke,Kinshasa,-4.339502,15.309483
+1341, Kinshasa > Limete,Kinshasa,-4.339502,15.309483
+1342, Kinshasa > Ndjili,Kinshasa,-4.339502,15.309483
+1343, Kwilu > Idiofa,Kwilu,-3.298349,17.389665
 1344, Sud-Kivu > Bukavu,Sud-Kivu,-2.500021,28.866667
 1345, Kongo Central > Matadi,Kongo Central,-5.837288,13.449994
 1346, Kinshasa > Kalamu,Kinshasa,-4.339502,15.309483
@@ -1568,12 +1568,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1564, Kasai Central > Luiza,Kasai Central,-6.15,23.599989
 1565, Kasai Central > Demba,Kasai Central,-6.15,23.599989
 1566, Kasai > Ilebo,Kasai,-6.423572,20.795359
-1567, Kasai Central > Kazumba,Kasai Central,-6.15,23.599989
-1568, Kasai > Luebo,Kasai,-6.423572,20.795359
-1569, Kasai > Mweka,Kasai,-6.423572,20.795359
+1567, Kasai > Dekese,Kasai,-6.423572,20.795359
+1568, Kasai > Mweka,Kasai,-6.423572,20.795359
+1569, Kasai > Luebo,Kasai,-6.423572,20.795359
 1570, Kasai Central > Dibaya,Kasai Central,-6.15,23.599989
-1571, Kasai > Dekese,Kasai,-6.423572,20.795359
-1572, Kasai Central > Dimbelenge,Kasai Central,-6.15,23.599989
+1571, Kasai Central > Dimbelenge,Kasai Central,-6.15,23.599989
+1572, Kasai Central > Kazumba,Kasai Central,-6.15,23.599989
 1573, Haut-Katanga > Pweto,Haut-Katanga,-11.659227,27.4741
 1574, Ituri > Mambasa,Ituri,1.562489,30.248427
 1575, Nord-Kivu > Lubero,Nord-Kivu,-1.6882,29.2371
@@ -3618,10 +3618,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 3335,South,South,33.55,35.3833
 3336,Akkar -> Akkar,Akkar,34.5506,36.0781
 3337,North -> El Koura -> Barsa,North,34.4333,35.85
-3338,North -> Tripoli -> El Maloula,North,34.4333,35.85
-3339,North -> Tripoli -> Shok,North,34.4333,35.85
-3340,North -> El Koura -> Btouratij,North,34.4333,35.85
-3341,North -> Tripoli -> Fouwar zgharta,North,34.4333,35.85
+3338,North -> Tripoli -> Fouwar zgharta,North,34.4333,35.85
+3339,North -> Tripoli -> El Maloula,North,34.4333,35.85
+3340,North -> Tripoli -> Shok,North,34.4333,35.85
+3341,North -> El Koura -> Btouratij,North,34.4333,35.85
 3342,Akkar -> Akkar -> Rihaniye,Akkar,34.5506,36.0781
 3343,Akkar -> Akkar -> Abde,Akkar,34.5506,36.0781
 3344,North -> Tripoli -> Abou Samra,North,34.4333,35.85
@@ -5033,34 +5033,34 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4750,West Bank -> Qalqiliya -> Kafr Thulth,West Bank,31.985981,35.299947
 4751,West Bank -> Bethlehem -> Arab ar Rashayida,West Bank,31.985981,35.299947
 4752,West Bank -> Qalqiliya -> Arab Abu Farda,West Bank,31.985981,35.299947
-4753,West Bank -> Qalqiliya -> Al Funduq,West Bank,31.985981,35.299947
+4753,West Bank -> Tulkarm -> Izbat Shufa,West Bank,31.985981,35.299947
 4754,West Bank -> Qalqiliya -> An Nabi Elyas,West Bank,31.985981,35.299947
-4755,West Bank -> Bethlehem -> Wadi al 'Arayis,West Bank,31.985981,35.299947
-4756,West Bank -> Bethlehem -> Husan,West Bank,31.985981,35.299947
-4757,West Bank -> Bethlehem -> Al Maniya,West Bank,31.985981,35.299947
-4758,West Bank -> Tulkarm -> Izbat Shufa,West Bank,31.985981,35.299947
-4759,West Bank -> Qalqiliya -> Arab ar Ramadin ash Shamali,West Bank,31.985981,35.299947
-4760,West Bank -> Bethlehem -> Za'tara,West Bank,31.985981,35.299947
-4761,West Bank -> Hebron,West Bank,31.985981,35.299947
-4762,West Bank -> Qalqiliya -> Isla,West Bank,31.985981,35.299947
-4763,West Bank -> Bethlehem -> Jannatah (Beit Falouh),West Bank,31.985981,35.299947
-4764,West Bank -> Tulkarm -> Kafr Jammal,West Bank,31.985981,35.299947
-4765,West Bank -> Tulkarm,West Bank,31.985981,35.299947
-4766,West Bank -> Qalqiliya,West Bank,31.985981,35.299947
-4767,West Bank -> Qalqiliya -> Immatin,West Bank,31.985981,35.299947
-4768,West Bank -> Bethlehem -> Kisan,West Bank,31.985981,35.299947
-4769,West Bank -> Qalqiliya -> Arab ar Ramadin al Janubi,West Bank,31.985981,35.299947
-4770,West Bank -> Tulkarm -> Shufa,West Bank,31.985981,35.299947
-4771,West Bank -> Qalqiliya -> Izbat at Tabib,West Bank,31.985981,35.299947
-4772,West Bank -> Qalqiliya -> Kafr Laqif,West Bank,31.985981,35.299947
-4773,West Bank -> Hebron -> Karma,West Bank,31.985981,35.299947
-4774,West Bank -> Hebron -> Ar Ramadin,West Bank,31.985981,35.299947
-4775,West Bank -> Qalqiliya -> Azzun,West Bank,31.985981,35.299947
-4776,West Bank -> Hebron -> Umm al Kheir,West Bank,31.985981,35.299947
-4777,West Bank -> Qalqiliya -> Azzun 'Atma,West Bank,31.985981,35.299947
-4778,West Bank -> Tulkarm -> Kur,West Bank,31.985981,35.299947
-4779,West Bank -> Hebron -> Beit 'Amra,West Bank,31.985981,35.299947
-4780,West Bank -> Tulkarm -> Qaffin,West Bank,31.985981,35.299947
+4755,West Bank -> Tulkarm -> Kafr Jammal,West Bank,31.985981,35.299947
+4756,West Bank -> Bethlehem -> Al Maniya,West Bank,31.985981,35.299947
+4757,West Bank -> Qalqiliya -> Al Funduq,West Bank,31.985981,35.299947
+4758,West Bank -> Tulkarm,West Bank,31.985981,35.299947
+4759,West Bank -> Qalqiliya -> Arab ar Ramadin al Janubi,West Bank,31.985981,35.299947
+4760,West Bank -> Qalqiliya -> Arab ar Ramadin ash Shamali,West Bank,31.985981,35.299947
+4761,West Bank -> Hebron -> Karma,West Bank,31.985981,35.299947
+4762,West Bank -> Tulkarm -> Shufa,West Bank,31.985981,35.299947
+4763,West Bank -> Hebron -> Umm al Kheir,West Bank,31.985981,35.299947
+4764,West Bank -> Tulkarm -> Kur,West Bank,31.985981,35.299947
+4765,West Bank -> Qalqiliya -> Kafr Laqif,West Bank,31.985981,35.299947
+4766,West Bank -> Hebron -> Beit 'Amra,West Bank,31.985981,35.299947
+4767,West Bank -> Tulkarm -> Qaffin,West Bank,31.985981,35.299947
+4768,West Bank -> Bethlehem -> Wadi al 'Arayis,West Bank,31.985981,35.299947
+4769,West Bank -> Bethlehem -> Za'tara,West Bank,31.985981,35.299947
+4770,West Bank -> Qalqiliya,West Bank,31.985981,35.299947
+4771,West Bank -> Qalqiliya -> Immatin,West Bank,31.985981,35.299947
+4772,West Bank -> Qalqiliya -> Izbat at Tabib,West Bank,31.985981,35.299947
+4773,West Bank -> Qalqiliya -> Azzun,West Bank,31.985981,35.299947
+4774,West Bank -> Hebron,West Bank,31.985981,35.299947
+4775,West Bank -> Hebron -> Ar Ramadin,West Bank,31.985981,35.299947
+4776,West Bank -> Qalqiliya -> Azzun 'Atma,West Bank,31.985981,35.299947
+4777,West Bank -> Bethlehem -> Husan,West Bank,31.985981,35.299947
+4778,West Bank -> Qalqiliya -> Isla,West Bank,31.985981,35.299947
+4779,West Bank -> Bethlehem -> Jannatah (Beit Falouh),West Bank,31.985981,35.299947
+4780,West Bank -> Bethlehem -> Kisan,West Bank,31.985981,35.299947
 4781,West Bank -> Bethlehem -> Umm Salamuna,West Bank,31.985981,35.299947
 4782,West Bank -> Tulkarm -> Far'un,West Bank,31.985981,35.299947
 4783,West Bank -> Tulkarm -> Attil,West Bank,31.985981,35.299947
@@ -6508,8 +6508,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 6225,Middle Shabelle -> Balcad -> Buulo-Shiikh,Middle Shabelle,2.825,45.937
 6226,Middle Shabelle -> Balcad -> Bananey,Middle Shabelle,2.825,45.937
 6227,Middle Shabelle -> Balcad -> Buulo-Doonka,Middle Shabelle,2.825,45.937
-6228,Middle Shabelle -> Aden Yabaal -> Boos-Caduur,Middle Shabelle,2.825,45.937
-6229,Middle Shabelle -> Balcad -> Istanbuul,Middle Shabelle,2.825,45.937
+6228,Middle Shabelle -> Balcad -> Istanbuul,Middle Shabelle,2.825,45.937
+6229,Middle Shabelle -> Aden Yabaal -> Boos-Caduur,Middle Shabelle,2.825,45.937
 6230,Middle Shabelle -> Balcad -> Cadayga Moobleen,Middle Shabelle,2.825,45.937
 6231,Banadir -> Mogadishu-Dharkenley,Banadir,2.115,45.467
 6232,Bay -> Baidoa -> Roobay,Bay,2.676,43.738
@@ -10302,41 +10302,41 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 10012, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Tuwama ,Aleppo ,36.206013,37.15242
 10013, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Kafr Taal ,Aleppo ,36.206013,37.15242
 10014, Aleppo  > Jebel Saman (Aleppo)  > Daret Azza  > Qabtan Eljabal ,Aleppo ,36.206013,37.15242
-10015, Idleb  > Harim  > Salqin  > Delbiya ,Idleb ,35.929008,36.635276
-10016, Idleb  > Harim  > Salqin  > Foziyeh ,Idleb ,35.929008,36.635276
-10017, Idleb  > Harim  > Salqin  > Allani ,Idleb ,35.929008,36.635276
-10018, Idleb  > Harim  > Salqin  > Betiya ,Idleb ,35.929008,36.635276
-10019, Idleb  > Harim  > Salqin  > Tlul ,Idleb ,35.929008,36.635276
-10020, Idleb  > Harim  > Salqin  > Abu Talha ,Idleb ,35.929008,36.635276
-10021, Idleb  > Harim  > Salqin  > Jeser Maksour,Idleb ,35.929008,36.635276
-10022, Idleb  > Harim  > Salqin  > Ein Elbikara ,Idleb ,35.929008,36.635276
-10023, Idleb  > Harim  > Salqin  > Bozanti ,Idleb ,35.929008,36.635276
-10024, Idleb  > Harim  > Salqin  > Tellemar ,Idleb ,35.929008,36.635276
-10025, Idleb  > Harim  > Salqin  > Faroukiyeh,Idleb ,35.929008,36.635276
-10026, Idleb  > Harim  > Salqin  > Aljib,Idleb ,35.929008,36.635276
-10027, Idleb  > Harim  > Salqin  > Little Hir Jamus ,Idleb ,35.929008,36.635276
-10028, Idleb  > Harim  > Salqin  > Saidiyeh ,Idleb ,35.929008,36.635276
-10029, Idleb  > Harim  > Salqin  > Kafr Hind ,Idleb ,35.929008,36.635276
-10030, Idleb  > Harim  > Salqin  > Hamra (Salqin),Idleb ,35.929008,36.635276
-10031, Idleb  > Harim  > Salqin  > Msheirfeh (Salqin),Idleb ,35.929008,36.635276
-10032, Idleb  > Harim  > Salqin  > Hamziyeh ,Idleb ,35.929008,36.635276
-10033, Idleb  > Harim  > Salqin  > Kafarna ,Idleb ,35.929008,36.635276
+10015, Idleb  > Harim  > Salqin  > Foziyeh ,Idleb ,35.929008,36.635276
+10016, Idleb  > Harim  > Salqin  > Allani ,Idleb ,35.929008,36.635276
+10017, Idleb  > Harim  > Salqin  > Betiya ,Idleb ,35.929008,36.635276
+10018, Idleb  > Harim  > Salqin  > Tlul ,Idleb ,35.929008,36.635276
+10019, Idleb  > Harim  > Salqin  > Abu Talha ,Idleb ,35.929008,36.635276
+10020, Idleb  > Harim  > Salqin  > Jeser Maksour,Idleb ,35.929008,36.635276
+10021, Idleb  > Harim  > Salqin  > Delbiya ,Idleb ,35.929008,36.635276
+10022, Idleb  > Harim  > Salqin  > Bozanti ,Idleb ,35.929008,36.635276
+10023, Idleb  > Harim  > Salqin  > Tellemar ,Idleb ,35.929008,36.635276
+10024, Idleb  > Harim  > Salqin  > Faroukiyeh,Idleb ,35.929008,36.635276
+10025, Idleb  > Harim  > Salqin  > Aljib,Idleb ,35.929008,36.635276
+10026, Idleb  > Harim  > Salqin  > Little Hir Jamus ,Idleb ,35.929008,36.635276
+10027, Idleb  > Harim  > Salqin  > Ein Elbikara ,Idleb ,35.929008,36.635276
+10028, Idleb  > Harim  > Salqin  > Kafr Hind ,Idleb ,35.929008,36.635276
+10029, Idleb  > Harim  > Salqin  > Hamra (Salqin),Idleb ,35.929008,36.635276
+10030, Idleb  > Harim  > Salqin  > Msheirfeh (Salqin),Idleb ,35.929008,36.635276
+10031, Idleb  > Harim  > Salqin  > Saidiyeh ,Idleb ,35.929008,36.635276
+10032, Idleb  > Harim  > Salqin  > Kafarna ,Idleb ,35.929008,36.635276
+10033, Idleb  > Harim  > Salqin  > Hamziyeh ,Idleb ,35.929008,36.635276
 10034, Idleb  > Harim  > Salqin  > Shyukh,Idleb ,35.929008,36.635276
-10035, Idleb  > Harim  > Salqin  > Sayed Khalil,Idleb ,35.929008,36.635276
-10036, Idleb  > Harim  > Salqin  > Kafrahlat Jallad ,Idleb ,35.929008,36.635276
+10035, Idleb  > Harim  > Salqin  > Kafrahlat Jallad ,Idleb ,35.929008,36.635276
+10036, Idleb  > Harim  > Salqin  > Sayed Khalil,Idleb ,35.929008,36.635276
 10037, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Qanater ,Aleppo ,36.206013,37.15242
 10038, Idleb  > Ariha  > Ariha  > Banin ,Idleb ,35.929008,36.635276
 10039, Idleb  > Ariha  > Ariha  > Maarbalit ,Idleb ,35.929008,36.635276
 10040, Idleb  > Ariha  > Ariha  > Korin ,Idleb ,35.929008,36.635276
-10041, Idleb  > Ariha  > Ariha  > Bab Ellah ,Idleb ,35.929008,36.635276
-10042, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Western Kafr Jum ,Aleppo ,36.206013,37.15242
-10043, Idleb  > Ariha  > Ariha  > Bazabur ,Idleb ,35.929008,36.635276
-10044, Idleb  > Ariha  > Ariha  > Motaram ,Idleb ,35.929008,36.635276
-10045, Idleb  > Ariha  > Ariha  > Sarja ,Idleb ,35.929008,36.635276
-10046, Idleb  > Ariha  > Ariha  > Mseibin ,Idleb ,35.929008,36.635276
+10041, Aleppo  > Jebel Saman (Aleppo)  > Atareb  > Western Kafr Jum ,Aleppo ,36.206013,37.15242
+10042, Idleb  > Ariha  > Ariha  > Bab Ellah ,Idleb ,35.929008,36.635276
+10043, Idleb  > Ariha  > Ariha  > Motaram ,Idleb ,35.929008,36.635276
+10044, Idleb  > Ariha  > Ariha  > Bazabur ,Idleb ,35.929008,36.635276
+10045, Idleb  > Ariha  > Ariha  > Mseibin ,Idleb ,35.929008,36.635276
+10046, Idleb  > Ariha  > Ariha  > Sarja ,Idleb ,35.929008,36.635276
 10047, Idleb  > Ariha  > Ariha  > Orm Eljoz ,Idleb ,35.929008,36.635276
-10048, Idleb  > Ariha  > Ariha  > Nahliya ,Idleb ,35.929008,36.635276
-10049, Idleb  > Ariha  > Ariha  > Nahleh ,Idleb ,35.929008,36.635276
+10048, Idleb  > Ariha  > Ariha  > Nahleh ,Idleb ,35.929008,36.635276
+10049, Idleb  > Ariha  > Ariha  > Nahliya ,Idleb ,35.929008,36.635276
 10050, Idleb  > Ariha  > Ariha  > Kafr Shalaya ,Idleb ,35.929008,36.635276
 10051, Idleb  > Ariha  > Ariha  > Ebneh ,Idleb ,35.929008,36.635276
 10052, Idleb  > Ariha  > Ariha  > Kafraziba ,Idleb ,35.929008,36.635276
@@ -12020,8 +12020,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11708,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
 11709,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 11710,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
-11711,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
-11712,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
+11711,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
+11712,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
 11713,Abyan -> Sarar,Abyan,13.6955485,46.50340692
 11714,Aden -> Dar Sad,Aden,12.84865928,45.00201169
 11715,Al Hudaydah -> Al Qanawis -> Al-Hameis,Al Hudaydah,15.00062889,43.04031959
@@ -12240,19 +12240,19 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11928,Sana'a -> Sa'fan -> Al-Acamah,Sana'a,15.12394358,44.78727759
 11929,Sana'a -> Sa'fan -> Har Wadi,Sana'a,15.12394358,44.78727759
 11930,Al Hudaydah -> Al Mansuriyah -> Al-Jroup,Al Hudaydah,15.00062889,43.04031959
-11931,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-11932,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-11933,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
-11934,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-11935,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
-11936,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
-11937,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
-11938,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
-11939,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
+11931,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+11932,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+11933,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
+11934,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+11935,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
+11936,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
+11937,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
+11938,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
+11939,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
 11940,Hajjah -> Abs -> Shafar,Hajjah,16.27488061,43.11225315
 11941,Hajjah -> Abs -> Al-Aredh,Hajjah,16.27488061,43.11225315
-11942,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
-11943,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
+11942,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
+11943,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
 11944,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
 11945,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
 11946,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
@@ -12884,8 +12884,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12572, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
 12573, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
 12574, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12575, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12576, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12575, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12576, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
 12577, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
 12578, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 12579, Shabwah > Habban,Shabwah,14.67178974,46.95556076
@@ -12897,16 +12897,16 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12585, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 12586, Marib > Mahliyah,Marib,15.56841151,45.76081505
 12587, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-12588, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
-12589, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+12588, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+12589, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 12590, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 12591, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
 12592, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
 12593, Amran > Jabal Iyal Yazid > Al-Sararah,Amran,16.3570904,43.87269369
 12594, Al Jawf > Rajuzah,Al Jawf,16.76813934,46.01014819
 12595, Yemen > Al Hudaydah > Alluheyah,Al Hudaydah,15.00062889,43.04031959
-12596, Yemen > Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-12597, Yemen > Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
+12596, Yemen > Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
+12597, Yemen > Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
 12598, Yemen > Hajjah > Ku'aydinah,Hajjah,16.27488061,43.11225315
 12599, Yemen > Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
 12600, Yemen > Al Hudaydah > Al Hali,Al Hudaydah,15.00062889,43.04031959
