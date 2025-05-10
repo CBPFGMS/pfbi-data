@@ -1533,6 +1533,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Regional/ Local Authorities,283752.32,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2025,Member State,50000.0,0.0,Philippines,PH,Member State,0,0,0,0,0,0
 2025,Member State,170040.0,0.0,Monaco,MC,Member State,0,0,0,0,0,0
+2025,Member State,0.0,22805.02,San Marino,SM,Member State,0,0,0,0,0,0
 2025,Member State,26707899.92,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2025,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
@@ -1556,7 +1557,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,113620.0,0.0,Croatia,HR,Member State,0,0,0,0,0,0
 2025,Member State,62578.22,0.0,Czech Republic,CZ,Member State,0,0,0,0,0,0
 2025,Member State,2599250.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
-2025,Member State,0.0,105485.2321,Greece,GR,Member State,0,0,0,0,0,0
+2025,Member State,112990.0,0.0,Greece,GR,Member State,0,0,0,0,0,0
 2025,Member State,50000.0,0.0,Guyana,GY,Member State,0,0,0,0,0,0
 2025,Member State,0.0,220000.0,Indonesia,ID,Member State,0,0,0,0,0,0
 2025,Member State,1000000.0,0.0,Kuwait,KW,Member State,0,0,0,0,0,0
