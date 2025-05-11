@@ -12882,17 +12882,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12570, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 12571, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12572, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-12573, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12574, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12575, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12576, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-12577, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12578, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12579, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12580, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-12581, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12582, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12583, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12573, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+12574, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12575, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12576, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12577, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12578, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12579, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12580, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+12581, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12582, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12583, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 12584, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12585, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12586, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
@@ -12902,8 +12902,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12590, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 12591, Marib > Mahliyah,Marib,15.56841151,45.76081505
 12592, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-12593, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-12594, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+12593, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+12594, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 12595, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 12596, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
 12597, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
