@@ -9441,6 +9441,7 @@ Afghanistan,2025,Rapid Response,35354,CERF-AFG-25-RR-WOM-35354,Protection,Protec
 Afghanistan,2025,Rapid Response,35355,CERF-AFG-25-RR-FPA-35355,Protection,Protection,10.000000400002456,99999.39,CERF
 Afghanistan,2025,Rapid Response,35355,CERF-AFG-25-RR-FPA-35355,Health,Health,89.99999959999754,899994.47,CERF
 Myanmar,2025,Rapid Response,35405,CERF-MMR-25-RR-IOM-35405,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1500000.0,CERF
+Bolivia,2025,Rapid Response,35534,CERF-BOL-25-RR-FAO-35534,Agriculture,Agriculture,100.0,150000.0,CERF
 Bolivia,2025,Rapid Response,35536,CERF-BOL-25-RR-CEF-35536,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,399997.19,CERF
 Bolivia,2025,Rapid Response,35537,CERF-BOL-25-RR-WFP-35537,Food Aid,Food Aid,100.0,450000.09,CERF
 Myanmar,2025,Rapid Response,35553,CERF-MMR-25-RR-FPA-35553,Health,Health,76.9999993733326,577499.31,CERF
@@ -9458,9 +9459,8 @@ Central African Republic,2025,Underfunded Emergencies,35609,CERF-CAF-25-UF-1459(
 Chad,2025,Underfunded Emergencies,35610,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,13500000.0,CERF
 Burundi,2025,Rapid Response,35611,CERF-BDI-25-RR-1461(TBD),To be determined,To be determined,100.0,2500000.0,CERF
 Myanmar,2025,Rapid Response,35612,CERF-MMR-25-RR-1462(TBD),To be determined,To be determined,100.0,4750000.87,CERF
-Bolivia,2025,Rapid Response,35613,CERF-BOL-25-RR-1465(TBD),To be determined,To be determined,100.0,150002.72,CERF
-Uganda,2025,Rapid Response,35614,CERF-UGA-25-RR-1467(TBD),To be determined,To be determined,100.0,2500000.0,CERF
-Angola,2025,Rapid Response,35615,CERF-AGO-25-RR-1468(TBD),To be determined,To be determined,100.0,1800000.0,CERF
+Uganda,2025,Rapid Response,35613,CERF-UGA-25-RR-1467(TBD),To be determined,To be determined,100.0,2500000.0,CERF
+Angola,2025,Rapid Response,35614,CERF-AGO-25-RR-1468(TBD),To be determined,To be determined,100.0,1800000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -11172,9 +11172,9 @@ Burkina Faso,2024,Standard,33119,CBPF-BFA-24-S-INGO-33119,Protection,,23.0,12650
 Burkina Faso,2024,Standard,33119,CBPF-BFA-24-S-INGO-33119,Protection,,38.0,209000.0,CBPF
 Burkina Faso,2024,Standard,33185,CBPF-BFA-24-S-INGO-33185,Emergency Shelter and NFI,,75.0,450000.0,CBPF
 Burkina Faso,2024,Standard,33185,CBPF-BFA-24-S-INGO-33185,"Water, Sanitation and Hygiene",,25.0,150000.0,CBPF
-Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Food Security,,60.0,360000.0,CBPF
-Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Health,,25.0,150000.0,CBPF
-Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Protection,,15.0,90000.0,CBPF
+Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Food Security,,60.0,660000.0,CBPF
+Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Health,,25.0,275000.0,CBPF
+Burkina Faso,2024,Standard,33188,CBPF-BFA-24-S-INGO-33188,Protection,,15.0,165000.0,CBPF
 Burkina Faso,2024,Standard,33011,CBPF-BFA-24-S-NGO-33011,Food Security,,21.0,63000.0,CBPF
 Burkina Faso,2024,Standard,33011,CBPF-BFA-24-S-NGO-33011,Nutrition,,27.0,81000.0,CBPF
 Burkina Faso,2024,Standard,33011,CBPF-BFA-24-S-NGO-33011,Protection,,26.0,78000.0,CBPF
