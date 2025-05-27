@@ -232,7 +232,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2009,Member State,44348982.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
 2009,Private Contributions,10408.05,0.0,The Estate of George Gary,XPRV,Private Contributions,0,0,0,0,0,0
 2009,Member State,8868452.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
-2009,Member State,30000.0,0.0,San Marino,SM,Member State,0,0,0,0,0,0
+2009,Member State,3000.0,0.0,San Marino,SM,Member State,0,0,0,0,0,0
 2009,Member State,20000.0,0.0,Trinidad and Tobago,TT,Member State,0,0,0,0,0,0
 2009,Member State,15000.0,0.0,Pakistan,PK,Member State,0,0,0,0,0,0
 2009,Member State,1000.0,0.0,Namibia,NA,Member State,0,0,0,0,0,0
@@ -1533,6 +1533,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Regional/ Local Authorities,283752.32,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2025,Member State,50000.0,0.0,Philippines,PH,Member State,0,0,0,0,0,0
 2025,Member State,170040.0,0.0,Monaco,MC,Member State,0,0,0,0,0,0
+2025,Member State,0.0,20000.0,San Marino,SM,Member State,0,0,0,0,0,0
 2025,Member State,26707899.92,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2025,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
@@ -1566,7 +1567,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,50000.0,0.0,Morocco,MA,Member State,0,0,0,0,0,0
 2025,Member State,314250.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2025,CERF,0.0,2000000.0,QC,QC,QC,0,0,0,0,0,0
-2025,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
+2025,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
 2025,Member State,107700.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
 2025,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
 2025,Member State,0.0,500000.0,Turkey,TR,Member State,0,0,0,0,0,0
