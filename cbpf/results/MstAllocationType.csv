@@ -127,6 +127,7 @@ AllocationType,AllocationtypeId
 (ETH) 2023 1st EHF Reserve Allocation,48153
 (ETH) 2023 2nd  EHF Reserve Allocation,51153
 (ETH) 2023 1st EHF Standard Allocation,50053
+(ETH) 2024 1st EHF Standard Allocation,53553
 (ETH) 2016 2nd round allocation - Call for Proposal,9053
 (ETH) 2017 1st round allocation - Call for Proposal,10153
 (ETH) 2017 1st Round Reserve Allocation,13153
@@ -355,6 +356,7 @@ AllocationType,AllocationtypeId
 (SSD) 2023 Reserve allocation 1,46919
 (SSD) 2024 Reserve allocation 1,52819
 (SSD) 2024 Reserve allocation 3,137419
+(SSD) 2024 Standard allocation 1,53819
 (SSD) 2020 Reserve Allocation 1,26819
 (SSD) 2020 Reserve Allocation 2,29719
 (SSD) 2020 Reserve Allocation 3,31219
@@ -509,8 +511,8 @@ AllocationType,AllocationtypeId
 (UKR) UHF 2022 Second Reserve Allocation_Upscaling humanitarian aid,39581
 (UKR) UHF 2022 Third Reserve Allocation_Responding to humanitarian needs as a result of the military offensive in Ukraine,40481
 (UKR) 2022 Fourth Reserve Allocation (Winterization),42381
-(UKR) 2022 First Standard Allocation_Envelope 2,43481
 (UKR) 2022 First Standard Allocation_Envelope 1,43381
+(UKR) 2022 First Standard Allocation_Envelope 2,43481
 (VEN) Primera Asignación Ordinaria 2023,47683
 (VEN) Segunda Asignación Ordinaria 2023,50883
 (VEN) Primera asignación ordinaria 2021,31583
