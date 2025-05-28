@@ -9143,8 +9143,6 @@ Ethiopia,2024,Rapid Response,33585,CERF-ETH-24-RR-IOM-33585,Camp Coordination an
 Ethiopia,2024,Rapid Response,33601,CERF-ETH-24-RR-FAO-33601,Agriculture,Agriculture,100.0,1500000.0,CERF
 Ethiopia,2024,Rapid Response,33602,CERF-ETH-24-RR-WFP-33602,Agriculture,Agriculture,100.0,1499999.78,CERF
 Ethiopia,2024,Rapid Response,33604,CERF-ETH-24-RR-WHO-33604,Health,Health,100.0,750178.74,CERF
-Burundi,2024,Underfunded Emergencies,33613,CERF-BDI-24-UF-WFP-33613,Food Aid,Food Aid,100.0,2000197.8,CERF
-Burundi,2024,Underfunded Emergencies,33614,CERF-BDI-24-UF-HCR-33614,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1493688.64,CERF
 Burundi,2024,Underfunded Emergencies,33615,CERF-BDI-24-UF-WHO-33615,Health,Health,100.0,499048.0,CERF
 Burundi,2024,Underfunded Emergencies,33616,CERF-BDI-24-UF-WOM-33616,Protection,Protection,100.0,500000.04,CERF
 Chad,2024,Rapid Response,33649,CERF-TCD-24-RR-WFP-33649,Food Aid,Food Aid,100.0,3000000.0,CERF
@@ -9231,10 +9229,7 @@ Cameroon,2024,Underfunded Emergencies,33837,CERF-CMR-24-UF-FPA-33837,Protection,
 Cameroon,2024,Underfunded Emergencies,33837,CERF-CMR-24-UF-FPA-33837,Health,Health,31.820000121086895,397858.74,CERF
 Cameroon,2024,Underfunded Emergencies,33838,CERF-CMR-24-UF-WFP-33838,Nutrition,Nutrition,100.0,899850.74,CERF
 Cameroon,2024,Underfunded Emergencies,33841,CERF-CMR-24-UF-WHO-33841,Health,Health,100.0,1244997.43,CERF
-Burundi,2024,Underfunded Emergencies,33863,CERF-BDI-24-UF-FAO-33863,Agriculture,Agriculture,100.0,500000.3,CERF
 Ethiopia,2024,Underfunded Emergencies,33864,CERF-ETH-24-UF-FAO-33864,Agriculture,Agriculture,100.0,1000000.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Camp Coordination and Camp Management,Camp Coordination and Camp Management,36.0,360000.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Shelter and Non-Food Items,Shelter and Non-Food Items,64.0,640000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Protection,Protection,16.0,160000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Multi-Purpose Cash,Multi-Purpose Cash,56.00000000000001,560000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Protection,Protection,28.000000000000004,280000.0,CERF
@@ -9258,22 +9253,6 @@ Myanmar,2024,Underfunded Emergencies,33884,CERF-MMR-24-UF-WHO-33884,Health,Healt
 Myanmar,2024,Underfunded Emergencies,33885,CERF-MMR-24-UF-HCR-33885,Shelter and Non-Food Items,Shelter and Non-Food Items,53.000000180769234,1378000.01,CERF
 Myanmar,2024,Underfunded Emergencies,33885,CERF-MMR-24-UF-HCR-33885,Protection,Protection,30.999999880769234,806000.0,CERF
 Myanmar,2024,Underfunded Emergencies,33885,CERF-MMR-24-UF-HCR-33885,Multi-Purpose Cash,Multi-Purpose Cash,15.99999993846154,416000.0,CERF
-Myanmar,2024,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.999999991176473,986000.02,CERF
-Myanmar,2024,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Nutrition,Nutrition,26.000000052941175,884000.02,CERF
-Myanmar,2024,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Multi-Purpose Cash,Multi-Purpose Cash,28.00000001176471,952000.02,CERF
-Myanmar,2024,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Education,Education,5.999999876470591,204000.0,CERF
-Myanmar,2024,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Protection,Protection,11.00000006764706,374000.01,CERF
-Myanmar,2024,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Multi-Purpose Cash,Multi-Purpose Cash,40.0,800000.0,CERF
-Myanmar,2024,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Food Aid,Food Aid,60.0,1200000.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33889,CERF-ETH-24-UF-MAS-33889,Protection,Protection,100.0,500000.75,CERF
-Haiti,2024,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Health,Health,55.559999999999995,750060.0,CERF
-Haiti,2024,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Nutrition,Nutrition,44.440000000000005,599940.0,CERF
-Haiti,2024,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Protection,Protection,44.0,1100000.0,CERF
-Haiti,2024,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Nutrition,Nutrition,56.00000000000001,1400000.0,CERF
-Haiti,2024,Underfunded Emergencies,33898,CERF-HTI-24-UF-WFP-33898,Food Aid,Food Aid,100.0,1999999.28,CERF
-Haiti,2024,Underfunded Emergencies,33899,CERF-HTI-24-UF-IOM-33899,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,900000.05,CERF
-Haiti,2024,Underfunded Emergencies,33900,CERF-HTI-24-UF-CHR-33900,Protection,Protection,100.0,943472.5,CERF
-Haiti,2024,Underfunded Emergencies,33901,CERF-HTI-24-UF-FPA-33901,Protection,Protection,100.0,1300005.06,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",37.00000051200013,289062.43,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,Health,Health,46.99999923199981,367187.4,CERF
 Nigeria,2024,Rapid Response,33917,CERF-NGA-24-RR-CEF-33917,Protection,Protection,11.000000256000064,85937.48,CERF
@@ -9322,15 +9301,6 @@ Cameroon,2024,Rapid Response,34075,CERF-CMR-24-RR-FAO-34075,Agriculture,Agricult
 Cameroon,2024,Rapid Response,34076,CERF-CMR-24-RR-CEF-34076,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",61.76000033529488,839934.09,CERF
 Cameroon,2024,Rapid Response,34076,CERF-CMR-24-RR-CEF-34076,Education,Education,38.239999664705124,520062.81,CERF
 Cameroon,2024,Rapid Response,34078,CERF-CMR-24-RR-HCR-34078,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,920026.34,CERF
-Syrian Arab Republic,2024,Rapid Response,34096,CERF-SYR-24-RR-HCR-34096,Shelter and Non-Food Items,Shelter and Non-Food Items,89.00000006956523,2046999.61,CERF
-Syrian Arab Republic,2024,Rapid Response,34096,CERF-SYR-24-RR-HCR-34096,Protection,Protection,10.99999993043477,252999.95,CERF
-Syrian Arab Republic,2024,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Nutrition,Nutrition,28.000000038410803,1166338.54,CERF
-Syrian Arab Republic,2024,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Protection,Protection,24.000000067218906,999718.75,CERF
-Syrian Arab Republic,2024,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Education,Education,47.99999989437029,1999437.49,CERF
-Syrian Arab Republic,2024,Rapid Response,34098,CERF-SYR-24-RR-FPA-34098,Protection,Protection,50.53000026208904,780056.97,CERF
-Syrian Arab Republic,2024,Rapid Response,34098,CERF-SYR-24-RR-FPA-34098,Health,Health,49.46999973791096,763693.21,CERF
-Syrian Arab Republic,2024,Rapid Response,34099,CERF-SYR-24-RR-WFP-34099,Food Aid,Food Aid,76.99999990958543,3321367.33,CERF
-Syrian Arab Republic,2024,Rapid Response,34099,CERF-SYR-24-RR-WFP-34099,Nutrition,Nutrition,23.00000009041457,992096.74,CERF
 Cuba,2024,Rapid Response,34203,CERF-CUB-24-RR-WFP-34203,Food Aid,Food Aid,100.0,1120000.0,CERF
 Cuba,2024,Rapid Response,34204,CERF-CUB-24-RR-FAO-34204,Agriculture,Agriculture,100.0,280000.28,CERF
 Cuba,2024,Rapid Response,34205,CERF-CUB-24-RR-UDP-34205,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,800000.0,CERF
@@ -9345,13 +9315,7 @@ Somalia,2024,Rapid Response,34235,CERF-SOM-24-RR-FAO-34235,Agriculture,Agricultu
 Somalia,2024,Rapid Response,34236,CERF-SOM-24-RR-WFP-34236,Food Aid,Food Aid,100.0,1000125.44,CERF
 Somalia,2024,Rapid Response,34237,CERF-SOM-24-RR-CEF-34237,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,2000000.09,CERF
 Mali,2024,Underfunded Emergencies,34240,CERF-MLI-24-UF-WFP-34240,Food Aid,Food Aid,100.0,750000.46,CERF
-Ethiopia,2024,Underfunded Emergencies,34241,CERF-ETH-24-UF-IOM-34241,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,500000.0,CERF
-Ethiopia,2024,Underfunded Emergencies,34242,CERF-ETH-24-UF-FAO-34242,Agriculture,Agriculture,100.0,500000.0,CERF
-Haiti,2024,Underfunded Emergencies,34271,CERF-HTI-24-UF-FAO-34271,Agriculture,Agriculture,100.0,1000000.0,CERF
 Haiti,2024,Underfunded Emergencies,34272,CERF-HTI-24-UF-WFP-34272,Agriculture,Agriculture,100.0,500289.08,CERF
-Syrian Arab Republic,2024,Rapid Response,34282,CERF-SYR-24-RR-WHO-34282,Health,Health,100.0,3050479.05,CERF
-Myanmar,2024,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,300000.0,CERF
-Myanmar,2024,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.0,200000.0,CERF
 Philippines,2024,Rapid Response,34293,CERF-PHL-24-RR-FPA-34293,Health,Health,28.999999999999996,116000.0,CERF
 Philippines,2024,Rapid Response,34293,CERF-PHL-24-RR-FPA-34293,Protection,Protection,71.0,284000.0,CERF
 Philippines,2024,Rapid Response,34295,CERF-PHL-24-RR-FAO-34295,Agriculture,Agriculture,100.0,400000.0,CERF
@@ -9370,34 +9334,48 @@ Cuba,2024,Rapid Response,34308,CERF-CUB-24-RR-CEF-34308,Education,Education,21.7
 Cuba,2024,Rapid Response,34309,CERF-CUB-24-RR-WHO-34309,Health,Health,100.0,1139990.31,CERF
 Guinea,2024,Rapid Response,34352,CERF-GIN-24-RR-CEF-34352,Education,Education,53.57000003142788,374998.25,CERF
 Guinea,2024,Rapid Response,34352,CERF-GIN-24-RR-CEF-34352,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",46.42999996857212,325017.15,CERF
-Burundi,2024,Underfunded Emergencies,34357,CERF-BDI-24-UF-FAO-34357,Agriculture,Agriculture,100.0,1000000.6,CERF
 Guinea,2024,Rapid Response,34365,CERF-GIN-24-RR-WFP-34365,Food Aid,Food Aid,100.0,1325000.0,CERF
 Guinea,2024,Rapid Response,34366,CERF-GIN-24-RR-WHO-34366,Health,Health,100.0,474791.1,CERF
 Chad,2024,Rapid Response,34541,CERF-TCD-24-RR-HCR-34541,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2500039.58,CERF
 Chad,2024,Rapid Response,34542,CERF-TCD-24-RR-WHO-34542,Health,Health,100.0,1000002.74,CERF
 Chad,2024,Rapid Response,34543,CERF-TCD-24-RR-CEF-34543,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1500008.93,CERF
-Mozambique,2024,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Camp Coordination and Camp Management,Camp Coordination and Camp Management,22.00000007490634,234960.08,CERF
-Mozambique,2024,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Shelter and Non-Food Items,Shelter and Non-Food Items,77.99999992509366,833040.28,CERF
-Mozambique,2024,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Common Services,Common Services,3.999999925091495,42718.78,CERF
-Mozambique,2024,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Food Aid,Food Aid,96.0000000749085,1025250.74,CERF
-Mozambique,2024,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Protection,Protection,5.000000107142875,69999.99,CERF
-Mozambique,2024,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",62.00000018571431,867999.86,CERF
-Mozambique,2024,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Health,Health,32.999999707142806,461999.92,CERF
-Mozambique,2024,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Protection,Protection,42.99999995689656,199520.06,CERF
-Mozambique,2024,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Health,Health,57.00000004310344,264480.08,CERF
-Egypt,2024,Rapid Response,34586,CERF-EGY-24-RR-FPA-34586,Protection,Protection,100.0,500070.32,CERF
-Egypt,2024,Rapid Response,34589,CERF-EGY-24-RR-WFP-34589,Food Aid,Food Aid,100.0,2000000.0,CERF
-Egypt,2024,Rapid Response,34593,CERF-EGY-24-RR-CEF-34593,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1001222.22,CERF
-Egypt,2024,Rapid Response,34594,CERF-EGY-24-RR-HCR-34594,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2499938.4,CERF
-Vanuatu,2024,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,Protection,Protection,27.0,148500.0,CERF
-Vanuatu,2024,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",73.0,401500.0,CERF
-Vanuatu,2024,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Protection,Protection,37.99999933332422,56999.22,CERF
-Vanuatu,2024,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Health,Health,62.00000066667577,92998.73,CERF
-Vanuatu,2024,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Camp Coordination and Camp Management,Camp Coordination and Camp Management,50.0,150000.09,CERF
-Vanuatu,2024,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,150000.09,CERF
-Eritrea,2024,Rapid Response,34623,CERF-ERI-24-RR-FAO-34623,Agriculture,Agriculture,100.0,500088.04,CERF
-Syrian Arab Republic,2024,Rapid Response,34749,CERF-SYR-24-RR-MAS-34749,Protection,Protection,100.0,3000000.28,CERF
-Syrian Arab Republic,2024,Rapid Response,34750,CERF-SYR-24-RR-IOM-34750,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,1499999.83,CERF
+Burundi,2025,Underfunded Emergencies,33613,CERF-BDI-24-UF-WFP-33613,Food Aid,Food Aid,100.0,2000197.8,CERF
+Burundi,2025,Underfunded Emergencies,33614,CERF-BDI-24-UF-HCR-33614,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1493688.64,CERF
+Burundi,2025,Underfunded Emergencies,33863,CERF-BDI-24-UF-FAO-33863,Agriculture,Agriculture,100.0,500000.3,CERF
+Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Camp Coordination and Camp Management,Camp Coordination and Camp Management,36.0,360000.0,CERF
+Ethiopia,2025,Underfunded Emergencies,33866,CERF-ETH-24-UF-IOM-33866,Shelter and Non-Food Items,Shelter and Non-Food Items,64.0,640000.0,CERF
+Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",28.999999991176473,986000.02,CERF
+Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Nutrition,Nutrition,26.000000052941175,884000.02,CERF
+Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Multi-Purpose Cash,Multi-Purpose Cash,28.00000001176471,952000.02,CERF
+Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Education,Education,5.999999876470591,204000.0,CERF
+Myanmar,2025,Underfunded Emergencies,33886,CERF-MMR-24-UF-CEF-33886,Protection,Protection,11.00000006764706,374000.01,CERF
+Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Multi-Purpose Cash,Multi-Purpose Cash,40.0,800000.0,CERF
+Myanmar,2025,Underfunded Emergencies,33887,CERF-MMR-24-UF-WFP-33887,Food Aid,Food Aid,60.0,1200000.0,CERF
+Ethiopia,2025,Underfunded Emergencies,33889,CERF-ETH-24-UF-MAS-33889,Protection,Protection,100.0,500000.75,CERF
+Haiti,2025,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Health,Health,55.559999999999995,750060.0,CERF
+Haiti,2025,Underfunded Emergencies,33895,CERF-HTI-24-UF-WHO-33895,Nutrition,Nutrition,44.440000000000005,599940.0,CERF
+Haiti,2025,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Protection,Protection,44.0,1100000.0,CERF
+Haiti,2025,Underfunded Emergencies,33897,CERF-HTI-24-UF-CEF-33897,Nutrition,Nutrition,56.00000000000001,1400000.0,CERF
+Haiti,2025,Underfunded Emergencies,33898,CERF-HTI-24-UF-WFP-33898,Food Aid,Food Aid,100.0,1999999.28,CERF
+Haiti,2025,Underfunded Emergencies,33899,CERF-HTI-24-UF-IOM-33899,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,900000.05,CERF
+Haiti,2025,Underfunded Emergencies,33900,CERF-HTI-24-UF-CHR-33900,Protection,Protection,100.0,943472.5,CERF
+Haiti,2025,Underfunded Emergencies,33901,CERF-HTI-24-UF-FPA-33901,Protection,Protection,100.0,1300005.06,CERF
+Syrian Arab Republic,2025,Rapid Response,34096,CERF-SYR-24-RR-HCR-34096,Shelter and Non-Food Items,Shelter and Non-Food Items,89.00000006956523,2046999.61,CERF
+Syrian Arab Republic,2025,Rapid Response,34096,CERF-SYR-24-RR-HCR-34096,Protection,Protection,10.99999993043477,252999.95,CERF
+Syrian Arab Republic,2025,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Nutrition,Nutrition,28.000000038410803,1166338.54,CERF
+Syrian Arab Republic,2025,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Protection,Protection,24.000000067218906,999718.75,CERF
+Syrian Arab Republic,2025,Rapid Response,34097,CERF-SYR-24-RR-CEF-34097,Education,Education,47.99999989437029,1999437.49,CERF
+Syrian Arab Republic,2025,Rapid Response,34098,CERF-SYR-24-RR-FPA-34098,Protection,Protection,50.53000026208904,780056.97,CERF
+Syrian Arab Republic,2025,Rapid Response,34098,CERF-SYR-24-RR-FPA-34098,Health,Health,49.46999973791096,763693.21,CERF
+Syrian Arab Republic,2025,Rapid Response,34099,CERF-SYR-24-RR-WFP-34099,Food Aid,Food Aid,76.99999990958543,3321367.33,CERF
+Syrian Arab Republic,2025,Rapid Response,34099,CERF-SYR-24-RR-WFP-34099,Nutrition,Nutrition,23.00000009041457,992096.74,CERF
+Ethiopia,2025,Underfunded Emergencies,34241,CERF-ETH-24-UF-IOM-34241,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,500000.0,CERF
+Ethiopia,2025,Underfunded Emergencies,34242,CERF-ETH-24-UF-FAO-34242,Agriculture,Agriculture,100.0,500000.0,CERF
+Haiti,2025,Underfunded Emergencies,34271,CERF-HTI-24-UF-FAO-34271,Agriculture,Agriculture,100.0,1000000.0,CERF
+Syrian Arab Republic,2025,Rapid Response,34282,CERF-SYR-24-RR-WHO-34282,Health,Health,100.0,3050479.05,CERF
+Myanmar,2025,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,Shelter and Non-Food Items,Shelter and Non-Food Items,60.0,300000.0,CERF
+Myanmar,2025,Underfunded Emergencies,34288,CERF-MMR-24-UF-IOM-34288,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.0,200000.0,CERF
+Burundi,2025,Underfunded Emergencies,34357,CERF-BDI-24-UF-FAO-34357,Agriculture,Agriculture,100.0,1000000.6,CERF
 Mozambique,2025,Rapid Response,34553,CERF-MOZ-24-RR-IOM-34553,Camp Coordination and Camp Management,Camp Coordination and Camp Management,21.880000224048544,350004.15,CERF
 Mozambique,2025,Rapid Response,34553,CERF-MOZ-24-RR-IOM-34553,Shelter and Non-Food Items,Shelter and Non-Food Items,78.11999977595144,1249649.17,CERF
 Mozambique,2025,Rapid Response,34554,CERF-MOZ-24-RR-FPA-34554,Protection,Protection,42.859999998285716,300020.18,CERF
@@ -9407,6 +9385,28 @@ Mozambique,2025,Rapid Response,34555,CERF-MOZ-24-RR-CEF-34555,"Water, Sanitation
 Mozambique,2025,Rapid Response,34555,CERF-MOZ-24-RR-CEF-34555,Protection,Protection,4.759999918699006,99999.76,CERF
 Mozambique,2025,Rapid Response,34556,CERF-MOZ-24-RR-WFP-34556,Food Aid,Food Aid,98.75000018902163,1632584.23,CERF
 Mozambique,2025,Rapid Response,34556,CERF-MOZ-24-RR-WFP-34556,Common Services,Common Services,1.2499998109783588,20665.62,CERF
+Mozambique,2025,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Camp Coordination and Camp Management,Camp Coordination and Camp Management,22.00000007490634,234960.08,CERF
+Mozambique,2025,Rapid Response,34566,CERF-MOZ-24-RR-IOM-34566,Shelter and Non-Food Items,Shelter and Non-Food Items,77.99999992509366,833040.28,CERF
+Mozambique,2025,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Common Services,Common Services,3.999999925091495,42718.78,CERF
+Mozambique,2025,Rapid Response,34567,CERF-MOZ-24-RR-WFP-34567,Food Aid,Food Aid,96.0000000749085,1025250.74,CERF
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Protection,Protection,5.000000107142875,69999.99,CERF
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",62.00000018571431,867999.86,CERF
+Mozambique,2025,Rapid Response,34568,CERF-MOZ-24-RR-CEF-34568,Health,Health,32.999999707142806,461999.92,CERF
+Mozambique,2025,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Protection,Protection,42.99999995689656,199520.06,CERF
+Mozambique,2025,Rapid Response,34569,CERF-MOZ-24-RR-FPA-34569,Health,Health,57.00000004310344,264480.08,CERF
+Egypt,2025,Rapid Response,34586,CERF-EGY-24-RR-FPA-34586,Protection,Protection,100.0,500070.32,CERF
+Egypt,2025,Rapid Response,34589,CERF-EGY-24-RR-WFP-34589,Food Aid,Food Aid,100.0,2000000.0,CERF
+Egypt,2025,Rapid Response,34593,CERF-EGY-24-RR-CEF-34593,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1001222.22,CERF
+Egypt,2025,Rapid Response,34594,CERF-EGY-24-RR-HCR-34594,Multi-Purpose Cash,Multi-Purpose Cash,100.0,2499938.4,CERF
+Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,Protection,Protection,27.0,148500.0,CERF
+Vanuatu,2025,Rapid Response,34599,CERF-VUT-24-RR-CEF-34599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",73.0,401500.0,CERF
+Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Protection,Protection,37.99999933332422,56999.22,CERF
+Vanuatu,2025,Rapid Response,34600,CERF-VUT-24-RR-FPA-34600,Health,Health,62.00000066667577,92998.73,CERF
+Vanuatu,2025,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Camp Coordination and Camp Management,Camp Coordination and Camp Management,50.0,150000.09,CERF
+Vanuatu,2025,Rapid Response,34602,CERF-VUT-24-RR-IOM-34602,Shelter and Non-Food Items,Shelter and Non-Food Items,50.0,150000.09,CERF
+Eritrea,2025,Rapid Response,34623,CERF-ERI-24-RR-FAO-34623,Agriculture,Agriculture,100.0,500088.04,CERF
+Syrian Arab Republic,2025,Rapid Response,34749,CERF-SYR-24-RR-MAS-34749,Protection,Protection,100.0,3000000.28,CERF
+Syrian Arab Republic,2025,Rapid Response,34750,CERF-SYR-24-RR-IOM-34750,Camp Coordination and Camp Management,Camp Coordination and Camp Management,100.0,1499999.83,CERF
 Colombia,2025,Rapid Response,34828,CERF-COL-25-RR-HCR-34828,Protection,Protection,45.00000045,450000.0,CERF
 Colombia,2025,Rapid Response,34828,CERF-COL-25-RR-HCR-34828,Shelter and Non-Food Items,Shelter and Non-Food Items,54.99999955,549999.99,CERF
 Colombia,2025,Rapid Response,34829,CERF-COL-25-RR-WFP-34829,Food Aid,Food Aid,100.0,1500000.0,CERF
@@ -10889,8 +10889,12 @@ Afghanistan,2024,Standard,33637,CBPF-AFG-24-S-UN-33637,Protection,,100.0,650000.
 Afghanistan,2025,Reserve,35079,CBPF-AFG-25-R-INGO-35079,Emergency Shelter and NFI,,100.0,660158.05,CBPF
 Afghanistan,2025,Reserve,35082,CBPF-AFG-25-R-INGO-35082,Emergency Shelter and NFI,,100.0,686734.25,CBPF
 Afghanistan,2025,Reserve,35086,CBPF-AFG-25-R-INGO-35086,Food Security,,100.0,600000.0,CBPF
+Afghanistan,2025,Reserve,35089,CBPF-AFG-25-R-INGO-35089,Multi-Sector,,100.0,700000.0,CBPF
 Afghanistan,2025,Reserve,35107,CBPF-AFG-25-R-INGO-35107,Health,,100.0,287000.0,CBPF
+Afghanistan,2025,Reserve,35108,CBPF-AFG-25-R-INGO-35108,Emergency Shelter and NFI,,100.0,700000.36,CBPF
 Afghanistan,2025,Reserve,35109,CBPF-AFG-25-R-INGO-35109,Food Security,,100.0,568356.18,CBPF
+Afghanistan,2025,Reserve,35111,CBPF-AFG-25-R-INGO-35111,Health,,44.0,328939.7936,CBPF
+Afghanistan,2025,Reserve,35111,CBPF-AFG-25-R-INGO-35111,Nutrition,,56.0,418650.6464,CBPF
 Afghanistan,2025,Reserve,35113,CBPF-AFG-25-R-INGO-35113,Emergency Shelter and NFI,,100.0,675237.06,CBPF
 Afghanistan,2025,Reserve,35115,CBPF-AFG-25-R-INGO-35115,Emergency Shelter and NFI,,100.0,969453.26,CBPF
 Afghanistan,2025,Reserve,35117,CBPF-AFG-25-R-INGO-35117,"Water, Sanitation and Hygiene",,100.0,899936.06,CBPF
@@ -10921,6 +10925,7 @@ Afghanistan,2025,Reserve,35136,CBPF-AFG-25-R-NGO-35136,Food Security,,100.0,4996
 Afghanistan,2025,Reserve,35183,CBPF-AFG-25-R-NGO-35183,Food Security,,53.0,390130.1168,CBPF
 Afghanistan,2025,Reserve,35183,CBPF-AFG-25-R-NGO-35183,Health,,47.0,345964.4432,CBPF
 Afghanistan,2025,Reserve,35199,CBPF-AFG-25-R-NGO-35199,"Water, Sanitation and Hygiene",,100.0,691389.18,CBPF
+Afghanistan,2025,Reserve,35077,CBPF-AFG-25-R-UN-35077,Health,,100.0,448006.56,CBPF
 Afghanistan,2025,Reserve,35088,CBPF-AFG-25-R-UN-35088,Emergency Shelter and NFI,,54.0,929352.6684,CBPF
 Afghanistan,2025,Reserve,35088,CBPF-AFG-25-R-UN-35088,"Water, Sanitation and Hygiene",,46.0,791670.7916,CBPF
 Afghanistan,2025,Reserve,35122,CBPF-AFG-25-R-UN-35122,Emergency Shelter and NFI,,60.0,695227.026,CBPF
@@ -29169,6 +29174,8 @@ Yemen,2024,Standard,34035,CBPF-YEM-24-S-UN-34035,Emergency Shelter and NFI,,20.0
 Yemen,2024,Standard,34035,CBPF-YEM-24-S-UN-34035,"Water, Sanitation and Hygiene",,80.0,439338.888,CBPF
 Yemen,2024,Standard,34167,CBPF-YEM-24-S-UN-34167,Protection,,100.0,368426.43,CBPF
 Yemen,2025,Standard,35212,CBPF-YEM-25-S-INGO-35212,Food Security,,100.0,373920.0,CBPF
+Yemen,2025,Standard,35158,CBPF-YEM-25-S-NGO-35158,Food Security,,50.0,112500.0,CBPF
+Yemen,2025,Standard,35158,CBPF-YEM-25-S-NGO-35158,Protection,,50.0,112500.0,CBPF
 Yemen,2025,Standard,35165,CBPF-YEM-25-S-NGO-35165,Education,,55.0,181731.968,CBPF
 Yemen,2025,Standard,35165,CBPF-YEM-25-S-NGO-35165,Food Security,,45.0,148689.792,CBPF
 Yemen,2025,Standard,35166,CBPF-YEM-25-S-NGO-35166,Food Security,,100.0,353760.7,CBPF
@@ -29178,12 +29185,59 @@ Yemen,2025,Standard,35176,CBPF-YEM-25-S-NGO-35176,Camp Coordination / Management
 Yemen,2025,Standard,35176,CBPF-YEM-25-S-NGO-35176,Food Security,,60.0,450000.0,CBPF
 Yemen,2025,Standard,35177,CBPF-YEM-25-S-NGO-35177,Camp Coordination / Management,,50.0,95000.0,CBPF
 Yemen,2025,Standard,35177,CBPF-YEM-25-S-NGO-35177,Emergency Shelter and NFI,,50.0,95000.0,CBPF
+Yemen,2025,Standard,35179,CBPF-YEM-25-S-NGO-35179,Camp Coordination / Management,,24.0,185483.1792,CBPF
+Yemen,2025,Standard,35179,CBPF-YEM-25-S-NGO-35179,Food Security,,39.0,301410.1662,CBPF
+Yemen,2025,Standard,35179,CBPF-YEM-25-S-NGO-35179,Health,,19.0,146840.8502,CBPF
+Yemen,2025,Standard,35179,CBPF-YEM-25-S-NGO-35179,Nutrition,,10.0,77284.658,CBPF
+Yemen,2025,Standard,35179,CBPF-YEM-25-S-NGO-35179,Protection,,8.0,61827.7264,CBPF
+Yemen,2025,Standard,35182,CBPF-YEM-25-S-NGO-35182,Health,,52.0,319363.1792,CBPF
+Yemen,2025,Standard,35182,CBPF-YEM-25-S-NGO-35182,Nutrition,,23.0,141256.7908,CBPF
+Yemen,2025,Standard,35182,CBPF-YEM-25-S-NGO-35182,Protection,,25.0,153539.99,CBPF
+Yemen,2025,Standard,35184,CBPF-YEM-25-S-NGO-35184,Health,,42.0,376740.0,CBPF
+Yemen,2025,Standard,35184,CBPF-YEM-25-S-NGO-35184,Multi-purpose CASH,,33.0,296010.0,CBPF
+Yemen,2025,Standard,35184,CBPF-YEM-25-S-NGO-35184,Protection,,25.0,224250.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,Food Security,,20.0,150000.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,Health,,20.0,150000.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,Multi-purpose CASH,,27.0,202500.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,Nutrition,,10.0,75000.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,Protection,,3.0,22500.0,CBPF
+Yemen,2025,Standard,35185,CBPF-YEM-25-S-NGO-35185,"Water, Sanitation and Hygiene",,20.0,150000.0,CBPF
+Yemen,2025,Standard,35188,CBPF-YEM-25-S-NGO-35188,Food Security,,67.0,286425.2077,CBPF
+Yemen,2025,Standard,35188,CBPF-YEM-25-S-NGO-35188,Protection,,10.0,42750.031,CBPF
+Yemen,2025,Standard,35188,CBPF-YEM-25-S-NGO-35188,Protection,,23.0,98325.0713,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,Emergency Shelter and NFI,,13.0,123499.1264,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,Food Security,,26.0,246998.2528,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,Health,,16.0,151998.9248,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,Nutrition,,13.0,123499.1264,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,Protection,,22.0,208998.5216,CBPF
+Yemen,2025,Standard,35189,CBPF-YEM-25-S-NGO-35189,"Water, Sanitation and Hygiene",,10.0,94999.328,CBPF
 Yemen,2025,Standard,35193,CBPF-YEM-25-S-NGO-35193,Camp Coordination / Management,,50.0,119881.325,CBPF
 Yemen,2025,Standard,35193,CBPF-YEM-25-S-NGO-35193,Emergency Shelter and NFI,,50.0,119881.325,CBPF
+Yemen,2025,Standard,35197,CBPF-YEM-25-S-NGO-35197,Camp Coordination / Management,,28.35,138383.68131,CBPF
+Yemen,2025,Standard,35197,CBPF-YEM-25-S-NGO-35197,Emergency Shelter and NFI,,71.65,349742.17869,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Camp Coordination / Management,,15.17,72772.428726,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Emergency Shelter and NFI,,13.39,64233.541242,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Food Security,,32.36,155235.055608,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Health,,15.63,74979.107514,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Protection,,2.6,12472.53228,CBPF
+Yemen,2025,Standard,35198,CBPF-YEM-25-S-NGO-35198,Protection,,20.85,100020.11463,CBPF
+Yemen,2025,Standard,35200,CBPF-YEM-25-S-NGO-35200,Protection,,35.0,174307.924,CBPF
+Yemen,2025,Standard,35200,CBPF-YEM-25-S-NGO-35200,Protection,,35.0,174307.924,CBPF
+Yemen,2025,Standard,35200,CBPF-YEM-25-S-NGO-35200,"Water, Sanitation and Hygiene",,30.0,149406.792,CBPF
+Yemen,2025,Standard,35208,CBPF-YEM-25-S-NGO-35208,Health,,73.0,298642.27,CBPF
+Yemen,2025,Standard,35208,CBPF-YEM-25-S-NGO-35208,"Water, Sanitation and Hygiene",,27.0,110456.73,CBPF
+Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,Camp Coordination / Management,,22.0,114762.472,CBPF
+Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,Emergency Shelter and NFI,,17.0,88680.092,CBPF
+Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,"Water, Sanitation and Hygiene",,61.0,318205.036,CBPF
 Yemen,2025,Standard,35301,CBPF-YEM-25-S-NGO-35301,Health,,100.0,188588.02,CBPF
+Yemen,2025,Standard,35303,CBPF-YEM-25-S-NGO-35303,Food Security,,33.0,148570.0029,CBPF
+Yemen,2025,Standard,35303,CBPF-YEM-25-S-NGO-35303,Multi-purpose CASH,,50.0,225106.065,CBPF
+Yemen,2025,Standard,35303,CBPF-YEM-25-S-NGO-35303,Protection,,17.0,76536.0621,CBPF
 Yemen,2025,Standard,35336,CBPF-YEM-25-S-NGO-35336,Protection,,100.0,199500.0,CBPF
 Yemen,2025,Standard,35171,CBPF-YEM-25-S-UN-35171,Protection,,100.0,200006.11,CBPF
 Yemen,2025,Standard,35221,CBPF-YEM-25-S-UN-35221,"Water, Sanitation and Hygiene",,100.0,478190.0,CBPF
+Yemen,2025,Standard,35228,CBPF-YEM-25-S-UN-35228,Health,,100.0,394135.93,CBPF
+Yemen,2025,Standard,35240,CBPF-YEM-25-S-UN-35240,Multi-Sector,,100.0,992392.47,CBPF
 Yemen,2013,Reserve,144,YEM-13/X/3420/ER/CSS/UN/144,Coordination and Support Services,,100.0,457596.2,CBPF
 Yemen,2013,Reserve,49,YEM-13/X/3420/ER/ER/INGO/49,Early Recovery,,100.0,151516.28,CBPF
 Yemen,2013,Reserve,30,YEM-13/X/3420/ER/ER/UN/30,Early Recovery,,100.0,492859.12,CBPF
