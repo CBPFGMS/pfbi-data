@@ -22,7 +22,7 @@
     },{
       "id":11,"ClustNm":"Water Sanitation Hygiene","ClustCode":"WASH"
     },{
-      "id":12,"ClustNm":"Coordination and Support Services","ClustCode":"CSS"
+      "id":12,"ClustNm":"Common and Support Services","ClustCode":"CSS"
     },{
       "id":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
     },{
@@ -38,6 +38,6 @@
     },{
       "id":17,"ClustNm":"To be determined","ClustCode":"TBD"
     },{
-      "id":18,"ClustNm":"Food Aid","ClustCode":"FAid"
+      "id":18,"ClustNm":"Food Security","ClustCode":"FS"
     }
 ] 
