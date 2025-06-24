@@ -1177,7 +1177,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,20587000.0,0.0,Belgium,BE,Member State,0,0,0,0,0,0
 2021,Member State,5720500.0,0.0,Italy,IT,Member State,0,0,0,0,0,0
 2021,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
-2021,Member State,65517728.3,0.0,Sweden,SE,Member State,0,0,0,0,0,0
+2021,CERF,65517728.3,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2021,Member State,8515088.39,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2021,Member State,27167399.12,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2021,Member State,3658536.59,0.0,France,FR,Member State,0,0,0,0,0,0
@@ -1236,12 +1236,12 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2021,Member State,347490.35,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2021,Member State,1122580.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2021,Member State,4528800.0,0.0,Italy,IT,Member State,0,0,0,0,0,0
+2021,CERF,4856571.55,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2021,Member State,19796000.0,0.0,Netherlands,NL,Member State,0,0,0,0,0,0
 2021,Member State,4997430.75,0.0,Norway,NO,Member State,0,0,0,0,0,0
 2021,Private Contributions,5721.63,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2021,Member State,56540.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
 2021,Member State,2829250.0,0.0,Spain,ES,Member State,0,0,0,0,0,0
-2021,Member State,4856571.55,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2022,Member State,56255000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2022,Member State,125000.0,0.0,Brazil,BR,Member State,0,0,0,0,0,0
 2022,Member State,1000000.0,0.0,Kuwait,KW,Member State,0,0,0,0,0,0
@@ -1291,9 +1291,9 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2022,Member State,33675.0,0.0,Bulgaria,BG,Member State,0,0,0,0,0,0
 2022,Member State,30000.0,0.0,Croatia,HR,Member State,0,0,0,0,0,0
 2022,Member State,201349.04,0.0,Liechtenstein,LI,Member State,0,0,0,0,0,0
+2022,CERF,74796370.92,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2022,Member State,108930.0,0.0,Monaco,MC,Member State,0,0,0,0,0,0
 2022,Member State,202230.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
-2022,Member State,74796370.92,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2022,Member State,97310.07,0.0,Romania,RO,Member State,0,0,0,0,0,0
 2022,Member State,0.0,220000.0,Indonesia,ID,Member State,0,0,0,0,0,0
 2022,Member State,61412832.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
@@ -1346,8 +1346,8 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,100000.0,0.0,Cyprus,CY,Member State,0,0,0,0,0,0
 2023,Member State,482625.48,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Member State,1060198.4,0.0,Ireland,IE,Member State,0,0,0,0,0,0
+2023,CERF,954657.72,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2023,Member State,278950.0,0.0,South Africa,ZA,Member State,0,0,0,0,0,0
-2023,Member State,954657.72,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2023,Member State,19532839.0,0.0,United States of America,US,Member State,0,0,0,0,0,0
 2023,Member State,344732.49,0.0,Iceland,IS,Member State,0,0,0,0,0,0
 2023,Regional/ Local Authorities,264780.51,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
@@ -1391,7 +1391,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,10942.42,0.0,Andorra,AD,Member State,0,0,0,0,0,0
 2023,Private Contributions,10000.0,0.0,Baha'i International Community,XPRV,Private Contributions,0,0,0,0,0,0
 2023,Member State,1000000.0,0.0,Korea,KR,Member State,0,0,0,0,0,0
-2023,Member State,62340371.0,0.0,Sweden,SE,Member State,0,0,0,0,0,0
+2023,CERF,62340371.0,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2023,Member State,165375.0,0.0,Monaco,MC,Member State,0,0,0,0,0,0
 2023,Member State,10000.0,0.0,Mongolia,MN,Member State,0,0,0,0,0,0
 2023,Member State,5238.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
@@ -1399,8 +1399,8 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2023,Member State,220000.0,0.0,Indonesia,ID,Member State,0,0,0,0,0,0
 2023,Member State,107970.0,0.0,Latvia,LV,Member State,0,0,0,0,0,0
 2023,Member State,540500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
+2023,CERF,3420574.37,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2023,Private Contributions,1742.92,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
-2023,Member State,3420574.37,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2023,Member State,63984400.0,0.0,United Kingdom,GB,Member State,0,0,0,0,0,0
 2023,Member State,8654400.0,0.0,Finland,FI,Member State,0,0,0,0,0,0
 2023,Member State,43126566.31,0.0,Norway,NO,Member State,0,0,0,0,0,0
@@ -1472,7 +1472,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,Member State,0.0,50000.0,Chad,TD,Member State,0,0,0,0,0,0
 2024,Private Contributions,2974.17,0.0,"Funding under $10,000",XPRV,Private Contributions,0,0,0,0,0,0
 2024,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
-2024,Member State,69532322.71,0.0,Sweden,SE,Member State,0,0,0,0,0,0
+2024,CERF,69532322.71,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2024,Member State,10736.0,0.0,Andorra,AD,Member State,0,0,0,0,0,0
 2024,Member State,53040000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2024,Member State,525100.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
@@ -1547,7 +1547,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,108530.0,0.0,Lithuania,LT,Member State,0,0,0,0,0,0
 2025,Member State,200000.0,0.0,Philippines,PH,Member State,0,0,0,0,0,0
 2025,Member State,0.0,1500000.0,Russian Federation,RU,Member State,0,0,0,0,0,0
-2025,Member State,9331776.7,0.0,Sweden,SE,Member State,0,0,0,0,0,0
+2025,CERF,9331776.7,0.0,MFA,MFA,MFA,0,0,0,0,0,0
 2025,Member State,0.0,30000.0,Cambodia,KH,Member State,0,0,0,0,0,0
 2025,Member State,5155500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
 2025,Member State,42096.0,0.0,Malta,MT,Member State,0,0,0,0,0,0
