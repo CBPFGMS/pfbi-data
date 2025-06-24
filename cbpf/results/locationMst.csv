@@ -7671,37 +7671,37 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7388, Sudan > West Kordofan > El Salam,West Kordofan,11.898719,28.122556
 7389, Sudan > West Kordofan > El Nehoud,West Kordofan,11.898719,28.122556
 7390, Sudan > South Darfur > East Jebel Marra,South Darfur,11.6488639,24.9042208
-7391, Sudan > Northern > Aldaba,Northern,18.4448963,30.1589303
-7392, Sudan > Central Darfur > Zalingei,Central Darfur,12.3333,23.4167
-7393, Sudan > Central Darfur > Rokoro (North Jebel Marra),Central Darfur,12.3333,23.4167
-7394, Sudan > White Nile > EL Qeteena,White Nile,13.2403881,32.5372741
-7395, Sudan > White Nile > Guli,White Nile,13.2403881,32.5372741
-7396, Sudan > East Darfur > Ed Daein,East Darfur,14.3782747,24.9042208
-7397, Sudan > East Darfur > Bahr El Arab,East Darfur,14.3782747,24.9042208
-7398, Sudan > Blue Nile,Blue Nile,11.5860078,34.1531947
-7399, Sudan > Northern,Northern,18.4448963,30.1589303
-7400, Sudan > West Kordofan,West Kordofan,11.898719,28.122556
-7401, Sudan > East Darfur,East Darfur,14.3782747,24.9042208
-7402, Sudan > North Darfur > El Fasher,North Darfur,15.7661969,24.9042208
-7403, Sudan > Nile > Eldamar,Nile,18.7325598,32.1381686
-7404, Sudan > Al Gezira > S. El Jazeera,Al Gezira,14.0202857,33.0865844
-7405, Sudan > Kassala > Wad EL Helew,Kassala,15.45,36.4
-7406, Sudan > Gedaref > Al Mafaza,Gedaref,14.033333,35.383333
-7407, Sudan > Al Gezira > Um El Qura,Al Gezira,14.0202857,33.0865844
-7408, Sudan > Al Gezira > Al Qurashi,Al Gezira,14.0202857,33.0865844
-7409, Sudan > Gedaref > E. El Qalabat,Gedaref,14.033333,35.383333
-7410, Sudan > Gedaref > El Fashaga,Gedaref,14.033333,35.383333
-7411, Sudan > Kassala > W. Kassala,Kassala,15.45,36.4
-7412, Sudan > Khartoum > Karari,Khartoum,15.566667,32.516667
-7413, Sudan > Khartoum > Bahri,Khartoum,15.566667,32.516667
-7414, Sudan > Al Gezira > E. El Jazeera,Al Gezira,14.0202857,33.0865844
-7415, Sudan > West Darfur > Kreinik,West Darfur,12.8463561,23.0011989
-7416, Sudan > Al Gezira > El Manageel,Al Gezira,14.0202857,33.0865844
-7417, Sudan > Khartoum > Sharq El Nile,Khartoum,15.566667,32.516667
-7418, Sudan > Kassala > Reefi Aroma,Kassala,15.45,36.4
-7419, Sudan > Khartoum > Um Badah,Khartoum,15.566667,32.516667
-7420, Sudan > East Darfur > Yassin,East Darfur,14.3782747,24.9042208
-7421, Sudan > East Darfur > Adila,East Darfur,14.3782747,24.9042208
+7391, Sudan > East Darfur > Ed Daein,East Darfur,14.3782747,24.9042208
+7392, Sudan > East Darfur > Adila,East Darfur,14.3782747,24.9042208
+7393, Sudan > Northern > Aldaba,Northern,18.4448963,30.1589303
+7394, Sudan > Central Darfur > Zalingei,Central Darfur,12.3333,23.4167
+7395, Sudan > Central Darfur > Rokoro (North Jebel Marra),Central Darfur,12.3333,23.4167
+7396, Sudan > White Nile > EL Qeteena,White Nile,13.2403881,32.5372741
+7397, Sudan > White Nile > Guli,White Nile,13.2403881,32.5372741
+7398, Sudan > East Darfur > Bahr El Arab,East Darfur,14.3782747,24.9042208
+7399, Sudan > Blue Nile,Blue Nile,11.5860078,34.1531947
+7400, Sudan > Northern,Northern,18.4448963,30.1589303
+7401, Sudan > West Kordofan,West Kordofan,11.898719,28.122556
+7402, Sudan > East Darfur,East Darfur,14.3782747,24.9042208
+7403, Sudan > North Darfur > El Fasher,North Darfur,15.7661969,24.9042208
+7404, Sudan > Nile > Eldamar,Nile,18.7325598,32.1381686
+7405, Sudan > Al Gezira > S. El Jazeera,Al Gezira,14.0202857,33.0865844
+7406, Sudan > Kassala > Wad EL Helew,Kassala,15.45,36.4
+7407, Sudan > Gedaref > Al Mafaza,Gedaref,14.033333,35.383333
+7408, Sudan > Al Gezira > Um El Qura,Al Gezira,14.0202857,33.0865844
+7409, Sudan > Al Gezira > Al Qurashi,Al Gezira,14.0202857,33.0865844
+7410, Sudan > Gedaref > E. El Qalabat,Gedaref,14.033333,35.383333
+7411, Sudan > Gedaref > El Fashaga,Gedaref,14.033333,35.383333
+7412, Sudan > Kassala > W. Kassala,Kassala,15.45,36.4
+7413, Sudan > Khartoum > Karari,Khartoum,15.566667,32.516667
+7414, Sudan > Khartoum > Bahri,Khartoum,15.566667,32.516667
+7415, Sudan > Al Gezira > E. El Jazeera,Al Gezira,14.0202857,33.0865844
+7416, Sudan > West Darfur > Kreinik,West Darfur,12.8463561,23.0011989
+7417, Sudan > Al Gezira > El Manageel,Al Gezira,14.0202857,33.0865844
+7418, Sudan > Khartoum > Sharq El Nile,Khartoum,15.566667,32.516667
+7419, Sudan > Kassala > Reefi Aroma,Kassala,15.45,36.4
+7420, Sudan > Khartoum > Um Badah,Khartoum,15.566667,32.516667
+7421, Sudan > East Darfur > Yassin,East Darfur,14.3782747,24.9042208
 7422, Sudan > West Kordofan > Al Idia,West Kordofan,11.898719,28.122556
 7423, Sudan > North Darfur > Kutum,North Darfur,15.7661969,24.9042208
 7424, Sudan > Central Darfur > Umm Dukhun,Central Darfur,12.3333,23.4167
