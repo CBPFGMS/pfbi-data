@@ -9468,10 +9468,13 @@ Myanmar,2025,Rapid Response,35553,CERF-MMR-25-RR-FPA-35553,Protection,Protection
 Niger,2025,Underfunded Emergencies,35662,CERF-NER-25-UF-FAO-35662,Agriculture,Agriculture,100.0,800000.0,CERF
 Angola,2025,Rapid Response,35665,CERF-AGO-25-RR-CEF-35665,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1000000.0,CERF
 Angola,2025,Rapid Response,35666,CERF-AGO-25-RR-WHO-35666,Health,Health,100.0,799873.54,CERF
+South Sudan,2025,Rapid Response,35699,CERF-SSD-25-RR-FPA-35699,Protection,Protection,42.35000002568133,404019.14,CERF
+South Sudan,2025,Rapid Response,35699,CERF-SSD-25-RR-FPA-35699,Health,Health,57.64999997431867,549981.19,CERF
 South Sudan,2025,Rapid Response,35701,CERF-SSD-25-RR-FAO-35701,Agriculture,Agriculture,100.0,1093500.0,CERF
 South Sudan,2025,Rapid Response,35705,CERF-SSD-25-RR-HCR-35705,Protection,Protection,37.26999977872279,606015.69,CERF
 South Sudan,2025,Rapid Response,35705,CERF-SSD-25-RR-HCR-35705,Shelter and Non-Food Items,Shelter and Non-Food Items,62.730000221277216,1019999.05,CERF
 Democratic Republic of the Congo,2025,Rapid Response,35709,CERF-COD-25-RR-CEF-35709,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,367032.43,CERF
+Democratic Republic of the Congo,2025,Rapid Response,35710,CERF-COD-25-RR-WHO-35710,Health,Health,100.0,375000.29,CERF
 Uganda,2025,Rapid Response,35711,CERF-UGA-25-RR-HCR-35711,Protection,Protection,21.99999990909145,242001.44,CERF
 Uganda,2025,Rapid Response,35711,CERF-UGA-25-RR-HCR-35711,Health,Health,27.999999636365803,308001.83,CERF
 Uganda,2025,Rapid Response,35711,CERF-UGA-25-RR-HCR-35711,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",25.000000227271375,275001.64,CERF
@@ -9489,9 +9492,8 @@ Somalia,2025,Underfunded Emergencies,36319,CERF-SOM-25-UF-1457(TBD),To be determ
 Zambia,2025,Underfunded Emergencies,36320,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4750000.0,CERF
 Central African Republic,2025,Underfunded Emergencies,36321,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,6700000.0,CERF
 Chad,2025,Underfunded Emergencies,36322,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,13500000.0,CERF
-South Sudan,2025,Rapid Response,36323,CERF-SSD-25-RR-1463(TBD),To be determined,To be determined,100.0,7280485.26,CERF
-Democratic Republic of the Congo,2025,Rapid Response,36324,CERF-COD-25-RR-1469(TBD),To be determined,To be determined,100.0,382967.57,CERF
-Burkina Faso,2025,Rapid Response,36325,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,5900000.0,CERF
+South Sudan,2025,Rapid Response,36323,CERF-SSD-25-RR-1463(TBD),To be determined,To be determined,100.0,6326484.93,CERF
+Burkina Faso,2025,Rapid Response,36324,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,5900000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -10964,6 +10966,7 @@ Afghanistan,2025,Reserve,35088,CBPF-AFG-25-R-UN-35088,Emergency Shelter and NFI,
 Afghanistan,2025,Reserve,35088,CBPF-AFG-25-R-UN-35088,"Water, Sanitation and Hygiene",,46.0,791670.7916,CBPF
 Afghanistan,2025,Reserve,35122,CBPF-AFG-25-R-UN-35122,Emergency Shelter and NFI,,60.0,695227.026,CBPF
 Afghanistan,2025,Reserve,35122,CBPF-AFG-25-R-UN-35122,Protection,,40.0,463484.684,CBPF
+Afghanistan,2025,Reserve,35143,CBPF-AFG-25-R-UN-35143,"Water, Sanitation and Hygiene",,100.0,694046.36,CBPF
 Afghanistan,2025,Reserve,35220,CBPF-AFG-25-R-UN-35220,Protection,,100.0,297331.47,CBPF
 Burkina Faso,2022,Reserve,24238,BFA-22/BF_CBPF_RHPF/RA/FS-GBV/NGO/24238,Food Security,,87.0,217496.4939,CBPF
 Burkina Faso,2022,Reserve,24238,BFA-22/BF_CBPF_RHPF/RA/FS-GBV/NGO/24238,Protection,,13.0,32499.4761,CBPF
@@ -17179,6 +17182,12 @@ Myanmar,2025,Standard,35037,CBPF-MM-25-S-INGO-35037,"Water, Sanitation and Hygie
 Myanmar,2025,Standard,35062,CBPF-MM-25-S-INGO-35062,Health,,80.0,520004.152,CBPF
 Myanmar,2025,Standard,35062,CBPF-MM-25-S-INGO-35062,Nutrition,,10.0,65000.519,CBPF
 Myanmar,2025,Standard,35062,CBPF-MM-25-S-INGO-35062,"Water, Sanitation and Hygiene",,10.0,65000.519,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,Education,,8.0,95440.0,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,Emergency Shelter and NFI,,32.0,381760.0,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,Health,,7.0,83510.0,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,Multi-purpose CASH,,23.0,274390.0,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,Protection,,10.0,119300.0,CBPF
+Myanmar,2025,Standard,34967,CBPF-MM-25-S-NGO-34967,"Water, Sanitation and Hygiene",,20.0,238600.0,CBPF
 Myanmar,2025,Standard,34968,CBPF-MM-25-S-NGO-34968,Multi-purpose CASH,,30.0,75000.0,CBPF
 Myanmar,2025,Standard,34968,CBPF-MM-25-S-NGO-34968,Protection,,70.0,175000.0,CBPF
 Myanmar,2025,Standard,34979,CBPF-MM-25-S-NGO-34979,Emergency Shelter and NFI,,28.0,284730.1744,CBPF
@@ -22002,7 +22011,11 @@ South Sudan,2025,Reserve,35132,CBPF-SSD-25-R-NGO-35132,Protection,,100.0,329999.
 South Sudan,2025,Reserve,35617,CBPF-SSD-25-R-NGO-35617,"Water, Sanitation and Hygiene",,100.0,150000.3,CBPF
 South Sudan,2025,Reserve,35620,CBPF-SSD-25-R-NGO-35620,Protection,,100.0,200000.0,CBPF
 South Sudan,2025,Reserve,35622,CBPF-SSD-25-R-NGO-35622,Health,,100.0,266666.98,CBPF
+South Sudan,2025,Reserve,36010,CBPF-SSD-25-R-NGO-36010,Health,,100.0,150000.0,CBPF
+South Sudan,2025,Reserve,36012,CBPF-SSD-25-R-NGO-36012,Health,,100.0,249731.58,CBPF
 South Sudan,2025,Reserve,34954,CBPF-SSD-25-R-UN-34954,Emergency Shelter and NFI,,100.0,226000.0,CBPF
+South Sudan,2025,Reserve,35612,CBPF-SSD-25-R-UN-35612,Health,,30.0,129999.9,CBPF
+South Sudan,2025,Reserve,35612,CBPF-SSD-25-R-UN-35612,"Water, Sanitation and Hygiene",,70.0,303333.1,CBPF
 South Sudan,2025,Reserve,35628,CBPF-SSD-25-R-UN-35628,Health,,100.0,250000.0,CBPF
 South Sudan,2020,Reserve,16404,SSD-20/HSS10/RA1/H/UN/16404,Health,,100.0,4999500.01,CBPF
 South Sudan,2020,Reserve,17639,SSD-20/HSS10/RA2/CCS/UN/17639,Coordination and Support Services,,100.0,500000.0,CBPF
@@ -24093,6 +24106,11 @@ Sudan,2025,Standard,35098,CBPF-SUD-25-S-INGO-35098,Nutrition,,45.0,247146.498,CB
 Sudan,2025,Standard,35138,CBPF-SUD-25-S-INGO-35138,Health,,62.0,496000.1984,CBPF
 Sudan,2025,Standard,35138,CBPF-SUD-25-S-INGO-35138,Nutrition,,38.0,304000.1216,CBPF
 Sudan,2025,Standard,35141,CBPF-SUD-25-S-INGO-35141,"Water, Sanitation and Hygiene",,100.0,300000.31,CBPF
+Sudan,2025,Standard,35230,CBPF-SUD-25-S-INGO-35230,Emergency Shelter and NFI,,10.0,110000.0,CBPF
+Sudan,2025,Standard,35230,CBPF-SUD-25-S-INGO-35230,Food Security,,40.0,440000.0,CBPF
+Sudan,2025,Standard,35230,CBPF-SUD-25-S-INGO-35230,Health,,20.0,220000.0,CBPF
+Sudan,2025,Standard,35230,CBPF-SUD-25-S-INGO-35230,Nutrition,,20.0,220000.0,CBPF
+Sudan,2025,Standard,35230,CBPF-SUD-25-S-INGO-35230,Protection,,10.0,110000.0,CBPF
 Sudan,2025,Standard,35257,CBPF-SUD-25-S-INGO-35257,Emergency Shelter and NFI,,16.0,384000.0,CBPF
 Sudan,2025,Standard,35257,CBPF-SUD-25-S-INGO-35257,Food Security,,21.0,504000.0,CBPF
 Sudan,2025,Standard,35257,CBPF-SUD-25-S-INGO-35257,Health,,17.0,408000.0,CBPF
@@ -24105,11 +24123,20 @@ Sudan,2025,Standard,35259,CBPF-SUD-25-S-INGO-35259,Protection,,2.0,70000.0,CBPF
 Sudan,2025,Standard,35259,CBPF-SUD-25-S-INGO-35259,Protection,,2.0,70000.0,CBPF
 Sudan,2025,Standard,35259,CBPF-SUD-25-S-INGO-35259,Protection,,4.0,140000.0,CBPF
 Sudan,2025,Standard,35259,CBPF-SUD-25-S-INGO-35259,"Water, Sanitation and Hygiene",,13.0,455000.0,CBPF
+Sudan,2025,Standard,35269,CBPF-SUD-25-S-INGO-35269,Food Security,,35.0,700000.0,CBPF
+Sudan,2025,Standard,35269,CBPF-SUD-25-S-INGO-35269,Health,,33.0,660000.0,CBPF
+Sudan,2025,Standard,35269,CBPF-SUD-25-S-INGO-35269,Nutrition,,32.0,640000.0,CBPF
 Sudan,2025,Standard,35271,CBPF-SUD-25-S-INGO-35271,Food Security,,100.0,650000.0,CBPF
+Sudan,2025,Standard,35284,CBPF-SUD-25-S-INGO-35284,Emergency Shelter and NFI,,21.0,304500.0,CBPF
+Sudan,2025,Standard,35284,CBPF-SUD-25-S-INGO-35284,Food Security,,21.0,304500.0,CBPF
+Sudan,2025,Standard,35284,CBPF-SUD-25-S-INGO-35284,Health,,17.0,246500.0,CBPF
+Sudan,2025,Standard,35284,CBPF-SUD-25-S-INGO-35284,Nutrition,,11.0,159500.0,CBPF
+Sudan,2025,Standard,35284,CBPF-SUD-25-S-INGO-35284,"Water, Sanitation and Hygiene",,30.0,435000.0,CBPF
 Sudan,2025,Standard,35294,CBPF-SUD-25-S-INGO-35294,Health,,33.0,857865.822,CBPF
 Sudan,2025,Standard,35294,CBPF-SUD-25-S-INGO-35294,Nutrition,,49.0,1273800.766,CBPF
 Sudan,2025,Standard,35294,CBPF-SUD-25-S-INGO-35294,Protection,,6.0,155975.604,CBPF
 Sudan,2025,Standard,35294,CBPF-SUD-25-S-INGO-35294,Protection,,12.0,311951.208,CBPF
+Sudan,2025,Standard,35295,CBPF-SUD-25-S-INGO-35295,Food Security,,100.0,499642.49,CBPF
 Sudan,2025,Standard,35523,CBPF-SUD-25-S-INGO-35523,Food Security,,60.0,582000.186,CBPF
 Sudan,2025,Standard,35523,CBPF-SUD-25-S-INGO-35523,Health,,20.0,194000.062,CBPF
 Sudan,2025,Standard,35523,CBPF-SUD-25-S-INGO-35523,Nutrition,,20.0,194000.062,CBPF
@@ -24129,6 +24156,9 @@ Sudan,2025,Standard,35528,CBPF-SUD-25-S-INGO-35528,Emergency Shelter and NFI,,57
 Sudan,2025,Standard,35528,CBPF-SUD-25-S-INGO-35528,"Water, Sanitation and Hygiene",,43.0,629520.0,CBPF
 Sudan,2025,Standard,35546,CBPF-SUD-25-S-INGO-35546,Health,,63.0,189000.0,CBPF
 Sudan,2025,Standard,35546,CBPF-SUD-25-S-INGO-35546,Nutrition,,37.0,111000.0,CBPF
+Sudan,2025,Standard,35577,CBPF-SUD-25-S-INGO-35577,Health,,31.0,201421.043,CBPF
+Sudan,2025,Standard,35577,CBPF-SUD-25-S-INGO-35577,Nutrition,,31.0,201421.043,CBPF
+Sudan,2025,Standard,35577,CBPF-SUD-25-S-INGO-35577,Protection,,38.0,246903.214,CBPF
 Sudan,2025,Standard,35262,CBPF-SUD-25-S-O-35262,Food Security,,100.0,600000.0,CBPF
 Sudan,2020,Reserve,17951,SUD-20/HSD20/ RA5/FSL/INGO/17951,Food Security,,100.0,1455500.8,CBPF
 Sudan,2020,Reserve,17948,SUD-20/HSD20/ RA5/H-N/INGO/17948,Health,,50.0,250000.15,CBPF
@@ -25716,6 +25746,7 @@ Syria,2024,Standard,33376,CBPF-SYR-24-S-UN-33376,Food Security,,55.0,279938.802,
 Syria,2024,Standard,33376,CBPF-SYR-24-S-UN-33376,Health,,45.0,229040.838,CBPF
 Syria,2024,Standard,33395,CBPF-SYR-24-S-UN-33395,Education,,100.0,249999.94,CBPF
 Syria,2024,Standard,33396,CBPF-SYR-24-S-UN-33396,Protection,,100.0,520000.01,CBPF
+Syria,2025,Reserve,35657,CBPF-SYR-25-R-INGO-35657,Emergency Shelter and NFI,,100.0,700000.0,CBPF
 Syria,2025,Reserve,34783,CBPF-SYR-25-R-NGO-34783,"Water, Sanitation and Hygiene",,100.0,350000.0,CBPF
 Syria,2025,Reserve,34791,CBPF-SYR-25-R-UN-34791,Health,,100.0,100000.01,CBPF
 Syria,2025,Reserve,34813,CBPF-SYR-25-R-UN-34813,Health,,73.0,401500.0438,CBPF
@@ -29495,6 +29526,8 @@ Yemen,2025,Standard,35200,CBPF-YEM-25-S-NGO-35200,Protection,,35.0,174307.924,CB
 Yemen,2025,Standard,35200,CBPF-YEM-25-S-NGO-35200,"Water, Sanitation and Hygiene",,30.0,149406.792,CBPF
 Yemen,2025,Standard,35208,CBPF-YEM-25-S-NGO-35208,Health,,73.0,298642.27,CBPF
 Yemen,2025,Standard,35208,CBPF-YEM-25-S-NGO-35208,"Water, Sanitation and Hygiene",,27.0,110456.73,CBPF
+Yemen,2025,Standard,35217,CBPF-YEM-25-S-NGO-35217,Emergency Shelter and NFI,,75.0,371627.7525,CBPF
+Yemen,2025,Standard,35217,CBPF-YEM-25-S-NGO-35217,Protection,,25.0,123875.9175,CBPF
 Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,Camp Coordination / Management,,22.0,114762.472,CBPF
 Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,Emergency Shelter and NFI,,17.0,88680.092,CBPF
 Yemen,2025,Standard,35244,CBPF-YEM-25-S-NGO-35244,"Water, Sanitation and Hygiene",,61.0,318205.036,CBPF
