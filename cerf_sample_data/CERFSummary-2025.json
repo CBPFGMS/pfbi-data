@@ -1,14 +1,14 @@
 {
     "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
-    "donors": 56,
+    "donors": 57,
     "funds": 21,
-    "contribTotalAmt": 309077851.9151,
-    "contribPaidAmt": 248973706.97,
-    "contribPledgedAmt": 60104144.945099995,
-    "allocAmt": 188231047.60999998,
+    "contribTotalAmt": 309374520.8512,
+    "contribPaidAmt": 255179358.67999998,
+    "contribPledgedAmt": 54195162.1712,
+    "allocAmt": 188221608.55000004,
     "underApprovalAmt": "0",
     "year": "2025",
-    "projectsFunded": 72,
+    "projectsFunded": 80,
     "partnersFunded": 10,
     "partnersFundedByType": [
         {

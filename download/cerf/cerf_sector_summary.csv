@@ -9454,13 +9454,18 @@ Afghanistan,2025,Rapid Response,35354,CERF-AFG-25-RR-WOM-35354,Multi-Purpose Cas
 Afghanistan,2025,Rapid Response,35354,CERF-AFG-25-RR-WOM-35354,Protection,Protection,46.99999954000008,235000.04
 Afghanistan,2025,Rapid Response,35355,CERF-AFG-25-RR-FPA-35355,Protection,Protection,10.000000400002456,99999.39
 Afghanistan,2025,Rapid Response,35355,CERF-AFG-25-RR-FPA-35355,Health,Health,89.99999959999754,899994.47
+Mauritania,2025,Underfunded Emergencies,35374,CERF-MRT-25-UF-FPA-35374,Health,Health,100.0,500000.0
 Myanmar,2025,Rapid Response,35405,CERF-MMR-25-RR-IOM-35405,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1500000.0
 Myanmar,2025,Rapid Response,35406,CERF-MMR-25-RR-WHO-35406,Health,Health,100.0,1500000.47
 Niger,2025,Underfunded Emergencies,35443,CERF-NER-25-UF-WFP-35443,Food Aid,Food Aid,100.0,1850000.0
 Niger,2025,Underfunded Emergencies,35444,CERF-NER-25-UF-WHO-35444,Health,Health,100.0,1750000.0
+Niger,2025,Underfunded Emergencies,35445,CERF-NER-25-UF-FAO-35445,Agriculture,Agriculture,100.0,1300000.37
 Niger,2025,Underfunded Emergencies,35446,CERF-NER-25-UF-CEF-35446,Nutrition,Nutrition,100.0,2100000.02
+Chad,2025,Underfunded Emergencies,35482,CERF-TCD-25-UF-HCR-35482,Protection,Protection,45.00000005555554,2025000.43
+Chad,2025,Underfunded Emergencies,35482,CERF-TCD-25-UF-HCR-35482,Shelter and Non-Food Items,Shelter and Non-Food Items,54.999999944444454,2475000.52
 Central African Republic,2025,Underfunded Emergencies,35485,CERF-CAF-25-UF-WFP-35485,Food Aid,Food Aid,100.0,1600000.11
 Central African Republic,2025,Underfunded Emergencies,35487,CERF-CAF-25-UF-CEF-35487,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1299959.05
+Central African Republic,2025,Underfunded Emergencies,35488,CERF-CAF-25-UF-FPA-35488,Protection,Protection,100.0,1000000.0
 Bolivia,2025,Rapid Response,35534,CERF-BOL-25-RR-FAO-35534,Agriculture,Agriculture,100.0,150000.0
 Bolivia,2025,Rapid Response,35536,CERF-BOL-25-RR-CEF-35536,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,399997.19
 Bolivia,2025,Rapid Response,35537,CERF-BOL-25-RR-WFP-35537,Food Aid,Food Aid,100.0,450000.09
@@ -9468,13 +9473,19 @@ Myanmar,2025,Rapid Response,35553,CERF-MMR-25-RR-FPA-35553,Health,Health,76.9999
 Myanmar,2025,Rapid Response,35553,CERF-MMR-25-RR-FPA-35553,Protection,Protection,23.000000626667408,172499.8
 Honduras,2025,Underfunded Emergencies,35557,CERF-HND-25-UF-IOM-35557,Protection,Protection,50.0,396000.0
 Honduras,2025,Underfunded Emergencies,35557,CERF-HND-25-UF-IOM-35557,Camp Coordination and Camp Management,Camp Coordination and Camp Management,50.0,396000.0
+Honduras,2025,Underfunded Emergencies,35558,CERF-HND-25-UF-WFP-35558,Food Aid,Food Aid,100.0,1178031.65
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,48.0000001292407,594240.04
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,3.999999741518595,49520.0
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Education,Education,48.0000001292407,594240.04
 Niger,2025,Underfunded Emergencies,35662,CERF-NER-25-UF-FAO-35662,Agriculture,Agriculture,100.0,800000.0
 Niger,2025,Underfunded Emergencies,35663,CERF-NER-25-UF-WFP-35663,Food Aid,Food Aid,100.0,800000.0
+Chad,2025,Underfunded Emergencies,35664,CERF-TCD-25-UF-FAO-35664,Agriculture,Agriculture,100.0,1000000.0
 Angola,2025,Rapid Response,35665,CERF-AGO-25-RR-CEF-35665,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1000000.0
 Angola,2025,Rapid Response,35666,CERF-AGO-25-RR-WHO-35666,Health,Health,100.0,799873.54
+Chad,2025,Underfunded Emergencies,35668,CERF-TCD-25-UF-CEF-35668,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,500000.0
+Honduras,2025,Underfunded Emergencies,35675,CERF-HND-25-UF-HCR-35675,Protection,Protection,100.0,1188000.0
+Honduras,2025,Underfunded Emergencies,35676,CERF-HND-25-UF-WHO-35676,Health,Health,100.0,594000.0
+South Sudan,2025,Rapid Response,35696,CERF-SSD-25-RR-WHO-35696,Health,Health,100.0,1650427.95
 South Sudan,2025,Rapid Response,35699,CERF-SSD-25-RR-FPA-35699,Protection,Protection,42.35000002568133,404019.14
 South Sudan,2025,Rapid Response,35699,CERF-SSD-25-RR-FPA-35699,Health,Health,57.64999997431867,549981.19
 South Sudan,2025,Rapid Response,35700,CERF-SSD-25-RR-WFP-35700,Nutrition,Nutrition,25.0,449124.9
@@ -9492,16 +9503,14 @@ Uganda,2025,Rapid Response,35711,CERF-UGA-25-RR-HCR-35711,"Water, Sanitation and
 Uganda,2025,Rapid Response,35711,CERF-UGA-25-RR-HCR-35711,Camp Coordination and Camp Management,Camp Coordination and Camp Management,25.000000227271375,275001.64
 Uganda,2025,Rapid Response,35712,CERF-UGA-25-RR-WFP-35712,Food Aid,Food Aid,100.0,1000009.12
 Uganda,2025,Rapid Response,35713,CERF-UGA-25-RR-CEF-35713,Nutrition,Nutrition,100.0,400000.04
+Chad,2025,Underfunded Emergencies,36017,CERF-TCD-25-UF-IOM-36017,Multi-Purpose Cash,Multi-Purpose Cash,100.0,500000.0
 Lebanon,2025,Rapid Response,36312,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0
 Republic of the Sudan,2025,Underfunded Emergencies,36313,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,6599999.18
 Venezuela,2025,Underfunded Emergencies,36314,CERF-VEN-25-UF-1452(TBD),To be determined,To be determined,100.0,9100000.0
 Afghanistan,2025,Underfunded Emergencies,36315,CERF-AFG-25-UF-1453(TBD),To be determined,To be determined,100.0,20000000.0
-Mauritania,2025,Underfunded Emergencies,36316,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,5000000.0
-Honduras,2025,Underfunded Emergencies,36317,CERF-HND-25-UF-1455(TBD),To be determined,To be determined,100.0,2969999.92
-Niger,2025,Underfunded Emergencies,36318,CERF-NER-25-UF-1456(TBD),To be determined,To be determined,100.0,1299999.98
-Somalia,2025,Underfunded Emergencies,36319,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,14850000.0
-Zambia,2025,Underfunded Emergencies,36320,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4750000.0
-Central African Republic,2025,Underfunded Emergencies,36321,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,3800040.84
-Chad,2025,Underfunded Emergencies,36322,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,13500000.0
-South Sudan,2025,Rapid Response,36323,CERF-SSD-25-RR-1463(TBD),To be determined,To be determined,100.0,1649899.13
-Burkina Faso,2025,Rapid Response,36324,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,5900000.0
+Mauritania,2025,Underfunded Emergencies,36316,CERF-MRT-25-UF-1454(TBD),To be determined,To be determined,100.0,4500000.0
+Somalia,2025,Underfunded Emergencies,36317,CERF-SOM-25-UF-1457(TBD),To be determined,To be determined,100.0,14850000.0
+Zambia,2025,Underfunded Emergencies,36318,CERF-ZMB-25-UF-1458(TBD),To be determined,To be determined,100.0,4750000.0
+Central African Republic,2025,Underfunded Emergencies,36319,CERF-CAF-25-UF-1459(TBD),To be determined,To be determined,100.0,2800040.84
+Chad,2025,Underfunded Emergencies,36320,CERF-TCD-25-UF-1460(TBD),To be determined,To be determined,100.0,6999999.05
+Burkina Faso,2025,Rapid Response,36321,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,5900000.0
