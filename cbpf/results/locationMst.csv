@@ -9566,11 +9566,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 9242, Syria Cross border > Aleppo > Jebel Saman (Aleppo) > Daret Azza > Deir Samaan,Aleppo,36.206013,37.15242
 9243, Syria Cross border > Idleb > Harim > Dana > Sarmada,Idleb,35.929008,36.635276
 9244, Syria Cross border > Idleb > Harim > Dana > Tal Elkaramej,Idleb,35.929008,36.635276
-9245, Syria Cross border > Idleb > Harim > Salqin > Big Hir Jamus,Idleb,35.929008,36.635276
+9245, Syria Cross border > Aleppo > A'zaz > A'zaz > Salama,Aleppo,36.206013,37.15242
 9246, Syria Cross border > Idleb > Harim > Salqin > Tlul,Idleb,35.929008,36.635276
-9247, Syria Cross border > Idleb > Harim > Salqin > Hamziyeh,Idleb,35.929008,36.635276
+9247, Syria Cross border > Idleb > Harim > Salqin > Big Hir Jamus,Idleb,35.929008,36.635276
 9248, Syria Cross border > Idleb > Harim > Salqin > Delbiya,Idleb,35.929008,36.635276
-9249, Syria Cross border > Aleppo > A'zaz > A'zaz > Salama,Aleppo,36.206013,37.15242
+9249, Syria Cross border > Idleb > Harim > Salqin > Hamziyeh,Idleb,35.929008,36.635276
 9250, Syria Cross border > Idleb > Harim > Dana > Burdaqly,Idleb,35.929008,36.635276
 9251, Syria Cross border > Idleb > Harim > Dana > Atma,Idleb,35.929008,36.635276
 9252, Syria Cross border > Idleb > Harim > Dana > Aqrabat,Idleb,35.929008,36.635276
@@ -12782,12 +12782,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12436,Hajjah -> Bani Al Awam -> Al-Barar,Hajjah,16.27488061,43.11225315
 12437,Hajjah -> Bani Al Awam -> Al-Mancab,Hajjah,16.27488061,43.11225315
 12438,Hajjah -> Bani Al Awam -> Al-Maqaweh,Hajjah,16.27488061,43.11225315
-12439,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
+12439,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
 12440,Hajjah -> Wadhrah -> Al-Shuaybah,Hajjah,16.27488061,43.11225315
-12441,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
-12442,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
-12443,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
-12444,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
+12441,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
+12442,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
+12443,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
+12444,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
 12445,Sana'a -> Al Haymah Ad Dakhiliyah -> Mahzar,Sana'a,15.12394358,44.78727759
 12446,Sana'a -> Sa'fan -> Sahef,Sana'a,15.12394358,44.78727759
 12447,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Tharah,Sana'a,15.12394358,44.78727759
@@ -13166,13 +13166,13 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12820, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
 12821, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
 12822, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
-12823, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12824, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-12825, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-12826, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-12827, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-12828, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12829, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12823, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+12824, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
+12825, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+12826, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
+12827, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12828, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12829, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
 12830, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
 12831, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
 12832, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
@@ -13189,8 +13189,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12843, Marib > Bidbadah,Marib,15.56841151,45.76081505
 12844, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 12845, Marib > Mahliyah,Marib,15.56841151,45.76081505
-12846, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-12847, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+12846, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+12847, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 12848, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 12849, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 12850, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
