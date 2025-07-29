@@ -12323,7 +12323,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11976,Hadramaut -> Ghayl Ba Wazir -> Al-Carah,Hadramaut,16.80924424,48.84638589
 11977,Hadramaut -> Al Mukalla -> Bein Al-Jebal,Hadramaut,16.80924424,48.84638589
 11978,Hadramaut -> Ghayl Ba Wazir -> Ras Al-Aqeim,Hadramaut,16.80924424,48.84638589
-11979,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Ghayl Ba Wazir,14.77603,49.3718
+11979,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Hadramaut,16.80924424,48.84638589
 11980,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
 11981,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 11982,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
@@ -13126,12 +13126,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12779, Marib > Al Jubah,Marib,15.56841151,45.76081505
 12780, Al Bayda > Nati',Al Bayda,14.21742373,45.55495025
 12781, Abyan > Al Mahfad,Abyan,13.6955485,46.50340692
-12782, Aden > Craiter,Aden,12.84865928,45.00201169
-12783, Aden > Al Mualla,Aden,12.84865928,45.00201169
+12782, Aden > Al Mualla,Aden,12.84865928,45.00201169
+12783, Aden > Craiter,Aden,12.84865928,45.00201169
 12784, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-12785, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-12786, Marib > Raghwan,Marib,15.56841151,45.76081505
-12787, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+12785, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+12786, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+12787, Marib > Raghwan,Marib,15.56841151,45.76081505
 12788, Lahj > Halimayn,Lahj,12.96593663,44.41733354
 12789, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
 12790, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
