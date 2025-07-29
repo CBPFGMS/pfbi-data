@@ -9559,12 +9559,12 @@ Nigeria,2025,Rapid Response,36306,CERF-NGA-25-RR-CEF-36306,Health,Health,16.6700
 Nigeria,2025,Rapid Response,36307,CERF-NGA-25-RR-WFP-36307,Nutrition,Nutrition,100.0,1499999.95,CERF
 Nigeria,2025,Rapid Response,36309,CERF-NGA-25-RR-WHO-36309,Health,Health,100.0,1000000.0,CERF
 Nigeria,2025,Rapid Response,36311,CERF-NGA-25-RR-HCR-36311,Protection,Protection,100.0,500000.46,CERF
-Lebanon,2025,Rapid Response,36443,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Guatemala,2025,Rapid Response,36444,CERF-GTM-25-RR-1447(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Republic of the Sudan,2025,Underfunded Emergencies,36445,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,2299999.18,CERF
-Burkina Faso,2025,Rapid Response,36446,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,1599999.54,CERF
-Ethiopia,2025,Rapid Response,36447,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Afghanistan,2025,Rapid Response,36448,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Lebanon,2025,Rapid Response,36869,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Guatemala,2025,Rapid Response,36870,CERF-GTM-25-RR-1447(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Republic of the Sudan,2025,Underfunded Emergencies,36871,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,2299999.18,CERF
+Burkina Faso,2025,Rapid Response,36872,CERF-BFA-25-RR-1471(TBD),To be determined,To be determined,100.0,1599999.54,CERF
+Ethiopia,2025,Rapid Response,36873,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Afghanistan,2025,Rapid Response,36874,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -12606,6 +12606,8 @@ DRC,2025,Reserve,35456,CBPF-DRC-25-R-INGO-35456,Multi-Sector,,33.0,198000.0,CBPF
 DRC,2025,Reserve,35456,CBPF-DRC-25-R-INGO-35456,Protection,,17.0,102000.0,CBPF
 DRC,2025,Reserve,35498,CBPF-DRC-25-R-INGO-35498,Emergency Shelter and NFI,,50.0,300000.005,CBPF
 DRC,2025,Reserve,35498,CBPF-DRC-25-R-INGO-35498,"Water, Sanitation and Hygiene",,50.0,300000.005,CBPF
+DRC,2025,Reserve,35502,CBPF-DRC-25-R-INGO-35502,Emergency Shelter and NFI,,77.0,500500.0,CBPF
+DRC,2025,Reserve,35502,CBPF-DRC-25-R-INGO-35502,"Water, Sanitation and Hygiene",,23.0,149500.0,CBPF
 DRC,2025,Reserve,35511,CBPF-DRC-25-R-INGO-35511,Protection,,55.0,412500.0,CBPF
 DRC,2025,Reserve,35511,CBPF-DRC-25-R-INGO-35511,"Water, Sanitation and Hygiene",,45.0,337500.0,CBPF
 DRC,2025,Reserve,35549,CBPF-DRC-25-R-INGO-35549,Nutrition,,64.0,352000.0,CBPF
@@ -16387,10 +16389,10 @@ Lebanon,2024,Reserve,34607,CBPF-LEB-24-R-INGO-34607,Education,,7.0,56000.0,CBPF
 Lebanon,2024,Reserve,34607,CBPF-LEB-24-R-INGO-34607,Emergency Shelter and NFI,,10.0,80000.0,CBPF
 Lebanon,2024,Reserve,34607,CBPF-LEB-24-R-INGO-34607,Health,,58.0,464000.0,CBPF
 Lebanon,2024,Reserve,34607,CBPF-LEB-24-R-INGO-34607,Nutrition,,25.0,200000.0,CBPF
-Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Emergency Shelter and NFI,,24.0,120000.0,CBPF
-Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Emergency Shelter and NFI,,26.0,130000.0,CBPF
-Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Food Security,,34.0,170000.0,CBPF
-Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,"Water, Sanitation and Hygiene",,16.0,80000.0,CBPF
+Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Emergency Shelter and NFI,,20.0,100000.0,CBPF
+Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Emergency Shelter and NFI,,25.0,125000.0,CBPF
+Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,Food Security,,28.0,140000.0,CBPF
+Lebanon,2024,Reserve,34608,CBPF-LEB-24-R-INGO-34608,"Water, Sanitation and Hygiene",,27.0,135000.0,CBPF
 Lebanon,2024,Reserve,34609,CBPF-LEB-24-R-INGO-34609,Education,,17.0,255000.0,CBPF
 Lebanon,2024,Reserve,34609,CBPF-LEB-24-R-INGO-34609,Emergency Shelter and NFI,,25.0,375000.0,CBPF
 Lebanon,2024,Reserve,34609,CBPF-LEB-24-R-INGO-34609,Food Security,,36.0,540000.0,CBPF
