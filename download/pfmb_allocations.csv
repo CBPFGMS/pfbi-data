@@ -9512,6 +9512,10 @@ Honduras,2025,Underfunded Emergencies,35558,CERF-HND-25-UF-WFP-35558,Food Aid,Fo
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,48.0000001292407,594240.04,CERF
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,3.999999741518595,49520.0,CERF
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Education,Education,48.0000001292407,594240.04,CERF
+Guatemala,2025,Rapid Response,35599,CERF-GTM-25-RR-CEF-35599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.0,400000.0,CERF
+Guatemala,2025,Rapid Response,35599,CERF-GTM-25-RR-CEF-35599,Nutrition,Nutrition,50.0,400000.0,CERF
+Guatemala,2025,Rapid Response,35601,CERF-GTM-25-RR-WFP-35601,Multi-Purpose Cash,Multi-Purpose Cash,80.0,1280000.0,CERF
+Guatemala,2025,Rapid Response,35601,CERF-GTM-25-RR-WFP-35601,Food Aid,Food Aid,20.0,320000.0,CERF
 Central African Republic,2025,Underfunded Emergencies,35661,CERF-CAF-25-UF-WOM-35661,Agriculture,Agriculture,100.0,700000.0,CERF
 Niger,2025,Underfunded Emergencies,35662,CERF-NER-25-UF-FAO-35662,Agriculture,Agriculture,100.0,800000.0,CERF
 Niger,2025,Underfunded Emergencies,35663,CERF-NER-25-UF-WFP-35663,Food Aid,Food Aid,100.0,800000.0,CERF
@@ -9561,7 +9565,7 @@ Nigeria,2025,Rapid Response,36307,CERF-NGA-25-RR-WFP-36307,Nutrition,Nutrition,1
 Nigeria,2025,Rapid Response,36309,CERF-NGA-25-RR-WHO-36309,Health,Health,100.0,1000000.0,CERF
 Nigeria,2025,Rapid Response,36311,CERF-NGA-25-RR-HCR-36311,Protection,Protection,100.0,500000.46,CERF
 Lebanon,2025,Rapid Response,36899,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Guatemala,2025,Rapid Response,36900,CERF-GTM-25-RR-1447(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Guatemala,2025,Rapid Response,36900,CERF-GTM-25-RR-1447(TBD),To be determined,To be determined,100.0,1600000.0,CERF
 Republic of the Sudan,2025,Underfunded Emergencies,36901,CERF-SDN-25-UF-1451(TBD),To be determined,To be determined,100.0,2299999.18,CERF
 Ethiopia,2025,Rapid Response,36902,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,3000000.0,CERF
 Afghanistan,2025,Rapid Response,36903,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
@@ -14131,6 +14135,25 @@ Ethiopia,2025,Reserve,35904,CBPF-ETH-25-R-NGO-35904,Camp Coordination / Manageme
 Ethiopia,2025,Reserve,35904,CBPF-ETH-25-R-NGO-35904,Emergency Shelter and NFI,,70.0,595000.0,CBPF
 Ethiopia,2025,Reserve,35933,CBPF-ETH-25-R-NGO-35933,Protection,,100.0,500000.0,CBPF
 Ethiopia,2025,Reserve,36062,CBPF-ETH-25-R-NGO-36062,Camp Coordination / Management,,100.0,249996.67,CBPF
+Ethiopia,2025,Standard,35912,CBPF-ETH-25-S-INGO-35912,Education,,100.0,500000.0,CBPF
+Ethiopia,2025,Standard,35885,CBPF-ETH-25-S-NGO-35885,Food Security,,50.0,250000.0,CBPF
+Ethiopia,2025,Standard,35885,CBPF-ETH-25-S-NGO-35885,Health,,20.0,100000.0,CBPF
+Ethiopia,2025,Standard,35885,CBPF-ETH-25-S-NGO-35885,Nutrition,,10.0,50000.0,CBPF
+Ethiopia,2025,Standard,35885,CBPF-ETH-25-S-NGO-35885,"Water, Sanitation and Hygiene",,20.0,100000.0,CBPF
+Ethiopia,2025,Standard,35949,CBPF-ETH-25-S-NGO-35949,Food Security,,25.0,249999.9575,CBPF
+Ethiopia,2025,Standard,35949,CBPF-ETH-25-S-NGO-35949,Health,,25.0,249999.9575,CBPF
+Ethiopia,2025,Standard,35949,CBPF-ETH-25-S-NGO-35949,Nutrition,,25.0,249999.9575,CBPF
+Ethiopia,2025,Standard,35949,CBPF-ETH-25-S-NGO-35949,"Water, Sanitation and Hygiene",,25.0,249999.9575,CBPF
+Ethiopia,2025,Standard,35966,CBPF-ETH-25-S-NGO-35966,Food Security,,25.0,250000.0,CBPF
+Ethiopia,2025,Standard,35966,CBPF-ETH-25-S-NGO-35966,Health,,25.0,250000.0,CBPF
+Ethiopia,2025,Standard,35966,CBPF-ETH-25-S-NGO-35966,Nutrition,,30.0,300000.0,CBPF
+Ethiopia,2025,Standard,35966,CBPF-ETH-25-S-NGO-35966,"Water, Sanitation and Hygiene",,20.0,200000.0,CBPF
+Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Education,,40.0,400000.0,CBPF
+Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Food Security,,15.0,150000.0,CBPF
+Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Health,,15.0,150000.0,CBPF
+Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Nutrition,,15.0,150000.0,CBPF
+Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,"Water, Sanitation and Hygiene",,15.0,150000.0,CBPF
+Ethiopia,2025,Standard,36142,CBPF-ETH-25-S-NGO-36142,Protection,,100.0,250000.0,CBPF
 Ethiopia,2013,Reserve,23,ETH-13/X/DDA-3379/ER/A/INGO/23,Nutrition,,100.0,254168.27,CBPF
 Ethiopia,2013,Reserve,154,ETH-13/X/DDA-3379/ER/E/INGO/154,Education,,100.0,368884.0,CBPF
 Ethiopia,2013,Reserve,170,ETH-13/X/DDA-3379/ER/FS/INGO/170,Food Security,,100.0,649464.53,CBPF
@@ -16600,6 +16623,29 @@ Lebanon,2024,Standard,28335,CBPF-LEB-24-S-NGO-28335,Emergency Shelter and NFI,,4
 Lebanon,2024,Standard,28335,CBPF-LEB-24-S-NGO-28335,Food Security,,8.0,59999.3216,CBPF
 Lebanon,2024,Standard,28335,CBPF-LEB-24-S-NGO-28335,Protection,,46.0,344996.0992,CBPF
 Lebanon,2025,Reserve,34788,CBPF-LEB-25-R-UN-34788,Coordination and Support Services,,100.0,149999.96,CBPF
+Lebanon,2025,Standard,35729,CBPF-LEB-25-S-INGO-35729,"Water, Sanitation and Hygiene",,100.0,1000000.0,CBPF
+Lebanon,2025,Standard,35807,CBPF-LEB-25-S-INGO-35807,Food Security,,100.0,350000.0,CBPF
+Lebanon,2025,Standard,35813,CBPF-LEB-25-S-INGO-35813,Emergency Shelter and NFI,,50.0,250000.0,CBPF
+Lebanon,2025,Standard,35813,CBPF-LEB-25-S-INGO-35813,Food Security,,50.0,250000.0,CBPF
+Lebanon,2025,Standard,35816,CBPF-LEB-25-S-INGO-35816,Emergency Shelter and NFI,,41.0,218935.0103,CBPF
+Lebanon,2025,Standard,35816,CBPF-LEB-25-S-INGO-35816,Protection,,11.0,58738.6613,CBPF
+Lebanon,2025,Standard,35816,CBPF-LEB-25-S-INGO-35816,Protection,,22.0,117477.3226,CBPF
+Lebanon,2025,Standard,35816,CBPF-LEB-25-S-INGO-35816,Protection,,26.0,138836.8358,CBPF
+Lebanon,2025,Standard,35839,CBPF-LEB-25-S-INGO-35839,Emergency Shelter and NFI,,31.0,217000.0,CBPF
+Lebanon,2025,Standard,35839,CBPF-LEB-25-S-INGO-35839,Food Security,,69.0,483000.0,CBPF
+Lebanon,2025,Standard,35773,CBPF-LEB-25-S-NGO-35773,Emergency Shelter and NFI,,31.0,123970.1563,CBPF
+Lebanon,2025,Standard,35773,CBPF-LEB-25-S-NGO-35773,Food Security,,69.0,275933.5737,CBPF
+Lebanon,2025,Standard,35817,CBPF-LEB-25-S-NGO-35817,Health,,85.0,254825.529,CBPF
+Lebanon,2025,Standard,35817,CBPF-LEB-25-S-NGO-35817,Nutrition,,15.0,44969.211,CBPF
+Lebanon,2025,Standard,35867,CBPF-LEB-25-S-NGO-35867,Food Security,,73.0,291730.2723,CBPF
+Lebanon,2025,Standard,35867,CBPF-LEB-25-S-NGO-35867,"Water, Sanitation and Hygiene",,27.0,107900.2377,CBPF
+Lebanon,2025,Standard,35868,CBPF-LEB-25-S-NGO-35868,Food Security,,100.0,759999.81,CBPF
+Lebanon,2025,Standard,35879,CBPF-LEB-25-S-NGO-35879,Emergency Shelter and NFI,,100.0,400000.0,CBPF
+Lebanon,2025,Standard,35895,CBPF-LEB-25-S-NGO-35895,Food Security,,100.0,149976.76,CBPF
+Lebanon,2025,Standard,35902,CBPF-LEB-25-S-NGO-35902,Emergency Shelter and NFI,,33.0,107250.0,CBPF
+Lebanon,2025,Standard,35902,CBPF-LEB-25-S-NGO-35902,Food Security,,67.0,217750.0,CBPF
+Lebanon,2025,Standard,35971,CBPF-LEB-25-S-NGO-35971,Emergency Shelter and NFI,,27.0,107569.026,CBPF
+Lebanon,2025,Standard,35971,CBPF-LEB-25-S-NGO-35971,Protection,,73.0,290834.774,CBPF
 Lebanon,2015,Standard,1662,LEB-15/DDA-3604/Call for Proposals/BA/INGO/1662,Emergency Shelter and NFI,,100.0,173197.67,CBPF
 Lebanon,2015,Standard,1643,LEB-15/DDA-3604/Call for Proposals/BA-LH-P/NGO/1643,Early Recovery,,25.0,50093.03,CBPF
 Lebanon,2015,Standard,1643,LEB-15/DDA-3604/Call for Proposals/BA-LH-P/NGO/1643,Emergency Shelter and NFI,,25.0,50093.03,CBPF
@@ -16991,6 +17037,8 @@ Mali,2025,Reserve,34894,CBPF-MLI-25-R-NGO-34894,Emergency Shelter and NFI,,31.0,
 Mali,2025,Reserve,34894,CBPF-MLI-25-R-NGO-34894,"Water, Sanitation and Hygiene",,69.0,179400.0207,CBPF
 Mozambique (RhPF),2025,Reserve,34663,CBPF-MOZ-25-R-NGO-34663,"Water, Sanitation and Hygiene",,100.0,500000.0,CBPF
 Mozambique (RhPF),2025,Reserve,34669,CBPF-MOZ-25-R-NGO-34669,"Water, Sanitation and Hygiene",,100.0,500000.0,CBPF
+Mozambique (RhPF),2025,Standard,34962,CBPF-MOZ-25-S-NGO-34962,Emergency Shelter and NFI,,40.0,51976.456,CBPF
+Mozambique (RhPF),2025,Standard,34962,CBPF-MOZ-25-S-NGO-34962,Food Security,,60.0,77964.684,CBPF
 Myanmar,2023,Reserve,25310,CBPF-MM-23-R-INGO-25310,Emergency Shelter and NFI,,50.0,500000.0,CBPF
 Myanmar,2023,Reserve,25310,CBPF-MM-23-R-INGO-25310,Health,,50.0,500000.0,CBPF
 Myanmar,2023,Reserve,25314,CBPF-MM-23-R-INGO-25314,"Water, Sanitation and Hygiene",,100.0,200000.0,CBPF
