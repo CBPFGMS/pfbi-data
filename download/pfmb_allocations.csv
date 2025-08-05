@@ -9513,8 +9513,10 @@ Honduras,2025,Underfunded Emergencies,35558,CERF-HND-25-UF-WFP-35558,Food Aid,Fo
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,48.0000001292407,594240.04,CERF
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Protection,Protection,3.999999741518595,49520.0,CERF
 Honduras,2025,Underfunded Emergencies,35559,CERF-HND-25-UF-CEF-35559,Education,Education,48.0000001292407,594240.04,CERF
+Guatemala,2025,Rapid Response,35598,CERF-GTM-25-RR-FAO-35598,Agriculture,Agriculture,100.0,1200000.0,CERF
 Guatemala,2025,Rapid Response,35599,CERF-GTM-25-RR-CEF-35599,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.0,400000.0,CERF
 Guatemala,2025,Rapid Response,35599,CERF-GTM-25-RR-CEF-35599,Nutrition,Nutrition,50.0,400000.0,CERF
+Guatemala,2025,Rapid Response,35600,CERF-GTM-25-RR-WHO-35600,Health,Health,100.0,400000.0,CERF
 Guatemala,2025,Rapid Response,35601,CERF-GTM-25-RR-WFP-35601,Multi-Purpose Cash,Multi-Purpose Cash,80.0,1280000.0,CERF
 Guatemala,2025,Rapid Response,35601,CERF-GTM-25-RR-WFP-35601,Food Aid,Food Aid,20.0,320000.0,CERF
 Central African Republic,2025,Underfunded Emergencies,35661,CERF-CAF-25-UF-WOM-35661,Agriculture,Agriculture,100.0,700000.0,CERF
@@ -9566,9 +9568,8 @@ Nigeria,2025,Rapid Response,36307,CERF-NGA-25-RR-WFP-36307,Nutrition,Nutrition,1
 Nigeria,2025,Rapid Response,36309,CERF-NGA-25-RR-WHO-36309,Health,Health,100.0,1000000.0,CERF
 Nigeria,2025,Rapid Response,36311,CERF-NGA-25-RR-HCR-36311,Protection,Protection,100.0,500000.46,CERF
 Lebanon,2025,Rapid Response,36899,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Guatemala,2025,Rapid Response,36900,CERF-GTM-25-RR-1447(TBD),To be determined,To be determined,100.0,1600000.0,CERF
-Ethiopia,2025,Rapid Response,36901,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Afghanistan,2025,Rapid Response,36902,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Ethiopia,2025,Rapid Response,36900,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Afghanistan,2025,Rapid Response,36901,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
