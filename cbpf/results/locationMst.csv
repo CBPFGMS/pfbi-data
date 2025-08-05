@@ -4663,8 +4663,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4344, Nigeria > Borno > Guzamala,Borno,11.8889801,13.15334698
 4345, Nigeria > Borno > Kala/Balge,Borno,11.8889801,13.15334698
 4346,Borno -> Damboa,Borno,11.8889801,13.15334698
-4347,Borno -> Kala/Balge,Borno,11.8889801,13.15334698
-4348,Borno -> Mobbar,Borno,11.8889801,13.15334698
+4347,Borno -> Mobbar,Borno,11.8889801,13.15334698
+4348,Borno -> Kala/Balge,Borno,11.8889801,13.15334698
 4349,Adamawa -> Mubi North,Adamawa,9.32322733,12.40024078
 4350,Adamawa -> Hong,Adamawa,9.32322733,12.40024078
 4351,Adamawa,Adamawa,9.32322733,12.40024078
@@ -11616,37 +11616,37 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11277, Ukraine > Kyivska,Kyivska,49.81429818,30.33185237
 11268, Ukraine > Vinnytska,Vinnytska,48.92044212,28.6855358
 11281, Ukraine > Donetska > Donetskyi > Donetska,Donetska,48.04731497,37.6741199
-11282, Ukraine > Chernihivska > Koriukivskyi,Chernihivska,51.31290942,31.9028786
-11283, Ukraine > Kharkivska > Kupianskyi,Kharkivska,49.61499032,36.50491022
-11284, Ukraine > Chernihivska > Novhorod-Siverskyi,Chernihivska,51.31290942,31.9028786
-11285, Ukraine > Dnipropetrovska > Synelnykivskyi,Dnipropetrovska,48.45732336,34.80234992
-11286, Ukraine > Donetska > Pokrovskyi,Donetska,48.04731497,37.6741199
-11287, Ukraine > Donetska > Volnovaskyi,Donetska,48.04731497,37.6741199
-11288, Ukraine > Dnipropetrovska > Nikopolskyi,Dnipropetrovska,48.45732336,34.80234992
-11289, Ukraine > Dnipropetrovska > Kryvorizkyi,Dnipropetrovska,48.45732336,34.80234992
-11290, Ukraine > Kharkivska > Kharkivskyi,Kharkivska,49.61499032,36.50491022
-11291, Ukraine > Zaporizka > Polohivskyi,Zaporizka,47.2670072,35.70000553
-11292, Ukraine > Kharkivska > Bohodukhivskyi,Kharkivska,49.61499032,36.50491022
-11293, Ukraine > Kharkivska > Chuhuivskyi,Kharkivska,49.61499032,36.50491022
-11294, Ukraine > Khersonska > Beryslavskyi,Khersonska,46.67277916,33.52476149
-11295, Ukraine > Sumska > Konotopskyi,Sumska,51.01631515,33.98908074
-11296, Ukraine > Kharkivska > Iziumskyi,Kharkivska,49.61499032,36.50491022
-11297, Ukraine > Zaporizka > Zaporizkyi,Zaporizka,47.2670072,35.70000553
+11282, Ukraine > Kharkivska > Chuhuivskyi,Kharkivska,49.61499032,36.50491022
+11283, Ukraine > Kharkivska > Iziumskyi,Kharkivska,49.61499032,36.50491022
+11284, Ukraine > Kharkivska > Kupianskyi,Kharkivska,49.61499032,36.50491022
+11285, Ukraine > Sumska > Sumskyi,Sumska,51.01631515,33.98908074
+11286, Ukraine > Chernihivska > Novhorod-Siverskyi,Chernihivska,51.31290942,31.9028786
+11287, Ukraine > Chernihivska > Koriukivskyi,Chernihivska,51.31290942,31.9028786
+11288, Ukraine > Donetska > Volnovaskyi,Donetska,48.04731497,37.6741199
+11289, Ukraine > Dnipropetrovska > Nikopolskyi,Dnipropetrovska,48.45732336,34.80234992
+11290, Ukraine > Dnipropetrovska > Synelnykivskyi,Dnipropetrovska,48.45732336,34.80234992
+11291, Ukraine > Donetska > Pokrovskyi,Donetska,48.04731497,37.6741199
+11292, Ukraine > Kharkivska > Kharkivskyi,Kharkivska,49.61499032,36.50491022
+11293, Ukraine > Dnipropetrovska > Kryvorizkyi,Dnipropetrovska,48.45732336,34.80234992
+11294, Ukraine > Kharkivska > Bohodukhivskyi,Kharkivska,49.61499032,36.50491022
+11295, Ukraine > Khersonska > Beryslavskyi,Khersonska,46.67277916,33.52476149
+11296, Ukraine > Sumska > Konotopskyi,Sumska,51.01631515,33.98908074
+11297, Ukraine > Zaporizka > Polohivskyi,Zaporizka,47.2670072,35.70000553
 11298, Ukraine > Zaporizka > Vasylivskyi,Zaporizka,47.2670072,35.70000553
-11299, Ukraine > Kharkivska > Krasnohradskyi,Kharkivska,49.61499032,36.50491022
-11300, Ukraine > Kharkivska > Lozivskyi,Kharkivska,49.61499032,36.50491022
-11301, Ukraine > Chernihivska > Chernihivskyi,Chernihivska,51.31290942,31.9028786
-11302, Ukraine > Odeska > Odeskyi,Odeska,46.93749438,30.44887195
-11303, Ukraine > Sumska > Shostkynskyi,Sumska,51.01631515,33.98908074
-11304, Ukraine > Sumska > Sumskyi,Sumska,51.01631515,33.98908074
-11305, Ukraine > Mykolaivska > Bashtanskyi,Mykolaivska,47.32513478,31.9328185
-11306, Ukraine > Chernihivska > Nizhynskyi,Chernihivska,51.31290942,31.9028786
-11307, Ukraine > Mykolaivska > Pervomaiskyi,Mykolaivska,47.32513478,31.9328185
-11308, Ukraine > Donetska > Donetskyi,Donetska,48.04731497,37.6741199
-11309, Ukraine > Dnipropetrovska > Kamianskyi,Dnipropetrovska,48.45732336,34.80234992
-11310, Ukraine > Dnipropetrovska > Pavlohradskyi,Dnipropetrovska,48.45732336,34.80234992
-11311, Ukraine > Dnipropetrovska > Dniprovskyi,Dnipropetrovska,48.45732336,34.80234992
-11312, Ukraine > Dnipropetrovska > Novomoskovskyi,Dnipropetrovska,48.45732336,34.80234992
+11299, Ukraine > Zaporizka > Zaporizkyi,Zaporizka,47.2670072,35.70000553
+11300, Ukraine > Dnipropetrovska > Novomoskovskyi,Dnipropetrovska,48.45732336,34.80234992
+11301, Ukraine > Dnipropetrovska > Kamianskyi,Dnipropetrovska,48.45732336,34.80234992
+11302, Ukraine > Dnipropetrovska > Dniprovskyi,Dnipropetrovska,48.45732336,34.80234992
+11303, Ukraine > Kharkivska > Lozivskyi,Kharkivska,49.61499032,36.50491022
+11304, Ukraine > Kharkivska > Krasnohradskyi,Kharkivska,49.61499032,36.50491022
+11305, Ukraine > Chernihivska > Chernihivskyi,Chernihivska,51.31290942,31.9028786
+11306, Ukraine > Odeska > Odeskyi,Odeska,46.93749438,30.44887195
+11307, Ukraine > Sumska > Shostkynskyi,Sumska,51.01631515,33.98908074
+11308, Ukraine > Mykolaivska > Bashtanskyi,Mykolaivska,47.32513478,31.9328185
+11309, Ukraine > Chernihivska > Nizhynskyi,Chernihivska,51.31290942,31.9028786
+11310, Ukraine > Mykolaivska > Pervomaiskyi,Mykolaivska,47.32513478,31.9328185
+11311, Ukraine > Donetska > Donetskyi,Donetska,48.04731497,37.6741199
+11312, Ukraine > Dnipropetrovska > Pavlohradskyi,Dnipropetrovska,48.45732336,34.80234992
 11313, Ukraine > Chernihivska > Prylutskyi,Chernihivska,51.31290942,31.9028786
 11314, Ukraine > Rivnenska > Rivnenskyi,Rivnenska,50.95489926,26.59275517
 11315, Ukraine > Rivnenska > Sarnenskyi,Rivnenska,50.95489926,26.59275517
