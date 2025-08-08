@@ -9567,9 +9567,10 @@ Nigeria,2025,Rapid Response,36306,CERF-NGA-25-RR-CEF-36306,Health,Health,16.6700
 Nigeria,2025,Rapid Response,36307,CERF-NGA-25-RR-WFP-36307,Nutrition,Nutrition,100.0,1499999.95,CERF
 Nigeria,2025,Rapid Response,36309,CERF-NGA-25-RR-WHO-36309,Health,Health,100.0,1000000.0,CERF
 Nigeria,2025,Rapid Response,36311,CERF-NGA-25-RR-HCR-36311,Protection,Protection,100.0,500000.46,CERF
+Ethiopia,2025,Rapid Response,36382,CERF-ETH-25-RR-HCR-36382,Multi-sector refugee assistance,Multi-sector refugee assistance,100.0,2000000.0,CERF
 Ethiopia,2025,Rapid Response,36383,CERF-ETH-25-RR-WFP-36383,Food Aid,Food Aid,100.0,1000000.47,CERF
 Lebanon,2025,Rapid Response,36899,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Ethiopia,2025,Rapid Response,36900,CERF-ETH-25-RR-1473(TBD),To be determined,To be determined,100.0,1999999.53,CERF
+Republic of the Sudan,2025,Rapid Response,36900,CERF-SDN-25-RR-1476(TBD),To be determined,To be determined,100.0,5000000.0,CERF
 Afghanistan,2025,Rapid Response,36901,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
@@ -14150,6 +14151,8 @@ Ethiopia,2025,Reserve,35904,CBPF-ETH-25-R-NGO-35904,Emergency Shelter and NFI,,7
 Ethiopia,2025,Reserve,35933,CBPF-ETH-25-R-NGO-35933,Protection,,100.0,500000.0,CBPF
 Ethiopia,2025,Reserve,36062,CBPF-ETH-25-R-NGO-36062,Camp Coordination / Management,,100.0,249996.67,CBPF
 Ethiopia,2025,Standard,35912,CBPF-ETH-25-S-INGO-35912,Education,,100.0,500000.0,CBPF
+Ethiopia,2025,Standard,36100,CBPF-ETH-25-S-INGO-36100,Food Security,,50.0,250000.0,CBPF
+Ethiopia,2025,Standard,36100,CBPF-ETH-25-S-INGO-36100,Health,,50.0,250000.0,CBPF
 Ethiopia,2025,Standard,35830,CBPF-ETH-25-S-NGO-35830,Food Security,,6.0,141438.984,CBPF
 Ethiopia,2025,Standard,35830,CBPF-ETH-25-S-NGO-35830,Health,,9.0,212158.476,CBPF
 Ethiopia,2025,Standard,35830,CBPF-ETH-25-S-NGO-35830,Nutrition,,13.0,306451.132,CBPF
@@ -14185,6 +14188,10 @@ Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Food Security,,15.0,150000.
 Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Health,,15.0,150000.0,CBPF
 Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,Nutrition,,15.0,150000.0,CBPF
 Ethiopia,2025,Standard,36036,CBPF-ETH-25-S-NGO-36036,"Water, Sanitation and Hygiene",,15.0,150000.0,CBPF
+Ethiopia,2025,Standard,36046,CBPF-ETH-25-S-NGO-36046,Food Security,,25.0,249958.0375,CBPF
+Ethiopia,2025,Standard,36046,CBPF-ETH-25-S-NGO-36046,Health,,30.0,299949.645,CBPF
+Ethiopia,2025,Standard,36046,CBPF-ETH-25-S-NGO-36046,Nutrition,,20.0,199966.43,CBPF
+Ethiopia,2025,Standard,36046,CBPF-ETH-25-S-NGO-36046,"Water, Sanitation and Hygiene",,25.0,249958.0375,CBPF
 Ethiopia,2025,Standard,36060,CBPF-ETH-25-S-NGO-36060,Education,,100.0,999999.95,CBPF
 Ethiopia,2025,Standard,36090,CBPF-ETH-25-S-NGO-36090,Protection,,100.0,499999.98,CBPF
 Ethiopia,2025,Standard,36125,CBPF-ETH-25-S-NGO-36125,Education,,50.0,500000.0,CBPF
@@ -28860,6 +28867,8 @@ Ukraine,2025,Standard,34832,CBPF-UKR-25-S-INGO-34832,Protection,,50.0,1226326.46
 Ukraine,2025,Standard,34868,CBPF-UKR-25-S-INGO-34868,Emergency Shelter and NFI,,26.0,594107.9508,CBPF
 Ukraine,2025,Standard,34868,CBPF-UKR-25-S-INGO-34868,Multi-purpose CASH,,58.0,1325317.7364,CBPF
 Ukraine,2025,Standard,34868,CBPF-UKR-25-S-INGO-34868,"Water, Sanitation and Hygiene",,16.0,365604.8928,CBPF
+Ukraine,2025,Standard,36015,CBPF-UKR-25-S-INGO-36015,Multi-purpose CASH,,74.0,649392.6536,CBPF
+Ukraine,2025,Standard,36015,CBPF-UKR-25-S-INGO-36015,Protection,,26.0,228164.9864,CBPF
 Ukraine,2025,Standard,34733,CBPF-UKR-25-S-NGO-34733,Camp Coordination / Management,,5.0,188980.6825,CBPF
 Ukraine,2025,Standard,34733,CBPF-UKR-25-S-NGO-34733,Education,,5.0,188980.6825,CBPF
 Ukraine,2025,Standard,34733,CBPF-UKR-25-S-NGO-34733,Emergency Shelter and NFI,,9.0,340165.2285,CBPF
@@ -28942,6 +28951,11 @@ Ukraine,2025,Standard,34892,CBPF-UKR-25-S-NGO-34892,"Water, Sanitation and Hygie
 Ukraine,2025,Standard,34910,CBPF-UKR-25-S-NGO-34910,Camp Coordination / Management,,50.0,119685.785,CBPF
 Ukraine,2025,Standard,34910,CBPF-UKR-25-S-NGO-34910,Protection,,25.0,59842.8925,CBPF
 Ukraine,2025,Standard,34910,CBPF-UKR-25-S-NGO-34910,Protection,,25.0,59842.8925,CBPF
+Ukraine,2025,Standard,35733,CBPF-UKR-25-S-NGO-35733,Multi-purpose CASH,,45.0,449998.2315,CBPF
+Ukraine,2025,Standard,35733,CBPF-UKR-25-S-NGO-35733,Protection,,25.0,249999.0175,CBPF
+Ukraine,2025,Standard,35733,CBPF-UKR-25-S-NGO-35733,Protection,,30.0,299998.821,CBPF
+Ukraine,2025,Standard,36296,CBPF-UKR-25-S-NGO-36296,Emergency Shelter and NFI,,85.0,212485.0145,CBPF
+Ukraine,2025,Standard,36296,CBPF-UKR-25-S-NGO-36296,"Water, Sanitation and Hygiene",,15.0,37497.3555,CBPF
 Ukraine,2019,Standard,13624,UKR-19/UKR_CBPF/SA1/FSL/NGO/13624,Food Security,,100.0,208896.41,CBPF
 Ukraine,2019,Standard,14396,UKR-19/UKR_CBPF/SA1/H-N/INGO/14396,Health,,100.0,419499.99,CBPF
 Ukraine,2019,Standard,13737,UKR-19/UKR_CBPF/SA1/H-N-WASH/NGO/13737,Health,,50.0,111445.25,CBPF
