@@ -6769,10 +6769,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 6450,Lower Juba -> Afmadow -> Dibi,Lower Juba,0.051,41.596
 6451,Lower Juba -> Afmadow -> Dabader,Lower Juba,0.051,41.596
 6452,Lower Juba -> Afmadow -> Barquuqe,Lower Juba,0.051,41.596
-6130,Middle Shabelle -> Balcad -> Kurshaale,Kurshaale,2.36018,45.41003
-6453,Middle Shabelle -> Balcad -> Bananey,Middle Shabelle,2.825,45.937
-6454,Middle Shabelle -> Balcad -> Buulo-Doonka,Middle Shabelle,2.825,45.937
-6455,Middle Shabelle -> Balcad -> Buulo-Shiikh,Middle Shabelle,2.825,45.937
+6453,Middle Shabelle -> Balcad -> Buulo-Shiikh,Middle Shabelle,2.825,45.937
+6454,Middle Shabelle -> Balcad -> Bananey,Middle Shabelle,2.825,45.937
+6455,Middle Shabelle -> Balcad -> Buulo-Doonka,Middle Shabelle,2.825,45.937
 6456,Middle Shabelle -> Aden Yabaal -> Boos-Caduur,Middle Shabelle,2.825,45.937
 6457,Middle Shabelle -> Balcad -> Istanbuul,Middle Shabelle,2.825,45.937
 6458,Middle Shabelle -> Balcad -> Cadayga Moobleen,Middle Shabelle,2.825,45.937
@@ -7578,17 +7577,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7258, South Sudan > Unity > Pariang,Unity,8.9277211,29.7889248
 7259, South Sudan > Abyei Administrative Area > Abyei Administration Area,Abyei Administrative Area,9.7869074,28.41357814
 7260, South Sudan > Northern Bahr el Ghazal > Aweil East > Madhol,Northern Bahr el Ghazal,8.5360449,26.7967849
-7261, South Sudan > Upper Nile > Renk > South_Renk,Upper Nile,9.8894202,32.7181375
-7262, South Sudan > Upper Nile > Renk > Geiger,Upper Nile,9.8894202,32.7181375
-7263, South Sudan > Upper Nile > Renk > North_Renk,Upper Nile,9.8894202,32.7181375
-7264, South Sudan > Upper Nile > Luakpiny/Nasir > Nasir,Upper Nile,9.8894202,32.7181375
+7261, South Sudan > Upper Nile > Maban,Upper Nile,9.8894202,32.7181375
+7262, South Sudan > Northern Bahr el Ghazal > Aweil East > Mangok,Northern Bahr el Ghazal,8.5360449,26.7967849
+7263, South Sudan > Northern Bahr el Ghazal > Aweil East > Mangar_Tong_1,Northern Bahr el Ghazal,8.5360449,26.7967849
+7264, South Sudan > Northern Bahr el Ghazal > Aweil East > Baac,Northern Bahr el Ghazal,8.5360449,26.7967849
 7265, South Sudan > Northern Bahr el Ghazal > Aweil East > Malual_Bai,Northern Bahr el Ghazal,8.5360449,26.7967849
-7266, South Sudan > Unity > Mayendit > Bor,Unity,8.9277211,29.7889248
-7267, South Sudan > Upper Nile > Maban,Upper Nile,9.8894202,32.7181375
-7268, South Sudan > Northern Bahr el Ghazal > Aweil East,Northern Bahr el Ghazal,8.5360449,26.7967849
-7269, South Sudan > Northern Bahr el Ghazal > Aweil East > Mangok,Northern Bahr el Ghazal,8.5360449,26.7967849
-7270, South Sudan > Northern Bahr el Ghazal > Aweil East > Mangar_Tong_1,Northern Bahr el Ghazal,8.5360449,26.7967849
-7271, South Sudan > Northern Bahr el Ghazal > Aweil East > Baac,Northern Bahr el Ghazal,8.5360449,26.7967849
+7266, South Sudan > Upper Nile > Renk > South_Renk,Upper Nile,9.8894202,32.7181375
+7267, South Sudan > Upper Nile > Renk > Geiger,Upper Nile,9.8894202,32.7181375
+7268, South Sudan > Upper Nile > Renk > North_Renk,Upper Nile,9.8894202,32.7181375
+7269, South Sudan > Upper Nile > Luakpiny/Nasir > Nasir,Upper Nile,9.8894202,32.7181375
+7270, South Sudan > Unity > Mayendit > Bor,Unity,8.9277211,29.7889248
+7271, South Sudan > Northern Bahr el Ghazal > Aweil East,Northern Bahr el Ghazal,8.5360449,26.7967849
 7272, South Sudan > Northern Bahr el Ghazal > Aweil East > Wunlang,Northern Bahr el Ghazal,8.5360449,26.7967849
 7273, South Sudan > Jonglei > Pibor,Jonglei,7.1819619,32.3560952
 7274, Central Equatoria > Juba,Central Equatoria,4.6144063,31.2626366
@@ -13280,17 +13279,17 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12931, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 12932, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 12933, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-12934, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-12935, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-12936, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-12937, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-12938, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-12939, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-12940, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-12941, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-12942, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12943, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-12944, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12934, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+12935, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12936, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+12937, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+12938, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+12939, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+12940, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+12941, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+12942, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+12943, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+12944, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 12945, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 12946, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 12947, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
@@ -13300,8 +13299,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12951, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 12952, Marib > Mahliyah,Marib,15.56841151,45.76081505
 12953, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-12954, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-12955, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+12954, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+12955, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 12956, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 12957, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
 12958, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
