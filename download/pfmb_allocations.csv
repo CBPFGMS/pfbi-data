@@ -9571,9 +9571,13 @@ Ethiopia,2025,Rapid Response,36382,CERF-ETH-25-RR-HCR-36382,Multi-sector refugee
 Ethiopia,2025,Rapid Response,36383,CERF-ETH-25-RR-WFP-36383,Food Aid,Food Aid,100.0,1000000.47,CERF
 Democratic Republic of the Congo,2025,Rapid Response,36414,CERF-COD-25-RR-CEF-36414,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,375000.0,CERF
 Democratic Republic of the Congo,2025,Rapid Response,36415,CERF-COD-25-RR-WHO-36415,Health,Health,100.0,375000.01,CERF
-Lebanon,2025,Rapid Response,36996,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Republic of the Sudan,2025,Rapid Response,36997,CERF-SDN-25-RR-1476(TBD),To be determined,To be determined,100.0,5000000.0,CERF
-Afghanistan,2025,Rapid Response,36998,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Republic of the Sudan,2025,Rapid Response,36868,CERF-SDN-25-RR-IOM-36868,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1000000.0,CERF
+Afghanistan,2025,Rapid Response,36897,CERF-AFG-25-RR-WFP-36897,Food Aid,Food Aid,100.0,2500000.0,CERF
+Afghanistan,2025,Rapid Response,36898,CERF-AFG-25-RR-IOM-36898,Protection,Protection,70.0,2800000.0,CERF
+Afghanistan,2025,Rapid Response,36898,CERF-AFG-25-RR-IOM-36898,Camp Coordination and Camp Management,Camp Coordination and Camp Management,30.0,1200000.0,CERF
+Lebanon,2025,Rapid Response,36997,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Republic of the Sudan,2025,Rapid Response,36998,CERF-SDN-25-RR-1476(TBD),To be determined,To be determined,100.0,4000000.0,CERF
+Afghanistan,2025,Rapid Response,36999,CERF-AFG-25-RR-1479(TBD),To be determined,To be determined,100.0,3500000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -11074,6 +11078,7 @@ Afghanistan,2025,Standard,35679,CBPF-AFG-25-S-NGO-35679,"Water, Sanitation and H
 Afghanistan,2025,Standard,35764,CBPF-AFG-25-S-NGO-35764,Food Security,,100.0,484707.07,CBPF
 Afghanistan,2025,Standard,35778,CBPF-AFG-25-S-NGO-35778,Food Security,,100.0,496653.92,CBPF
 Afghanistan,2025,Standard,35787,CBPF-AFG-25-S-NGO-35787,"Water, Sanitation and Hygiene",,100.0,776249.72,CBPF
+Afghanistan,2025,Standard,35788,CBPF-AFG-25-S-NGO-35788,Food Security,,100.0,489332.2,CBPF
 Afghanistan,2025,Standard,35798,CBPF-AFG-25-S-NGO-35798,Food Security,,100.0,479846.3,CBPF
 Afghanistan,2025,Standard,35840,CBPF-AFG-25-S-NGO-35840,Protection,,20.0,110141.734,CBPF
 Afghanistan,2025,Standard,35840,CBPF-AFG-25-S-NGO-35840,Protection,,80.0,440566.936,CBPF
