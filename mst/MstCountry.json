@@ -4447,5 +4447,53 @@
     "CBPFId": 88,
     "CERFId": 41,
     "AreaType": "Country"
+  },{
+    "id": 260,
+    "PooledFundName": "Fiji (AP-Rhpf)",
+    "PooledFundNameAbbrv": "Fiji (AP-Rhpf)",
+    "RegionName": "South-Eastern Asia",
+    "RegionNameArr": "Asia",
+    "SubRegionName": "Eastern Africa",
+    "ContinentName": "Asia",
+    "CountryCode": "FJI",
+    "ISO2Code": "FJ",
+    "latitude": -17.71337100,
+    "longitude": 178.06503300,
+    "CBPFFundStatus":"",
+    "CBPFId": 94,
+    "CERFId": 236,
+    "AreaType": "Country"
+  },{
+    "id": 261,
+    "PooledFundName": "Tonga (AP-Rhpf)",
+    "PooledFundNameAbbrv": "Tonga (AP-Rhpf)",
+    "RegionName": "South-Eastern Asia",
+    "RegionNameArr": "Asia",
+    "SubRegionName": "Eastern Africa",
+    "ContinentName": "Asia",
+    "CountryCode": "TON",
+    "ISO2Code": "TO",
+    "latitude": -21.17966700,
+    "longitude": -175.19418600,
+    "CBPFFundStatus":"",
+    "CBPFId": 96,
+    "CERFId": 255,
+    "AreaType": "Country"
+  },{
+    "id": 262,
+    "PooledFundName": "Vanuatu (AP-Rhpf)",
+    "PooledFundNameAbbrv": "Vanuatu (AP-Rhpf)",
+    "RegionName": "South-Eastern Asia",
+    "RegionNameArr": "Asia",
+    "SubRegionName": "Eastern Africa",
+    "ContinentName": "Asia",
+    "CountryCode": "VUT",
+    "ISO2Code": "VU",
+    "latitude": -17.73481800,
+    "longitude": 168.32202100,
+    "CBPFFundStatus":"",
+    "CBPFId": 95,
+    "CERFId": 240,
+    "AreaType": "Country"
   }
 ]
