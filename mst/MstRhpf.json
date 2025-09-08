@@ -54,5 +54,33 @@
     "RFundName": "Asia Pacific Regional Fund",
     "StartYearDate": "01-2025",
     "CBPFId": 501
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Fiji (AP-Rhpf)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 94
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Pakistan (AP-RHPF)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 97
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Tonga (AP-Rhpf)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 96
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Vanuatu (AP-Rhpf)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 95
   }
 ]
