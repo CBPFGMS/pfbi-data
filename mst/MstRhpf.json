@@ -58,7 +58,7 @@
   {
     "RFundTitle": "Asia Pacific Regional Fund",
     "RFundAbbrv": "AP-RF",
-    "RFundName": "Fiji (AP-Rhpf)",
+    "RFundName": "Fiji (AP-RHPF)",
     "StartYearDate": "01-2025",
     "CBPFId": 94
   },
@@ -72,14 +72,14 @@
   {
     "RFundTitle": "Asia Pacific Regional Fund",
     "RFundAbbrv": "AP-RF",
-    "RFundName": "Tonga (AP-Rhpf)",
+    "RFundName": "Tonga (AP-RHPF)",
     "StartYearDate": "01-2025",
     "CBPFId": 96
   },
   {
     "RFundTitle": "Asia Pacific Regional Fund",
     "RFundAbbrv": "AP-RF",
-    "RFundName": "Vanuatu (AP-Rhpf)",
+    "RFundName": "Vanuatu (AP-RHPF)",
     "StartYearDate": "01-2025",
     "CBPFId": 95
   }
