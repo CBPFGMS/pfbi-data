@@ -1,22 +1,22 @@
 [
   {
     "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
-    "RFundAbbrv": "RhPF - WCA",
-    "RFundName": "Niger (RhPF - WCA)",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Niger (RhPF-WCA)",
     "StartYearDate": "08-2022",
     "CBPFId": 84
   },
   {
     "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
-    "RFundAbbrv": "RhPF - WCA",
-    "RFundName": "Mali (RhPF - WCA)",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Mali (RhPF-WCA)",
     "StartYearDate": "03-2023",
     "CBPFId": 86
   },
   {
     "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
-    "RFundAbbrv": "RhPF - WCA",
-    "RFundName": "Burkina Faso (RhPF - WCA)",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Burkina Faso (RhPF-WCA)",
     "StartYearDate": "09-2022",
     "CBPFId": 85
   },
@@ -43,7 +43,7 @@
   },
   {
     "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
-    "RFundAbbrv": "RhPF - WCA",
+    "RFundAbbrv": "RhPF-WCA",
     "RFundName": "Chad (RhPF-WCA)",
     "StartYearDate": "12-2024",
     "CBPFId": 90
