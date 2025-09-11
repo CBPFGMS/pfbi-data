@@ -24444,8 +24444,9 @@ Sudan,2024,Reserve,33468,CBPF-SUD-24-R-INGO-33468,Protection,,11.0,194205.0,CBPF
 Sudan,2024,Reserve,33468,CBPF-SUD-24-R-INGO-33468,Protection,,11.0,194205.0,CBPF
 Sudan,2024,Reserve,33469,CBPF-SUD-24-R-INGO-33469,Health,,71.0,411799.9006,CBPF
 Sudan,2024,Reserve,33469,CBPF-SUD-24-R-INGO-33469,Nutrition,,29.0,168199.9594,CBPF
-Sudan,2024,Reserve,33472,CBPF-SUD-24-R-INGO-33472,Health,,85.0,2635001.003,CBPF
-Sudan,2024,Reserve,33472,CBPF-SUD-24-R-INGO-33472,Nutrition,,15.0,465000.177,CBPF
+Sudan,2024,Reserve,33472,CBPF-SUD-24-R-INGO-33472,Health,,82.0,2542000.9676,CBPF
+Sudan,2024,Reserve,33472,CBPF-SUD-24-R-INGO-33472,Nutrition,,1.0,31000.0118,CBPF
+Sudan,2024,Reserve,33472,CBPF-SUD-24-R-INGO-33472,"Water, Sanitation and Hygiene",,17.0,527000.2006,CBPF
 Sudan,2024,Reserve,33474,CBPF-SUD-24-R-INGO-33474,Protection,,10.0,81320.0,CBPF
 Sudan,2024,Reserve,33474,CBPF-SUD-24-R-INGO-33474,"Water, Sanitation and Hygiene",,90.0,731880.0,CBPF
 Sudan,2024,Reserve,33478,CBPF-SUD-24-R-INGO-33478,Emergency Shelter and NFI,,40.0,1283999.768,CBPF
@@ -24596,9 +24597,9 @@ Sudan,2024,Reserve,34672,CBPF-SUD-24-R-INGO-34672,Nutrition,,6.0,113554.7184,CBP
 Sudan,2024,Reserve,34672,CBPF-SUD-24-R-INGO-34672,Protection,,8.0,151406.2912,CBPF
 Sudan,2024,Reserve,34672,CBPF-SUD-24-R-INGO-34672,Protection,,22.0,416367.3008,CBPF
 Sudan,2024,Reserve,34672,CBPF-SUD-24-R-INGO-34672,"Water, Sanitation and Hygiene",,14.0,264961.0096,CBPF
-Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Emergency Shelter and NFI,,13.0,188499.9987,CBPF
-Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Food Security,,76.0,1101999.9924,CBPF
-Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Protection,,11.0,159499.9989,CBPF
+Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Emergency Shelter and NFI,,22.0,318999.9978,CBPF
+Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Food Security,,62.0,898999.9938,CBPF
+Sudan,2024,Reserve,34681,CBPF-SUD-24-R-INGO-34681,Protection,,16.0,231999.9984,CBPF
 Sudan,2024,Reserve,33543,CBPF-SUD-24-R-NGO-33543,Protection,,30.0,128320.233,CBPF
 Sudan,2024,Reserve,33543,CBPF-SUD-24-R-NGO-33543,Protection,,30.0,128320.233,CBPF
 Sudan,2024,Reserve,33543,CBPF-SUD-24-R-NGO-33543,Protection,,40.0,171093.644,CBPF
@@ -27280,11 +27281,23 @@ Syria Cross border,2025,Reserve,35097,CBPF-TUR-25-R-NGO-35097,Protection,,33.0,4
 Syria Cross border,2025,Reserve,35118,CBPF-TUR-25-R-NGO-35118,Health,,100.0,757034.96,CBPF
 Syria Cross border,2025,Standard,36187,CBPF-TUR-25-S-INGO-36187,Health,,47.0,438292.625,CBPF
 Syria Cross border,2025,Standard,36187,CBPF-TUR-25-S-INGO-36187,"Water, Sanitation and Hygiene",,53.0,494244.875,CBPF
+Syria Cross border,2025,Standard,36217,CBPF-TUR-25-S-INGO-36217,Early Recovery,,16.0,240000.0,CBPF
+Syria Cross border,2025,Standard,36217,CBPF-TUR-25-S-INGO-36217,Emergency Shelter and NFI,,71.0,1065000.0,CBPF
+Syria Cross border,2025,Standard,36217,CBPF-TUR-25-S-INGO-36217,"Water, Sanitation and Hygiene",,13.0,195000.0,CBPF
 Syria Cross border,2025,Standard,36227,CBPF-TUR-25-S-INGO-36227,Protection,,100.0,989300.0,CBPF
+Syria Cross border,2025,Standard,36320,CBPF-TUR-25-S-INGO-36320,Education,,100.0,1435680.0,CBPF
+Syria Cross border,2025,Standard,36597,CBPF-TUR-25-S-INGO-36597,Early Recovery,,26.0,390000.0,CBPF
+Syria Cross border,2025,Standard,36597,CBPF-TUR-25-S-INGO-36597,Emergency Shelter and NFI,,25.0,375000.0,CBPF
+Syria Cross border,2025,Standard,36597,CBPF-TUR-25-S-INGO-36597,Multi-purpose CASH,,36.0,540000.0,CBPF
+Syria Cross border,2025,Standard,36597,CBPF-TUR-25-S-INGO-36597,Nutrition,,10.0,150000.0,CBPF
+Syria Cross border,2025,Standard,36597,CBPF-TUR-25-S-INGO-36597,Protection,,3.0,45000.0,CBPF
+Syria Cross border,2025,Standard,36650,CBPF-TUR-25-S-INGO-36650,Health,,84.0,667233.7308,CBPF
+Syria Cross border,2025,Standard,36650,CBPF-TUR-25-S-INGO-36650,Protection,,16.0,127092.1392,CBPF
 Syria Cross border,2025,Standard,36146,CBPF-TUR-25-S-NGO-36146,Early Recovery,,11.0,92174.742,CBPF
 Syria Cross border,2025,Standard,36146,CBPF-TUR-25-S-NGO-36146,Protection,,89.0,745777.458,CBPF
 Syria Cross border,2025,Standard,36154,CBPF-TUR-25-S-NGO-36154,Health,,92.0,1254928.9532,CBPF
 Syria Cross border,2025,Standard,36154,CBPF-TUR-25-S-NGO-36154,Protection,,8.0,109124.2568,CBPF
+Syria Cross border,2025,Standard,36210,CBPF-TUR-25-S-NGO-36210,Health,,100.0,999989.69,CBPF
 Syria Cross border,2025,Standard,36259,CBPF-TUR-25-S-NGO-36259,Health,,80.0,559990.952,CBPF
 Syria Cross border,2025,Standard,36259,CBPF-TUR-25-S-NGO-36259,Nutrition,,9.0,62998.9821,CBPF
 Syria Cross border,2025,Standard,36259,CBPF-TUR-25-S-NGO-36259,Protection,,11.0,76998.7559,CBPF
@@ -27298,8 +27311,23 @@ Syria Cross border,2025,Standard,36281,CBPF-TUR-25-S-NGO-36281,Multi-purpose CAS
 Syria Cross border,2025,Standard,36322,CBPF-TUR-25-S-NGO-36322,Education,,100.0,904718.63,CBPF
 Syria Cross border,2025,Standard,36327,CBPF-TUR-25-S-NGO-36327,Health,,68.0,883867.4272,CBPF
 Syria Cross border,2025,Standard,36327,CBPF-TUR-25-S-NGO-36327,Protection,,32.0,415937.6128,CBPF
+Syria Cross border,2025,Standard,36340,CBPF-TUR-25-S-NGO-36340,Food Security,,100.0,907407.08,CBPF
+Syria Cross border,2025,Standard,36351,CBPF-TUR-25-S-NGO-36351,Education,,30.0,386856.393,CBPF
+Syria Cross border,2025,Standard,36351,CBPF-TUR-25-S-NGO-36351,Multi-purpose CASH,,50.0,644760.655,CBPF
+Syria Cross border,2025,Standard,36351,CBPF-TUR-25-S-NGO-36351,Protection,,20.0,257904.262,CBPF
 Syria Cross border,2025,Standard,36352,CBPF-TUR-25-S-NGO-36352,Education,,22.0,329721.6604,CBPF
 Syria Cross border,2025,Standard,36352,CBPF-TUR-25-S-NGO-36352,Multi-purpose CASH,,78.0,1169013.1596,CBPF
+Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Early Recovery,,56.0,496835.3712,CBPF
+Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Health,,22.0,195185.3244,CBPF
+Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Protection,,22.0,195185.3244,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Emergency Shelter and NFI,,20.0,99999.804,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Multi-purpose CASH,,20.0,99999.804,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Protection,,20.0,99999.804,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,"Water, Sanitation and Hygiene",,40.0,199999.608,CBPF
+Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Emergency Shelter and NFI,,20.0,100000.0,CBPF
+Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Health,,40.0,200000.0,CBPF
+Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Multi-purpose CASH,,20.0,100000.0,CBPF
+Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Protection,,20.0,100000.0,CBPF
 Syria Cross border,2025,Standard,36404,CBPF-TUR-25-S-NGO-36404,Education,,40.0,200000.0,CBPF
 Syria Cross border,2025,Standard,36404,CBPF-TUR-25-S-NGO-36404,Emergency Shelter and NFI,,20.0,100000.0,CBPF
 Syria Cross border,2025,Standard,36404,CBPF-TUR-25-S-NGO-36404,Multi-purpose CASH,,20.0,100000.0,CBPF
@@ -27308,11 +27336,14 @@ Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Emergency Shelter
 Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Food Security,,40.0,200000.0,CBPF
 Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Multi-purpose CASH,,20.0,100000.0,CBPF
 Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Protection,,20.0,100000.0,CBPF
+Syria Cross border,2025,Standard,36416,CBPF-TUR-25-S-NGO-36416,Early Recovery,,58.0,497095.9542,CBPF
+Syria Cross border,2025,Standard,36416,CBPF-TUR-25-S-NGO-36416,Protection,,42.0,359966.0358,CBPF
 Syria Cross border,2025,Standard,36525,CBPF-TUR-25-S-NGO-36525,Emergency Shelter and NFI,,82.0,562834.921,CBPF
 Syria Cross border,2025,Standard,36525,CBPF-TUR-25-S-NGO-36525,Nutrition,,18.0,123549.129,CBPF
 Syria Cross border,2025,Standard,36536,CBPF-TUR-25-S-NGO-36536,Health,,59.0,589979.8633,CBPF
 Syria Cross border,2025,Standard,36536,CBPF-TUR-25-S-NGO-36536,Nutrition,,26.0,259991.1262,CBPF
 Syria Cross border,2025,Standard,36536,CBPF-TUR-25-S-NGO-36536,Protection,,15.0,149994.8805,CBPF
+Syria Cross border,2025,Standard,36559,CBPF-TUR-25-S-NGO-36559,"Water, Sanitation and Hygiene",,100.0,684813.52,CBPF
 Syria Cross border,2025,Standard,36585,CBPF-TUR-25-S-NGO-36585,Early Recovery,,35.0,512778.784,CBPF
 Syria Cross border,2025,Standard,36585,CBPF-TUR-25-S-NGO-36585,Education,,30.0,439524.672,CBPF
 Syria Cross border,2025,Standard,36585,CBPF-TUR-25-S-NGO-36585,Emergency Shelter and NFI,,35.0,512778.784,CBPF
@@ -27325,6 +27356,10 @@ Syria Cross border,2025,Standard,36601,CBPF-TUR-25-S-NGO-36601,Multi-purpose CAS
 Syria Cross border,2025,Standard,36601,CBPF-TUR-25-S-NGO-36601,Protection,,35.0,237897.9505,CBPF
 Syria Cross border,2025,Standard,36622,CBPF-TUR-25-S-NGO-36622,Early Recovery,,40.0,272363.28,CBPF
 Syria Cross border,2025,Standard,36622,CBPF-TUR-25-S-NGO-36622,Protection,,60.0,408544.92,CBPF
+Syria Cross border,2025,Standard,36626,CBPF-TUR-25-S-NGO-36626,Early Recovery,,27.0,362980.7262,CBPF
+Syria Cross border,2025,Standard,36626,CBPF-TUR-25-S-NGO-36626,Emergency Shelter and NFI,,23.0,309205.8038,CBPF
+Syria Cross border,2025,Standard,36626,CBPF-TUR-25-S-NGO-36626,Food Security,,31.0,416755.6486,CBPF
+Syria Cross border,2025,Standard,36626,CBPF-TUR-25-S-NGO-36626,"Water, Sanitation and Hygiene",,19.0,255430.8814,CBPF
 Syria Cross border,2025,Standard,36629,CBPF-TUR-25-S-NGO-36629,Early Recovery,,48.0,627443.3808,CBPF
 Syria Cross border,2025,Standard,36629,CBPF-TUR-25-S-NGO-36629,Education,,27.0,352936.9017,CBPF
 Syria Cross border,2025,Standard,36629,CBPF-TUR-25-S-NGO-36629,Food Security,,12.0,156860.8452,CBPF
@@ -27342,6 +27377,7 @@ Syria Cross border,2025,Standard,36766,CBPF-TUR-25-S-NGO-36766,Education,,35.0,4
 Syria Cross border,2025,Standard,36766,CBPF-TUR-25-S-NGO-36766,Health,,22.0,274469.1444,CBPF
 Syria Cross border,2025,Standard,36766,CBPF-TUR-25-S-NGO-36766,Multi-purpose CASH,,21.0,261993.2742,CBPF
 Syria Cross border,2025,Standard,36766,CBPF-TUR-25-S-NGO-36766,"Water, Sanitation and Hygiene",,7.0,87331.0914,CBPF
+Syria Cross border,2025,Standard,36192,CBPF-TUR-25-S-O-36192,Nutrition,,100.0,926675.9,CBPF
 Syria Cross border,2014,Standard,1125,TUR-14/CP/CCM/INGO/1125,Camp Coordination / Management,,100.0,399741.89,CBPF
 Syria Cross border,2014,Standard,1121,TUR-14/CP/E/NGO/1121,Education,,100.0,156421.16,CBPF
 Syria Cross border,2014,Standard,1127,TUR-14/CP/E/NGO/1127,Education,,100.0,245538.25,CBPF
@@ -28928,8 +28964,8 @@ Ukraine,2024,Reserve,34188,CBPF-UKR-24-R-NGO-34188,Camp Coordination / Managemen
 Ukraine,2024,Reserve,34188,CBPF-UKR-24-R-NGO-34188,Protection,,1.0,49999.6127,CBPF
 Ukraine,2024,Reserve,34188,CBPF-UKR-24-R-NGO-34188,Protection,,69.0,3449973.2763,CBPF
 Ukraine,2024,Reserve,34188,CBPF-UKR-24-R-NGO-34188,"Water, Sanitation and Hygiene",,3.0,149998.8381,CBPF
-Ukraine,2024,Reserve,34193,CBPF-UKR-24-R-NGO-34193,Camp Coordination / Management,,75.0,1873457.9175,CBPF
-Ukraine,2024,Reserve,34193,CBPF-UKR-24-R-NGO-34193,Protection,,25.0,624485.9725,CBPF
+Ukraine,2024,Reserve,34193,CBPF-UKR-24-R-NGO-34193,Camp Coordination / Management,,75.0,2239834.32,CBPF
+Ukraine,2024,Reserve,34193,CBPF-UKR-24-R-NGO-34193,Protection,,25.0,746611.44,CBPF
 Ukraine,2024,Reserve,34225,CBPF-UKR-24-R-NGO-34225,Camp Coordination / Management,,57.0,1335313.2246,CBPF
 Ukraine,2024,Reserve,34225,CBPF-UKR-24-R-NGO-34225,Protection,,12.0,281118.5736,CBPF
 Ukraine,2024,Reserve,34225,CBPF-UKR-24-R-NGO-34225,Protection,,31.0,726222.9818,CBPF
