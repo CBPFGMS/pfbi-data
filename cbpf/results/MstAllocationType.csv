@@ -41,6 +41,7 @@ AllocationType,AllocationtypeId
 (AFG) 2024 1st Reserve Allocation,5923
 (AFG) 2024 2nd Reserve Allocation,6123
 (AFG) 2024 1st Standard Allocation,6023
+(AFG) 2025 1st Reserve Allocation,6223
 (BFA) 2022 Reserve Allocation,45085
 (BFA) 2022 Standard Allocation,40085
 (BFA) 2023 Standard Allocation,48685
@@ -82,6 +83,7 @@ AllocationType,AllocationtypeId
 "(COD) 2023 RA2 Juillet 2023– Réponse humanitaire aux personnes déplacées affectées par les conflits dans les provinces de Maï-Ndombe, du Nord-Kivu, de l'Ituri et de Tanganyika, avec un accent particulier sur la PSEA et les retournés",49224
 "(COD) 2023 RA3 novembre 2023_Réponse multisectorielle localisée aux personnes affectées par le conflit dans les territoires de Rutshuru, Massisi et Fizi centrée sur la protection avec la participation des organisations nationales féminines.",51824
 (COD) AR 1 Février 2024 _ Goma asphyxiée : réponse aux besoins vitaux des nouvelles personnes déplacées autour de la ville de Goma,53024
+(COD) RA3 – Août 2024 : Crise de longue durée dans le territoire de Djugu : une réponse intégrée et durable aux besoins des personnes déplacées et retournées,132824
 (COD) 	ST Avril 2024 - Première Allocation Standard 2024 _ Escalade de la Crise M23 au Nord et Sud Kivu : Réponse aux besoins vitaux et appui aux moyens de subsistance des communautés affectées,54024
 (COD) Allocation Reserve COVID - 2020,25724
 (COD) UR juin 2020 - Allocation Reserve – Mbandaka,27324
@@ -337,6 +339,7 @@ AllocationType,AllocationtypeId
 (SOM) Reserve Allocation 7.1 2023 Flood response Baidoa,5421
 (SOM) Standard Allocation 1 2023,4921
 (SOM) 2024 PILOT Anticipatory Action Allocation,5721
+(SOM) Reserve Allocation 3 2024: La Nina Anticipatory Action,6021
 (SOM) Standard Allocation 1 2024,5821
 "(SOM) Reserve 2017 Integrated Response Round 2 (Galmudug, Togdheer, Lower Shabelle)",1921
 (SOM) Reserve 2017,1721
@@ -405,6 +408,7 @@ AllocationType,AllocationtypeId
 (SDN) 2023 - SHF Reserve for Emergencies (Prepositioning of Stock),46615
 (SDN) 2024 - SHF Reserve for Emergencies (Early Action Food Response to Sudan Food Security Crisis in Darfur and Kordofan),53115
 (SDN) 2024 - SHF Reserve for Emergencies (Lifesaving response to displacement and famine in Sudan),130015
+(SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 2 ),130415
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 4),134015
 (SDN) 2024 - SHF Reserve for Emergencies (In kind food distributions in Zam Zam camp),134815
 (SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30815
@@ -450,6 +454,7 @@ AllocationType,AllocationtypeId
 (SYR) 2023 2nd Reserve Allocation 2023_Earthquake Response,46462
 (SYR) 2023 3rd Reserve Allocation_2023,49362
 (SYR) 2023 SA1-2023_Mitigate the impact of winter conditions on underserved areas encompassing a multisectoral approach to early recovery/resilience in areas of high need,50362
+(SYR) First Standard Allocation - 2024,129462
 (SYR) 1st Standard Allocation-2017,9362
 (SYR) 2nd Standard Allocation 2017,13262
 (SYR) 2017 Reserve Allocation,9962
