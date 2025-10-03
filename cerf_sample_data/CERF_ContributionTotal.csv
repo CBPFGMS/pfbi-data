@@ -1547,7 +1547,6 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Private Contributions,11322.01,0.0,"Private donations through UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,CERF,20000.0,0.0,Regions Bank,Regions Bank,Regions Bank,0,0,0,0,0,0
 2025,Member State,5107832.01,0.0,Spain,ES,Member State,0,0,0,0,0,0
-2025,Private Contributions,92385.0,0.0,"Stripe, Ireland",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,6385480.0,0.0,Ireland,IE,Member State,0,0,0,0,0,0
 2025,Member State,21639923.45,0.0,Canada,CA,Member State,0,0,0,0,0,0
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
@@ -1555,6 +1554,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,450000.0,0.0,China,CN,Member State,0,0,0,0,0,0
 2025,Member State,0.0,17584994.1383,Germany,DE,Member State,0,0,0,0,0,0
 2025,Private Contributions,5000.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2025,Private Contributions,92385.0,114072.7,"Stripe, Ireland",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,10000.0,0.0,Vietnam,VN,Member State,0,0,0,0,0,0
 2025,Member State,108530.0,0.0,Lithuania,LT,Member State,0,0,0,0,0,0
 2025,Member State,200000.0,0.0,Philippines,PH,Member State,0,0,0,0,0,0
