@@ -1,0 +1,37 @@
+[
+    {
+      "id":1,"ClustNm":"Camp Coordination / Management","ClustCode":"CCM"
+    },{
+      "id":2,"ClustNm":"Early Recovery","ClustCode":"ER"
+    },{
+      "id":3,"ClustNm":"Education","ClustCode":"E"
+    },{
+      "id":4,"ClustNm":"Emergency Shelter and NFI","ClustCode":"NFI"
+    },{
+      "id":5,"ClustNm":"Emergency Telecommunications","ClustCode":"ET"
+    },{
+      "id":6,"ClustNm":"Food Security","ClustCode":"FS"
+    },{
+      "id":7,"ClustNm":"Health","ClustCode":"H"
+    },{
+      "id":8,"ClustNm":"Logistics","ClustCode":"L"
+    },{
+      "id":9,"ClustNm":"Nutrition","ClustCode":"N"
+    },{
+      "id":10,"ClustNm":"Protection","ClustCode":"P"
+    },{
+      "id":11,"ClustNm":"Water Sanitation Hygiene","ClustCode":"WASH"
+    },{
+      "id":12,"ClustNm":"Coordination and Support Services","ClustCode":"CSS"
+    },{
+      "id":13,"ClustNm":"Multi-Sector","ClustCode":"MS"
+    },{
+      "id":14,"ClustNm":"Multi-purpose cash (not sector-specific)","ClustCode":"MPC"
+    },{
+      "id":15,"ClustNm":"Mine Action","ClustCode":"MA"
+    },{
+      "id":16,"ClustNm":"COVID-19","ClustCode":"COVID"
+    },{
+      "id":16,"ClustNm":"COVID-19","ClustCode":"COVID"
+    }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "Id": 1,
+    "EmergencyTypeName": "Climate / natural disaster - Earthquake",
+    "EmergencyTypeCode": "NATRL_DIS_ERTHQK",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 6
+  },
+  {
+    "Id": 2,
+    "EmergencyTypeName": "Climate / natural disaster - Volcano",
+    "EmergencyTypeCode": "NATRL_DIS_VOLC",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 22
+  },
+  {
+    "Id": 3,
+    "EmergencyTypeName": "Climate / natural disaster - Tsunami",
+    "EmergencyTypeCode": "NATRL_DIS_TSUN",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 18
+  },
+  {
+    "Id": 4,
+    "EmergencyTypeName": "Climate / natural disaster - Storm",
+    "EmergencyTypeCode": "NATRL_DIS_STORM",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 17
+  },
+  {
+    "Id": 5,
+    "EmergencyTypeName": "Climate / natural disaster - Flood",
+    "EmergencyTypeCode": "NATRL_DIS_FLOOD",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 9
+  },
+  {
+    "Id": 6,
+    "EmergencyTypeName": "Climate / natural disaster - Heat/cold wave",
+    "EmergencyTypeCode": "NATRL_DIS_HOT_COLD_WAVE",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 10
+  },
+  {
+    "Id": 8,
+    "EmergencyTypeName": "Climate / natural disaster - Insect infestation",
+    "EmergencyTypeCode": "NATRL_DIS_INSCT_INFEST",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 12
+  },
+  {
+    "Id": 9,
+    "EmergencyTypeName": "Disease Outbreak - Cholera",
+    "EmergencyTypeCode": "DISE_OUTBRK_CHOLERA",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 2
+  },
+  {
+    "Id": 10,
+    "EmergencyTypeName": "Disease Outbreak - Measles",
+    "EmergencyTypeCode": "DISE_OUTBRK_MEASLES",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 13
+  },
+  {
+    "Id": 11,
+    "EmergencyTypeName": "Disease Outbreak - Ebola",
+    "EmergencyTypeCode": "DISE_OUTBRK_EBOLA",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 7
+  },
+  {
+    "Id": 12,
+    "EmergencyTypeName": "Disease Outbreak - Covid-19",
+    "EmergencyTypeCode": "DISE_OUTBRK_COVID_19",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 3
+  },
+  {
+    "Id": 13,
+    "EmergencyTypeName": "Disease Outbreak - Animal Disease",
+    "EmergencyTypeCode": "DISE_OUTBRK_ANML_DISE",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 1
+  },
+  {
+    "Id": 15,
+    "EmergencyTypeName": "Conflict - Refugees",
+    "EmergencyTypeCode": "CONFLICT_REFG",
+    "EmergencyGroupId": 1,
+    "EmergencyCategoryId": 16
+  },
+  {
+    "Id": 16,
+    "EmergencyTypeName": "Conflict - Displacement",
+    "EmergencyTypeCode": "CONFLICT_DISPLACE",
+    "EmergencyGroupId": 1,
+    "EmergencyCategoryId": 4
+  },
+  {
+    "Id": 17,
+    "EmergencyTypeName": "Conflict - Violence/clashes",
+    "EmergencyTypeCode": "CONFLICT_VIOLENCE",
+    "EmergencyGroupId": 1,
+    "EmergencyCategoryId": 21
+  },
+  {
+    "Id": 18,
+    "EmergencyTypeName": "Conflict - Post-conflict needs",
+    "EmergencyTypeCode": "CONFLICT_POST_CONFLICT",
+    "EmergencyGroupId": 1,
+    "EmergencyCategoryId": 15
+  },
+  {
+    "Id": 27,
+    "EmergencyTypeName": "Climate / natural disaster - Drought",
+    "EmergencyTypeCode": "NATRL_DIS_DROUGHT",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 5
+  },
+  {
+    "Id": 28,
+    "EmergencyTypeName": "Other - Human Rights / Protection",
+    "EmergencyTypeCode": "OTHER_HUMAN_RIGHTS",
+    "EmergencyGroupId": 6,
+    "EmergencyCategoryId": 11
+  },
+  {
+    "Id": 29,
+    "EmergencyTypeName": "Other - Fire/Explosion",
+    "EmergencyTypeCode": "OTHER_FIRE_EXPL",
+    "EmergencyGroupId": 6,
+    "EmergencyCategoryId": 23
+  },
+  {
+    "Id": 30,
+    "EmergencyTypeName": "Disease Outbreak - Other disease outbreak",
+    "EmergencyTypeCode": "DISE_OUTBRK_OTHER",
+    "EmergencyGroupId": 2,
+    "EmergencyCategoryId": 24
+  },
+  {
+    "Id": 31,
+    "EmergencyTypeName": "Other - socio-economic disruption",
+    "EmergencyTypeCode": "OTHER_SOCIO_ECON_DPT",
+    "EmergencyGroupId": 6,
+    "EmergencyCategoryId": 25
+  },
+  {
+    "Id": 33,
+    "EmergencyTypeName": "Climate / natural disaster - Fire/Explosion",
+    "EmergencyTypeCode": "NATRL_DIS_FIRE_EXPL",
+    "EmergencyGroupId": 4,
+    "EmergencyCategoryId": 23
+  }
+]

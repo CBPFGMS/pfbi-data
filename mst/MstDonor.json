@@ -1,0 +1,1344 @@
+[
+  {
+    "id": 1,
+    "donorName": "Abu Dhabi National Energy Company \"TAQA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 2,
+    "donorName": "Afghanistan",
+    "donorType": "Member State",
+    "donorISO2Code": "AF"
+  },
+  {
+    "id": 3,
+    "donorName": "African Union",
+    "donorType": "Member State",
+    "donorISO2Code": "XAU"
+  },
+  {
+    "id": 4,
+    "donorName": "AGFUND",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 5,
+    "donorName": "Al Jisr Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 6,
+    "donorName": "Albania",
+    "donorType": "Member State",
+    "donorISO2Code": "AL"
+  },
+  {
+    "id": 7,
+    "donorName": "Alexander Bodini Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 8,
+    "donorName": "Algeria",
+    "donorType": "Member State",
+    "donorISO2Code": "DZ"
+  },
+  {
+    "id": 9,
+    "donorName": "Andorra",
+    "donorType": "Member State",
+    "donorISO2Code": "AD"
+  },
+  {
+    "id": 10,
+    "donorName": "Antigua and Barbuda",
+    "donorType": "Member State",
+    "donorISO2Code": "AG"
+  },
+  {
+    "id": 11,
+    "donorName": "Argentina",
+    "donorType": "Member State",
+    "donorISO2Code": "AR"
+  },
+  {
+    "id": 12,
+    "donorName": "Armenia",
+    "donorType": "Member State",
+    "donorISO2Code": "AM"
+  },
+  {
+    "id": 13,
+    "donorName": "Australia",
+    "donorType": "Member State",
+    "donorISO2Code": "AU"
+  },
+  {
+    "id": 14,
+    "donorName": "Austria",
+    "donorType": "Member State",
+    "donorISO2Code": "AT"
+  },
+  {
+    "id": 15,
+    "donorName": "Azerbaijan",
+    "donorType": "Member State",
+    "donorISO2Code": "AZ"
+  },
+  {
+    "id": 16,
+    "donorName": "Baha'i International Community (National Spiritual Assembly)",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 16,
+    "donorName": "Baha'i International Community",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 17,
+    "donorName": "Bahamas",
+    "donorType": "Member State",
+    "donorISO2Code": "BS"
+  },
+  {
+    "id": 18,
+    "donorName": "Bangladesh",
+    "donorType": "Member State",
+    "donorISO2Code": "BD"
+  },
+  {
+    "id": 19,
+    "donorName": "BASF (Germany and South East Asia)",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 20,
+    "donorName": "Basque Agency for Development Cooperation",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XBADC"
+  },
+  {
+    "id": 21,
+    "donorName": "Belgian Government of Flanders",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XBGF"
+  },
+  {
+    "id": 22,
+    "donorName": "Belgium",
+    "donorType": "Member State",
+    "donorISO2Code": "BE"
+  },
+  {
+    "id": 23,
+    "donorName": "Benin",
+    "donorType": "Member State",
+    "donorISO2Code": "BJ"
+  },
+  {
+    "id": 24,
+    "donorName": "Bhutan",
+    "donorType": "Member State",
+    "donorISO2Code": "BT"
+  },
+  {
+    "id": 25,
+    "donorName": "Bilkent Holding AS",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 26,
+    "donorName": "Bonne L. Domroe",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 27,
+    "donorName": "Bosnia and Herzegovina",
+    "donorType": "Member State",
+    "donorISO2Code": "BA"
+  },
+  {
+    "id": 28,
+    "donorName": "Botswana",
+    "donorType": "Member State",
+    "donorISO2Code": "BW"
+  },
+  {
+    "id": 29,
+    "donorName": "Brazil",
+    "donorType": "Member State",
+    "donorISO2Code": "BR"
+  },
+  {
+    "id": 30,
+    "donorName": "Brunei Darussalam",
+    "donorType": "Member State",
+    "donorISO2Code": "BN"
+  },
+  {
+    "id": 31,
+    "donorName": "Bulgaria",
+    "donorType": "Member State",
+    "donorISO2Code": "BG"
+  },
+  {
+    "id": 32,
+    "donorName": "Burundi",
+    "donorType": "Member State",
+    "donorISO2Code": "BI"
+  },
+  {
+    "id": 33,
+    "donorName": "Cote d'Ivoire",
+    "donorType": "Member State",
+    "donorISO2Code": "CI"
+  },
+  {
+    "id": 34,
+    "donorName": "Cambodia",
+    "donorType": "Member State",
+    "donorISO2Code": "KH"
+  },
+  {
+    "id": 35,
+    "donorName": "Canada",
+    "donorType": "Member State",
+    "donorISO2Code": "CA"
+  },
+  {
+    "id": 36,
+    "donorName": "Catalan Agency for Development Cooperation",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XCADC"
+  },
+  {
+    "id": 37,
+    "donorName": "Central African Republic",
+    "donorType": "Member State",
+    "donorISO2Code": "CF"
+  },
+  {
+    "id": 38,
+    "donorName": "Chih-Kun Chan",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 39,
+    "donorName": "Chile",
+    "donorType": "Member State",
+    "donorISO2Code": "CL"
+  },
+  {
+    "id": 40,
+    "donorName": "China",
+    "donorType": "Member State",
+    "donorISO2Code": "CN"
+  },
+  {
+    "id": 41,
+    "donorName": "Chung Te Buddhist Association of New York, Inc.",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 42,
+    "donorName": "CIGNA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 43,
+    "donorName": "Cmax Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 44,
+    "donorName": "Colombia",
+    "donorType": "Member State",
+    "donorISO2Code": "CO"
+  },
+  {
+    "id": 45,
+    "donorName": "Coloplast",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 46,
+    "donorName": "Congo, Republic of",
+    "donorType": "Member State",
+    "donorISO2Code": "CD"
+  },
+  {
+    "id": 47,
+    "donorName": "Costa Rica",
+    "donorType": "Member State",
+    "donorISO2Code": "CR"
+  },
+  {
+    "id": 48,
+    "donorName": "Croatia",
+    "donorType": "Member State",
+    "donorISO2Code": "HR"
+  },
+  {
+    "id": 49,
+    "donorName": "Cyprus",
+    "donorType": "Member State",
+    "donorISO2Code": "CY"
+  },
+  {
+    "id": 50,
+    "donorName": "Czech Republic",
+    "donorType": "Member State",
+    "donorISO2Code": "CZ"
+  },
+  {
+    "id": 51,
+    "donorName": "Daystar Christian Centre",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 52,
+    "donorName": "Denmark",
+    "donorType": "Member State",
+    "donorISO2Code": "DK"
+  },
+  {
+    "id": 53,
+    "donorName": "Disaster Resource Network",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 54,
+    "donorName": "Djibouti",
+    "donorType": "Member State",
+    "donorISO2Code": "DJ"
+  },
+  {
+    "id": 55,
+    "donorName": "Ecuador",
+    "donorType": "Member State",
+    "donorISO2Code": "EC"
+  },
+  {
+    "id": 56,
+    "donorName": "Egypt",
+    "donorType": "Member State",
+    "donorISO2Code": "EG"
+  },
+  {
+    "id": 57,
+    "donorName": "El Salvador",
+    "donorType": "Member State",
+    "donorISO2Code": "SV"
+  },
+  {
+    "id": 58,
+    "donorName": "ENDESA Peru",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 59,
+    "donorName": "ENDESA Spain",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 60,
+    "donorName": "Equatorial Guinea",
+    "donorType": "Member State",
+    "donorISO2Code": "GQ"
+  },
+  {
+    "id": 61,
+    "donorName": "Estonia",
+    "donorType": "Member State",
+    "donorISO2Code": "EE"
+  },
+  {
+    "id": 62,
+    "donorName": "European Commission",
+    "donorType": "Member State",
+    "donorISO2Code": "XEC"
+  },
+  {
+    "id": 63,
+    "donorName": "Finland",
+    "donorType": "Member State",
+    "donorISO2Code": "FI"
+  },
+  {
+    "id": 64,
+    "donorName": "France",
+    "donorType": "Member State",
+    "donorISO2Code": "FR"
+  },
+  {
+    "id": 65,
+    "donorName": "Gabon",
+    "donorType": "Member State",
+    "donorISO2Code": "GA"
+  },
+  {
+    "id": 66,
+    "donorName": "Georgia",
+    "donorType": "Member State",
+    "donorISO2Code": "GE"
+  },
+  {
+    "id": 67,
+    "donorName": "Germany",
+    "donorType": "Member State",
+    "donorISO2Code": "DE"
+  },
+  {
+    "id": 68,
+    "donorName": "Ghana",
+    "donorType": "Member State",
+    "donorISO2Code": "GH"
+  },
+  {
+    "id": 69,
+    "donorName": "GMC Services",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 70,
+    "donorName": "Greece",
+    "donorType": "Member State",
+    "donorISO2Code": "GR"
+  },
+  {
+    "id": 71,
+    "donorName": "Grenada",
+    "donorType": "Member State",
+    "donorISO2Code": "GD"
+  },
+  {
+    "id": 72,
+    "donorName": "Guatemala",
+    "donorType": "Member State",
+    "donorISO2Code": "GT"
+  },
+  {
+    "id": 73,
+    "donorName": "Guyana",
+    "donorType": "Member State",
+    "donorISO2Code": "GY"
+  },
+  {
+    "id": 74,
+    "donorName": "Haiti",
+    "donorType": "Member State",
+    "donorISO2Code": "HT"
+  },
+  {
+    "id": 75,
+    "donorName": "Holy See (Vatican City State)",
+    "donorType": "Observer",
+    "donorISO2Code": "XHS"
+  },
+  {
+    "id": 76,
+    "donorName": "HSBC Bank Middle East Limited",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 77,
+    "donorName": "Humanity First USA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 78,
+    "donorName": "Hungary",
+    "donorType": "Member State",
+    "donorISO2Code": "HU"
+  },
+  {
+    "id": 79,
+    "donorName": "Hyogo Prefecture (Japan)",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XHP"
+  },
+  {
+    "id": 80,
+    "donorName": "Iceland",
+    "donorType": "Member State",
+    "donorISO2Code": "IS"
+  },
+  {
+    "id": 81,
+    "donorName": "India",
+    "donorType": "Member State",
+    "donorISO2Code": "IN"
+  },
+  {
+    "id": 82,
+    "donorName": "Indonesia",
+    "donorType": "Member State",
+    "donorISO2Code": "ID"
+  },
+  {
+    "id": 83,
+    "donorName": "International Maritime Orgnization (IMO)",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XIMO"
+  },
+  {
+    "id": 84,
+    "donorName": "Iran",
+    "donorType": "Member State",
+    "donorISO2Code": "IR"
+  },
+  {
+    "id": 85,
+    "donorName": "Iraq",
+    "donorType": "Member State",
+    "donorISO2Code": "IQ"
+  },
+  {
+    "id": 86,
+    "donorName": "Ireland",
+    "donorType": "Member State",
+    "donorISO2Code": "IE"
+  },
+  {
+    "id": 87,
+    "donorName": "Israel",
+    "donorType": "Member State",
+    "donorISO2Code": "IL"
+  },
+  {
+    "id": 88,
+    "donorName": "Italy",
+    "donorType": "Member State",
+    "donorISO2Code": "IT"
+  },
+  {
+    "id": 89,
+    "donorName": "Jamaica",
+    "donorType": "Member State",
+    "donorISO2Code": "JM"
+  },
+  {
+    "id": 90,
+    "donorName": "Jan Egeland",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 91,
+    "donorName": "Japan",
+    "donorType": "Member State",
+    "donorISO2Code": "JP"
+  },
+  {
+    "id": 92,
+    "donorName": "Jefferies and Company",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 93,
+    "donorName": "Jersey",
+    "donorType": "Member State",
+    "donorISO2Code": "JE"
+  },
+  {
+    "id": 94,
+    "donorName": "Kazakhstan",
+    "donorType": "Member State",
+    "donorISO2Code": "KZ"
+  },
+  {
+    "id": 95,
+    "donorName": "Kenya",
+    "donorType": "Member State",
+    "donorISO2Code": "KE"
+  },
+  {
+    "id": 96,
+    "donorName": "Kimse Yok Mu Association",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 97,
+    "donorName": "KK Wind Solutions",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 98,
+    "donorName": "Korea",
+    "donorType": "Member State",
+    "donorISO2Code": "KR"
+  },
+  {
+    "id": 98,
+    "donorName": "Republic of Korea",
+    "donorType": "Member State",
+    "donorISO2Code": "KR"
+  },
+  {
+    "id": 99,
+    "donorName": "Korean and Overseas Fans of Kim Hyun Joong",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 100,
+    "donorName": "Kuwait",
+    "donorType": "Member State",
+    "donorISO2Code": "KW"
+  },
+  {
+    "id": 101,
+    "donorName": "Lao PDR",
+    "donorType": "Member State",
+    "donorISO2Code": "LA"
+  },
+  {
+    "id": 102,
+    "donorName": "Late Barbara Cahill",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 103,
+    "donorName": "Latin American Benevolent Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 104,
+    "donorName": "Latvia",
+    "donorType": "Member State",
+    "donorISO2Code": "LV"
+  },
+  {
+    "id": 105,
+    "donorName": "Lebanon",
+    "donorType": "Member State",
+    "donorISO2Code": "LB"
+  },
+  {
+    "id": 106,
+    "donorName": "Lenovo Next Generation Hope Fund",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 107,
+    "donorName": "Liechtenstein",
+    "donorType": "Member State",
+    "donorISO2Code": "LI"
+  },
+  {
+    "id": 108,
+    "donorName": "Lithuania",
+    "donorType": "Member State",
+    "donorISO2Code": "LT"
+  },
+  {
+    "id": 109,
+    "donorName": "Luxembourg",
+    "donorType": "Member State",
+    "donorISO2Code": "LU"
+  },
+  {
+    "id": 110,
+    "donorName": "Madagascar",
+    "donorType": "Member State",
+    "donorISO2Code": "MG"
+  },
+  {
+    "id": 111,
+    "donorName": "Malaysia",
+    "donorType": "Member State",
+    "donorISO2Code": "MY"
+  },
+  {
+    "id": 112,
+    "donorName": "Maldives",
+    "donorType": "Member State",
+    "donorISO2Code": "MV"
+  },
+  {
+    "id": 113,
+    "donorName": "Mali",
+    "donorType": "Member State",
+    "donorISO2Code": "ML"
+  },
+  {
+    "id": 114,
+    "donorName": "Malta",
+    "donorType": "Member State",
+    "donorISO2Code": "MT"
+  },
+  {
+    "id": 115,
+    "donorName": "Mexico",
+    "donorType": "Member State",
+    "donorISO2Code": "MX"
+  },
+  {
+    "id": 116,
+    "donorName": "Moldova",
+    "donorType": "Member State",
+    "donorISO2Code": "MD"
+  },
+  {
+    "id": 117,
+    "donorName": "Monaco",
+    "donorType": "Member State",
+    "donorISO2Code": "MC"
+  },
+  {
+    "id": 118,
+    "donorName": "Mongolia",
+    "donorType": "Member State",
+    "donorISO2Code": "MN"
+  },
+  {
+    "id": 119,
+    "donorName": "Montenegro",
+    "donorType": "Member State",
+    "donorISO2Code": "ME"
+  },
+  {
+    "id": 120,
+    "donorName": "Morocco",
+    "donorType": "Member State",
+    "donorISO2Code": "MA"
+  },
+  {
+    "id": 121,
+    "donorName": "Mozambique",
+    "donorType": "Member State",
+    "donorISO2Code": "MZ"
+  },
+  {
+    "id": 122,
+    "donorName": "Myanmar",
+    "donorType": "Member State",
+    "donorISO2Code": "MM"
+  },
+  {
+    "id": 123,
+    "donorName": "Namibia",
+    "donorType": "Member State",
+    "donorISO2Code": "NA"
+  },
+  {
+    "id": 124,
+    "donorName": "Netherlands",
+    "donorType": "Member State",
+    "donorISO2Code": "NL"
+  },
+  {
+    "id": 125,
+    "donorName": "New Zealand",
+    "donorType": "Member State",
+    "donorISO2Code": "NZ"
+  },
+  {
+    "id": 126,
+    "donorName": "Nigeria",
+    "donorType": "Member State",
+    "donorISO2Code": "NG"
+  },
+  {
+    "id": 127,
+    "donorName": "Nigerian Economic Summit Group LTD",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 128,
+    "donorName": "North Macedonia",
+    "donorType": "Member State",
+    "donorISO2Code": "MK"
+  },
+  {
+    "id": 129,
+    "donorName": "Norway",
+    "donorType": "Member State",
+    "donorISO2Code": "NO"
+  },
+  {
+    "id": 130,
+    "donorName": "Oman",
+    "donorType": "Member State",
+    "donorISO2Code": "OM"
+  },
+  {
+    "id": 131,
+    "donorName": "Pakistan",
+    "donorType": "Member State",
+    "donorISO2Code": "PK"
+  },
+  {
+    "id": 132,
+    "donorName": "Panama",
+    "donorType": "Member State",
+    "donorISO2Code": "PA"
+  },
+  {
+    "id": 133,
+    "donorName": "Peru",
+    "donorType": "Member State",
+    "donorISO2Code": "PE"
+  },
+  {
+    "id": 134,
+    "donorName": "Philippines",
+    "donorType": "Member State",
+    "donorISO2Code": "PH"
+  },
+  {
+    "id": 135,
+    "donorName": "Poland",
+    "donorType": "Member State",
+    "donorISO2Code": "PL"
+  },
+  {
+    "id": 136,
+    "donorName": "Portugal",
+    "donorType": "Member State",
+    "donorISO2Code": "PT"
+  },
+  {
+    "id": 137,
+    "donorName": "PriceWaterhouseCoopers",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 138,
+    "donorName": "Private donations outside UN Foundation (under $10,000)",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 139,
+    "donorName": "Private donations through UN Foundation (under $10,000)",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 140,
+    "donorName": "PRIVATE SECTOR",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 141,
+    "donorName": "Qatar",
+    "donorType": "Member State",
+    "donorISO2Code": "QA"
+  },
+  {
+    "id": 142,
+    "donorName": "Republic of Congo",
+    "donorType": "Member State",
+    "donorISO2Code": "CG"
+  },
+  {
+    "id": 143,
+    "donorName": "Romania",
+    "donorType": "Member State",
+    "donorISO2Code": "RO"
+  },
+  {
+    "id": 144,
+    "donorName": "Russian Federation",
+    "donorType": "Member State",
+    "donorISO2Code": "RU"
+  },
+  {
+    "id": 145,
+    "donorName": "Saint Lucia",
+    "donorType": "Member State",
+    "donorISO2Code": "LC"
+  },
+  {
+    "id": 146,
+    "donorName": "Samoa",
+    "donorType": "Member State",
+    "donorISO2Code": "WS"
+  },
+  {
+    "id": 147,
+    "donorName": "San Marino",
+    "donorType": "Member State",
+    "donorISO2Code": "SM"
+  },
+  {
+    "id": 148,
+    "donorName": "Saudi Arabia",
+    "donorType": "Member State",
+    "donorISO2Code": "SA"
+  },
+  {
+    "id": 149,
+    "donorName": "SCOR",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 150,
+    "donorName": "Serbia",
+    "donorType": "Member State",
+    "donorISO2Code": "RS"
+  },
+  {
+    "id": 151,
+    "donorName": "Sierra Leone",
+    "donorType": "Member State",
+    "donorISO2Code": "SL"
+  },
+  {
+    "id": 152,
+    "donorName": "Singapore",
+    "donorType": "Member State",
+    "donorISO2Code": "SG"
+  },
+  {
+    "id": 153,
+    "donorName": "Skanska USA Building Inc.",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 154,
+    "donorName": "Slovakia",
+    "donorType": "Member State",
+    "donorISO2Code": "SK"
+  },
+  {
+    "id": 155,
+    "donorName": "Slovenia",
+    "donorType": "Member State",
+    "donorISO2Code": "SI"
+  },
+  {
+    "id": 156,
+    "donorName": "South Africa",
+    "donorType": "Member State",
+    "donorISO2Code": "ZA"
+  },
+  {
+    "id": 157,
+    "donorName": "Sovereign Military Order of Malta",
+    "donorType": "Observer",
+    "donorISO2Code": "XSMOM"
+  },
+  {
+    "id": 158,
+    "donorName": "Spain",
+    "donorType": "Member State",
+    "donorISO2Code": "ES"
+  },
+  {
+    "id": 159,
+    "donorName": "Sri Lanka",
+    "donorType": "Member State",
+    "donorISO2Code": "LK"
+  },
+  {
+    "id": 160,
+    "donorName": "State of South Australia",
+    "donorType": "Regional/ Local Authorities",
+    "donorISO2Code": "XSSA"
+  },
+  {
+    "id": 161,
+    "donorName": "Stephanie Loose",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 162,
+    "donorName": "Sweden",
+    "donorType": "Member State",
+    "donorISO2Code": "SE"
+  },
+  {
+    "id": 163,
+    "donorName": "Switzerland",
+    "donorType": "Member State",
+    "donorISO2Code": "CH"
+  },
+  {
+    "id": 164,
+    "donorName": "Syria",
+    "donorType": "Member State",
+    "donorISO2Code": "SY"
+  },
+  {
+    "id": 165,
+    "donorName": "Tajikistan",
+    "donorType": "Member State",
+    "donorISO2Code": "TJ"
+  },
+  {
+    "id": 166,
+    "donorName": "Thailand",
+    "donorType": "Member State",
+    "donorISO2Code": "TH"
+  },
+  {
+    "id": 167,
+    "donorName": "The Estate of George Gary",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 168,
+    "donorName": "The Red Crescent of the UAE",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 169,
+    "donorName": "Timor-Leste",
+    "donorType": "Member State",
+    "donorISO2Code": "TL"
+  },
+  {
+    "id": 170,
+    "donorName": "Trinidad and Tobago",
+    "donorType": "Member State",
+    "donorISO2Code": "TT"
+  },
+  {
+    "id": 171,
+    "donorName": "Tunisia",
+    "donorType": "Member State",
+    "donorISO2Code": "TN"
+  },
+  {
+    "id": 172,
+    "donorName": "Turkey",
+    "donorType": "Member State",
+    "donorISO2Code": "TR"
+  },
+  {
+    "id": 172,
+    "donorName": "Türkiye",
+    "donorType": "Member State",
+    "donorISO2Code": "TR"
+  },
+  {
+    "id": 173,
+    "donorName": "Turkmenistan",
+    "donorType": "Member State",
+    "donorISO2Code": "TM"
+  },
+  {
+    "id": 174,
+    "donorName": "Tuvalu",
+    "donorType": "Member State",
+    "donorISO2Code": "TV"
+  },
+  {
+    "id": 175,
+    "donorName": "Uganda",
+    "donorType": "Member State",
+    "donorISO2Code": "UG"
+  },
+  {
+    "id": 176,
+    "donorName": "Ukraine",
+    "donorType": "Member State",
+    "donorISO2Code": "UA"
+  },
+  {
+    "id": 177,
+    "donorName": "UN and Other Agencies",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 177,
+    "donorName": "UN, NGOs and other entities",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 178,
+    "donorName": "UN Foundation core fund",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 179,
+    "donorName": "UN Spouses Bazaar",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 180,
+    "donorName": "UNF",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 181,
+    "donorName": "United Arab Emirates",
+    "donorType": "Member State",
+    "donorISO2Code": "AE"
+  },
+  {
+    "id": 182,
+    "donorName": "United Islamic Center",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 183,
+    "donorName": "United Kingdom",
+    "donorType": "Member State",
+    "donorISO2Code": "GB"
+  },
+  {
+    "id": 184,
+    "donorName": "United States of America",
+    "donorType": "Member State",
+    "donorISO2Code": "US"
+  },
+  {
+    "id": 185,
+    "donorName": "UNOCHA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 186,
+    "donorName": "Uruguay",
+    "donorType": "Member State",
+    "donorISO2Code": "UY"
+  },
+  {
+    "id": 187,
+    "donorName": "Venezuela",
+    "donorType": "Member State",
+    "donorISO2Code": "VE"
+  },
+  {
+    "id": 188,
+    "donorName": "Vietnam",
+    "donorType": "Member State",
+    "donorISO2Code": "VN"
+  },
+  {
+    "id": 189,
+    "donorName": "Waterloo Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 190,
+    "donorName": "Western Union",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 191,
+    "donorName": "World Mission Society Church of God",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 192,
+    "donorName": "ZIV Aplicaciones y Tecnología, S.L.",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 193,
+    "donorName": "Fiji",
+    "donorType": "Member State",
+    "donorISO2Code": "FJ"
+  },
+  {
+    "id": 194,
+    "donorName": "Equatorial Guinea",
+    "donorType": "Member State",
+    "donorISO2Code": "GQ"
+  },
+  {
+    "id": 195,
+    "donorName": "Yemen",
+    "donorType": "Member State",
+    "donorISO2Code": "YE"
+  },
+  {
+    "id": 196,
+    "donorName": "Uzbekistan",
+    "donorType": "Member State",
+    "donorISO2Code": "UZ"
+  },
+  {
+    "id": 197,
+    "donorName": "Angola",
+    "donorType": "Member State",
+    "donorISO2Code": "AO"
+  },
+  {
+    "id": 198,
+    "donorName": "Multi-Donor Funds",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 199,
+    "donorName": "OPEC",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 200,
+    "donorName": "Private donations (through UNF)",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 201,
+    "donorName": "Kyrgyzstan",
+    "donorType": "Member State",
+    "donorISO2Code": "KG"
+  },
+  {
+
+    "id": 202,
+    "donorName": "Mauritius",
+    "donorType": "Member State",
+    "donorISO2Code": "MU"
+  },
+  {
+
+    "id": 203,
+    "donorName": "Stripe, Ireland",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 204,
+    "donorName": "Morgan Stanley Gift Fund",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 205,
+    "donorName": "ByteDance/TikTok",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 206,
+    "donorName": "CIRCA Art Ltd (Yoko Ono Campaign)",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+
+    "id": 207,
+    "donorName": "Zambia",
+    "donorType": "Member State",
+    "donorISO2Code": "ZM"
+  },
+  {
+    "id": 208,
+    "donorName": "Private Contributions",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },{
+    "id": 209,
+    "donorName": "KAAGNY/K-Radio - Private - USA",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },{
+    "id": 210,
+    "donorName": "Mohamed Fathi Ahmed Ibrahim",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },{
+    "id": 211,
+    "donorName": "Qatar Charity",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 212,
+    "donorName": "Burkina Faso",
+    "donorType": "Member State",
+    "donorISO2Code": "BF"
+  },
+  {
+    "id": 213,
+    "donorName": "Zimbabwe",
+    "donorType": "Member State",
+    "donorISO2Code": "ZW"
+  },
+  {
+    "id": 214,
+    "donorName": "Chad",
+    "donorType": "Member State",
+    "donorISO2Code": "TD"
+  },
+  {
+    "id": 215,
+    "donorName": "Funding under $10,000",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 216,
+    "donorName": "DEZA/SDC",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 217,
+    "donorName": "Through United Nations Foundation, UNF",
+    "donorType": "Private Contributions through UNF",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 218,
+    "donorName": "Coca-Cola Foundation",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  },
+  {
+    "id": 219,
+    "donorName": "QC",
+    "donorType": "Private",
+    "donorISO2Code": "XPRV"
+  }
+]

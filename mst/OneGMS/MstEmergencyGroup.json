@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "EmergencyGroupName": "Conflict",
+    "EmergencyGroupCode": "CONFLICT"
+  },
+  {
+    "Id": 2,
+    "EmergencyGroupName": "Disease outbreak",
+    "EmergencyGroupCode": "DISE_OUTBRK"
+  },
+  {
+    "Id": 4,
+    "EmergencyGroupName": "Climate / natural disaster",
+    "EmergencyGroupCode": "NATRL_DIS"
+  },
+  {
+    "Id": 6,
+    "EmergencyGroupName": "Other",
+    "EmergencyGroupCode": "OTHER"
+  }
+]

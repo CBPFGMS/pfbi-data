@@ -1,0 +1,9 @@
+OrgTypeId,OrgTypeNm,OrgTypeCode
+1,BU,BU
+2,DRP,DRP
+3,Government,GOV
+4,Internation NGO,INGO
+5,NGOs,NGOs
+6,National NGO,NNGO
+7,Red Cross,RedC
+8,United Nations,UN

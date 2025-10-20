@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "AllocationName": "Reserve"
+  },
+  {
+    "id": 2,
+    "AllocationName": "Standard"
+  },
+  {
+    "id": 3,
+    "AllocationName": "Rapid Response"
+  },
+  {
+    "id": 4,
+    "AllocationName": "Underfunded Emergencies"
+  }
+]

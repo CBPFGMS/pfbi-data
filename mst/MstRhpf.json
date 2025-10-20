@@ -1,0 +1,86 @@
+[
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Niger (RhPF-WCA)",
+    "StartYearDate": "08-2022",
+    "CBPFId": 84
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Mali (RhPF-WCA)",
+    "StartYearDate": "03-2023",
+    "CBPFId": 86
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Burkina Faso (RhPF-WCA)",
+    "StartYearDate": "09-2022",
+    "CBPFId": 85
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "Colombia (RhPF-LAC)",
+    "StartYearDate": "01-2024",
+    "CBPFId": 87
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "Haiti (RhPF)",
+    "StartYearDate": "01-2024",
+    "CBPFId": 88
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Eastern and Southern Africa",
+    "RFundAbbrv": "RhPF-EA",
+    "RFundName": "Mozambique (RhPF)",
+    "StartYearDate": "09-2024",
+    "CBPFId": 89
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for West and Central Africa",
+    "RFundAbbrv": "RhPF-WCA",
+    "RFundName": "Chad (RhPF-WCA)",
+    "StartYearDate": "12-2024",
+    "CBPFId": 90
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Asia Pacific Regional Fund",
+    "StartYearDate": "01-2025",
+    "CBPFId": 501
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Fiji (AP-RHPF)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 94
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Pakistan (AP-RHPF)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 97
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Tonga (AP-RHPF)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 96
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Vanuatu (AP-RHPF)",
+    "StartYearDate": "01-2025",
+    "CBPFId": 95
+  }
+]

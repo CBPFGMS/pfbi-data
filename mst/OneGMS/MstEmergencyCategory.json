@@ -1,0 +1,107 @@
+[
+  {
+    "Id": 1,
+    "EmergencyCategoryName": "Animal Disease",
+    "EmergencyCategoryCode": "ANML_DISE"
+  },
+  {
+    "Id": 2,
+    "EmergencyCategoryName": "Cholera",
+    "EmergencyCategoryCode": "CHOLERA"
+  },
+  {
+    "Id": 3,
+    "EmergencyCategoryName": "Covid-19",
+    "EmergencyCategoryCode": "COVID_19"
+  },
+  {
+    "Id": 4,
+    "EmergencyCategoryName": "Displacement",
+    "EmergencyCategoryCode": "DISPLACE"
+  },
+  {
+    "Id": 5,
+    "EmergencyCategoryName": "Drought",
+    "EmergencyCategoryCode": "DRGTH"
+  },
+  {
+    "Id": 6,
+    "EmergencyCategoryName": "Earthquake",
+    "EmergencyCategoryCode": "ERTHQK"
+  },
+  {
+    "Id": 7,
+    "EmergencyCategoryName": "Ebola",
+    "EmergencyCategoryCode": "EBOLA"
+  },
+  {
+    "Id": 9,
+    "EmergencyCategoryName": "Flood",
+    "EmergencyCategoryCode": "FLOOD"
+  },
+  {
+    "Id": 10,
+    "EmergencyCategoryName": "Heat/cold wave",
+    "EmergencyCategoryCode": "HOT_COLD_WAVE"
+  },
+  {
+    "Id": 11,
+    "EmergencyCategoryName": "Human Rights / Protection",
+    "EmergencyCategoryCode": "HUMAN_RIGHTS"
+  },
+  {
+    "Id": 12,
+    "EmergencyCategoryName": "Insect infestation",
+    "EmergencyCategoryCode": "INSCT_INFEST"
+  },
+  {
+    "Id": 13,
+    "EmergencyCategoryName": "Measles",
+    "EmergencyCategoryCode": "MEASLES"
+  },
+  {
+    "Id": 15,
+    "EmergencyCategoryName": "Post-conflict Needs",
+    "EmergencyCategoryCode": "POST_CONFLICT"
+  },
+  {
+    "Id": 16,
+    "EmergencyCategoryName": "Refugees situation",
+    "EmergencyCategoryCode": "REFG"
+  },
+  {
+    "Id": 17,
+    "EmergencyCategoryName": "Storm",
+    "EmergencyCategoryCode": "STORM"
+  },
+  {
+    "Id": 18,
+    "EmergencyCategoryName": "Tsunami",
+    "EmergencyCategoryCode": "TSUN"
+  },
+  {
+    "Id": 21,
+    "EmergencyCategoryName": "Violence/Clashes",
+    "EmergencyCategoryCode": "VIOLENCE"
+  },
+  {
+    "Id": 22,
+    "EmergencyCategoryName": "Volcano",
+    "EmergencyCategoryCode": "VOLC"
+  },
+  {
+    "Id": 23,
+    "EmergencyCategoryName": "Fire/Explosion",
+    "EmergencyCategoryCode": "FIRE_EXPL"
+  },
+  {
+    "Id": 24,
+    "EmergencyCategoryName": "Other disease outbreak",
+    "EmergencyCategoryCode": "OTHER_DISE_OUTBREAK"
+  },
+  {
+    "Id": 25,
+    "EmergencyCategoryName": "Socio-economic Disruption",
+    "EmergencyCategoryCode": "SOCIO_ECON_DPT"
+  }
+]

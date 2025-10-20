@@ -1,0 +1,31 @@
+{
+    "odata.metadata": "https://cbpfapi.unocha.org/vo2/odata/$metadata#CBPFSummary/@Element",
+    "donors": 65,
+    "funds": 44,
+    "contribTotalAmt": 576366160.0200001,
+    "contribPaidAmt": 576316160.0200001,
+    "contribPledgedAmt": 50000.0,
+    "allocAmt": 574911166.4699998,
+    "underApprovalAmt": "0",
+    "year": "2024",
+    "projectsFunded": 359,
+    "partnersFunded": 12,
+    "partnersFundedByType": [
+        {
+            "partnerType": "International NGO",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "National NGO",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "Others",
+            "partnersFunded": 0
+        },
+        {
+            "partnerType": "UN Agency",
+            "partnersFunded": 64222406
+        }
+    ]
+}

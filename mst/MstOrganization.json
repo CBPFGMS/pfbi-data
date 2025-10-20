@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "OrganizationTypeName": "International NGO"
+  },
+  {
+    "id": 2,
+    "OrganizationTypeName": "National NGO"
+  },
+  {
+    "id": 3,
+    "OrganizationTypeName": "UN Agency"
+  },
+  {
+    "id": 4,
+    "OrganizationTypeName": "Others"
+  }
+]
