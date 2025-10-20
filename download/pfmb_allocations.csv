@@ -11090,6 +11090,8 @@ Afghanistan,2025,Reserve,35512,CBPF-AFG-25-R-NGO-35512,Nutrition,,100.0,686095.0
 Afghanistan,2025,Reserve,35514,CBPF-AFG-25-R-NGO-35514,"Water, Sanitation and Hygiene",,100.0,642107.0,CBPF
 Afghanistan,2025,Reserve,35538,CBPF-AFG-25-R-NGO-35538,Nutrition,,100.0,481880.83,CBPF
 Afghanistan,2025,Reserve,35564,CBPF-AFG-25-R-NGO-35564,Nutrition,,100.0,647314.69,CBPF
+Afghanistan,2025,Reserve,37468,CBPF-AFG-25-R-NGO-37468,"Water, Sanitation and Hygiene",,100.0,699989.19,CBPF
+Afghanistan,2025,Reserve,37478,CBPF-AFG-25-R-NGO-37478,"Water, Sanitation and Hygiene",,100.0,697601.48,CBPF
 Afghanistan,2025,Reserve,35077,CBPF-AFG-25-R-UN-35077,Health,,100.0,448006.56,CBPF
 Afghanistan,2025,Reserve,35078,CBPF-AFG-25-R-UN-35078,Health,,71.0,986710.9341,CBPF
 Afghanistan,2025,Reserve,35078,CBPF-AFG-25-R-UN-35078,Nutrition,,29.0,403022.7759,CBPF
@@ -12411,6 +12413,7 @@ CAR,2019,Standard,14328,CAR-19/HCF10/SA2/WaSH-NFI/NGO/14328,Emergency Shelter an
 CAR,2019,Standard,14328,CAR-19/HCF10/SA2/WaSH-NFI/NGO/14328,"Water, Sanitation and Hygiene",,53.33,119992.5,CBPF
 Chad (RhPF),2025,Reserve,36203,CBPF-TCD-25-R-INGO-36203,Emergency Shelter and NFI,,80.0,1040000.0,CBPF
 Chad (RhPF),2025,Reserve,36203,CBPF-TCD-25-R-INGO-36203,"Water, Sanitation and Hygiene",,20.0,260000.0,CBPF
+Chad (RhPF),2025,Reserve,36241,CBPF-TCD-25-R-INGO-36241,Food Security,,100.0,799776.98,CBPF
 Chad (RhPF),2025,Reserve,36262,CBPF-TCD-25-R-INGO-36262,Food Security,,100.0,700000.0,CBPF
 Chad (RhPF),2025,Reserve,36278,CBPF-TCD-25-R-INGO-36278,"Water, Sanitation and Hygiene",,100.0,1000000.0,CBPF
 Chad (RhPF),2025,Reserve,36194,CBPF-TCD-25-R-NGO-36194,Health,,100.0,299999.43,CBPF
@@ -17236,6 +17239,7 @@ Mali,2025,Reserve,34894,CBPF-MLI-25-R-NGO-34894,Emergency Shelter and NFI,,31.0,
 Mali,2025,Reserve,34894,CBPF-MLI-25-R-NGO-34894,"Water, Sanitation and Hygiene",,69.0,179400.0207,CBPF
 Mozambique (RhPF),2025,Reserve,34663,CBPF-MOZ-25-R-NGO-34663,"Water, Sanitation and Hygiene",,100.0,500000.0,CBPF
 Mozambique (RhPF),2025,Reserve,34669,CBPF-MOZ-25-R-NGO-34669,"Water, Sanitation and Hygiene",,100.0,500000.0,CBPF
+Mozambique (RhPF),2025,Reserve,37667,CBPF-MOZ-25-R-UN-37667,Coordination and Support Services,,100.0,115591.0,CBPF
 Mozambique (RhPF),2025,Standard,34962,CBPF-MOZ-25-S-NGO-34962,Emergency Shelter and NFI,,40.0,51976.456,CBPF
 Mozambique (RhPF),2025,Standard,34962,CBPF-MOZ-25-S-NGO-34962,Food Security,,60.0,77964.684,CBPF
 Mozambique (RhPF),2025,Standard,34982,CBPF-MOZ-25-S-NGO-34982,Food Security,,50.0,64969.735,CBPF
@@ -19469,6 +19473,7 @@ oPt,2025,Reserve,34861,CBPF-OPT-25-R-UN-34861,Health,,100.0,599980.57,CBPF
 oPt,2025,Reserve,34912,CBPF-OPT-25-R-UN-34912,Protection,,100.0,400000.0,CBPF
 oPt,2025,Reserve,34938,CBPF-OPT-25-R-UN-34938,"Water, Sanitation and Hygiene",,100.0,499649.34,CBPF
 oPt,2025,Reserve,34958,CBPF-OPT-25-R-UN-34958,"Water, Sanitation and Hygiene",,100.0,500000.0,CBPF
+oPt,2025,Reserve,37664,CBPF-OPT-25-R-UN-37664,Health,,100.0,1000000.01,CBPF
 oPt,2013,Reserve,48,OPT-13/X/DDA-3482/ER/H/INGO/48,Health,,100.0,204798.0,CBPF
 oPt,2013,Reserve,166,OPT-13/X/DDA-3482/ER/S-NFI/NGO/166,Emergency Shelter and NFI,,100.0,247725.0,CBPF
 oPt,2013,Reserve,161,OPT-13/X/DDA-3482/ER/WASH/UN/161,"Water, Sanitation and Hygiene",,100.0,300000.0,CBPF
@@ -26541,6 +26546,9 @@ Syria,2025,Standard,36399,CBPF-SYR-25-S-NGO-36399,Emergency Shelter and NFI,,50.
 Syria,2025,Standard,36399,CBPF-SYR-25-S-NGO-36399,Food Security,,50.0,499889.02,CBPF
 Syria,2025,Standard,36400,CBPF-SYR-25-S-NGO-36400,Emergency Shelter and NFI,,70.0,699609.4,CBPF
 Syria,2025,Standard,36400,CBPF-SYR-25-S-NGO-36400,Food Security,,30.0,299832.6,CBPF
+Syria,2025,Standard,36407,CBPF-SYR-25-S-NGO-36407,Emergency Shelter and NFI,,30.0,449987.127,CBPF
+Syria,2025,Standard,36407,CBPF-SYR-25-S-NGO-36407,Protection,,23.0,344990.1307,CBPF
+Syria,2025,Standard,36407,CBPF-SYR-25-S-NGO-36407,"Water, Sanitation and Hygiene",,47.0,704979.8323,CBPF
 Syria,2025,Standard,36408,CBPF-SYR-25-S-NGO-36408,Emergency Shelter and NFI,,100.0,538069.0,CBPF
 Syria,2025,Standard,36427,CBPF-SYR-25-S-NGO-36427,Early Recovery,,100.0,399948.88,CBPF
 Syria,2025,Standard,36541,CBPF-SYR-25-S-NGO-36541,Emergency Shelter and NFI,,100.0,500000.0,CBPF
