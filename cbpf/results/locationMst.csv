@@ -8234,10 +8234,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7882, Blue Nile > Bau,Blue Nile,11.5860078,34.1531947
 7883, West Darfur > Jebel Moon,West Darfur,12.8463561,23.0011989
 7884, West Darfur > Kulbus,West Darfur,12.8463561,23.0011989
-7885, North Darfur > El Malha,North Darfur,15.7661969,24.9042208
-7886, North Darfur > Zamzam camp,North Darfur,15.7661969,24.9042208
-7887, North Darfur > El Tina,North Darfur,15.7661969,24.9042208
-7888, North Darfur > Umm Keddada,North Darfur,15.7661969,24.9042208
+7885, North Darfur > Zamzam camp,North Darfur,15.7661969,24.9042208
+7886, North Darfur > El Tina,North Darfur,15.7661969,24.9042208
+7887, North Darfur > Umm Keddada,North Darfur,15.7661969,24.9042208
+7888, North Darfur > El Malha,North Darfur,15.7661969,24.9042208
 7889, North Darfur > Saraf Omra,North Darfur,15.7661969,24.9042208
 7890, Red Sea > El Qaneb,Red Sea,19.4556063,35.2148469
 7891, South Kordofan > Abu Gubeiha,South Kordofan,11.1990192,29.4179324
@@ -13242,36 +13242,36 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12860, Al Mahwit > Al Khabt,Al Mahwit,15.40140161,43.59523566
 12861, Amanat Al Asimah > Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
 12862, Al Bayda > Al A'rsh,Al Bayda,14.21742373,45.55495025
-12863, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
+12863, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
 12864, Sa'ada > Al Dhaher,Sa'ada,17.25112185,43.50274965
-12865, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
-12866, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
+12865, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
+12866, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
 12867, Taizz > Al  Mukha,Taizz,13.39753802,43.68772167
-12868, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
+12868, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
 12869, Dhamar > Al Hada,Dhamar,14.50737016,44.42760976
-12870, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
-12871, Amran > Al Ashah,Amran,16.3570904,43.87269369
+12870, Amran > Al Ashah,Amran,16.3570904,43.87269369
+12871, Shabwah > Ain,Shabwah,14.67178974,46.95556076
 12872, Raymah > Al Jabin,Raymah,14.59985617,43.68772167
-12873, Shabwah > Ain,Shabwah,14.67178974,46.95556076
-12874, Socotra > Hidaybu,Socotra,12.493306,54.085473
+12873, Socotra > Hidaybu,Socotra,12.493306,54.085473
+12874, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
 12875, Al Mahwit > Al Mahwait City,Al Mahwit,15.40140161,43.59523566
-12876, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+12876, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
 12877, Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
-12878, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
-12879, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
+12878, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+12879, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
 12880, Taizz > Mashra'a Wa Hadnan,Taizz,13.39753802,43.68772167
-12881, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
+12881, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
 12882, Taizz > Ash Shamayatayn,Taizz,13.39753802,43.68772167
-12883, Abyan > Khanfir,Abyan,13.6955485,46.50340692
-12884, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+12883, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+12884, Abyan > Khanfir,Abyan,13.6955485,46.50340692
 12885, Al Hudaydah > As Sukhnah,Al Hudaydah,15.00062889,43.04031959
-12886, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
+12886, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
 12887, Abyan > Lawdar,Abyan,13.6955485,46.50340692
-12888, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
+12888, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
 12889, Al Jawf > Al Hazm,Al Jawf,16.76813934,46.01014819
-12890, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
+12890, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
 12891, Marib > Marib City,Marib,15.56841151,45.76081505
-12892, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
+12892, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
 12893, Ibb > As Saddah,Ibb,14.05521633,44.26319019
 12894, Al Hudaydah > Al Mina,Al Hudaydah,15.00062889,43.04031959
 12895, Ibb > Dhi As Sufal,Ibb,14.05521633,44.26319019
@@ -13517,10 +13517,10 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13135, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
 13136, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
 13137, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13138, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13139, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13140, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13141, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13138, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13139, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13140, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13141, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 13142, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 13143, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 13144, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
@@ -13529,8 +13529,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13147, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 13148, Marib > Mahliyah,Marib,15.56841151,45.76081505
 13149, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-13150, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
-13151, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13150, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13151, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 13152, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 13153, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
 13154, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
