@@ -1561,6 +1561,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,0.0,1500000.0,Russian Federation,RU,Member State,0,0,0,0,0,0
 2025,Member State,1158600.0,0.0,Austria,AT,Member State,0,0,0,0,0,0
 2025,Member State,0.0,23501762.6322,Belgium,BE,Member State,0,0,0,0,0,0
+2025,Member State,100000.0,0.0,Cyprus,CY,Member State,0,0,0,0,0,0
 2025,Member State,17250332.619999997,0.0,Sweden,SE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,30000.0,Cambodia,KH,Member State,0,0,0,0,0,0
 2025,Member State,5155500.0,0.0,Luxembourg,LU,Member State,0,0,0,0,0,0
@@ -1602,6 +1603,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2026,Member State,0.0,11086474.5011,Germany,DE,Member State,0,0,0,0,0,0
 2026,Member State,0.0,6883604.5056,Australia,AU,Member State,0,0,0,0,0,0
 2026,Member State,0.0,19976498.2374,Belgium,BE,Member State,0,0,0,0,0,0
+2026,Member State,0.0,1500000.0,Russian Federation,RU,Member State,0,0,0,0,0,0
 2026,Member State,0.0,5422993.4924,Luxembourg,LU,Member State,0,0,0,0,0,0
 2026,Member State,0.0,1000000.0,Saudi Arabia,SA,Member State,0,0,0,0,0,0
 2027,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
