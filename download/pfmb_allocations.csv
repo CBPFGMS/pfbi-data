@@ -26711,6 +26711,8 @@ Syria,2025,Standard,36397,CBPF-SYR-25-S-O-36397,Emergency Shelter and NFI,,20.0,
 Syria,2025,Standard,36397,CBPF-SYR-25-S-O-36397,Food Security,,20.0,199969.04,CBPF
 Syria,2025,Standard,36397,CBPF-SYR-25-S-O-36397,Health,,30.0,299953.56,CBPF
 Syria,2025,Standard,36397,CBPF-SYR-25-S-O-36397,"Water, Sanitation and Hygiene",,30.0,299953.56,CBPF
+Syria,2025,Standard,36641,CBPF-SYR-25-S-UN-36641,Nutrition,,25.0,857635.655,CBPF
+Syria,2025,Standard,36641,CBPF-SYR-25-S-UN-36641,"Water, Sanitation and Hygiene",,75.0,2572906.965,CBPF
 Syria,2025,Standard,36833,CBPF-SYR-25-S-UN-36833,Logistics,,100.0,700003.2,CBPF
 Syria,2015,Reserve,2161,SYR-15/DDA-3477/RA/WASH/UN/2161,"Water, Sanitation and Hygiene",,100.0,603993.6,CBPF
 Syria,2015,Standard,2049,SYR-15/DDA-3477/WCP/WASH/INGO/2049,"Water, Sanitation and Hygiene",,100.0,537699.61,CBPF
@@ -29501,6 +29503,10 @@ Ukraine,2025,Reserve,37008,CBPF-UKR-25-R-NGO-37008,Emergency Shelter and NFI,,10
 Ukraine,2025,Reserve,37037,CBPF-UKR-25-R-NGO-37037,Camp Coordination / Management,,1.0,49886.2718,CBPF
 Ukraine,2025,Reserve,37037,CBPF-UKR-25-R-NGO-37037,Emergency Shelter and NFI,,99.0,4938740.9082,CBPF
 Ukraine,2025,Reserve,37127,CBPF-UKR-25-R-NGO-37127,Emergency Shelter and NFI,,100.0,2372487.21,CBPF
+Ukraine,2025,Reserve,38117,CBPF-UKR-25-R-NGO-38117,Camp Coordination / Management,,50.0,1249999.68,CBPF
+Ukraine,2025,Reserve,38117,CBPF-UKR-25-R-NGO-38117,Protection,,50.0,1249999.68,CBPF
+Ukraine,2025,Reserve,38120,CBPF-UKR-25-R-NGO-38120,Camp Coordination / Management,,60.0,1500000.0,CBPF
+Ukraine,2025,Reserve,38120,CBPF-UKR-25-R-NGO-38120,Protection,,40.0,1000000.0,CBPF
 Ukraine,2025,Standard,34704,CBPF-UKR-25-S-INGO-34704,Health,,85.0,2124996.566,CBPF
 Ukraine,2025,Standard,34704,CBPF-UKR-25-S-INGO-34704,Protection,,15.0,374999.394,CBPF
 Ukraine,2025,Standard,34713,CBPF-UKR-25-S-INGO-34713,Emergency Shelter and NFI,,33.0,330000.0,CBPF
