@@ -82,5 +82,12 @@
     "RFundName": "Vanuatu (AP-RHPF)",
     "StartYearDate": "01-2025",
     "CBPFId": 95
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "Haiti (RhPF-LAC)",
+    "StartYearDate": "01-2024",
+    "CBPFId": 96
   }
 ]
