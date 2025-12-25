@@ -1596,12 +1596,13 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,15176000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2025,Member State,0.0,631014.3556,Iceland,IS,Member State,0,0,0,0,0,0
 2025,Member State,0.0,4694835.6808,Italy,IT,Member State,0,0,0,0,0,0
-2025,Member State,0.0,52006.0,Japan,JP,Member State,0,0,0,0,0,0
+2025,Member State,52006.0,0.0,Japan,JP,Member State,0,0,0,0,0,0
 2025,Member State,18000000.0,0.0,Korea,KR,Member State,0,0,0,0,0,0
-2025,Member State,0.0,168018.54,Monaco,MC,Member State,0,0,0,0,0,0
+2025,Member State,169722.5,0.0,Monaco,MC,Member State,0,0,0,0,0,0
 2025,Member State,71501000.0,0.0,Netherlands,NL,Member State,0,0,0,0,0,0
 2025,Member State,1965601.97,0.0,Norway,NO,Member State,0,0,0,0,0,0
 2025,Private Contributions,319809.61,0.0,"Stripe, Ireland",XPRV,Private Contributions,0,0,0,0,0,0
+2025,Member State,200000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
 2026,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
 2026,Member State,0.0,15511892.4509,Ireland,IE,Member State,0,0,0,0,0,0
 2026,Private Contributions,0.0,2000000.0,QC,XPRV,Private Contributions,0,0,0,0,0,0
