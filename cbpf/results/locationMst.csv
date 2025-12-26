@@ -13708,18 +13708,18 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13319, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 13320, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 13321, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13322, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13323, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13324, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13325, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13326, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-13327, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13328, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13329, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13330, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13331, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-13332, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-13333, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13322, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+13323, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13324, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13325, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+13326, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13327, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13328, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13329, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+13330, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13331, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13332, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13333, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 13334, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 13335, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 13336, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
@@ -13727,8 +13727,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13338, Marib > Bidbadah,Marib,15.56841151,45.76081505
 13339, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 13340, Marib > Mahliyah,Marib,15.56841151,45.76081505
-13341, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-13342, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13341, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13342, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
 13343, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 13344, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 13345, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
