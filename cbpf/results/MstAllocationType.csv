@@ -241,6 +241,7 @@ AllocationType,AllocationtypeId
 (MMR) 2023 First Standard Allocation,47759
 (MMR) 2023 Second Standard Allocation,51059
 (MMR) 2024 First Reserve Allocation,54159
+(MMR) 2024 Second Reserve Allocation,135859
 (MMR) 2024 First Standard Allocation,53459
 (MMR) 2024 May Standard Allocation,54459
 (MMR) 2024 May Standard Allocation (Market Place),131059
@@ -425,6 +426,7 @@ AllocationType,AllocationtypeId
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of funds: SHF 48hrs response and Funds to Multual-Aid Groups),137015
 (SDN) 2024 - SHF Reserve for Emergencies (Empowering Women and Girls: Addressing Nutritional Needs in Sudan's Crisis),127915
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of Stock),128615
+(SDN) 2025 - SHF Standard Allocation ( Area-based food crisis response in Sudan),140615
 (SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30815
 (SDN) 2020 - SHF Reserve for Emergencies (Newly accessible areas in Jebel Marra and Two Areas),30915
 (SDN) 2020 Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28615
