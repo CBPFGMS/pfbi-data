@@ -1498,7 +1498,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2024,Member State,5511.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
 2024,Member State,50000.0,0.0,Morocco,MA,Member State,0,0,0,0,0,0
 2024,Member State,273100.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
-2024,Private Contributions,9000000.0,0.0,QC,XPRV,Private Contributions,0,0,0,0,0,0
+2024,Private Contributions,9000000.0,0.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2024,Member State,1500000.0,0.0,Russian Federation,RU,Member State,0,0,0,0,0,0
 2024,Member State,50000.0,0.0,Singapore,SG,Member State,0,0,0,0,0,0
 2024,Member State,86976.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
@@ -1586,8 +1586,8 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,9924.0,0.0,Montenegro,ME,Member State,0,0,0,0,0,0
 2025,Member State,50000.0,0.0,Morocco,MA,Member State,0,0,0,0,0,0
 2025,Member State,314250.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
-2025,Private Contributions,0.0,2000000.0,QC,XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
+2025,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,107700.0,0.0,Slovenia,SI,Member State,0,0,0,0,0,0
 2025,Member State,20000.0,0.0,Thailand,TH,Member State,0,0,0,0,0,0
 2025,Member State,500000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
@@ -1596,7 +1596,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,9459246.41,0.0,Denmark,DK,Member State,0,0,0,0,0,0
 2025,Member State,15176000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2025,Member State,633496.27,0.0,Iceland,IS,Member State,0,0,0,0,0,0
-2025,Member State,0.0,4694835.6808,Italy,IT,Member State,0,0,0,0,0,0
+2025,Member State,4669564.98,0.0,Italy,IT,Member State,0,0,0,0,0,0
 2025,Member State,52006.0,0.0,Japan,JP,Member State,0,0,0,0,0,0
 2025,Member State,18000000.0,0.0,Korea,KR,Member State,0,0,0,0,0,0
 2025,Member State,169722.5,0.0,Monaco,MC,Member State,0,0,0,0,0,0
@@ -1607,8 +1607,8 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,200000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
 2026,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
 2026,Member State,0.0,15511892.4509,Ireland,IE,Member State,0,0,0,0,0,0
-2026,Private Contributions,0.0,2000000.0,QC,XPRV,Private Contributions,0,0,0,0,0,0
 2026,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
+2026,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2026,Member State,0.0,1774098.1668,New Zealand,NZ,Member State,0,0,0,0,0,0
 2026,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
 2026,Member State,58455.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
@@ -1649,7 +1649,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2027,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
 2027,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
 2027,Member State,0.0,15511892.4509,Ireland,IE,Member State,0,0,0,0,0,0
-2027,Private Contributions,0.0,2000000.0,QC,XPRV,Private Contributions,0,0,0,0,0,0
+2027,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
 2027,Member State,0.0,1774098.1668,New Zealand,NZ,Member State,0,0,0,0,0,0
 2027,Member State,0.0,18388318.0097,Sweden,SE,Member State,0,0,0,0,0,0
 2028,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
