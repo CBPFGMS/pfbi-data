@@ -9644,11 +9644,6 @@ Venezuela,2025,Rapid Response,37746,CERF-VEN-25-RR-WFP-37746,Food Aid,Food Aid,1
 Venezuela,2025,Rapid Response,37747,CERF-VEN-25-RR-CEF-37747,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,800000.0,CERF
 Chad,2025,Rapid Response,37805,CERF-TCD-25-RR-CEF-37805,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,600000.0,CERF
 Chad,2025,Rapid Response,37806,CERF-TCD-25-RR-WHO-37806,Health,Health,100.0,395639.99,CERF
-Niger,2025,Rapid Response,38004,CERF-NER-25-RR-FAO-38004,Agriculture,Agriculture,100.0,1000000.0,CERF
-Niger,2025,Rapid Response,38005,CERF-NER-25-RR-WFP-38005,Food Aid,Food Aid,100.0,1250000.0,CERF
-Niger,2025,Rapid Response,38006,CERF-NER-25-RR-IOM-38006,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0,CERF
-Niger,2025,Rapid Response,38007,CERF-NER-25-RR-CEF-38007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1249417.6,CERF
-Niger,2025,Rapid Response,38010,CERF-NER-25-RR-WHO-38010,Health,Health,100.0,500000.0,CERF
 Jamaica,2025,Rapid Response,38195,CERF-JAM-25-RR-IOM-38195,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,600000.0,CERF
 Jamaica,2025,Rapid Response,38196,CERF-JAM-25-RR-WFP-38196,Food Aid,Food Aid,100.0,1200000.0,CERF
 Jamaica,2025,Rapid Response,38197,CERF-JAM-25-RR-CEF-38197,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,899999.47,CERF
@@ -9715,6 +9710,11 @@ Haiti,2025,Underfunded Emergencies,38990,CERF-HTI-25-UF-1505(TBD),To be determin
 Mozambique,2025,Underfunded Emergencies,38991,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,5000000.0,CERF
 Mozambique,2025,Rapid Response,38992,CERF-MOZ-25-RR-1509(TBD),To be determined,To be determined,100.0,4500000.0,CERF
 Democratic Republic of the Congo,2025,Underfunded Emergencies,38993,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,18000000.0,CERF
+Niger,2026,Rapid Response,38004,CERF-NER-25-RR-FAO-38004,Agriculture,Agriculture,100.0,1000000.0,CERF
+Niger,2026,Rapid Response,38005,CERF-NER-25-RR-WFP-38005,Food Aid,Food Aid,100.0,1250000.0,CERF
+Niger,2026,Rapid Response,38006,CERF-NER-25-RR-IOM-38006,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0,CERF
+Niger,2026,Rapid Response,38007,CERF-NER-25-RR-CEF-38007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1249417.6,CERF
+Niger,2026,Rapid Response,38010,CERF-NER-25-RR-WHO-38010,Health,Health,100.0,500000.0,CERF
 Ethiopia,2026,Rapid Response,38994,CERF-ETH-26-RR-1514(TBD),To be determined,To be determined,100.0,5000000.0,CERF
 South Sudan,2026,Rapid Response,38995,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Eritrea,2026,Rapid Response,38996,CERF-ERI-26-RR-1516(TBD),To be determined,To be determined,100.0,2300000.0,CERF
