@@ -9601,10 +9601,10 @@ Mozambique,2025,Rapid Response,36993,CERF-MOZ-25-RR-HCR-36993,Protection,Protect
 Mozambique,2025,Rapid Response,36995,CERF-MOZ-25-RR-IOM-36995,Camp Coordination and Camp Management,Camp Coordination and Camp Management,35.0,350000.0
 Mozambique,2025,Rapid Response,36995,CERF-MOZ-25-RR-IOM-36995,Shelter and Non-Food Items,Shelter and Non-Food Items,65.0,650000.0
 Mozambique,2025,Rapid Response,36996,CERF-MOZ-25-RR-WFP-36996,Food Aid,Food Aid,100.0,1500000.0
-Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",8.999999833643868,48690.72
-Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Nutrition,Nutrition,7.999999852127883,43280.64
-Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Multi-Purpose Cash,Multi-Purpose Cash,70.00000055452044,378705.61
-Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Protection,Protection,12.999999759707809,70331.04
+Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",0.9999999815159853,5410.08
+Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Nutrition,Nutrition,0.9999999815159853,5410.08
+Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Multi-Purpose Cash,Multi-Purpose Cash,97.00000005545203,524777.77
+Philippines,2025,Rapid Response,37445,CERF-PHL-25-RR-CEF-37445,Protection,Protection,0.9999999815159853,5410.08
 Philippines,2025,Rapid Response,37446,CERF-PHL-25-RR-WFP-37446,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1557007.59
 Philippines,2025,Rapid Response,37447,CERF-PHL-25-RR-FPA-37447,Protection,Protection,74.99999966478161,559336.85
 Philippines,2025,Rapid Response,37447,CERF-PHL-25-RR-FPA-37447,Health,Health,25.00000033521839,186445.62
@@ -9708,14 +9708,16 @@ Mali,2025,Underfunded Emergencies,38988,CERF-MLI-25-UF-1503(TBD),To be determine
 Myanmar,2025,Underfunded Emergencies,38989,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,11000000.0
 Haiti,2025,Underfunded Emergencies,38990,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,10000000.0
 Mozambique,2025,Underfunded Emergencies,38991,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,5000000.0
-Mozambique,2025,Rapid Response,38992,CERF-MOZ-25-RR-1509(TBD),To be determined,To be determined,100.0,4500000.0
-Democratic Republic of the Congo,2025,Underfunded Emergencies,38993,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,18000000.0
+Democratic Republic of the Congo,2025,Underfunded Emergencies,38992,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,18000000.0
 Niger,2026,Rapid Response,38004,CERF-NER-25-RR-FAO-38004,Agriculture,Agriculture,100.0,1000000.0
 Niger,2026,Rapid Response,38005,CERF-NER-25-RR-WFP-38005,Food Aid,Food Aid,100.0,1250000.0
 Niger,2026,Rapid Response,38006,CERF-NER-25-RR-IOM-38006,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0
 Niger,2026,Rapid Response,38007,CERF-NER-25-RR-CEF-38007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1249417.6
 Niger,2026,Rapid Response,38010,CERF-NER-25-RR-WHO-38010,Health,Health,100.0,500000.0
-Ethiopia,2026,Rapid Response,38994,CERF-ETH-26-RR-1514(TBD),To be determined,To be determined,100.0,5000000.0
-South Sudan,2026,Rapid Response,38995,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,10000000.0
-Eritrea,2026,Rapid Response,38996,CERF-ERI-26-RR-1516(TBD),To be determined,To be determined,100.0,2300000.0
-Mozambique,2026,Rapid Response,38997,CERF-MOZ-26-RR-1517(TBD),To be determined,To be determined,100.0,5000000.0
+Ethiopia,2026,Rapid Response,38893,CERF-ETH-26-RR-FAO-38893,Agriculture,Agriculture,100.0,1250000.0
+Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,Nutrition,Nutrition,33.33000000133333,499950.2
+Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",66.66999999866667,1000050.4
+Ethiopia,2026,Rapid Response,38993,CERF-ETH-26-RR-1514(TBD),To be determined,To be determined,100.0,2249999.4
+South Sudan,2026,Rapid Response,38994,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,10000000.0
+Eritrea,2026,Rapid Response,38995,CERF-ERI-26-RR-1516(TBD),To be determined,To be determined,100.0,2300000.0
+Mozambique,2026,Rapid Response,38996,CERF-MOZ-26-RR-1517(TBD),To be determined,To be determined,100.0,5000000.0
