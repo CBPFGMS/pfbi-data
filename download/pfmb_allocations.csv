@@ -9718,12 +9718,17 @@ Ethiopia,2026,Rapid Response,38893,CERF-ETH-26-RR-FAO-38893,Agriculture,Agricult
 Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,Nutrition,Nutrition,33.33000000133333,499950.2,CERF
 Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",66.66999999866667,1000050.4,CERF
 Ethiopia,2026,Rapid Response,38896,CERF-ETH-26-RR-WFP-38896,Multi-Purpose Cash,Multi-Purpose Cash,100.0,1250000.02,CERF
+Mozambique,2026,Rapid Response,38981,CERF-MOZ-26-RR-IOM-38981,Camp Coordination and Camp Management,Camp Coordination and Camp Management,27.27,299970.0,CERF
+Mozambique,2026,Rapid Response,38981,CERF-MOZ-26-RR-IOM-38981,Shelter and Non-Food Items,Shelter and Non-Food Items,72.72999999999999,800030.0,CERF
+Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Health,Health,32.14000007614287,449959.94,CERF
+Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.70999966778567,849939.88,CERF
+Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Protection,Protection,7.150000256071463,100099.99,CERF
 Madagascar,2026,Rapid Response,38984,CERF-MDG-24-RR-1434(TBD),To be determined,To be determined,100.0,3000000.0,CERF
 Mozambique,2026,Rapid Response,38994,CERF-MOZ-26-RR-1513(TBD),To be determined,To be determined,100.0,4500000.0,CERF
 Ethiopia,2026,Rapid Response,38995,CERF-ETH-26-RR-1514(TBD),To be determined,To be determined,100.0,999999.38,CERF
 South Sudan,2026,Rapid Response,38996,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,10000000.0,CERF
 Eritrea,2026,Rapid Response,38997,CERF-ERI-26-RR-1516(TBD),To be determined,To be determined,100.0,2300000.0,CERF
-Mozambique,2026,Rapid Response,38998,CERF-MOZ-26-RR-1517(TBD),To be determined,To be determined,100.0,5000000.0,CERF
+Mozambique,2026,Rapid Response,38998,CERF-MOZ-26-RR-1517(TBD),To be determined,To be determined,100.0,2500000.19,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -15989,6 +15994,10 @@ Haiti (RhPF),2025,Standard,37482,CBPF-HTI-25-S-INGO-37482,Education,,21.0,157496
 Haiti (RhPF),2025,Standard,37482,CBPF-HTI-25-S-INGO-37482,Nutrition,,22.0,164996.568,CBPF
 Haiti (RhPF),2025,Standard,37482,CBPF-HTI-25-S-INGO-37482,Protection,,22.0,164996.568,CBPF
 Haiti (RhPF),2025,Standard,37482,CBPF-HTI-25-S-INGO-37482,Protection,,35.0,262494.54,CBPF
+Haiti (RhPF),2025,Standard,37574,CBPF-HTI-25-S-INGO-37574,Education,,20.0,131221.368,CBPF
+Haiti (RhPF),2025,Standard,37574,CBPF-HTI-25-S-INGO-37574,Health,,20.0,131221.368,CBPF
+Haiti (RhPF),2025,Standard,37574,CBPF-HTI-25-S-INGO-37574,Protection,,20.0,131221.368,CBPF
+Haiti (RhPF),2025,Standard,37574,CBPF-HTI-25-S-INGO-37574,"Water, Sanitation and Hygiene",,40.0,262442.736,CBPF
 Haiti (RhPF),2025,Standard,37466,CBPF-HTI-25-S-NGO-37466,Education,,35.0,89693.737,CBPF
 Haiti (RhPF),2025,Standard,37466,CBPF-HTI-25-S-NGO-37466,Emergency Shelter and NFI,,65.0,166574.083,CBPF
 Iraq,2015,Standard,1759,IRQ-15/3884/SA/CCCM/INGO/1759,Camp Coordination / Management,,100.0,751605.45,CBPF
