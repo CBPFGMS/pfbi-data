@@ -1552,7 +1552,7 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,277775.0,0.0,Portugal,PT,Member State,0,0,0,0,0,0
 2025,Member State,450000.0,0.0,China,CN,Member State,0,0,0,0,0,0
 2025,Member State,17439000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
-2025,Private Contributions,5340.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
+2025,Private Contributions,5000.0,0.0,"Private donations outside UN Foundation (under $10,000)",XPRV,Private Contributions,0,0,0,0,0,0
 2025,Member State,10000.0,0.0,Vietnam,VN,Member State,0,0,0,0,0,0
 2025,Member State,108530.0,0.0,Lithuania,LT,Member State,0,0,0,0,0,0
 2025,Member State,200000.0,0.0,Philippines,PH,Member State,0,0,0,0,0,0
@@ -1608,13 +1608,14 @@ FiscalYear,PooledFundName,PaidAmt,PledgeAmt,GMSDonorName,GMSDonorISO2Code,Pooled
 2025,Member State,200000.0,0.0,Turkey,TR,Member State,0,0,0,0,0,0
 2026,Member State,0.0,877385.3915,Iceland,IS,Member State,0,0,0,0,0,0
 2026,Member State,0.0,15511892.4509,Ireland,IE,Member State,0,0,0,0,0,0
-2026,Member State,0.0,1000000.0,Qatar,QA,Member State,0,0,0,0,0,0
+2026,Member State,1000000.0,0.0,Qatar,QA,Member State,0,0,0,0,0,0
 2026,Private Contributions,0.0,2000000.0,Qatar Charity,XPRV,Private Contributions,0,0,0,0,0,0
+2026,Regional/ Local Authorities,119060.0,0.0,Basque Agency for Development Cooperation,XBADC,Regional/ Local Authorities,0,0,0,0,0,0
 2026,Member State,1794000.0,0.0,New Zealand,NZ,Member State,0,0,0,0,0,0
 2026,Member State,0.0,27608253.4147,Denmark,DK,Member State,0,0,0,0,0,0
 2026,Member State,58455.0,0.0,Estonia,EE,Member State,0,0,0,0,0,0
 2026,Member State,0.0,21397379.9127,Canada,CA,Member State,0,0,0,0,0,0
-2026,Member State,0.0,11086474.5011,Germany,DE,Member State,0,0,0,0,0,0
+2026,Member State,11869000.0,0.0,Germany,DE,Member State,0,0,0,0,0,0
 2026,Member State,7347989.98,0.0,Australia,AU,Member State,0,0,0,0,0,0
 2026,Member State,0.0,19976498.2374,Belgium,BE,Member State,0,0,0,0,0,0
 2026,Member State,1500000.0,0.0,Russian Federation,RU,Member State,0,0,0,0,0,0
