@@ -142,6 +142,7 @@ AllocationType,AllocationtypeId
 (ETH) 2024 Second Reserve Allocation,133753
 (ETH) 2024 Fourth Reserve Allocation,138153
 (ETH) 2024 1st EHF Standard Allocation,53553
+(ETH) 2025 First Reserve Allocation,142653
 (ETH) 2025 Second Reserve Allocation,144853
 (ETH) 2016 2nd round allocation - Call for Proposal,9053
 (ETH) 2017 1st round allocation - Call for Proposal,10153
@@ -355,6 +356,7 @@ AllocationType,AllocationtypeId
 (SOM) Reserve Allocation 2 2024 Enabling Programmes,5921
 (SOM) Reserve Allocation 3 2024: La Nina Anticipatory Action,6021
 (SOM) Standard Allocation 1 2024,5821
+(SOM) Standard Allocation 1 2025,6121
 "(SOM) Reserve 2017 Integrated Response Round 2 (Galmudug, Togdheer, Lower Shabelle)",1921
 (SOM) Reserve 2017,1721
 (SOM) Standard Allocation 1 (Jan 2017),1821
@@ -392,8 +394,8 @@ AllocationType,AllocationtypeId
 (SSD) 2024 Reserve allocation 2,134119
 (SSD) 2024 Reserve allocation 3,137419
 (SSD) 2024 Standard allocation 1,53819
-(SSD) 2025 Reserve allocation 3,144919
 (SSD) 2025 Reserve allocation 2,143019
+(SSD) 2025 Reserve allocation 3,144919
 (SSD) 2020 Reserve Allocation 1,26819
 (SSD) 2020 Reserve Allocation 2,29719
 (SSD) 2020 Reserve Allocation 3,31219
@@ -549,6 +551,7 @@ AllocationType,AllocationtypeId
 (UKR) UHF 2023 Second Reserve Allocation (Winterization),49581
 (UKR) 2023 Ukraine First Standard Allocation,46281
 (UKR) 2024 First Reserve Allocation (Winterization),128381
+(UKR) 2024 UHF Second Reserve Allocation,135481
 (UKR) 2024 First Standard Allocation,52181
 (UKR) 2025 First Standard Allocation,138881
 (UKR) 2019 UHF 1st Standard Allocation,21781
