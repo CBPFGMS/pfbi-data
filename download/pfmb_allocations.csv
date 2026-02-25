@@ -21314,6 +21314,8 @@ Somalia,2025,Standard,36688,CBPF-SOM-25-S-NGO-36688,Health,,100.0,299984.13,CBPF
 Somalia,2025,Standard,36752,CBPF-SOM-25-S-NGO-36752,Food Security,,100.0,412499.45,CBPF
 Somalia,2025,Standard,37067,CBPF-SOM-25-S-NGO-37067,"Water, Sanitation and Hygiene",,100.0,511851.63,CBPF
 Somalia,2025,Standard,37093,CBPF-SOM-25-S-NGO-37093,Food Security,,100.0,307200.0,CBPF
+Somalia,2025,Standard,37102,CBPF-SOM-25-S-NGO-37102,Education,,85.0,261050.878,CBPF
+Somalia,2025,Standard,37102,CBPF-SOM-25-S-NGO-37102,Emergency Shelter and NFI,,15.0,46067.802,CBPF
 Somalia,2025,Standard,37103,CBPF-SOM-25-S-NGO-37103,Health,,60.0,240000.0,CBPF
 Somalia,2025,Standard,37103,CBPF-SOM-25-S-NGO-37103,Nutrition,,40.0,160000.0,CBPF
 Somalia,2025,Standard,37132,CBPF-SOM-25-S-NGO-37132,Health,,50.0,199999.465,CBPF
@@ -21322,6 +21324,8 @@ Somalia,2025,Standard,37137,CBPF-SOM-25-S-NGO-37137,Health,,35.0,176281.756,CBPF
 Somalia,2025,Standard,37137,CBPF-SOM-25-S-NGO-37137,Nutrition,,25.0,125915.54,CBPF
 Somalia,2025,Standard,37137,CBPF-SOM-25-S-NGO-37137,"Water, Sanitation and Hygiene",,40.0,201464.864,CBPF
 Somalia,2025,Standard,37146,CBPF-SOM-25-S-NGO-37146,Food Security,,100.0,307100.7,CBPF
+Somalia,2025,Standard,37152,CBPF-SOM-25-S-NGO-37152,Health,,60.0,241885.38,CBPF
+Somalia,2025,Standard,37152,CBPF-SOM-25-S-NGO-37152,Nutrition,,40.0,161256.92,CBPF
 Somalia,2025,Standard,37160,CBPF-SOM-25-S-NGO-37160,Health,,50.0,300000.0,CBPF
 Somalia,2025,Standard,37160,CBPF-SOM-25-S-NGO-37160,Nutrition,,50.0,300000.0,CBPF
 Somalia,2025,Standard,37169,CBPF-SOM-25-S-NGO-37169,"Water, Sanitation and Hygiene",,100.0,549999.12,CBPF
@@ -28537,10 +28541,9 @@ Syria Cross border,2025,Standard,36352,CBPF-TUR-25-S-NGO-36352,Multi-purpose CAS
 Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Early Recovery,,56.0,496835.3712,CBPF
 Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Health,,22.0,195185.3244,CBPF
 Syria Cross border,2025,Standard,36369,CBPF-TUR-25-S-NGO-36369,Protection,,22.0,195185.3244,CBPF
-Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Emergency Shelter and NFI,,20.0,99999.804,CBPF
-Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Multi-purpose CASH,,20.0,99999.804,CBPF
-Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Protection,,20.0,99999.804,CBPF
-Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,"Water, Sanitation and Hygiene",,40.0,199999.608,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Camp Coordination / Management,,20.0,99999.804,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Emergency Shelter and NFI,,50.0,249999.51,CBPF
+Syria Cross border,2025,Standard,36401,CBPF-TUR-25-S-NGO-36401,Protection,,30.0,149999.706,CBPF
 Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Emergency Shelter and NFI,,55.0,275000.0,CBPF
 Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Food Security,,3.0,15000.0,CBPF
 Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Multi-purpose CASH,,40.0,200000.0,CBPF
