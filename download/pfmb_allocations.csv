@@ -9712,22 +9712,23 @@ Burundi,2025,Rapid Response,38829,CERF-BDI-25-RR-HCR-38829,Protection,Protection
 Burundi,2025,Rapid Response,38830,CERF-BDI-25-RR-WFP-38830,Food Aid,Food Aid,100.0,850075.62,CERF
 Burundi,2025,Rapid Response,38831,CERF-BDI-25-RR-CEF-38831,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,750000.01,CERF
 Burundi,2025,Rapid Response,38833,CERF-BDI-25-RR-WHO-38833,Health,Health,100.0,500085.9,CERF
-Lebanon,2025,Rapid Response,38984,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-occupied Palestinian territory,2025,Rapid Response,38985,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Syrian Arab Republic,2025,Underfunded Emergencies,38986,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0,CERF
-Burkina Faso,2025,Underfunded Emergencies,38987,CERF-BFA-25-UF-1502(TBD),To be determined,To be determined,100.0,7000000.0,CERF
-Mali,2025,Underfunded Emergencies,38988,CERF-MLI-25-UF-1503(TBD),To be determined,To be determined,100.0,8000000.0,CERF
-Myanmar,2025,Underfunded Emergencies,38989,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,11000000.0,CERF
-Haiti,2025,Underfunded Emergencies,38990,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-Mozambique,2025,Underfunded Emergencies,38991,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,5000000.0,CERF
-Ethiopia,2025,Underfunded Emergencies,38992,CERF-ETH-25-UF-1507(TBD),To be determined,To be determined,100.0,13000000.0,CERF
-Democratic Republic of the Congo,2025,Underfunded Emergencies,38993,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,18000000.0,CERF
-Democratic Republic of the Congo,2025,Rapid Response,38994,CERF-COD-25-RR-1512(TBD),To be determined,To be determined,100.0,750000.0,CERF
+Lebanon,2025,Rapid Response,39157,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+occupied Palestinian territory,2025,Rapid Response,39158,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Syrian Arab Republic,2025,Underfunded Emergencies,39159,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0,CERF
+Burkina Faso,2025,Underfunded Emergencies,39160,CERF-BFA-25-UF-1502(TBD),To be determined,To be determined,100.0,7000000.0,CERF
+Mali,2025,Underfunded Emergencies,39161,CERF-MLI-25-UF-1503(TBD),To be determined,To be determined,100.0,8000000.0,CERF
+Myanmar,2025,Underfunded Emergencies,39162,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,11000000.0,CERF
+Haiti,2025,Underfunded Emergencies,39163,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+Mozambique,2025,Underfunded Emergencies,39164,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,5000000.0,CERF
+Ethiopia,2025,Underfunded Emergencies,39165,CERF-ETH-25-UF-1507(TBD),To be determined,To be determined,100.0,13000000.0,CERF
+Democratic Republic of the Congo,2025,Underfunded Emergencies,39166,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,18000000.0,CERF
+Democratic Republic of the Congo,2025,Rapid Response,39167,CERF-COD-25-RR-1512(TBD),To be determined,To be determined,100.0,375000.0,CERF
 Niger,2026,Rapid Response,38004,CERF-NER-25-RR-FAO-38004,Agriculture,Agriculture,100.0,1000000.0,CERF
 Niger,2026,Rapid Response,38005,CERF-NER-25-RR-WFP-38005,Food Aid,Food Aid,100.0,1250000.0,CERF
 Niger,2026,Rapid Response,38006,CERF-NER-25-RR-IOM-38006,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.0,CERF
 Niger,2026,Rapid Response,38007,CERF-NER-25-RR-CEF-38007,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,1249417.6,CERF
 Niger,2026,Rapid Response,38010,CERF-NER-25-RR-WHO-38010,Health,Health,100.0,500000.0,CERF
+Democratic Republic of the Congo,2026,Rapid Response,38828,CERF-COD-25-RR-CEF-38828,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,375000.0,CERF
 Ethiopia,2026,Rapid Response,38893,CERF-ETH-26-RR-FAO-38893,Agriculture,Agriculture,100.0,1250000.0,CERF
 Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,Nutrition,Nutrition,33.33000000133333,499950.2,CERF
 Ethiopia,2026,Rapid Response,38894,CERF-ETH-26-RR-CEF-38894,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",66.66999999866667,1000050.4,CERF
@@ -9747,6 +9748,8 @@ South Sudan,2026,Rapid Response,38959,CERF-SSD-26-RR-WFP-38959,Nutrition,Nutriti
 South Sudan,2026,Rapid Response,38960,CERF-SSD-26-RR-CEF-38960,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.61000001354541,2000137.11,CERF
 South Sudan,2026,Rapid Response,38960,CERF-SSD-26-RR-CEF-38960,Nutrition,Nutrition,21.21000006263614,699932.49,CERF
 South Sudan,2026,Rapid Response,38960,CERF-SSD-26-RR-CEF-38960,Protection,Protection,18.179999923818453,599942.13,CERF
+South Sudan,2026,Rapid Response,38962,CERF-SSD-26-RR-FPA-38962,Health,Health,42.55000020873196,666589.35,CERF
+South Sudan,2026,Rapid Response,38962,CERF-SSD-26-RR-FPA-38962,Protection,Protection,57.44999979126805,900013.11,CERF
 South Sudan,2026,Rapid Response,38963,CERF-SSD-26-RR-IOM-38963,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1500000.0,CERF
 Eritrea,2026,Rapid Response,38977,CERF-ERI-26-RR-FAO-38977,Agriculture,Agriculture,100.0,915000.0,CERF
 Eritrea,2026,Rapid Response,38978,CERF-ERI-26-RR-CEF-38978,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",47.799999738630575,662036.11,CERF
@@ -9760,8 +9763,8 @@ Mozambique,2026,Rapid Response,38982,CERF-MOZ-26-RR-HCR-38982,Protection,Protect
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Health,Health,32.14000007614287,449959.94,CERF
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.70999966778567,849939.88,CERF
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Protection,Protection,7.150000256071463,100099.99,CERF
-South Sudan,2026,Rapid Response,38995,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,2899991.48,CERF
-Madagascar,2026,Rapid Response,38996,CERF-MDG-26-RR-1518(TBD),To be determined,To be determined,100.0,4500000.0,CERF
+South Sudan,2026,Rapid Response,39168,CERF-SSD-26-RR-1515(TBD),To be determined,To be determined,100.0,1333389.02,CERF
+Madagascar,2026,Rapid Response,39169,CERF-MDG-26-RR-1518(TBD),To be determined,To be determined,100.0,4500000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -28565,13 +28568,11 @@ Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Food Security,,3.
 Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,Multi-purpose CASH,,40.0,200000.0,CBPF
 Syria Cross border,2025,Standard,36402,CBPF-TUR-25-S-NGO-36402,"Water, Sanitation and Hygiene",,2.0,10000.0,CBPF
 Syria Cross border,2025,Standard,36404,CBPF-TUR-25-S-NGO-36404,Education,,100.0,500000.0,CBPF
-Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Emergency Shelter and NFI,,20.0,100000.0,CBPF
-Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Food Security,,40.0,200000.0,CBPF
-Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Multi-purpose CASH,,20.0,100000.0,CBPF
-Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Protection,,20.0,100000.0,CBPF
-Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Emergency Shelter and NFI,,20.0,100000.0,CBPF
-Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Food Security,,40.0,200000.0,CBPF
-Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Multi-purpose CASH,,20.0,100000.0,CBPF
+Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Multi-purpose CASH,,91.0,455000.0,CBPF
+Syria Cross border,2025,Standard,36405,CBPF-TUR-25-S-NGO-36405,Protection,,9.0,45000.0,CBPF
+Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Emergency Shelter and NFI,,54.0,270000.0,CBPF
+Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Food Security,,16.0,80000.0,CBPF
+Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Multi-purpose CASH,,10.0,50000.0,CBPF
 Syria Cross border,2025,Standard,36406,CBPF-TUR-25-S-NGO-36406,Protection,,20.0,100000.0,CBPF
 Syria Cross border,2025,Standard,36416,CBPF-TUR-25-S-NGO-36416,Early Recovery,,58.0,497095.9542,CBPF
 Syria Cross border,2025,Standard,36416,CBPF-TUR-25-S-NGO-36416,Protection,,42.0,359966.0358,CBPF
