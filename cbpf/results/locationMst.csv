@@ -5206,11 +5206,11 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4832, Adamawa > Toungo,Adamawa,9.32322733,12.40024078
 4833, Yobe > Nangere,Yobe,12.29868022,11.43706584
 4834, Borno > Guzamala,Borno,11.8889801,13.15334698
-4835, Borno > Abadam,Borno,11.8889801,13.15334698
-4836, Adamawa > Ganye,Adamawa,9.32322733,12.40024078
+4835, Borno > Kwaya Kusar,Borno,11.8889801,13.15334698
+4836, Borno > Abadam,Borno,11.8889801,13.15334698
 4837, Borno > Marte,Borno,11.8889801,13.15334698
 4838, Borno > Kukawa,Borno,11.8889801,13.15334698
-4839, Borno > Kwaya Kusar,Borno,11.8889801,13.15334698
+4839, Adamawa > Ganye,Adamawa,9.32322733,12.40024078
 4840, oPt > Gaza Strip > Gaza,Gaza Strip,31.356442,34.327047
 4841, oPt > Gaza Strip > Khan Yunis,Gaza Strip,31.356442,34.327047
 4842, oPt > Gaza Strip > Rafah,Gaza Strip,31.356442,34.327047
@@ -13406,9 +13406,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13002,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
 13003,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
 13004,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
-13005,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
+13005,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
 13006,Al Dhale'e -> Al Azariq -> Tawrasah,Al Dhale'e,13.85996808,44.67423913
-13007,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
+13007,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
 13008,Al Hudaydah -> Bura,Al Hudaydah,15.00062889,43.04031959
 13009,Hajjah -> Wadhrah,Hajjah,16.27488061,43.11225315
 13010,Al Hudaydah -> Az Zaydiyah -> Deer Aslah,Al Hudaydah,15.00062889,43.04031959
@@ -14016,27 +14016,27 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13612, Hadramaut > Thamud,Hadramaut,16.80924424,48.84638589
 13613, Amran > Habur Zulaymah,Amran,16.3570904,43.87269369
 13614, Amanat Al Asimah > Old City,Amanat Al Asimah,15.36598719,44.2020645
-13615, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
-13616, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-13617, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
-13618, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
-13619, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
-13620, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
-13621, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
-13622, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-13623, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-13624, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-13625, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13626, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13627, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13628, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13629, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13630, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13615, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
+13616, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
+13617, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
+13618, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+13619, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
+13620, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+13621, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
+13622, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13623, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13624, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
+13625, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13626, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
+13627, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13628, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+13629, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
+13630, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 13631, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13632, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13633, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13634, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13635, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13632, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13633, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13634, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13635, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
 13636, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
 13637, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 13638, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
