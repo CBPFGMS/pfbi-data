@@ -5847,13 +5847,13 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 5473,West Bank -> Nablus -> Urif,West Bank,31.985981,35.299947
 5474,West Bank -> Nablus -> Yanun,West Bank,31.985981,35.299947
 5475,West Bank -> Nablus -> Khirbet Tana,West Bank,31.985981,35.299947
-5476,West Bank -> Nablus -> Burin,West Bank,31.985981,35.299947
-5477,West Bank -> Hebron -> Hadab al Fawwar,West Bank,31.985981,35.299947
+5476,Hadab al Fawwar -> West Bank -> Hebron,West Bank,31.985981,35.299947
+5477,West Bank -> Hebron -> Abu al Ghuzlan,West Bank,31.985981,35.299947
 5478,West Bank -> Nablus -> Awarta,West Bank,31.985981,35.299947
 5479,West Bank -> Hebron -> Al Bira,West Bank,31.985981,35.299947
 5480,West Bank -> Nablus -> Qusra,West Bank,31.985981,35.299947
 5481,West Bank -> Hebron -> Abu al 'Urqan,West Bank,31.985981,35.299947
-5482,West Bank -> Hebron -> Abu al Ghuzlan,West Bank,31.985981,35.299947
+5482,West Bank -> Nablus -> Burin,West Bank,31.985981,35.299947
 5483,West Bank -> Nablus -> As Sawiya,West Bank,31.985981,35.299947
 5484,West Bank -> Nablus -> Deir al Hatab,West Bank,31.985981,35.299947
 5485,West Bank -> Nablus -> Madama,West Bank,31.985981,35.299947
