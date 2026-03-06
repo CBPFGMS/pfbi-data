@@ -88,6 +88,90 @@
     "RFundAbbrv": "RhPF-LAC",
     "RFundName": "Haiti (RhPF-LAC)",
     "StartYearDate": "01-2024",
-    "CBPFId": 96
+    "CBPFId": 88
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Bangladesh (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 99
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "El Salvador (RhPF-LAC)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 509
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "Guatemala (RhPF-LAC)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 508
+  },
+  {
+    "RFundTitle": "Regionally-hosted Pooled Fund for Latin America and the Caribbean",
+    "RFundAbbrv": "RhPF-LAC",
+    "RFundName": "Honduras (RhPF-LAC)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 510
+  },
+  {
+    "RFundTitle": "Eastern and Southern Africa Humanitarian Fund",
+    "RFundAbbrv": "ESAHF",
+    "RFundName": "Kenya (ESAHF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 511
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Lao PDR (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 503
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Nepal (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 504
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Papua New Guinea (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 502
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Philippines (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 98
+  },
+  {
+    "RFundTitle": "Asia Pacific Regional Fund",
+    "RFundAbbrv": "AP-RF",
+    "RFundName": "Solomon Islands (AP-RHPF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 505
+  },
+  {
+    "RFundTitle": "South Pacific Envelope",
+    "RFundAbbrv": "PF-AP",
+    "RFundName": "South Pacific Envelope (RHPF-AP)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 507
+  },
+  {
+    "RFundTitle": "Eastern and Southern Africa Humanitarian Fund",
+    "RFundAbbrv": "ESAHF",
+    "RFundName": "Uganda (ESAHF)",
+    "StartYearDate": "02-2026",
+    "CBPFId": 512
   }
 ]
