@@ -5,10 +5,10 @@
     "contribTotalAmt": 310181003.1603,
     "contribPaidAmt": 190708057.6,
     "contribPledgedAmt": 119472945.5603,
-    "allocAmt": 42059647.83,
+    "allocAmt": 42059647.830000006,
     "underApprovalAmt": "0",
     "year": "2026",
-    "projectsFunded": 33,
+    "projectsFunded": 35,
     "partnersFunded": 8,
     "partnersFundedByType": [
         {

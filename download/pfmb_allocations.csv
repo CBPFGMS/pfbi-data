@@ -9235,9 +9235,9 @@ Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Protection,
 Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Multi-Purpose Cash,Multi-Purpose Cash,56.00000000000001,560000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33869,CERF-ETH-24-UF-HCR-33869,Protection,Protection,28.000000000000004,280000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33870,CERF-ETH-24-UF-OPS-33870,Early Recovery,Early Recovery,100.0,1000000.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,28.57,999950.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Food Aid,Food Aid,28.57,999950.0,CERF
-Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,42.86,1500100.0,CERF
+Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,5.0,175000.0,CERF
+Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Food Aid,Food Aid,28.999999999999996,1015000.0,CERF
+Ethiopia,2024,Underfunded Emergencies,33872,CERF-ETH-24-UF-WFP-33872,Common Services,Common Services,66.0,2310000.0,CERF
 Ethiopia,2024,Underfunded Emergencies,33875,CERF-ETH-24-UF-WHO-33875,Health,Health,100.0,2249622.79,CERF
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,Health,Health,13.339999790488957,300150.09,CERF
 Ethiopia,2024,Underfunded Emergencies,33876,CERF-ETH-24-UF-CEF-33876,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",42.22000001057778,949950.3,CERF
@@ -9764,13 +9764,16 @@ Mozambique,2026,Rapid Response,38982,CERF-MOZ-26-RR-HCR-38982,Protection,Protect
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Health,Health,32.14000007614287,449959.94,CERF
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",60.70999966778567,849939.88,CERF
 Mozambique,2026,Rapid Response,38983,CERF-MOZ-26-RR-CEF-38983,Protection,Protection,7.150000256071463,100099.99,CERF
+Madagascar,2026,Rapid Response,39183,CERF-MDG-26-RR-FAO-39183,Agriculture,Agriculture,100.0,790000.09,CERF
 Madagascar,2026,Rapid Response,39184,CERF-MDG-26-RR-IOM-39184,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,545000.0,CERF
 Madagascar,2026,Rapid Response,39186,CERF-MDG-26-RR-WFP-39186,Food Aid,Food Aid,97.32000021020127,1450068.48,CERF
 Madagascar,2026,Rapid Response,39186,CERF-MDG-26-RR-WFP-39186,Common Services,Common Services,2.679999789798727,39932.01,CERF
+Niger,2026,Rapid Response,39187,CERF-NER-26-RR-CEF-39187,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",49.999999749997606,999990.43,CERF
+Niger,2026,Rapid Response,39187,CERF-NER-26-RR-CEF-39187,Nutrition,Nutrition,50.00000025000239,999990.44,CERF
 Niger,2026,Rapid Response,39188,CERF-NER-26-RR-HCR-39188,Protection,Protection,100.0,1000001.47,CERF
 Niger,2026,Rapid Response,39189,CERF-NER-26-RR-IOM-39189,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,1000000.13,CERF
-Madagascar,2026,Rapid Response,39494,CERF-MDG-26-RR-1518(TBD),To be determined,To be determined,100.0,2464999.51,CERF
-Niger,2026,Rapid Response,39495,CERF-NER-26-RR-1523(TBD),To be determined,To be determined,100.0,2999998.4,CERF
+Madagascar,2026,Rapid Response,39494,CERF-MDG-26-RR-1518(TBD),To be determined,To be determined,100.0,1674999.42,CERF
+Niger,2026,Rapid Response,39495,CERF-NER-26-RR-1523(TBD),To be determined,To be determined,100.0,1000017.53,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -12123,6 +12126,9 @@ CAR,2025,Reserve,38623,CBPF-CAR-25-R-INGO-38623,Protection,,50.0,225000.0,CBPF
 CAR,2025,Reserve,38623,CBPF-CAR-25-R-INGO-38623,Protection,,50.0,225000.0,CBPF
 CAR,2025,Reserve,38624,CBPF-CAR-25-R-INGO-38624,Camp Coordination / Management,,10.0,50000.0,CBPF
 CAR,2025,Reserve,38624,CBPF-CAR-25-R-INGO-38624,Emergency Shelter and NFI,,90.0,450000.0,CBPF
+CAR,2025,Reserve,38644,CBPF-CAR-25-R-INGO-38644,"Water, Sanitation and Hygiene",,100.0,700000.0,CBPF
+CAR,2025,Reserve,38645,CBPF-CAR-25-R-INGO-38645,Health,,76.0,228000.0,CBPF
+CAR,2025,Reserve,38645,CBPF-CAR-25-R-INGO-38645,Protection,,24.0,72000.0,CBPF
 CAR,2025,Reserve,38665,CBPF-CAR-25-R-INGO-38665,Emergency Shelter and NFI,,35.0,140000.0,CBPF
 CAR,2025,Reserve,38665,CBPF-CAR-25-R-INGO-38665,Protection,,40.0,160000.0,CBPF
 CAR,2025,Reserve,38665,CBPF-CAR-25-R-INGO-38665,"Water, Sanitation and Hygiene",,25.0,100000.0,CBPF
@@ -23687,6 +23693,11 @@ South Sudan,2025,Standard,36655,CBPF-SSD-25-S-UN-36655,Nutrition,,100.0,500000.0
 South Sudan,2026,Reserve,39251,CBPF-SSD-26-R-INGO-NSFT-39251,Emergency Shelter and NFI,,41.0,894547.7047,CBPF
 South Sudan,2026,Reserve,39251,CBPF-SSD-26-R-INGO-NSFT-39251,Protection,,35.0,763638.2845,CBPF
 South Sudan,2026,Reserve,39251,CBPF-SSD-26-R-INGO-NSFT-39251,"Water, Sanitation and Hygiene",,24.0,523637.6808,CBPF
+South Sudan,2026,Reserve,39252,CBPF-SSD-26-R-INGO-NSFT-39252,"Water, Sanitation and Hygiene",,100.0,1203032.0,CBPF
+South Sudan,2026,Reserve,39257,CBPF-SSD-26-R-INGO-NSFT-39257,Health,,22.14,421613.020728,CBPF
+South Sudan,2026,Reserve,39257,CBPF-SSD-26-R-INGO-NSFT-39257,Nutrition,,27.07,515495.233564,CBPF
+South Sudan,2026,Reserve,39257,CBPF-SSD-26-R-INGO-NSFT-39257,Protection,,23.6,449415.86672,CBPF
+South Sudan,2026,Reserve,39257,CBPF-SSD-26-R-INGO-NSFT-39257,"Water, Sanitation and Hygiene",,27.19,517780.398988,CBPF
 South Sudan,2026,Reserve,39259,CBPF-SSD-26-R-INGO-NSFT-39259,Emergency Shelter and NFI,,50.0,893465.5,CBPF
 South Sudan,2026,Reserve,39259,CBPF-SSD-26-R-INGO-NSFT-39259,Protection,,50.0,893465.5,CBPF
 South Sudan,2026,Reserve,39260,CBPF-SSD-26-R-INGO-NSFT-39260,Emergency Shelter and NFI,,49.0,879926.8247,CBPF
