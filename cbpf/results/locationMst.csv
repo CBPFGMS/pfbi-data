@@ -5122,12 +5122,12 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 4736, Nigeria > Yobe > Potiskum,Yobe,12.29868022,11.43706584
 4737, Nigeria > Borno > Guzamala,Borno,11.8889801,13.15334698
 4738, Nigeria > Borno > Kala/Balge,Borno,11.8889801,13.15334698
-4739,Borno -> Kala/Balge,Borno,11.8889801,13.15334698
-4740,Borno -> Damboa,Borno,11.8889801,13.15334698
+4739,Borno -> Damboa,Borno,11.8889801,13.15334698
+4740,Borno -> Kala/Balge,Borno,11.8889801,13.15334698
 4741,Borno -> Mobbar,Borno,11.8889801,13.15334698
-4742,Adamawa -> Mubi North,Adamawa,9.32322733,12.40024078
+4742,Adamawa,Adamawa,9.32322733,12.40024078
 4743,Adamawa -> Hong,Adamawa,9.32322733,12.40024078
-4744,Adamawa,Adamawa,9.32322733,12.40024078
+4744,Adamawa -> Mubi North,Adamawa,9.32322733,12.40024078
 4745,Adamawa -> Michika,Adamawa,9.32322733,12.40024078
 4746,Adamawa -> Fufore,Adamawa,9.32322733,12.40024078
 4747,Adamawa -> Madagali,Adamawa,9.32322733,12.40024078
