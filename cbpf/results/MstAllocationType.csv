@@ -82,6 +82,7 @@ AllocationType,AllocationtypeId
 (CAF) 2019 Second Standard Allocation,3517
 (COL) Reserve Allocation Colombia 2017,10452
 (COL) 1st Standard Allocation 2017/HRP 2017,10852
+(COL) 2024 Primera Asignación Ordinaria,133987
 "(COD) RA1 Mai 2023 - Réponse à la crise inondations et éboulements de terre dans le territoire de Kalehe, Sud-Kivu",47224
 "(COD) 2023 RA2 Juillet 2023– Réponse humanitaire aux personnes déplacées affectées par les conflits dans les provinces de Maï-Ndombe, du Nord-Kivu, de l'Ituri et de Tanganyika, avec un accent particulier sur la PSEA et les retournés",49224
 "(COD) 2023 RA3 novembre 2023_Réponse multisectorielle localisée aux personnes affectées par le conflit dans les territoires de Rutshuru, Massisi et Fizi centrée sur la protection avec la participation des organisations nationales féminines.",51824
@@ -280,6 +281,7 @@ AllocationType,AllocationtypeId
 (NGA) 2nd Reserve Allocation 2024: Pilot Anticipatory Action Allocation: Floods and Cholera in NE Nigeria,130675
 "(NGA) 3rd Reserve Allocation 2024: Rapid Response Allocation for Floods in BAY States, Nigeria",133875
 (NGA) 1st Reserve Allocation 2025 (Anticipatory Action),145075
+(NGA) 1st Standard Allocation 2025 (Lean Season),145175
 (NGA) 1st Standard Allocation 2017 - Nigeria,11475
 (NGA) 2nd Standard Allocation 2017 - Nigeria,12675
 (NGA) 1st Reserve Allocation 2018 - Nigeria,14475
@@ -582,6 +584,7 @@ AllocationType,AllocationtypeId
 (VEN) Segunda Asignación Ordinaria 2023,50883
 (VEN) Asignación de Reserva 2024,136583
 (VEN) 2024 - Standard allocation,132283
+(VEN) Primera Asignación de Reserva 2025,142183
 (VEN) Primera asignación ordinaria 2021,31583
 (VEN) Segunda asignación ordinaria 2021,36183
 (VEN) Primera Asignación Ordinaria 2022,41683
