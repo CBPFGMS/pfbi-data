@@ -12854,976 +12854,977 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12404, Yemen > Al Hudaydah > Al Garrahi,Al Hudaydah,15.00062889,43.04031959
 12405, Yemen > Al Hudaydah > Zabid,Al Hudaydah,15.00062889,43.04031959
 12406, Yemen > Marib > Majzar,Marib,15.56841151,45.76081505
-12407, Yemen > Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
-12408, Yemen > Ibb > Yarim,Ibb,14.05521633,44.26319019
-12409, Yemen > Hajjah > Haradh,Hajjah,16.27488061,43.11225315
-12410, Yemen > Hajjah > Midi,Hajjah,16.27488061,43.11225315
-12411,Ibb -> Ar Radmah -> Al-Ratmah,Ibb,14.05521633,44.26319019
-12412,Ibb -> Ar Radmah -> Thee Ashra,Ibb,14.05521633,44.26319019
-12413,Sana'a -> Sa'fan,Sana'a,15.12394358,44.78727759
-12414,Sana'a -> Manakhah,Sana'a,15.12394358,44.78727759
-12415,Ibb -> Far Al Udayn,Ibb,14.05521633,44.26319019
-12416,Taizz -> As Silw,Taizz,13.39753802,43.68772167
-12417,Taizz -> Jabal Habashy,Taizz,13.39753802,43.68772167
-12418,Sana'a -> Hamdan,Sana'a,15.12394358,44.78727759
-12419,Abyan -> Ahwar,Abyan,13.6955485,46.50340692
-12420,Al Hudaydah -> As Sukhnah,Al Hudaydah,15.00062889,43.04031959
-12421,Al Hudaydah -> Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
-12422,Abyan -> Khanfir,Abyan,13.6955485,46.50340692
-12423,Dhamar -> Wusab As Safil,Dhamar,14.50737016,44.42760976
-12424,Hajjah -> Aslem,Hajjah,16.27488061,43.11225315
-12425,Hajjah -> Abs,Hajjah,16.27488061,43.11225315
-12426,Hajjah -> Qafl Shamer,Hajjah,16.27488061,43.11225315
-12427,Taizz -> Al Misrakh,Taizz,13.39753802,43.68772167
-12428,Taizz -> Al Misrakh -> Al-Sarfah,Taizz,13.39753802,43.68772167
-12429,Hajjah -> Qafl Shamer -> Bait Al-Zeeh,Hajjah,16.27488061,43.11225315
-12430,Sa'ada -> Saqayn,Sa'ada,17.25112185,43.50274965
-12431,Amran -> Khamir,Amran,16.3570904,43.87269369
-12432,Amran -> Al Qaflah,Amran,16.3570904,43.87269369
-12433,Amran -> Bani Suraim,Amran,16.3570904,43.87269369
-12434,Amran -> Huth,Amran,16.3570904,43.87269369
-12435,Lahj -> Al Maqatirah,Lahj,12.96593663,44.41733354
-12436,Lahj -> Al Musaymir,Lahj,12.96593663,44.41733354
-12437,Sa'ada -> Haydan,Sa'ada,17.25112185,43.50274965
-12438,Abyan -> Zingibar,Abyan,13.6955485,46.50340692
-12439,Hajjah -> Bani Qa'is,Hajjah,16.27488061,43.11225315
-12440,Al Hudaydah -> Al Qanawis -> Deer Dahmash,Al Hudaydah,15.00062889,43.04031959
-12441,Al Hudaydah -> As Sukhnah -> Al-Aqaryah,Al Hudaydah,15.00062889,43.04031959
-12442,Al Hudaydah -> As Sukhnah -> Al-Madafen,Al Hudaydah,15.00062889,43.04031959
-12443,Al Hudaydah -> As Sukhnah -> Al-Damegh,Al Hudaydah,15.00062889,43.04031959
-12444,Sana'a -> Bani Matar,Sana'a,15.12394358,44.78727759
-12445,Al Jawf -> Al Maton,Al Jawf,16.76813934,46.01014819
-12446,Amran -> Kharif,Amran,16.3570904,43.87269369
-12447,Ibb -> As Sayyani,Ibb,14.05521633,44.26319019
-12448,Sana'a,Sana'a,15.12394358,44.78727759
-12449,Al Jawf -> Bart Al Anan,Al Jawf,16.76813934,46.01014819
-12450,Hajjah -> Hajjah City,Hajjah,16.27488061,43.11225315
-12451,Sa'ada -> Monabbih,Sa'ada,17.25112185,43.50274965
-12452,Al Dhale'e -> Jahaf,Al Dhale'e,13.85996808,44.67423913
-12453,Al Dhale'e -> Al Azariq,Al Dhale'e,13.85996808,44.67423913
-12454,Al Hudaydah -> Bajil,Al Hudaydah,15.00062889,43.04031959
-12455,Ibb -> Al Udayn,Ibb,14.05521633,44.26319019
-12456,Sa'ada -> Razih,Sa'ada,17.25112185,43.50274965
-12457,Ibb -> Hazm Al Udayn,Ibb,14.05521633,44.26319019
-12458,Ibb -> Mudhaykhirah,Ibb,14.05521633,44.26319019
-12459,Sana'a -> Manakhah -> Manakhah,Sana'a,15.12394358,44.78727759
-12460,Hajjah,Hajjah,16.27488061,43.11225315
-12461,Abyan -> Rasad,Abyan,13.6955485,46.50340692
-12462,Al Hudaydah -> Az Zuhrah -> Deer Al-Sayed,Al Hudaydah,15.00062889,43.04031959
-12463,Hajjah -> Abs -> Abs,Hajjah,16.27488061,43.11225315
-12464,Hajjah -> Abs -> Bani Ahmed,Hajjah,16.27488061,43.11225315
-12465,Al Hudaydah -> Az Zuhrah -> Cadf Bani Odhaby,Al Hudaydah,15.00062889,43.04031959
-12466,Hajjah -> Abs -> Dabn,Hajjah,16.27488061,43.11225315
-12467,Hajjah -> Hayran -> Bani Fadhel,Hajjah,16.27488061,43.11225315
-12468,Hajjah -> Hayran -> Al-Masharefah,Hajjah,16.27488061,43.11225315
-12469,Al Hudaydah -> Az Zuhrah -> Noaman,Al Hudaydah,15.00062889,43.04031959
-12470,Al Hudaydah -> Az Zuhrah -> Deer Mansour,Al Hudaydah,15.00062889,43.04031959
-12471,Dhamar -> Jabal Ash sharq,Dhamar,14.50737016,44.42760976
-12472,Hadramaut -> Al Mukalla -> Al-Masna,Hadramaut,16.80924424,48.84638589
-12473,Hadramaut -> Ghayl Ba Wazir -> Gheil Al-Halekah,Hadramaut,16.80924424,48.84638589
-12474,Hadramaut -> Al Mukalla -> Hamam,Hadramaut,16.80924424,48.84638589
-12475,Hadramaut -> Ghayl Ba Wazir -> Al-Carah,Hadramaut,16.80924424,48.84638589
-12476,Hadramaut -> Al Mukalla -> Bein Al-Jebal,Hadramaut,16.80924424,48.84638589
-12477,Hadramaut -> Ghayl Ba Wazir -> Ras Al-Aqeim,Hadramaut,16.80924424,48.84638589
-12478,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Hadramaut,16.80924424,48.84638589
-12479,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
-12480,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-12481,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
-12482,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
-12483,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
-12484,Abyan -> Sarar,Abyan,13.6955485,46.50340692
-12485,Aden -> Dar Sad,Aden,12.84865928,45.00201169
-12486,Al Hudaydah -> Al Qanawis -> Al-Hameis,Al Hudaydah,15.00062889,43.04031959
-12487,Lahj -> Al Qabbaytah -> Al-Dhabrah,Lahj,12.96593663,44.41733354
-12488,Sana'a -> Hamdan -> Dharwan,Sana'a,15.12394358,44.78727759
-12489,Marib -> Harib Al Qaramish,Marib,15.56841151,45.76081505
-12490,Marib -> Marib,Marib,15.56841151,45.76081505
-12491,Marib -> Marib City,Marib,15.56841151,45.76081505
-12492,Al Jawf -> Rajuzah,Al Jawf,16.76813934,46.01014819
-12493,Al Hudaydah -> Al Hajjaylah -> Al-Hujailah,Al Hudaydah,15.00062889,43.04031959
-12494,Hajjah -> Aflah Al Yaman -> Al-Mezab,Hajjah,16.27488061,43.11225315
-12495,Hajjah -> Hajjah,Hajjah,16.27488061,43.11225315
-12496,Hajjah -> Ash Shaghadirah -> Al-Hawyah,Hajjah,16.27488061,43.11225315
-12497,Lahj -> Al Maqatirah -> Al-Cabeebah,Lahj,12.96593663,44.41733354
-12498,Lahj -> Al Maqatirah -> Al-Maseejd,Lahj,12.96593663,44.41733354
-12499,Lahj -> Al Maqatirah -> Al-Haneeshah,Lahj,12.96593663,44.41733354
-12500,Lahj -> Al Maqatirah -> Al-Mahraqah,Lahj,12.96593663,44.41733354
-12501,Lahj -> Al Maqatirah -> Araf,Lahj,12.96593663,44.41733354
-12502,Lahj -> Al Maqatirah -> Al-Mahelah,Lahj,12.96593663,44.41733354
-12503,Lahj -> Al Maqatirah -> Al-Barh,Lahj,12.96593663,44.41733354
-12504,Sana'a -> Sa'fan -> Al-Zabyah,Sana'a,15.12394358,44.78727759
-12505,Al Hudaydah -> Bura -> Bani Al-Abadi,Al Hudaydah,15.00062889,43.04031959
-12506,Al Hudaydah -> Bura -> Al-Qad,Al Hudaydah,15.00062889,43.04031959
-12507,Al Hudaydah -> Bura -> Al-Caheb,Al Hudaydah,15.00062889,43.04031959
-12508,Al Hudaydah -> Bura -> Al-Nashah,Al Hudaydah,15.00062889,43.04031959
-12509,Al Hudaydah -> As Sukhnah -> Coheil,Al Hudaydah,15.00062889,43.04031959
-12510,Al Hudaydah -> Bura -> Al-Buaymi,Al Hudaydah,15.00062889,43.04031959
-12511,Al Hudaydah -> Bura -> Al-Merkham,Al Hudaydah,15.00062889,43.04031959
-12512,Al Hudaydah -> Bura -> Odhr,Al Hudaydah,15.00062889,43.04031959
-12513,Al Hudaydah -> Bura -> Beineen,Al Hudaydah,15.00062889,43.04031959
-12514,Al Hudaydah -> Bura -> Al-Dhareef,Al Hudaydah,15.00062889,43.04031959
-12515,Al Hudaydah -> Bura -> Eiuon,Al Hudaydah,15.00062889,43.04031959
-12516,Al Hudaydah -> Bura -> Acamat Al-Sharf,Al Hudaydah,15.00062889,43.04031959
-12517,Al Hudaydah -> Bura -> Mahwal,Al Hudaydah,15.00062889,43.04031959
-12518,Al Hudaydah -> Bura -> Jailan,Al Hudaydah,15.00062889,43.04031959
-12519,Al Hudaydah -> Bura -> Abr Sad,Al Hudaydah,15.00062889,43.04031959
-12520,Al Hudaydah -> Bura -> Haz Al-Shamah,Al Hudaydah,15.00062889,43.04031959
-12521,Al Hudaydah -> Bura -> Al-Jahatemah,Al Hudaydah,15.00062889,43.04031959
-12522,Al Hudaydah -> Bura -> Al-Cubah,Al Hudaydah,15.00062889,43.04031959
-12523,Al Hudaydah -> Bura -> Al-Thari,Al Hudaydah,15.00062889,43.04031959
-12524,Al Hudaydah -> Bura -> Reqab,Al Hudaydah,15.00062889,43.04031959
-12525,Al Hudaydah -> Bura -> Rajn,Al Hudaydah,15.00062889,43.04031959
-12526,Hadramaut -> Al Abr,Hadramaut,16.80924424,48.84638589
-12527,Lahj -> Al Milah,Lahj,12.96593663,44.41733354
-12528,Al Hudaydah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-12529,Hadramaut -> Yabuth,Hadramaut,16.80924424,48.84638589
-12530,Hadramaut -> Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-12531,Ibb,Ibb,14.05521633,44.26319019
-12532,Taizz,Taizz,13.39753802,43.68772167
-12533,Abyan -> Al Wade'a,Abyan,13.6955485,46.50340692
-12534,Abyan -> Mudiyah,Abyan,13.6955485,46.50340692
-12535,Abyan -> Lawdar,Abyan,13.6955485,46.50340692
-12536,Aden -> Al Buraiqeh,Aden,12.84865928,45.00201169
-12537,Hajjah -> Al Jamimah,Hajjah,16.27488061,43.11225315
-12538,Hajjah -> Bakil Al Mir,Hajjah,16.27488061,43.11225315
-12539,Hajjah -> Washhah,Hajjah,16.27488061,43.11225315
-12540,Hajjah -> Ash Shaghadirah,Hajjah,16.27488061,43.11225315
-12541,Hajjah -> Kushar,Hajjah,16.27488061,43.11225315
-12542,Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
-12543,Amran -> Al Ashah,Amran,16.3570904,43.87269369
-12544,Amran -> Al Madan,Amran,16.3570904,43.87269369
-12545,Amran -> Harf Sufyan,Amran,16.3570904,43.87269369
-12546,Amran -> As Sawd,Amran,16.3570904,43.87269369
-12547,Al Bayda -> Mukayras,Al Bayda,14.21742373,45.55495025
-12548,Al Bayda -> Rada',Al Bayda,14.21742373,45.55495025
-12549,Al Bayda -> Radman Al Awad,Al Bayda,14.21742373,45.55495025
-12550,Al Bayda -> Al Bayda City,Al Bayda,14.21742373,45.55495025
-12551,Al Bayda -> Al Bayda,Al Bayda,14.21742373,45.55495025
-12552,Al Bayda -> Al Malagim,Al Bayda,14.21742373,45.55495025
-12553,Al Bayda,Al Bayda,14.21742373,45.55495025
-12554,Al Bayda -> Ash Sharyah,Al Bayda,14.21742373,45.55495025
-12555,Taizz -> At Ta'iziyah,Taizz,13.39753802,43.68772167
-12556,Taizz -> Al Wazi'iyah,Taizz,13.39753802,43.68772167
-12557,Taizz -> Al  Mukha,Taizz,13.39753802,43.68772167
-12558,Taizz -> Shara'b Ar Rawnah,Taizz,13.39753802,43.68772167
-12559,Taizz -> Maqbanah,Taizz,13.39753802,43.68772167
-12560,Dhamar -> Dhamar City,Dhamar,14.50737016,44.42760976
-12561,Dhamar -> Utmah,Dhamar,14.50737016,44.42760976
-12562,Dhamar -> Jahran,Dhamar,14.50737016,44.42760976
-12563,Dhamar -> Anss,Dhamar,14.50737016,44.42760976
-12564,Dhamar -> Wusab Al Ali,Dhamar,14.50737016,44.42760976
-12565,Al Mahwit,Al Mahwit,15.40140161,43.59523566
-12566,Amanat Al Asimah -> As Sabain,Amanat Al Asimah,15.36598719,44.2020645
-12567,Amanat Al Asimah -> Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
-12568,Amanat Al Asimah -> Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
-12569,Amanat Al Asimah -> Az'zal,Amanat Al Asimah,15.36598719,44.2020645
-12570,Amanat Al Asimah -> Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
-12571,Raymah,Raymah,14.59985617,43.68772167
-12572,Amran,Amran,16.3570904,43.87269369
-12573,Raymah -> Kusmah,Raymah,14.59985617,43.68772167
-12574,Raymah -> As Salafiyah,Raymah,14.59985617,43.68772167
-12575,Raymah -> Al Jafariyah,Raymah,14.59985617,43.68772167
-12576,Raymah -> Mazhar,Raymah,14.59985617,43.68772167
-12577,Raymah -> Al Jabin,Raymah,14.59985617,43.68772167
-12578,Raymah -> Bilad At Ta'am,Raymah,14.59985617,43.68772167
-12579,Dhamar -> Al Hada,Dhamar,14.50737016,44.42760976
-12580,Dhamar -> Jahran -> Mabr,Dhamar,14.50737016,44.42760976
-12581,Al Mahwit -> Hufash,Al Mahwit,15.40140161,43.59523566
-12582,Al Mahwit -> Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-12583,Al Mahwit -> Al Mahwait City,Al Mahwit,15.40140161,43.59523566
-12584,Al Mahwit -> Al Khabt,Al Mahwit,15.40140161,43.59523566
-12585,Al Mahwit -> At Tawilah,Al Mahwit,15.40140161,43.59523566
-12586,Al Mahwit -> Bani Sa'd,Al Mahwit,15.40140161,43.59523566
-12587,Al Mahwit -> Milhan,Al Mahwit,15.40140161,43.59523566
-12588,Abyan,Abyan,13.6955485,46.50340692
-12589,Aden,Aden,12.84865928,45.00201169
-12590,Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
-12591,Dhamar,Dhamar,14.50737016,44.42760976
-12592,Taizz -> Ash Shamayatayn,Taizz,13.39753802,43.68772167
-12593,Ibb -> Mudhaykhirah -> Al-Ozlah,Ibb,14.05521633,44.26319019
-12594,Ibb -> Mudhaykhirah -> Al-Reis,Ibb,14.05521633,44.26319019
-12595,Ibb -> Mudhaykhirah ->  Al-Nejd Market,Ibb,14.05521633,44.26319019
-12596,Ibb -> Mudhaykhirah -> Mutheikhrah,Ibb,14.05521633,44.26319019
-12597,Dhamar -> Dawran Aness,Dhamar,14.50737016,44.42760976
-12598,Lahj -> Tuban -> Anqoudah,Lahj,12.96593663,44.41733354
-12599,Lahj -> Tuban -> Al-Anad,Lahj,12.96593663,44.41733354
-12600,Lahj -> Tuban -> Sefyan,Lahj,12.96593663,44.41733354
-12601,Lahj -> Tuban -> Al-Khadad,Lahj,12.96593663,44.41733354
-12602,Lahj -> Tuban -> Joal Yemani,Lahj,12.96593663,44.41733354
-12603,Lahj -> Tuban -> Zaydah,Lahj,12.96593663,44.41733354
-12604,Lahj -> Tuban -> Bait Eyadh,Lahj,12.96593663,44.41733354
-12605,Lahj -> Tuban -> Cadmah Owad Ali,Lahj,12.96593663,44.41733354
-12606,Lahj -> Tuban -> Al-What,Lahj,12.96593663,44.41733354
-12607,Lahj -> Tuban -> Joal Hasan,Lahj,12.96593663,44.41733354
-12608,Lahj -> Tuban -> Abr Badr,Lahj,12.96593663,44.41733354
-12609,Lahj -> Tuban -> Al-Hasky,Lahj,12.96593663,44.41733354
-12610,Lahj -> Tuban -> Tahrour,Lahj,12.96593663,44.41733354
-12611,Al Hudaydah -> Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
-12612,Al Hudaydah -> At Tuhayat,Al Hudaydah,15.00062889,43.04031959
-12613,Al Hudaydah -> As Salif,Al Hudaydah,15.00062889,43.04031959
-12614,Al Hudaydah -> Bura -> Al-Gheileen,Al Hudaydah,15.00062889,43.04031959
-12615,Al Hudaydah -> Bura -> Antarah,Al Hudaydah,15.00062889,43.04031959
-12616,Al Hudaydah -> Bura -> Manoub,Al Hudaydah,15.00062889,43.04031959
-12617,Al Hudaydah -> Bura -> Al-Zeraei,Al Hudaydah,15.00062889,43.04031959
-12618,Al Mahwit -> Bani Sa'd -> Al-Carb,Al Mahwit,15.40140161,43.59523566
-12619,Al Hudaydah -> Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
-12620,Al Hudaydah -> Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
-12621,Taizz -> Dimnat Khadir,Taizz,13.39753802,43.68772167
-12622,Lahj -> Al Qabbaytah,Lahj,12.96593663,44.41733354
-12623,Al Dhale'e -> Al Husha,Al Dhale'e,13.85996808,44.67423913
-12624,Al Hudaydah -> Az Zaydiyah -> Qaryat Al-Hashaberah,Al Hudaydah,15.00062889,43.04031959
-12625,Al Hudaydah -> Bayt Al Faqiah -> Al-Muzahrah,Al Hudaydah,15.00062889,43.04031959
-12626,Al Hudaydah -> Bayt Al Faqiah -> Bani Maqboul,Al Hudaydah,15.00062889,43.04031959
-12627,Al Hudaydah -> Bayt Al Faqiah -> Bait Al-Faqeeh,Al Hudaydah,15.00062889,43.04031959
-12628,Al Hudaydah -> Az Zaydiyah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-12629,Al Mahwit -> Ar Rujum -> Sahl Baqel,Al Mahwit,15.40140161,43.59523566
-12630,Al Mahwit -> Ar Rujum -> Al-Jazb,Al Mahwit,15.40140161,43.59523566
-12631,Al Mahwit -> Ar Rujum -> Al-Dhohr,Al Mahwit,15.40140161,43.59523566
-12632,Al Mahwit -> Ar Rujum -> Al-Jalbah,Al Mahwit,15.40140161,43.59523566
-12633,Al Mahwit -> Ar Rujum,Al Mahwit,15.40140161,43.59523566
-12634,Al Mahwit -> Ar Rujum -> Al-Rujom,Al Mahwit,15.40140161,43.59523566
-12635,Al Mahwit -> Ar Rujum -> Rawhan,Al Mahwit,15.40140161,43.59523566
-12636,Amran -> Raydah -> Reidah,Amran,16.3570904,43.87269369
-12637,Abyan -> Al Mahfad,Abyan,13.6955485,46.50340692
-12638,Aden -> Craiter,Aden,12.84865928,45.00201169
-12639,Hajjah -> Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
-12640,Al Hudaydah -> At Tuhayat -> Al-Tuheita,Al Hudaydah,15.00062889,43.04031959
-12641,Hajjah -> Mustaba,Hajjah,16.27488061,43.11225315
-12642,Hajjah -> Aflah Al Yaman,Hajjah,16.27488061,43.11225315
-12643,Al Bayda -> Al Bayda City -> Al-Baida City,Al Bayda,14.21742373,45.55495025
-12644,Al Hudaydah -> Bajil -> Deer Bareih,Al Hudaydah,15.00062889,43.04031959
-12645,Al Hudaydah -> Bajil -> Al-Damn,Al Hudaydah,15.00062889,43.04031959
-12646,Al Hudaydah -> As Sukhnah -> Deer Al-Hadeish,Al Hudaydah,15.00062889,43.04031959
-12647,Al Hudaydah -> Bajil -> Al-Meshwaf,Al Hudaydah,15.00062889,43.04031959
-12648,Hajjah -> Hayran -> Al-Sadah,Hajjah,16.27488061,43.11225315
-12649,Hajjah -> Abs -> Al-Melakhah,Hajjah,16.27488061,43.11225315
-12650,Hajjah -> Hayran -> Bani Al-Khamj,Hajjah,16.27488061,43.11225315
-12651,Hajjah -> Hayran -> Al-Deer,Hajjah,16.27488061,43.11225315
-12652,Hajjah -> Abs -> Al-Nawahi Al-Sofla,Hajjah,16.27488061,43.11225315
-12653,Hajjah -> Hayran -> Bani Al-Mash,Hajjah,16.27488061,43.11225315
-12654,Hajjah -> Abs -> Al-Makhzan Bani Ahmed,Hajjah,16.27488061,43.11225315
-12655,Hajjah -> Abs -> Barman,Hajjah,16.27488061,43.11225315
-12656,Hajjah -> Abs -> Al-Mehsam,Hajjah,16.27488061,43.11225315
-12657,Hajjah -> Abs -> Al-Okashyah,Hajjah,16.27488061,43.11225315
-12658,Hajjah -> Abs -> Shab Al-Doush,Hajjah,16.27488061,43.11225315
-12659,Hajjah -> Hayran -> Al-Awja,Hajjah,16.27488061,43.11225315
-12660,Hajjah -> Abs -> Al-Hamur,Hajjah,16.27488061,43.11225315
-12661,Hajjah -> Abs -> Al-Hujrah,Hajjah,16.27488061,43.11225315
-12662,Hajjah -> Hayran -> Al-Khowaryah,Hajjah,16.27488061,43.11225315
-12663,Hajjah -> Hayran -> Qatbah Bani Al-Aati,Hajjah,16.27488061,43.11225315
-12664,Taizz -> Mawiyah,Taizz,13.39753802,43.68772167
-12665,Taizz -> Al Qahirah,Taizz,13.39753802,43.68772167
-12666,Taizz -> Al Mudhaffar,Taizz,13.39753802,43.68772167
-12667,Lahj -> Tuban,Lahj,12.96593663,44.41733354
-12668,Taizz -> Al Mawasit,Taizz,13.39753802,43.68772167
-12669,Hadramaut,Hadramaut,16.80924424,48.84638589
-12670,Shabwah,Shabwah,14.67178974,46.95556076
-12671,Sa'ada,Sa'ada,17.25112185,43.50274965
-12672,Lahj,Lahj,12.96593663,44.41733354
-12673,Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
-12674,Ibb -> Dhi As Sufal,Ibb,14.05521633,44.26319019
-12675,Hajjah -> Ku'aydinah,Hajjah,16.27488061,43.11225315
-12676,Sana'a -> Arhab,Sana'a,15.12394358,44.78727759
-12677,Al Hudaydah -> Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
-12678,Sana'a -> Attyal,Sana'a,15.12394358,44.78727759
-12679,Al Dhale'e -> Damt,Al Dhale'e,13.85996808,44.67423913
-12680,Hadramaut -> Brom Mayfa,Hadramaut,16.80924424,48.84638589
-12681,Ibb -> Dhi As Sufal -> Al-Qaedah,Ibb,14.05521633,44.26319019
-12682,Marib -> Medghal,Marib,15.56841151,45.76081505
-12683,Marib -> Sirwah,Marib,15.56841151,45.76081505
-12684,Dhamar -> Mayfa'at Anss,Dhamar,14.50737016,44.42760976
-12685,Dhamar -> Maghirib Ans,Dhamar,14.50737016,44.42760976
-12686,Shabwah -> Ataq -> Ataq,Shabwah,14.67178974,46.95556076
-12687,Al Hudaydah -> Al Marawi'ah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-12688,Al Hudaydah -> Bajil -> Al-Zawmah,Al Hudaydah,15.00062889,43.04031959
-12689,Al Hudaydah -> Al Marawi'ah -> Al-Afjyah,Al Hudaydah,15.00062889,43.04031959
-12690,Sana'a -> Sa'fan -> Al-Mazabah,Sana'a,15.12394358,44.78727759
-12691,Sana'a -> Sa'fan -> Al-Wajrah,Sana'a,15.12394358,44.78727759
-12692,Sana'a -> Sa'fan -> Asbab,Sana'a,15.12394358,44.78727759
-12693,Sana'a -> Sa'fan -> Al-Maghareb,Sana'a,15.12394358,44.78727759
-12694,Sana'a -> Sa'fan -> Rowabah,Sana'a,15.12394358,44.78727759
-12695,Sana'a -> Sa'fan -> Al-Hesn (Fort),Sana'a,15.12394358,44.78727759
-12696,Sana'a -> Sa'fan -> Al-Marawelah,Sana'a,15.12394358,44.78727759
-12697,Sana'a -> Sa'fan -> Al-Shuabah,Sana'a,15.12394358,44.78727759
-12698,Sana'a -> Sa'fan -> Shalwal,Sana'a,15.12394358,44.78727759
-12699,Sana'a -> Sa'fan -> Al-Acamah,Sana'a,15.12394358,44.78727759
-12700,Sana'a -> Sa'fan -> Har Wadi,Sana'a,15.12394358,44.78727759
-12701,Al Hudaydah -> Al Mansuriyah -> Al-Jroup,Al Hudaydah,15.00062889,43.04031959
-12702,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-12703,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-12704,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
-12705,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
-12706,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
-12707,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
-12708,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
-12709,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
-12710,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
-12711,Hajjah -> Abs -> Shafar,Hajjah,16.27488061,43.11225315
-12712,Hajjah -> Abs -> Al-Aredh,Hajjah,16.27488061,43.11225315
-12713,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
-12714,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
-12715,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
-12716,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
-12717,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
-12718,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
-12719,Al Dhale'e -> Al Azariq -> Tawrasah,Al Dhale'e,13.85996808,44.67423913
-12720,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
-12721,Al Hudaydah -> Bura,Al Hudaydah,15.00062889,43.04031959
-12722,Hajjah -> Wadhrah,Hajjah,16.27488061,43.11225315
-12723,Al Hudaydah -> Az Zaydiyah -> Deer Aslah,Al Hudaydah,15.00062889,43.04031959
-12724,Al Hudaydah -> Az Zaydiyah -> Deer Ghorab,Al Hudaydah,15.00062889,43.04031959
-12725,Hajjah -> Al Mahabishah,Hajjah,16.27488061,43.11225315
-12726,Hajjah -> Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
-12727,Hajjah -> Ash Shahil,Hajjah,16.27488061,43.11225315
-12728,Al Bayda -> As Sawma'ah,Al Bayda,14.21742373,45.55495025
-12729,Al Bayda -> Az Zahir,Al Bayda,14.21742373,45.55495025
-12730,Al Bayda -> At Taffah,Al Bayda,14.21742373,45.55495025
-12731,Al Jawf,Al Jawf,16.76813934,46.01014819
-12732,Marib,Marib,15.56841151,45.76081505
-12733,Al Maharah,Al Maharah,16.59344354,51.59013758
-12734,Al Hudaydah -> Zabid,Al Hudaydah,15.00062889,43.04031959
-12735,Amanat Al Asimah -> Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
-12736,Hajjah -> Mabyan,Hajjah,16.27488061,43.11225315
-12737,Amanat Al Asimah -> Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
-12738,Amanat Al Asimah -> Old City,Amanat Al Asimah,15.36598719,44.2020645
-12739,Al Jawf -> Al Maslub,Al Jawf,16.76813934,46.01014819
-12740,Taizz -> Mawza,Taizz,13.39753802,43.68772167
-12741,Al Hudaydah -> Al Qanawis,Al Hudaydah,15.00062889,43.04031959
-12742,Al Hudaydah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-12743,Al Hudaydah -> Al Mina,Al Hudaydah,15.00062889,43.04031959
-12744,Al Hudaydah -> Zabid -> Al-Baratah,Al Hudaydah,15.00062889,43.04031959
-12745,Al Hudaydah -> Al Hawak -> Al-Mandhar,Al Hudaydah,15.00062889,43.04031959
-12746,Al Hudaydah -> Az Zaydiyah -> Al-Banaya,Al Hudaydah,15.00062889,43.04031959
-12747,Al Hudaydah -> Bayt Al Faqiah -> Al-Abasy,Al Hudaydah,15.00062889,43.04031959
-12748,Al Hudaydah -> Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
-12749,Al Hudaydah -> Al Hawak,Al Hudaydah,15.00062889,43.04031959
-12750,Lahj -> Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
-12751,Taizz -> Sabir Al Mawadim,Taizz,13.39753802,43.68772167
-12752,Taizz -> Mawza -> Adeenah,Taizz,13.39753802,43.68772167
-12753,Taizz -> Al Ma'afer -> Al-Careibyah,Taizz,13.39753802,43.68772167
-12754,Lahj -> Tuban -> Al-Baruleitarya,Lahj,12.96593663,44.41733354
-12755,Taizz -> Al  Mukha -> Thabab,Taizz,13.39753802,43.68772167
-12756,Lahj -> Tuban -> Al-Mekhshabah,Lahj,12.96593663,44.41733354
-12757,Taizz -> Al Ma'afer -> Al-Anyah,Taizz,13.39753802,43.68772167
-12758,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
-12759,Taizz -> Mawza -> Al-Hameidi,Taizz,13.39753802,43.68772167
-12760,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
-12761,Taizz -> Al  Mukha -> Al-Arjoush,Taizz,13.39753802,43.68772167
-12762,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
-12763,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
-12764,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
-12765,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
-12766,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
-12767,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
-12768,Abyan -> Jayshan,Abyan,13.6955485,46.50340692
-12769,Al Bayda -> Al A'rsh,Al Bayda,14.21742373,45.55495025
-12770,Aden -> Ash Shaikh Outhman,Aden,12.84865928,45.00201169
-12771,Aden -> Al Mansura,Aden,12.84865928,45.00201169
-12772,Al Dhale'e -> Al Hussein,Al Dhale'e,13.85996808,44.67423913
-12773,Al Bayda -> Wald Rabi',Al Bayda,14.21742373,45.55495025
-12774,Aden -> Al Mualla,Aden,12.84865928,45.00201169
-12775,Al Maharah -> Hawf,Al Maharah,16.59344354,51.59013758
-12776,Al Dhale'e -> Juban,Al Dhale'e,13.85996808,44.67423913
-12777,Al Bayda -> Sabah,Al Bayda,14.21742373,45.55495025
-12778,Al Hudaydah -> Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
-12779,Al Dhale'e -> Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-12780,Aden -> Attawahi,Aden,12.84865928,45.00201169
-12781,Al Maharah -> Sayhut,Al Maharah,16.59344354,51.59013758
-12782,Al Bayda -> Al Quraishyah,Al Bayda,14.21742373,45.55495025
-12783,Al Hudaydah -> Ad Dahi,Al Hudaydah,15.00062889,43.04031959
-12784,Al Hudaydah -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-12785,Al Hudaydah -> Al Hali,Al Hudaydah,15.00062889,43.04031959
-12786,Amran -> Iyal Surayh,Amran,16.3570904,43.87269369
-12787,Al Dhale'e -> Qa'atabah,Al Dhale'e,13.85996808,44.67423913
-12788,Amanat Al Asimah -> Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
-12789,Al Maharah -> Al Ghaydah,Al Maharah,16.59344354,51.59013758
-12790,Al Jawf -> Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
-12791,Al Hudaydah -> Alluheyah,Al Hudaydah,15.00062889,43.04031959
-12792,Al Jawf -> Al Humaydat,Al Jawf,16.76813934,46.01014819
-12793,Amran -> Maswar,Amran,16.3570904,43.87269369
-12794,Amran -> Jabal Iyal Yazid,Amran,16.3570904,43.87269369
-12795,Al Jawf -> Al Matammah,Al Jawf,16.76813934,46.01014819
-12796,Amran -> Raydah,Amran,16.3570904,43.87269369
-12797,Amanat Al Asimah -> At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
-12798,Ibb -> As Sabrah,Ibb,14.05521633,44.26319019
-12799,Amran -> Thula,Amran,16.3570904,43.87269369
-12800,Al Hudaydah -> Hays,Al Hudaydah,15.00062889,43.04031959
-12801,Hadramaut -> Ar Raydah Wa Qusayar,Hadramaut,16.80924424,48.84638589
-12802,Amran -> Dhi Bin,Amran,16.3570904,43.87269369
-12803,Amran -> Amran,Amran,16.3570904,43.87269369
-12804,Ibb -> Hubaysh,Ibb,14.05521633,44.26319019
-12805,Hadramaut -> Rumah,Hadramaut,16.80924424,48.84638589
-12806,Hadramaut -> Rakhyah,Hadramaut,16.80924424,48.84638589
-12807,Ibb -> Yarim,Ibb,14.05521633,44.26319019
-12808,Hadramaut -> Thamud,Hadramaut,16.80924424,48.84638589
-12809,Hadramaut -> Amd,Hadramaut,16.80924424,48.84638589
-12810,Lahj -> Al  Hawtah,Lahj,12.96593663,44.41733354
-12811,Ibb -> Al Dhihar,Ibb,14.05521633,44.26319019
-12812,Hadramaut -> Shibam,Hadramaut,16.80924424,48.84638589
-12813,Hadramaut -> Al Qatn,Hadramaut,16.80924424,48.84638589
-12814,Hajjah -> Midi,Hajjah,16.27488061,43.11225315
-12815,Hadramaut -> Sah,Hadramaut,16.80924424,48.84638589
-12816,Ibb -> Al Mashannah,Ibb,14.05521633,44.26319019
-12817,Lahj -> Al Had,Lahj,12.96593663,44.41733354
-12818,Hadramaut -> Hajr,Hadramaut,16.80924424,48.84638589
-12819,Ibb -> Jiblah,Ibb,14.05521633,44.26319019
-12820,Ibb -> Ar Radmah,Ibb,14.05521633,44.26319019
-12821,Lahj -> Al Maflahy,Lahj,12.96593663,44.41733354
-12822,Hajjah -> Al Miftah,Hajjah,16.27488061,43.11225315
-12823,Ibb -> As Saddah,Ibb,14.05521633,44.26319019
-12824,Lahj -> Yafa'a,Lahj,12.96593663,44.41733354
-12825,Ibb -> Ash Sha'ir,Ibb,14.05521633,44.26319019
-12826,Hajjah -> Haradh,Hajjah,16.27488061,43.11225315
-12827,Ibb -> Ba'dan,Ibb,14.05521633,44.26319019
-12828,Marib -> Al Jubah,Marib,15.56841151,45.76081505
-12829,Marib -> Bidbadah,Marib,15.56841151,45.76081505
-12830,Sa'ada -> As Safra,Sa'ada,17.25112185,43.50274965
-12831,Hajjah -> Hayran,Hajjah,16.27488061,43.11225315
-12832,Ibb -> Al Makhadir,Ibb,14.05521633,44.26319019
-12833,Marib -> Majzar,Marib,15.56841151,45.76081505
-12834,Sa'ada -> Baqim,Sa'ada,17.25112185,43.50274965
-12835,Ibb -> Al Qafr,Ibb,14.05521633,44.26319019
-12836,Lahj -> Tur Al Bahah,Lahj,12.96593663,44.41733354
-12837,Sana'a -> Sanhan,Sana'a,15.12394358,44.78727759
-12838,Ibb -> An Nadirah,Ibb,14.05521633,44.26319019
-12839,Marib -> Rahabah,Marib,15.56841151,45.76081505
-12840,Shabwah -> Ain,Shabwah,14.67178974,46.95556076
-12841,Sa'ada -> Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
-12842,Shabwah -> Bayhan,Shabwah,14.67178974,46.95556076
-12843,Shabwah -> Al Talh,Shabwah,14.67178974,46.95556076
-12844,Sana'a -> Bani Hushaysh,Sana'a,15.12394358,44.78727759
-12845,Sana'a -> Khwlan,Sana'a,15.12394358,44.78727759
-12846,Lahj -> Habil Jabr,Lahj,12.96593663,44.41733354
-12847,Sa'ada -> Sahar,Sa'ada,17.25112185,43.50274965
-12848,Shabwah -> As Said,Shabwah,14.67178974,46.95556076
-12849,Al Jawf -> Kharab Al Marashi,Al Jawf,16.76813934,46.01014819
-12850,Shabwah -> Merkhah Al Ulya,Shabwah,14.67178974,46.95556076
-12851,Shabwah -> Hatib,Shabwah,14.67178974,46.95556076
-12852,Lahj -> Yahr,Lahj,12.96593663,44.41733354
-12853,Sana'a -> Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
-12854,Taizz -> Shara'b As Salam,Taizz,13.39753802,43.68772167
-12855,Marib -> Mahliyah,Marib,15.56841151,45.76081505
-12856,Taizz -> Salh,Taizz,13.39753802,43.68772167
-12857,Sa'ada -> Majz,Sa'ada,17.25112185,43.50274965
-12858,Al Bayda -> Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
-12859,Taizz -> Hayfan,Taizz,13.39753802,43.68772167
-12860,Sana'a -> Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
-12861,Shabwah -> Jardan,Shabwah,14.67178974,46.95556076
-12862,Shabwah -> Mayfa'a,Shabwah,14.67178974,46.95556076
-12863,Shabwah -> Merkhah As Sufla,Shabwah,14.67178974,46.95556076
-12864,Shabwah -> Nisab,Shabwah,14.67178974,46.95556076
-12865,Hajjah -> Qarah,Hajjah,16.27488061,43.11225315
-12866,Aden -> Khur Maksar,Aden,12.84865928,45.00201169
-12867,Shabwah -> Usaylan,Shabwah,14.67178974,46.95556076
-12868,Shabwah -> Rudum,Shabwah,14.67178974,46.95556076
-12869,Al Maharah -> Huswain,Al Maharah,16.59344354,51.59013758
-12870,Sa'ada -> Sa'adah,Sa'ada,17.25112185,43.50274965
-12871,Sana'a -> Jihanah,Sana'a,15.12394358,44.78727759
-12872,Ibb -> Ibb,Ibb,14.05521633,44.26319019
-12873,Al Hudaydah -> Al Munirah,Al Hudaydah,15.00062889,43.04031959
-12874,Sana'a -> Nihm,Sana'a,15.12394358,44.78727759
-12875,Al Dhale'e -> Al Hussein -> Adeenah,Al Dhale'e,13.85996808,44.67423913
-12876,Al Dhale'e -> Qa'atabah -> Admah,Al Dhale'e,13.85996808,44.67423913
-12877,Lahj -> Al Musaymir -> Al-Rameedhah,Lahj,12.96593663,44.41733354
-12878,Lahj -> Al Musaymir -> Bashryah,Lahj,12.96593663,44.41733354
-12879,Lahj -> Al Musaymir -> Al-Mekhraj,Lahj,12.96593663,44.41733354
-12880,Lahj -> Al Musaymir -> Al-Maseimeer,Lahj,12.96593663,44.41733354
-12881,Taizz -> Al Ma'afer -> Al-Malekah,Taizz,13.39753802,43.68772167
-12882,Lahj -> Al Musaymir -> Habeel Hansh,Lahj,12.96593663,44.41733354
-12883,Lahj -> Al Musaymir -> Mareeb,Lahj,12.96593663,44.41733354
-12884,Taizz -> Al Ma'afer -> Al-Naqee'e,Taizz,13.39753802,43.68772167
-12885,Hajjah -> Abs -> Bani Makei,Hajjah,16.27488061,43.11225315
-12886,Lahj -> Al Musaymir -> Makeideem,Lahj,12.96593663,44.41733354
-12887,Lahj -> Al Musaymir -> Noaman,Lahj,12.96593663,44.41733354
-12888,Lahj -> Al Musaymir -> Al-Dareijah,Lahj,12.96593663,44.41733354
-12889,Taizz -> Al Ma'afer -> Sheba,Taizz,13.39753802,43.68772167
-12890,Hajjah -> Abs -> Deer Al-Ocm,Hajjah,16.27488061,43.11225315
-12891,Taizz -> Al Ma'afer -> Nejd Al-Mashraqi,Taizz,13.39753802,43.68772167
-12892,Taizz -> Al Ma'afer -> Qaeetah Al-Jabal,Taizz,13.39753802,43.68772167
-12893,Lahj -> Al Musaymir -> Shathah,Lahj,12.96593663,44.41733354
-12894,Hajjah -> Abs -> Al-Jarabyah,Hajjah,16.27488061,43.11225315
-12895,Hajjah -> Abs ->  Al-Rabou Market,Hajjah,16.27488061,43.11225315
-12896,Taizz -> Al Ma'afer -> Qayttah Al-Wadi,Taizz,13.39753802,43.68772167
-12897,Taizz -> Al Ma'afer -> Zeid Mountain,Taizz,13.39753802,43.68772167
-12898,Hajjah -> Abs -> Majar,Hajjah,16.27488061,43.11225315
-12899,Sana'a -> Al Haymah Ad Dakhiliyah -> Jabal Sharar,Sana'a,15.12394358,44.78727759
-12900,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Oshah,Sana'a,15.12394358,44.78727759
-12901,Dhamar -> Al Manar,Dhamar,14.50737016,44.42760976
-12902,Amanat Al Asimah -> As Sabain -> Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
-12903,Taizz -> Dimnat Khadir -> Al-Ajraf,Taizz,13.39753802,43.68772167
-12904,Taizz -> Dimnat Khadir -> Aamaq,Taizz,13.39753802,43.68772167
-12905,Taizz -> Dimnat Khadir -> Al-Abhoul,Taizz,13.39753802,43.68772167
-12906,Al Hudaydah -> Al Mighlaf -> Al-Mehjam,Al Hudaydah,15.00062889,43.04031959
-12907,Al Hudaydah -> Al Mighlaf -> Gheyan,Al Hudaydah,15.00062889,43.04031959
-12908,Al Hudaydah -> Al Mighlaf -> Deer Daam,Al Hudaydah,15.00062889,43.04031959
-12909,Al Hudaydah -> Al Mighlaf -> Al-Menwab,Al Hudaydah,15.00062889,43.04031959
-12910,Al Hudaydah -> Al Mighlaf -> Deer Mahdi,Al Hudaydah,15.00062889,43.04031959
-12911,Taizz -> Dhubab,Taizz,13.39753802,43.68772167
-12912,Lahj -> Tur Al Bahah -> Al-Fareeq,Lahj,12.96593663,44.41733354
-12913,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
-12914,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
-12915,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
-12916,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
-12917,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
-12918,Abyan -> Mudiyah -> Qarn Al-Washal,Abyan,13.6955485,46.50340692
-12919,Abyan -> Mudiyah -> Lahmar,Abyan,13.6955485,46.50340692
-12920,Abyan -> Mudiyah -> Al-Aber,Abyan,13.6955485,46.50340692
-12921,Abyan -> Mudiyah -> Cawcab,Abyan,13.6955485,46.50340692
-12922,Abyan -> Mudiyah -> Al-Salam,Abyan,13.6955485,46.50340692
-12923,Abyan -> Mudiyah -> Aal Al-Rabashi,Abyan,13.6955485,46.50340692
-12924,Abyan -> Mudiyah -> Jawar,Abyan,13.6955485,46.50340692
-12925,Al Jawf -> Al Ghayl,Al Jawf,16.76813934,46.01014819
-12926,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
-12927,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
-12928,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
-12929,Taizz -> Al Ma'afer,Taizz,13.39753802,43.68772167
-12930,Al Hudaydah -> Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
-12931,Aden -> Al Mualla -> Aden,Aden,12.84865928,45.00201169
-12932,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
-12933,Amran -> Kharif -> Al-Dhabr,Amran,16.3570904,43.87269369
-12934,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
-12935,Amran -> Kharif -> Al-Mahm,Amran,16.3570904,43.87269369
-12936,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
-12937,Amran -> Kharif -> Shibrah,Amran,16.3570904,43.87269369
-12938,Amran -> Kharif -> New Al-Souq,Amran,16.3570904,43.87269369
-12939,Al Jawf -> Al Hazm,Al Jawf,16.76813934,46.01014819
-12940,Sa'ada -> Sa'adah -> Al Khameis,Sa'ada,17.25112185,43.50274965
-12941,Sa'ada -> Sahar -> Al-Sahn,Sa'ada,17.25112185,43.50274965
-12942,Aden -> Craiter -> Aden,Aden,12.84865928,45.00201169
-12943,Marib -> Raghwan,Marib,15.56841151,45.76081505
-12944,Sa'ada -> Saqayn -> Al-Qadeem,Sa'ada,17.25112185,43.50274965
-12945,Hajjah -> Bani Al Awam -> Bait Al-Jabri,Hajjah,16.27488061,43.11225315
-12946,Hajjah -> Bani Al Awam -> Namer Mountain,Hajjah,16.27488061,43.11225315
-12947,Hajjah -> Bani Al Awam -> Fus'hah,Hajjah,16.27488061,43.11225315
-12948,Hajjah -> Bani Al Awam -> Al-Barar,Hajjah,16.27488061,43.11225315
-12949,Hajjah -> Bani Al Awam -> Al-Mancab,Hajjah,16.27488061,43.11225315
-12950,Hajjah -> Bani Al Awam -> Al-Maqaweh,Hajjah,16.27488061,43.11225315
-12951,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
-12952,Hajjah -> Wadhrah -> Al-Shuaybah,Hajjah,16.27488061,43.11225315
-12953,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
-12954,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
-12955,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
-12956,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
-12957,Sana'a -> Al Haymah Ad Dakhiliyah -> Mahzar,Sana'a,15.12394358,44.78727759
-12958,Sana'a -> Sa'fan -> Sahef,Sana'a,15.12394358,44.78727759
-12959,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Tharah,Sana'a,15.12394358,44.78727759
-12960,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Gheithy,Sana'a,15.12394358,44.78727759
-12961,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Abeed,Sana'a,15.12394358,44.78727759
-12962,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Rajeh,Sana'a,15.12394358,44.78727759
-12963,Sana'a -> Al Haymah Ad Dakhiliyah -> Dar Al-Bark,Sana'a,15.12394358,44.78727759
-12964,Sana'a -> Sa'fan -> Dahw Al-Dar,Sana'a,15.12394358,44.78727759
-12965,Sana'a -> Al Haymah Ad Dakhiliyah -> Hajrah Al-Fadheli,Sana'a,15.12394358,44.78727759
-12966,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Seid,Sana'a,15.12394358,44.78727759
-12967,Al Bayda -> Al A'rsh -> Al-Khudhrah,Al Bayda,14.21742373,45.55495025
-12968,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Tayfi,Sana'a,15.12394358,44.78727759
-12969,Al Bayda -> Al A'rsh -> Qarn Ata'a,Al Bayda,14.21742373,45.55495025
-12970,Al Bayda -> Al A'rsh -> Qarn Al-Asad,Al Bayda,14.21742373,45.55495025
-12971,Taizz -> Salh -> Al-Masnah,Taizz,13.39753802,43.68772167
-12972,Al Hudaydah -> Al Garrahi -> Al-Hasani,Al Hudaydah,15.00062889,43.04031959
-12973,Al Hudaydah -> Al Garrahi -> Shab Al-Dali,Al Hudaydah,15.00062889,43.04031959
-12974,Al Hudaydah -> Al Mansuriyah -> Al-Calalyah,Al Hudaydah,15.00062889,43.04031959
-12975,Al Hudaydah -> Al Mansuriyah -> Al-Demnah,Al Hudaydah,15.00062889,43.04031959
-12976,Al Hudaydah -> Al Mansuriyah -> Al-Khedhar,Al Hudaydah,15.00062889,43.04031959
-12977,Al Hudaydah -> Al Mansuriyah -> Al-Mahal,Al Hudaydah,15.00062889,43.04031959
-12978,Al Hudaydah -> Al Garrahi -> Mahwa Al-Bahlol,Al Hudaydah,15.00062889,43.04031959
-12979,Al Hudaydah -> Al Mansuriyah -> Mahjour Al-Aala,Al Hudaydah,15.00062889,43.04031959
-12980,Al Hudaydah -> Al Mansuriyah -> Deer Cananh,Al Hudaydah,15.00062889,43.04031959
-12981,Al Hudaydah -> Al Garrahi -> Al-Jarahei Al-Aala,Al Hudaydah,15.00062889,43.04031959
-12982,Al Hudaydah -> Al Mansuriyah -> Al-Hajmah,Al Hudaydah,15.00062889,43.04031959
-12983,Al Hudaydah -> Al Mansuriyah -> Al-Habeel Al-Aala,Al Hudaydah,15.00062889,43.04031959
-12984,Al Hudaydah -> Al Mansuriyah -> Shatt Al-Maghawein,Al Hudaydah,15.00062889,43.04031959
-12985,Al Hudaydah -> Al Mansuriyah -> Al-Sawlah,Al Hudaydah,15.00062889,43.04031959
-12986,Al Hudaydah -> Al Mansuriyah -> Saneif Al-Manaserah,Al Hudaydah,15.00062889,43.04031959
-12987,Al Hudaydah -> Al Garrahi -> Al-Rawakeb,Al Hudaydah,15.00062889,43.04031959
-12988,Al Hudaydah -> Al Mansuriyah -> Al-Mansourah,Al Hudaydah,15.00062889,43.04031959
-12989,Al Hudaydah -> Az Zaydiyah -> Deer Ayash,Al Hudaydah,15.00062889,43.04031959
-12990,Al Hudaydah -> As Sukhnah -> Beuot Al-Boutah,Al Hudaydah,15.00062889,43.04031959
-12991,Al Hudaydah -> Az Zaydiyah -> Al-Baynyah,Al Hudaydah,15.00062889,43.04031959
-12992,Al Hudaydah -> Az Zaydiyah -> Al-Ajlanyah,Al Hudaydah,15.00062889,43.04031959
-12993,Al Hudaydah -> Az Zaydiyah -> Al-Hujrah,Al Hudaydah,15.00062889,43.04031959
-12994,Al Hudaydah -> As Sukhnah -> Mahal Al-Rowaid,Al Hudaydah,15.00062889,43.04031959
-12995,Al Hudaydah -> As Sukhnah -> Al-Batrah and Al-Meina,Al Hudaydah,15.00062889,43.04031959
-12996,Al Hudaydah -> As Sukhnah -> Deer Al-Mazbal,Al Hudaydah,15.00062889,43.04031959
-12997,Al Hudaydah -> As Sukhnah -> Deer Cadaf,Al Hudaydah,15.00062889,43.04031959
-12998,Amran -> Suwayr,Amran,16.3570904,43.87269369
-12999, Sana'a > Nihm,Sana'a,15.12394358,44.78727759
-13000, Sana'a > Bani Dhabyan,Sana'a,15.12394358,44.78727759
-13001, Taizz > Al Mudhaffar,Taizz,13.39753802,43.68772167
-13002, Al Bayda > Wald Rabi' > Homat Serar,Al Bayda,14.21742373,45.55495025
-13003, Al Bayda > Wald Rabi' > Al-Manaseh,Al Bayda,14.21742373,45.55495025
-13004, Al Dhale'e > Ash Shu'ayb,Al Dhale'e,13.85996808,44.67423913
-13005, Al Dhale'e > Juban,Al Dhale'e,13.85996808,44.67423913
-13006, Amran > Thula,Amran,16.3570904,43.87269369
-13007, Amran > Dhi Bin,Amran,16.3570904,43.87269369
-13008, Ibb > Ibb,Ibb,14.05521633,44.26319019
-13009, Ibb > As Sayyani,Ibb,14.05521633,44.26319019
-13010, Aden > Dar Sad,Aden,12.84865928,45.00201169
-13011, Al Hudaydah > Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
-13012, Al Hudaydah > Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
-13013, Aden > Al Mansura,Aden,12.84865928,45.00201169
-13014, Aden > Al Buraiqeh,Aden,12.84865928,45.00201169
-13015, Al Hudaydah > Al Hali,Al Hudaydah,15.00062889,43.04031959
-13016, Al Hudaydah > Al Garrahi,Al Hudaydah,15.00062889,43.04031959
-13017, Al Hudaydah > Al Hawak,Al Hudaydah,15.00062889,43.04031959
-13018, Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
-13019, Al Hudaydah > Al Munirah,Al Hudaydah,15.00062889,43.04031959
-13020, Sana'a > Sanhan,Sana'a,15.12394358,44.78727759
-13021, Al Hudaydah > Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
-13022, Al Hudaydah > Ad Dahi,Al Hudaydah,15.00062889,43.04031959
-13023, Sana'a > Jihanah,Sana'a,15.12394358,44.78727759
-13024, Al Hudaydah > Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
-13025, Sana'a > Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
-13026, Sana'a > Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
-13027, Amanat Al Asimah > Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
-13028, Sana'a > Arhab,Sana'a,15.12394358,44.78727759
-13029, Sana'a > Manakhah,Sana'a,15.12394358,44.78727759
-13030, Sana'a > Bani Hushaysh,Sana'a,15.12394358,44.78727759
-13031, Sana'a > Attyal,Sana'a,15.12394358,44.78727759
-13032, Sana'a > Al Husn,Sana'a,15.12394358,44.78727759
-13033, Sana'a > Bilad Ar Rus,Sana'a,15.12394358,44.78727759
-13034, Sana'a > Hamdan,Sana'a,15.12394358,44.78727759
-13035, Taizz > Sabir Al Mawadim,Taizz,13.39753802,43.68772167
-13036, Sana'a > Bani Matar,Sana'a,15.12394358,44.78727759
-13037, Amanat Al Asimah > At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
-13038, Sana'a > Khwlan,Sana'a,15.12394358,44.78727759
-13039, Taizz > Salh,Taizz,13.39753802,43.68772167
-13040, Sana'a > Sa'fan,Sana'a,15.12394358,44.78727759
-13041, Ibb > Al Qafr,Ibb,14.05521633,44.26319019
-13042, Amanat Al Asimah > Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
-13043, Amanat Al Asimah > As Sabain,Amanat Al Asimah,15.36598719,44.2020645
-13044, Amanat Al Asimah > Az'zal,Amanat Al Asimah,15.36598719,44.2020645
-13045, Amanat Al Asimah > Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
-13046, Amanat Al Asimah > Ma'ain > Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
-13047, Al Hudaydah > Alluheyah,Al Hudaydah,15.00062889,43.04031959
-13048, Amran > Amran,Amran,16.3570904,43.87269369
-13049, Hajjah > Hajjah City,Hajjah,16.27488061,43.11225315
-13050, Sa'ada > Monabbih,Sa'ada,17.25112185,43.50274965
-13051, Al Hudaydah > Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
-13052, Al Hudaydah > Zabid,Al Hudaydah,15.00062889,43.04031959
-13053, Ibb > Al Makhadir,Ibb,14.05521633,44.26319019
-13054, Ibb > Yarim,Ibb,14.05521633,44.26319019
-13055, Ibb > Ar Radmah,Ibb,14.05521633,44.26319019
-13056, Dhamar > Anss,Dhamar,14.50737016,44.42760976
-13057, Dhamar > Utmah,Dhamar,14.50737016,44.42760976
-13058, Amran > Kharif,Amran,16.3570904,43.87269369
-13059, Dhamar > Maghirib Ans,Dhamar,14.50737016,44.42760976
-13060, Dhamar > Dhamar City,Dhamar,14.50737016,44.42760976
-13061, Aden > Ash Shaikh Outhman,Aden,12.84865928,45.00201169
-13062, Amran > Jabal Iyal Yazid,Amran,16.3570904,43.87269369
-13063, Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
-13064, Amanat Al Asimah > Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
-13065, Amanat Al Asimah > Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
-13066, Hajjah > Abs,Hajjah,16.27488061,43.11225315
-13067, Abyan > Ahwar,Abyan,13.6955485,46.50340692
-13068, Hadramaut > Ad Dis,Hadramaut,16.80924424,48.84638589
-13069, Al Mahwit > Al Khabt,Al Mahwit,15.40140161,43.59523566
-13070, Amanat Al Asimah > Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
-13071, Al Bayda > Al A'rsh,Al Bayda,14.21742373,45.55495025
-13072, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
-13073, Sa'ada > Al Dhaher,Sa'ada,17.25112185,43.50274965
-13074, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
-13075, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
-13076, Taizz > Al  Mukha,Taizz,13.39753802,43.68772167
-13077, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
-13078, Dhamar > Al Hada,Dhamar,14.50737016,44.42760976
-13079, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
-13080, Amran > Al Ashah,Amran,16.3570904,43.87269369
-13081, Raymah > Al Jabin,Raymah,14.59985617,43.68772167
-13082, Shabwah > Ain,Shabwah,14.67178974,46.95556076
-13083, Socotra > Hidaybu,Socotra,12.493306,54.085473
-13084, Al Mahwit > Al Mahwait City,Al Mahwit,15.40140161,43.59523566
-13085, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
-13086, Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
-13087, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
-13088, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
-13089, Taizz > Mashra'a Wa Hadnan,Taizz,13.39753802,43.68772167
-13090, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
-13091, Taizz > Ash Shamayatayn,Taizz,13.39753802,43.68772167
-13092, Abyan > Khanfir,Abyan,13.6955485,46.50340692
-13093, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
-13094, Al Hudaydah > As Sukhnah,Al Hudaydah,15.00062889,43.04031959
-13095, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
-13096, Abyan > Lawdar,Abyan,13.6955485,46.50340692
-13097, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
-13098, Al Jawf > Al Hazm,Al Jawf,16.76813934,46.01014819
-13099, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
-13100, Marib > Marib City,Marib,15.56841151,45.76081505
-13101, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
-13102, Ibb > As Saddah,Ibb,14.05521633,44.26319019
-13103, Al Hudaydah > Al Mina,Al Hudaydah,15.00062889,43.04031959
-13104, Ibb > Dhi As Sufal,Ibb,14.05521633,44.26319019
-13105, Taizz > Maqbanah,Taizz,13.39753802,43.68772167
-13106, Hajjah > Ku'aydinah,Hajjah,16.27488061,43.11225315
-13107, Taizz > Mawiyah,Taizz,13.39753802,43.68772167
-13108, Taizz > Al Mawasit,Taizz,13.39753802,43.68772167
-13109, Hajjah > Mabyan,Hajjah,16.27488061,43.11225315
-13110, Ibb > Al Mashannah,Ibb,14.05521633,44.26319019
-13111, Shabwah > Bayhan,Shabwah,14.67178974,46.95556076
-13112, Sa'ada > Sa'adah,Sa'ada,17.25112185,43.50274965
-13113, Abyan > Al Wade'a,Abyan,13.6955485,46.50340692
-13114, Sa'ada > Razih,Sa'ada,17.25112185,43.50274965
-13115, Al Hudaydah > Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
-13116, Amran > Harf Sufyan,Amran,16.3570904,43.87269369
-13117, Al Dhale'e > Damt,Al Dhale'e,13.85996808,44.67423913
-13118, Hajjah > Kushar,Hajjah,16.27488061,43.11225315
-13119, Hajjah > Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
-13120, Abyan > Zingibar,Abyan,13.6955485,46.50340692
-13121, Taizz > Al Ma'afer,Taizz,13.39753802,43.68772167
-13122, Taizz > Dimnat Khadir,Taizz,13.39753802,43.68772167
-13123, Ibb > Al Udayn,Ibb,14.05521633,44.26319019
-13124, Al Hudaydah > At Tuhayat,Al Hudaydah,15.00062889,43.04031959
-13125, Amran > Al Qaflah,Amran,16.3570904,43.87269369
-13126, Hajjah > Aslem,Hajjah,16.27488061,43.11225315
-13127, Al Dhale'e > Qa'atabah,Al Dhale'e,13.85996808,44.67423913
-13128, Lahj > Tuban,Lahj,12.96593663,44.41733354
-13129, Hajjah > Mustaba > Al-Sabyah,Hajjah,16.27488061,43.11225315
-13130, Hajjah > Khayran Al Muharraq > Al-Sharqi,Hajjah,16.27488061,43.11225315
-13131, Amran > Huth,Amran,16.3570904,43.87269369
-13132, Hajjah > Bakil Al Mir,Hajjah,16.27488061,43.11225315
-13133, Hajjah > Mustaba,Hajjah,16.27488061,43.11225315
-13134, Lahj > Al Musaymir,Lahj,12.96593663,44.41733354
-13135, Abyan > Sarar,Abyan,13.6955485,46.50340692
-13136, Hajjah > Midi > Al-Teenah,Hajjah,16.27488061,43.11225315
-13137, Hajjah > Midi > Al-Harajah,Hajjah,16.27488061,43.11225315
-13138, Hajjah > Aslem > Al-Mashratah,Hajjah,16.27488061,43.11225315
-13139, Hajjah > Hayran > Al-Sadah,Hajjah,16.27488061,43.11225315
-13140, Hajjah > Aslem > Al-Qudhah,Hajjah,16.27488061,43.11225315
-13141, Dhamar > Jahran,Dhamar,14.50737016,44.42760976
-13142, Marib > Harib Al Qaramish,Marib,15.56841151,45.76081505
-13143, Ibb > Jiblah,Ibb,14.05521633,44.26319019
-13144, Marib > Marib,Marib,15.56841151,45.76081505
-13145, Sa'ada > Haydan,Sa'ada,17.25112185,43.50274965
-13146, Sa'ada > As Safra,Sa'ada,17.25112185,43.50274965
-13147, Taizz > Mawza,Taizz,13.39753802,43.68772167
-13148, Sa'ada > Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
-13149, Al Bayda > Maswarah,Al Bayda,14.21742373,45.55495025
-13150, Hadramaut > Al Abr,Hadramaut,16.80924424,48.84638589
-13151, Amran > Maswar,Amran,16.3570904,43.87269369
-13152, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
-13153, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
-13154, Amran > Suwayr,Amran,16.3570904,43.87269369
-13155, Sa'ada > Baqim,Sa'ada,17.25112185,43.50274965
-13156, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
-13157, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
-13158, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
-13159, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
-13160, Taizz > Dhubab,Taizz,13.39753802,43.68772167
-13161, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
-13162, Al Jawf > Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
-13163, Al Jawf > Al Maton,Al Jawf,16.76813934,46.01014819
-13164, Marib > Harib,Marib,15.56841151,45.76081505
-13165, Sa'ada > Majz,Sa'ada,17.25112185,43.50274965
-13166, Taizz > As Silw,Taizz,13.39753802,43.68772167
-13167, Marib > Sirwah,Marib,15.56841151,45.76081505
-13168, Hajjah > Hajjah,Hajjah,16.27488061,43.11225315
-13169, Ibb > Far Al Udayn,Ibb,14.05521633,44.26319019
-13170, Lahj > Al Qabbaytah,Lahj,12.96593663,44.41733354
-13171, Al Hudaydah > Az Zaydiyah > Al-Rahmah,Al Hudaydah,15.00062889,43.04031959
-13172, Al Hudaydah > Az Zaydiyah > Deer Jalalah,Al Hudaydah,15.00062889,43.04031959
-13173, Al Hudaydah > Al Munirah > Al-Qasheeri (Al-Qashri),Al Hudaydah,15.00062889,43.04031959
-13174, Al Hudaydah > Az Zaydiyah > Bait Ata,Al Hudaydah,15.00062889,43.04031959
-13175, Al Hudaydah > Az Zaydiyah > Al-Mahdaly,Al Hudaydah,15.00062889,43.04031959
-13176, Al Hudaydah > Al Munirah > Al-Jarb,Al Hudaydah,15.00062889,43.04031959
-13177, Al Hudaydah > Az Zaydiyah > Mahal Hasan Abdallah,Al Hudaydah,15.00062889,43.04031959
-13178, Al Hudaydah > Al Munirah > Ebn Abas,Al Hudaydah,15.00062889,43.04031959
-13179, Al Hudaydah > Az Zaydiyah > Deer Abdo Rabo,Al Hudaydah,15.00062889,43.04031959
-13180, Al Hudaydah > Al Munirah > Al-Harounyah,Al Hudaydah,15.00062889,43.04031959
-13181, Al Bayda > As Sawma'ah > Al-Rahah,Al Bayda,14.21742373,45.55495025
-13182, Al Bayda > As Sawma'ah > Om Salmah,Al Bayda,14.21742373,45.55495025
-13183, Al Bayda > As Sawma'ah > Al-Majmah,Al Bayda,14.21742373,45.55495025
-13184, Al Bayda > As Sawma'ah > Al-Seilah,Al Bayda,14.21742373,45.55495025
-13185, Al Bayda > Wald Rabi' > Al-Jashm,Al Bayda,14.21742373,45.55495025
-13186, Hajjah > Abs > Al-Melakhah,Hajjah,16.27488061,43.11225315
-13187, Hajjah > Abs > Al-Khademah,Hajjah,16.27488061,43.11225315
-13188, Hajjah > Abs > Al-Medhbar,Hajjah,16.27488061,43.11225315
-13189, Hajjah > Abs > Al-Makhzan,Hajjah,16.27488061,43.11225315
-13190, Hajjah > Abs > Al-Badah,Hajjah,16.27488061,43.11225315
-13191, Hajjah > Abs > Al-Merwagh,Hajjah,16.27488061,43.11225315
-13192, Hajjah > Abs > Bani Cazabah,Hajjah,16.27488061,43.11225315
-13193, Hajjah > Abs > Shab Yaqout,Hajjah,16.27488061,43.11225315
-13194, Hajjah > Abs > Abs,Hajjah,16.27488061,43.11225315
-13195, Taizz > Sama,Taizz,13.39753802,43.68772167
-13196, Sa'ada > Sahar,Sa'ada,17.25112185,43.50274965
-13197, Hajjah > Aflah Al Yaman,Hajjah,16.27488061,43.11225315
-13198, Ibb,Ibb,14.05521633,44.26319019
-13199, Hajjah,Hajjah,16.27488061,43.11225315
-13200, Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
-13201, Sa'ada,Sa'ada,17.25112185,43.50274965
-13202, Sana'a,Sana'a,15.12394358,44.78727759
-13203, Aden,Aden,12.84865928,45.00201169
-13204, Lahj > Al Milah,Lahj,12.96593663,44.41733354
-13205, Hajjah > Najrah,Hajjah,16.27488061,43.11225315
-13206, Lahj > Al Maqatirah,Lahj,12.96593663,44.41733354
-13207, Lahj > Radfan,Lahj,12.96593663,44.41733354
-13208, Dhamar > Jabal Ash sharq,Dhamar,14.50737016,44.42760976
-13209, Hadramaut > Brom Mayfa,Hadramaut,16.80924424,48.84638589
-13210, Lahj > Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
-13211, Lahj > Tur Al Bahah,Lahj,12.96593663,44.41733354
-13212, Taizz > Hayfan,Taizz,13.39753802,43.68772167
-13213, Abyan > Rasad,Abyan,13.6955485,46.50340692
-13214, Dhamar > Dawran Aness,Dhamar,14.50737016,44.42760976
-13215, Marib > Rahabah,Marib,15.56841151,45.76081505
-13216, Al Dhale'e > Jahaf,Al Dhale'e,13.85996808,44.67423913
-13217, Al Hudaydah > Hays,Al Hudaydah,15.00062889,43.04031959
-13218, Amran > Raydah,Amran,16.3570904,43.87269369
-13219, Raymah > As Salafiyah,Raymah,14.59985617,43.68772167
-13220, Al Mahwit > Al Mahwait,Al Mahwit,15.40140161,43.59523566
-13221, Hadramaut > Al Mukalla,Hadramaut,16.80924424,48.84638589
-13222, Al Bayda > Al Bayda,Al Bayda,14.21742373,45.55495025
-13223, Shabwah > Rudum,Shabwah,14.67178974,46.95556076
-13224, Sa'ada > Al Hashwah,Sa'ada,17.25112185,43.50274965
-13225, Al Dhale'e > Al Hussein,Al Dhale'e,13.85996808,44.67423913
-13226, Amran > Al Madan,Amran,16.3570904,43.87269369
-13227, Al Hudaydah > Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
-13228, Sa'ada > Saqayn,Sa'ada,17.25112185,43.50274965
-13229, Ibb > Mudhaykhirah,Ibb,14.05521633,44.26319019
-13230, Al Bayda > Sabah,Al Bayda,14.21742373,45.55495025
-13231, Al Hudaydah > Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
-13232, Dhamar > Mayfa'at Anss,Dhamar,14.50737016,44.42760976
-13233, Al Dhale'e > Al Husha,Al Dhale'e,13.85996808,44.67423913
-13234, Al Bayda > Al Bayda City,Al Bayda,14.21742373,45.55495025
-13235, Hadramaut > Al Mukalla City,Hadramaut,16.80924424,48.84638589
-13236, Aden > Khur Maksar,Aden,12.84865928,45.00201169
-13237, Hadramaut > Sayun,Hadramaut,16.80924424,48.84638589
-13238, Al Bayda > Rada',Al Bayda,14.21742373,45.55495025
-13239, Socotra > Qulensya Wa Abd Al Kuri,Socotra,12.493306,54.085473
-13240, Hadramaut > Al Qatn,Hadramaut,16.80924424,48.84638589
-13241, Socotra,Socotra,12.493306,54.085473
-13242, Raymah,Raymah,14.59985617,43.68772167
-13243, Amran,Amran,16.3570904,43.87269369
-13244, Al Bayda,Al Bayda,14.21742373,45.55495025
-13245, Al Maharah,Al Maharah,16.59344354,51.59013758
-13246, Al Jawf,Al Jawf,16.76813934,46.01014819
-13247, Dhamar,Dhamar,14.50737016,44.42760976
-13248, Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
-13249, Shabwah,Shabwah,14.67178974,46.95556076
-13250, Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
-13251, Lahj,Lahj,12.96593663,44.41733354
-13252, Hadramaut,Hadramaut,16.80924424,48.84638589
-13253, Al Mahwit,Al Mahwit,15.40140161,43.59523566
-13254, Abyan,Abyan,13.6955485,46.50340692
-13255, Marib,Marib,15.56841151,45.76081505
-13256, Taizz,Taizz,13.39753802,43.68772167
-13257, Hajjah > Qarah,Hajjah,16.27488061,43.11225315
-13258, Hajjah > Washhah,Hajjah,16.27488061,43.11225315
-13259, Al Mahwit > Bani Sa'd,Al Mahwit,15.40140161,43.59523566
-13260, Dhamar > Wusab Al Ali,Dhamar,14.50737016,44.42760976
-13261, Hadramaut > Tarim,Hadramaut,16.80924424,48.84638589
-13262, Ibb > Al Mashannah > Al-Lahj,Ibb,14.05521633,44.26319019
-13263, Ibb > Al Dhihar > Al-Dhabr,Ibb,14.05521633,44.26319019
-13264, Lahj > Al Madaribah Wa Al Arah > Al-Saqya,Lahj,12.96593663,44.41733354
-13265, Lahj > Al Madaribah Wa Al Arah > Al-Aarah,Lahj,12.96593663,44.41733354
-13266, Amran > As Sudah,Amran,16.3570904,43.87269369
-13267, Al Bayda > Al Quraishyah,Al Bayda,14.21742373,45.55495025
-13268, Al Bayda > At Taffah,Al Bayda,14.21742373,45.55495025
-13269, Al Bayda > As Sawadiyah,Al Bayda,14.21742373,45.55495025
-13270, Sa'ada > Shada'a,Sa'ada,17.25112185,43.50274965
-13271, Al Jawf > Al Maslub,Al Jawf,16.76813934,46.01014819
-13272, Al Bayda > Radman Al Awad,Al Bayda,14.21742373,45.55495025
-13273, Abyan > Mudiyah,Abyan,13.6955485,46.50340692
-13274, Ibb > Ba'dan,Ibb,14.05521633,44.26319019
-13275, Hajjah > Al Maghrabah,Hajjah,16.27488061,43.11225315
-13276, Al Bayda > Mukayras,Al Bayda,14.21742373,45.55495025
-13277, Aden > Attawahi,Aden,12.84865928,45.00201169
-13278, Marib > Al Jubah,Marib,15.56841151,45.76081505
-13279, Al Bayda > Nati',Al Bayda,14.21742373,45.55495025
-13280, Abyan > Al Mahfad,Abyan,13.6955485,46.50340692
-13281, Aden > Craiter,Aden,12.84865928,45.00201169
-13282, Aden > Al Mualla,Aden,12.84865928,45.00201169
-13283, Marib > Jabal Murad,Marib,15.56841151,45.76081505
-13284, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
-13285, Marib > Raghwan,Marib,15.56841151,45.76081505
-13286, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
-13287, Lahj > Halimayn,Lahj,12.96593663,44.41733354
-13288, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
-13289, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
-13290, Lahj > Yahr,Lahj,12.96593663,44.41733354
-13291, Lahj > Al Had,Lahj,12.96593663,44.41733354
-13292, Lahj > Al Maflahy,Lahj,12.96593663,44.41733354
-13293, Al Bayda > Al Malagim,Al Bayda,14.21742373,45.55495025
-13294, Hajjah > Ash Shahil,Hajjah,16.27488061,43.11225315
-13295, Al Bayda > Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
-13296, Al Bayda > Ash Sharyah,Al Bayda,14.21742373,45.55495025
-13297, Hajjah > Kuhlan Affar,Hajjah,16.27488061,43.11225315
-13298, Hajjah > Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
-13299, Hajjah > Al Miftah,Hajjah,16.27488061,43.11225315
-13300, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
-13301, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
-13302, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
-13303, Marib > Majzar,Marib,15.56841151,45.76081505
-13304, Marib > Medghal,Marib,15.56841151,45.76081505
-13305, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
-13306, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
-13307, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
-13308, Raymah > Kusmah,Raymah,14.59985617,43.68772167
-13309, Ibb > Al Dhihar > Al-Aden Al-Aala,Ibb,14.05521633,44.26319019
-13310, Ibb > Al Mashannah > Akhbab,Ibb,14.05521633,44.26319019
-13311, Sa'ada > Sahar > Hafsein,Sa'ada,17.25112185,43.50274965
-13312, Sa'ada > Sahar > Beer Al-Wadi,Sa'ada,17.25112185,43.50274965
-13313, Sa'ada > Sahar > Qamal,Sa'ada,17.25112185,43.50274965
-13314, Sa'ada > As Safra > Damaj,Sa'ada,17.25112185,43.50274965
-13315, Dhamar > Jahran > Mabr,Dhamar,14.50737016,44.42760976
-13316, Amran > Khamir,Amran,16.3570904,43.87269369
-13317, Amran > Shaharah,Amran,16.3570904,43.87269369
-13318, Ibb > Hazm Al Udayn,Ibb,14.05521633,44.26319019
-13319, Abyan > Al Wade'a > Al-Wadhee'e,Abyan,13.6955485,46.50340692
-13320, Amran > As Sawd,Amran,16.3570904,43.87269369
-13321, Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
-13322, Al Mahwit > At Tawilah,Al Mahwit,15.40140161,43.59523566
-13323, Al Mahwit > Hufash,Al Mahwit,15.40140161,43.59523566
-13324, Abyan > Khanfir > Shaqrah,Abyan,13.6955485,46.50340692
-13325, Hadramaut > Thamud,Hadramaut,16.80924424,48.84638589
-13326, Amran > Habur Zulaymah,Amran,16.3570904,43.87269369
-13327, Amanat Al Asimah > Old City,Amanat Al Asimah,15.36598719,44.2020645
-13328, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
-13329, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
-13330, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
-13331, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
-13332, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-13333, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
-13334, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
-13335, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-13336, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-13337, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-13338, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13339, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13340, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13341, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13342, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-13343, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13344, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-13345, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-13346, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13347, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13348, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13349, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+12407, Yemen > Aden > Khur Maksar > Aden,Aden,12.84865928,45.00201169
+12408, Yemen > Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
+12409, Yemen > Ibb > Yarim,Ibb,14.05521633,44.26319019
+12410, Yemen > Hajjah > Haradh,Hajjah,16.27488061,43.11225315
+12411, Yemen > Hajjah > Midi,Hajjah,16.27488061,43.11225315
+12412,Ibb -> Ar Radmah -> Al-Ratmah,Ibb,14.05521633,44.26319019
+12413,Ibb -> Ar Radmah -> Thee Ashra,Ibb,14.05521633,44.26319019
+12414,Sana'a -> Sa'fan,Sana'a,15.12394358,44.78727759
+12415,Sana'a -> Manakhah,Sana'a,15.12394358,44.78727759
+12416,Ibb -> Far Al Udayn,Ibb,14.05521633,44.26319019
+12417,Taizz -> As Silw,Taizz,13.39753802,43.68772167
+12418,Taizz -> Jabal Habashy,Taizz,13.39753802,43.68772167
+12419,Sana'a -> Hamdan,Sana'a,15.12394358,44.78727759
+12420,Abyan -> Ahwar,Abyan,13.6955485,46.50340692
+12421,Al Hudaydah -> As Sukhnah,Al Hudaydah,15.00062889,43.04031959
+12422,Al Hudaydah -> Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
+12423,Abyan -> Khanfir,Abyan,13.6955485,46.50340692
+12424,Dhamar -> Wusab As Safil,Dhamar,14.50737016,44.42760976
+12425,Hajjah -> Aslem,Hajjah,16.27488061,43.11225315
+12426,Hajjah -> Abs,Hajjah,16.27488061,43.11225315
+12427,Hajjah -> Qafl Shamer,Hajjah,16.27488061,43.11225315
+12428,Taizz -> Al Misrakh,Taizz,13.39753802,43.68772167
+12429,Taizz -> Al Misrakh -> Al-Sarfah,Taizz,13.39753802,43.68772167
+12430,Hajjah -> Qafl Shamer -> Bait Al-Zeeh,Hajjah,16.27488061,43.11225315
+12431,Sa'ada -> Saqayn,Sa'ada,17.25112185,43.50274965
+12432,Amran -> Khamir,Amran,16.3570904,43.87269369
+12433,Amran -> Al Qaflah,Amran,16.3570904,43.87269369
+12434,Amran -> Bani Suraim,Amran,16.3570904,43.87269369
+12435,Amran -> Huth,Amran,16.3570904,43.87269369
+12436,Lahj -> Al Maqatirah,Lahj,12.96593663,44.41733354
+12437,Lahj -> Al Musaymir,Lahj,12.96593663,44.41733354
+12438,Sa'ada -> Haydan,Sa'ada,17.25112185,43.50274965
+12439,Abyan -> Zingibar,Abyan,13.6955485,46.50340692
+12440,Hajjah -> Bani Qa'is,Hajjah,16.27488061,43.11225315
+12441,Al Hudaydah -> Al Qanawis -> Deer Dahmash,Al Hudaydah,15.00062889,43.04031959
+12442,Al Hudaydah -> As Sukhnah -> Al-Aqaryah,Al Hudaydah,15.00062889,43.04031959
+12443,Al Hudaydah -> As Sukhnah -> Al-Madafen,Al Hudaydah,15.00062889,43.04031959
+12444,Al Hudaydah -> As Sukhnah -> Al-Damegh,Al Hudaydah,15.00062889,43.04031959
+12445,Sana'a -> Bani Matar,Sana'a,15.12394358,44.78727759
+12446,Al Jawf -> Al Maton,Al Jawf,16.76813934,46.01014819
+12447,Amran -> Kharif,Amran,16.3570904,43.87269369
+12448,Ibb -> As Sayyani,Ibb,14.05521633,44.26319019
+12449,Sana'a,Sana'a,15.12394358,44.78727759
+12450,Al Jawf -> Bart Al Anan,Al Jawf,16.76813934,46.01014819
+12451,Hajjah -> Hajjah City,Hajjah,16.27488061,43.11225315
+12452,Sa'ada -> Monabbih,Sa'ada,17.25112185,43.50274965
+12453,Al Dhale'e -> Jahaf,Al Dhale'e,13.85996808,44.67423913
+12454,Al Dhale'e -> Al Azariq,Al Dhale'e,13.85996808,44.67423913
+12455,Al Hudaydah -> Bajil,Al Hudaydah,15.00062889,43.04031959
+12456,Ibb -> Al Udayn,Ibb,14.05521633,44.26319019
+12457,Sa'ada -> Razih,Sa'ada,17.25112185,43.50274965
+12458,Ibb -> Hazm Al Udayn,Ibb,14.05521633,44.26319019
+12459,Ibb -> Mudhaykhirah,Ibb,14.05521633,44.26319019
+12460,Sana'a -> Manakhah -> Manakhah,Sana'a,15.12394358,44.78727759
+12461,Hajjah,Hajjah,16.27488061,43.11225315
+12462,Abyan -> Rasad,Abyan,13.6955485,46.50340692
+12463,Al Hudaydah -> Az Zuhrah -> Deer Al-Sayed,Al Hudaydah,15.00062889,43.04031959
+12464,Hajjah -> Abs -> Abs,Hajjah,16.27488061,43.11225315
+12465,Hajjah -> Abs -> Bani Ahmed,Hajjah,16.27488061,43.11225315
+12466,Al Hudaydah -> Az Zuhrah -> Cadf Bani Odhaby,Al Hudaydah,15.00062889,43.04031959
+12467,Hajjah -> Abs -> Dabn,Hajjah,16.27488061,43.11225315
+12468,Hajjah -> Hayran -> Bani Fadhel,Hajjah,16.27488061,43.11225315
+12469,Hajjah -> Hayran -> Al-Masharefah,Hajjah,16.27488061,43.11225315
+12470,Al Hudaydah -> Az Zuhrah -> Noaman,Al Hudaydah,15.00062889,43.04031959
+12471,Al Hudaydah -> Az Zuhrah -> Deer Mansour,Al Hudaydah,15.00062889,43.04031959
+12472,Dhamar -> Jabal Ash sharq,Dhamar,14.50737016,44.42760976
+12473,Hadramaut -> Al Mukalla -> Al-Masna,Hadramaut,16.80924424,48.84638589
+12474,Hadramaut -> Ghayl Ba Wazir -> Gheil Al-Halekah,Hadramaut,16.80924424,48.84638589
+12475,Hadramaut -> Al Mukalla -> Hamam,Hadramaut,16.80924424,48.84638589
+12476,Hadramaut -> Ghayl Ba Wazir -> Al-Carah,Hadramaut,16.80924424,48.84638589
+12477,Hadramaut -> Al Mukalla -> Bein Al-Jebal,Hadramaut,16.80924424,48.84638589
+12478,Hadramaut -> Ghayl Ba Wazir -> Ras Al-Aqeim,Hadramaut,16.80924424,48.84638589
+12479,Hadramaut -> Ghayl Ba Wazir -> Ghail Ba Wazir,Hadramaut,16.80924424,48.84638589
+12480,Hadramaut -> Ghayl Ba Wazir -> Al-Eiuon,Hadramaut,16.80924424,48.84638589
+12481,Hadramaut -> Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+12482,Hadramaut -> Al Mukalla,Hadramaut,16.80924424,48.84638589
+12483,Shabwah -> Ataq,Shabwah,14.67178974,46.95556076
+12484,Shabwah -> Habban,Shabwah,14.67178974,46.95556076
+12485,Abyan -> Sarar,Abyan,13.6955485,46.50340692
+12486,Aden -> Dar Sad,Aden,12.84865928,45.00201169
+12487,Al Hudaydah -> Al Qanawis -> Al-Hameis,Al Hudaydah,15.00062889,43.04031959
+12488,Lahj -> Al Qabbaytah -> Al-Dhabrah,Lahj,12.96593663,44.41733354
+12489,Sana'a -> Hamdan -> Dharwan,Sana'a,15.12394358,44.78727759
+12490,Marib -> Harib Al Qaramish,Marib,15.56841151,45.76081505
+12491,Marib -> Marib,Marib,15.56841151,45.76081505
+12492,Marib -> Marib City,Marib,15.56841151,45.76081505
+12493,Al Jawf -> Rajuzah,Al Jawf,16.76813934,46.01014819
+12494,Al Hudaydah -> Al Hajjaylah -> Al-Hujailah,Al Hudaydah,15.00062889,43.04031959
+12495,Hajjah -> Aflah Al Yaman -> Al-Mezab,Hajjah,16.27488061,43.11225315
+12496,Hajjah -> Hajjah,Hajjah,16.27488061,43.11225315
+12497,Hajjah -> Ash Shaghadirah -> Al-Hawyah,Hajjah,16.27488061,43.11225315
+12498,Lahj -> Al Maqatirah -> Al-Cabeebah,Lahj,12.96593663,44.41733354
+12499,Lahj -> Al Maqatirah -> Al-Maseejd,Lahj,12.96593663,44.41733354
+12500,Lahj -> Al Maqatirah -> Al-Haneeshah,Lahj,12.96593663,44.41733354
+12501,Lahj -> Al Maqatirah -> Al-Mahraqah,Lahj,12.96593663,44.41733354
+12502,Lahj -> Al Maqatirah -> Araf,Lahj,12.96593663,44.41733354
+12503,Lahj -> Al Maqatirah -> Al-Mahelah,Lahj,12.96593663,44.41733354
+12504,Lahj -> Al Maqatirah -> Al-Barh,Lahj,12.96593663,44.41733354
+12505,Sana'a -> Sa'fan -> Al-Zabyah,Sana'a,15.12394358,44.78727759
+12506,Al Hudaydah -> Bura -> Bani Al-Abadi,Al Hudaydah,15.00062889,43.04031959
+12507,Al Hudaydah -> Bura -> Al-Qad,Al Hudaydah,15.00062889,43.04031959
+12508,Al Hudaydah -> Bura -> Al-Caheb,Al Hudaydah,15.00062889,43.04031959
+12509,Al Hudaydah -> Bura -> Al-Nashah,Al Hudaydah,15.00062889,43.04031959
+12510,Al Hudaydah -> As Sukhnah -> Coheil,Al Hudaydah,15.00062889,43.04031959
+12511,Al Hudaydah -> Bura -> Al-Buaymi,Al Hudaydah,15.00062889,43.04031959
+12512,Al Hudaydah -> Bura -> Al-Merkham,Al Hudaydah,15.00062889,43.04031959
+12513,Al Hudaydah -> Bura -> Odhr,Al Hudaydah,15.00062889,43.04031959
+12514,Al Hudaydah -> Bura -> Beineen,Al Hudaydah,15.00062889,43.04031959
+12515,Al Hudaydah -> Bura -> Al-Dhareef,Al Hudaydah,15.00062889,43.04031959
+12516,Al Hudaydah -> Bura -> Eiuon,Al Hudaydah,15.00062889,43.04031959
+12517,Al Hudaydah -> Bura -> Acamat Al-Sharf,Al Hudaydah,15.00062889,43.04031959
+12518,Al Hudaydah -> Bura -> Mahwal,Al Hudaydah,15.00062889,43.04031959
+12519,Al Hudaydah -> Bura -> Jailan,Al Hudaydah,15.00062889,43.04031959
+12520,Al Hudaydah -> Bura -> Abr Sad,Al Hudaydah,15.00062889,43.04031959
+12521,Al Hudaydah -> Bura -> Haz Al-Shamah,Al Hudaydah,15.00062889,43.04031959
+12522,Al Hudaydah -> Bura -> Al-Jahatemah,Al Hudaydah,15.00062889,43.04031959
+12523,Al Hudaydah -> Bura -> Al-Cubah,Al Hudaydah,15.00062889,43.04031959
+12524,Al Hudaydah -> Bura -> Al-Thari,Al Hudaydah,15.00062889,43.04031959
+12525,Al Hudaydah -> Bura -> Reqab,Al Hudaydah,15.00062889,43.04031959
+12526,Al Hudaydah -> Bura -> Rajn,Al Hudaydah,15.00062889,43.04031959
+12527,Hadramaut -> Al Abr,Hadramaut,16.80924424,48.84638589
+12528,Lahj -> Al Milah,Lahj,12.96593663,44.41733354
+12529,Al Hudaydah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+12530,Hadramaut -> Yabuth,Hadramaut,16.80924424,48.84638589
+12531,Hadramaut -> Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+12532,Ibb,Ibb,14.05521633,44.26319019
+12533,Taizz,Taizz,13.39753802,43.68772167
+12534,Abyan -> Al Wade'a,Abyan,13.6955485,46.50340692
+12535,Abyan -> Mudiyah,Abyan,13.6955485,46.50340692
+12536,Abyan -> Lawdar,Abyan,13.6955485,46.50340692
+12537,Aden -> Al Buraiqeh,Aden,12.84865928,45.00201169
+12538,Hajjah -> Al Jamimah,Hajjah,16.27488061,43.11225315
+12539,Hajjah -> Bakil Al Mir,Hajjah,16.27488061,43.11225315
+12540,Hajjah -> Washhah,Hajjah,16.27488061,43.11225315
+12541,Hajjah -> Ash Shaghadirah,Hajjah,16.27488061,43.11225315
+12542,Hajjah -> Kushar,Hajjah,16.27488061,43.11225315
+12543,Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
+12544,Amran -> Al Ashah,Amran,16.3570904,43.87269369
+12545,Amran -> Al Madan,Amran,16.3570904,43.87269369
+12546,Amran -> Harf Sufyan,Amran,16.3570904,43.87269369
+12547,Amran -> As Sawd,Amran,16.3570904,43.87269369
+12548,Al Bayda -> Mukayras,Al Bayda,14.21742373,45.55495025
+12549,Al Bayda -> Rada',Al Bayda,14.21742373,45.55495025
+12550,Al Bayda -> Radman Al Awad,Al Bayda,14.21742373,45.55495025
+12551,Al Bayda -> Al Bayda City,Al Bayda,14.21742373,45.55495025
+12552,Al Bayda -> Al Bayda,Al Bayda,14.21742373,45.55495025
+12553,Al Bayda -> Al Malagim,Al Bayda,14.21742373,45.55495025
+12554,Al Bayda,Al Bayda,14.21742373,45.55495025
+12555,Al Bayda -> Ash Sharyah,Al Bayda,14.21742373,45.55495025
+12556,Taizz -> At Ta'iziyah,Taizz,13.39753802,43.68772167
+12557,Taizz -> Al Wazi'iyah,Taizz,13.39753802,43.68772167
+12558,Taizz -> Al  Mukha,Taizz,13.39753802,43.68772167
+12559,Taizz -> Shara'b Ar Rawnah,Taizz,13.39753802,43.68772167
+12560,Taizz -> Maqbanah,Taizz,13.39753802,43.68772167
+12561,Dhamar -> Dhamar City,Dhamar,14.50737016,44.42760976
+12562,Dhamar -> Utmah,Dhamar,14.50737016,44.42760976
+12563,Dhamar -> Jahran,Dhamar,14.50737016,44.42760976
+12564,Dhamar -> Anss,Dhamar,14.50737016,44.42760976
+12565,Dhamar -> Wusab Al Ali,Dhamar,14.50737016,44.42760976
+12566,Al Mahwit,Al Mahwit,15.40140161,43.59523566
+12567,Amanat Al Asimah -> As Sabain,Amanat Al Asimah,15.36598719,44.2020645
+12568,Amanat Al Asimah -> Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
+12569,Amanat Al Asimah -> Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
+12570,Amanat Al Asimah -> Az'zal,Amanat Al Asimah,15.36598719,44.2020645
+12571,Amanat Al Asimah -> Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
+12572,Raymah,Raymah,14.59985617,43.68772167
+12573,Amran,Amran,16.3570904,43.87269369
+12574,Raymah -> Kusmah,Raymah,14.59985617,43.68772167
+12575,Raymah -> As Salafiyah,Raymah,14.59985617,43.68772167
+12576,Raymah -> Al Jafariyah,Raymah,14.59985617,43.68772167
+12577,Raymah -> Mazhar,Raymah,14.59985617,43.68772167
+12578,Raymah -> Al Jabin,Raymah,14.59985617,43.68772167
+12579,Raymah -> Bilad At Ta'am,Raymah,14.59985617,43.68772167
+12580,Dhamar -> Al Hada,Dhamar,14.50737016,44.42760976
+12581,Dhamar -> Jahran -> Mabr,Dhamar,14.50737016,44.42760976
+12582,Al Mahwit -> Hufash,Al Mahwit,15.40140161,43.59523566
+12583,Al Mahwit -> Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+12584,Al Mahwit -> Al Mahwait City,Al Mahwit,15.40140161,43.59523566
+12585,Al Mahwit -> Al Khabt,Al Mahwit,15.40140161,43.59523566
+12586,Al Mahwit -> At Tawilah,Al Mahwit,15.40140161,43.59523566
+12587,Al Mahwit -> Bani Sa'd,Al Mahwit,15.40140161,43.59523566
+12588,Al Mahwit -> Milhan,Al Mahwit,15.40140161,43.59523566
+12589,Abyan,Abyan,13.6955485,46.50340692
+12590,Aden,Aden,12.84865928,45.00201169
+12591,Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
+12592,Dhamar,Dhamar,14.50737016,44.42760976
+12593,Taizz -> Ash Shamayatayn,Taizz,13.39753802,43.68772167
+12594,Ibb -> Mudhaykhirah -> Al-Ozlah,Ibb,14.05521633,44.26319019
+12595,Ibb -> Mudhaykhirah -> Al-Reis,Ibb,14.05521633,44.26319019
+12596,Ibb -> Mudhaykhirah ->  Al-Nejd Market,Ibb,14.05521633,44.26319019
+12597,Ibb -> Mudhaykhirah -> Mutheikhrah,Ibb,14.05521633,44.26319019
+12598,Dhamar -> Dawran Aness,Dhamar,14.50737016,44.42760976
+12599,Lahj -> Tuban -> Anqoudah,Lahj,12.96593663,44.41733354
+12600,Lahj -> Tuban -> Al-Anad,Lahj,12.96593663,44.41733354
+12601,Lahj -> Tuban -> Sefyan,Lahj,12.96593663,44.41733354
+12602,Lahj -> Tuban -> Al-Khadad,Lahj,12.96593663,44.41733354
+12603,Lahj -> Tuban -> Joal Yemani,Lahj,12.96593663,44.41733354
+12604,Lahj -> Tuban -> Zaydah,Lahj,12.96593663,44.41733354
+12605,Lahj -> Tuban -> Bait Eyadh,Lahj,12.96593663,44.41733354
+12606,Lahj -> Tuban -> Cadmah Owad Ali,Lahj,12.96593663,44.41733354
+12607,Lahj -> Tuban -> Al-What,Lahj,12.96593663,44.41733354
+12608,Lahj -> Tuban -> Joal Hasan,Lahj,12.96593663,44.41733354
+12609,Lahj -> Tuban -> Abr Badr,Lahj,12.96593663,44.41733354
+12610,Lahj -> Tuban -> Al-Hasky,Lahj,12.96593663,44.41733354
+12611,Lahj -> Tuban -> Tahrour,Lahj,12.96593663,44.41733354
+12612,Al Hudaydah -> Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
+12613,Al Hudaydah -> At Tuhayat,Al Hudaydah,15.00062889,43.04031959
+12614,Al Hudaydah -> As Salif,Al Hudaydah,15.00062889,43.04031959
+12615,Al Hudaydah -> Bura -> Al-Gheileen,Al Hudaydah,15.00062889,43.04031959
+12616,Al Hudaydah -> Bura -> Antarah,Al Hudaydah,15.00062889,43.04031959
+12617,Al Hudaydah -> Bura -> Manoub,Al Hudaydah,15.00062889,43.04031959
+12618,Al Hudaydah -> Bura -> Al-Zeraei,Al Hudaydah,15.00062889,43.04031959
+12619,Al Mahwit -> Bani Sa'd -> Al-Carb,Al Mahwit,15.40140161,43.59523566
+12620,Al Hudaydah -> Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
+12621,Al Hudaydah -> Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
+12622,Taizz -> Dimnat Khadir,Taizz,13.39753802,43.68772167
+12623,Lahj -> Al Qabbaytah,Lahj,12.96593663,44.41733354
+12624,Al Dhale'e -> Al Husha,Al Dhale'e,13.85996808,44.67423913
+12625,Al Hudaydah -> Az Zaydiyah -> Qaryat Al-Hashaberah,Al Hudaydah,15.00062889,43.04031959
+12626,Al Hudaydah -> Bayt Al Faqiah -> Al-Muzahrah,Al Hudaydah,15.00062889,43.04031959
+12627,Al Hudaydah -> Bayt Al Faqiah -> Bani Maqboul,Al Hudaydah,15.00062889,43.04031959
+12628,Al Hudaydah -> Bayt Al Faqiah -> Bait Al-Faqeeh,Al Hudaydah,15.00062889,43.04031959
+12629,Al Hudaydah -> Az Zaydiyah -> Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+12630,Al Mahwit -> Ar Rujum -> Sahl Baqel,Al Mahwit,15.40140161,43.59523566
+12631,Al Mahwit -> Ar Rujum -> Al-Jazb,Al Mahwit,15.40140161,43.59523566
+12632,Al Mahwit -> Ar Rujum -> Al-Dhohr,Al Mahwit,15.40140161,43.59523566
+12633,Al Mahwit -> Ar Rujum -> Al-Jalbah,Al Mahwit,15.40140161,43.59523566
+12634,Al Mahwit -> Ar Rujum,Al Mahwit,15.40140161,43.59523566
+12635,Al Mahwit -> Ar Rujum -> Al-Rujom,Al Mahwit,15.40140161,43.59523566
+12636,Al Mahwit -> Ar Rujum -> Rawhan,Al Mahwit,15.40140161,43.59523566
+12637,Amran -> Raydah -> Reidah,Amran,16.3570904,43.87269369
+12638,Abyan -> Al Mahfad,Abyan,13.6955485,46.50340692
+12639,Aden -> Craiter,Aden,12.84865928,45.00201169
+12640,Hajjah -> Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
+12641,Al Hudaydah -> At Tuhayat -> Al-Tuheita,Al Hudaydah,15.00062889,43.04031959
+12642,Hajjah -> Mustaba,Hajjah,16.27488061,43.11225315
+12643,Hajjah -> Aflah Al Yaman,Hajjah,16.27488061,43.11225315
+12644,Al Bayda -> Al Bayda City -> Al-Baida City,Al Bayda,14.21742373,45.55495025
+12645,Al Hudaydah -> Bajil -> Deer Bareih,Al Hudaydah,15.00062889,43.04031959
+12646,Al Hudaydah -> Bajil -> Al-Damn,Al Hudaydah,15.00062889,43.04031959
+12647,Al Hudaydah -> As Sukhnah -> Deer Al-Hadeish,Al Hudaydah,15.00062889,43.04031959
+12648,Al Hudaydah -> Bajil -> Al-Meshwaf,Al Hudaydah,15.00062889,43.04031959
+12649,Hajjah -> Hayran -> Al-Sadah,Hajjah,16.27488061,43.11225315
+12650,Hajjah -> Abs -> Al-Melakhah,Hajjah,16.27488061,43.11225315
+12651,Hajjah -> Hayran -> Bani Al-Khamj,Hajjah,16.27488061,43.11225315
+12652,Hajjah -> Hayran -> Al-Deer,Hajjah,16.27488061,43.11225315
+12653,Hajjah -> Abs -> Al-Nawahi Al-Sofla,Hajjah,16.27488061,43.11225315
+12654,Hajjah -> Hayran -> Bani Al-Mash,Hajjah,16.27488061,43.11225315
+12655,Hajjah -> Abs -> Al-Makhzan Bani Ahmed,Hajjah,16.27488061,43.11225315
+12656,Hajjah -> Abs -> Barman,Hajjah,16.27488061,43.11225315
+12657,Hajjah -> Abs -> Al-Mehsam,Hajjah,16.27488061,43.11225315
+12658,Hajjah -> Abs -> Al-Okashyah,Hajjah,16.27488061,43.11225315
+12659,Hajjah -> Abs -> Shab Al-Doush,Hajjah,16.27488061,43.11225315
+12660,Hajjah -> Hayran -> Al-Awja,Hajjah,16.27488061,43.11225315
+12661,Hajjah -> Abs -> Al-Hamur,Hajjah,16.27488061,43.11225315
+12662,Hajjah -> Abs -> Al-Hujrah,Hajjah,16.27488061,43.11225315
+12663,Hajjah -> Hayran -> Al-Khowaryah,Hajjah,16.27488061,43.11225315
+12664,Hajjah -> Hayran -> Qatbah Bani Al-Aati,Hajjah,16.27488061,43.11225315
+12665,Taizz -> Mawiyah,Taizz,13.39753802,43.68772167
+12666,Taizz -> Al Qahirah,Taizz,13.39753802,43.68772167
+12667,Taizz -> Al Mudhaffar,Taizz,13.39753802,43.68772167
+12668,Lahj -> Tuban,Lahj,12.96593663,44.41733354
+12669,Taizz -> Al Mawasit,Taizz,13.39753802,43.68772167
+12670,Hadramaut,Hadramaut,16.80924424,48.84638589
+12671,Shabwah,Shabwah,14.67178974,46.95556076
+12672,Sa'ada,Sa'ada,17.25112185,43.50274965
+12673,Lahj,Lahj,12.96593663,44.41733354
+12674,Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
+12675,Ibb -> Dhi As Sufal,Ibb,14.05521633,44.26319019
+12676,Hajjah -> Ku'aydinah,Hajjah,16.27488061,43.11225315
+12677,Sana'a -> Arhab,Sana'a,15.12394358,44.78727759
+12678,Al Hudaydah -> Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
+12679,Sana'a -> Attyal,Sana'a,15.12394358,44.78727759
+12680,Al Dhale'e -> Damt,Al Dhale'e,13.85996808,44.67423913
+12681,Hadramaut -> Brom Mayfa,Hadramaut,16.80924424,48.84638589
+12682,Ibb -> Dhi As Sufal -> Al-Qaedah,Ibb,14.05521633,44.26319019
+12683,Marib -> Medghal,Marib,15.56841151,45.76081505
+12684,Marib -> Sirwah,Marib,15.56841151,45.76081505
+12685,Dhamar -> Mayfa'at Anss,Dhamar,14.50737016,44.42760976
+12686,Dhamar -> Maghirib Ans,Dhamar,14.50737016,44.42760976
+12687,Shabwah -> Ataq -> Ataq,Shabwah,14.67178974,46.95556076
+12688,Al Hudaydah -> Al Marawi'ah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+12689,Al Hudaydah -> Bajil -> Al-Zawmah,Al Hudaydah,15.00062889,43.04031959
+12690,Al Hudaydah -> Al Marawi'ah -> Al-Afjyah,Al Hudaydah,15.00062889,43.04031959
+12691,Sana'a -> Sa'fan -> Al-Mazabah,Sana'a,15.12394358,44.78727759
+12692,Sana'a -> Sa'fan -> Al-Wajrah,Sana'a,15.12394358,44.78727759
+12693,Sana'a -> Sa'fan -> Asbab,Sana'a,15.12394358,44.78727759
+12694,Sana'a -> Sa'fan -> Al-Maghareb,Sana'a,15.12394358,44.78727759
+12695,Sana'a -> Sa'fan -> Rowabah,Sana'a,15.12394358,44.78727759
+12696,Sana'a -> Sa'fan -> Al-Hesn (Fort),Sana'a,15.12394358,44.78727759
+12697,Sana'a -> Sa'fan -> Al-Marawelah,Sana'a,15.12394358,44.78727759
+12698,Sana'a -> Sa'fan -> Al-Shuabah,Sana'a,15.12394358,44.78727759
+12699,Sana'a -> Sa'fan -> Shalwal,Sana'a,15.12394358,44.78727759
+12700,Sana'a -> Sa'fan -> Al-Acamah,Sana'a,15.12394358,44.78727759
+12701,Sana'a -> Sa'fan -> Har Wadi,Sana'a,15.12394358,44.78727759
+12702,Al Hudaydah -> Al Mansuriyah -> Al-Jroup,Al Hudaydah,15.00062889,43.04031959
+12703,Al Hudaydah -> Al Mansuriyah -> Al-Mahwa Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+12704,Al Hudaydah -> Al Garrahi -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+12705,Al Hudaydah -> Al Garrahi -> Mahwa Al-Mashra,Al Hudaydah,15.00062889,43.04031959
+12706,Al Hudaydah -> Al Mansuriyah -> Al-Lejam Al-Asfal,Al Hudaydah,15.00062889,43.04031959
+12707,Al Hudaydah -> Al Mansuriyah -> Al-Radhyah,Al Hudaydah,15.00062889,43.04031959
+12708,Al Hudaydah -> Al Garrahi -> Al-Mazra,Al Hudaydah,15.00062889,43.04031959
+12709,Al Hudaydah -> Al Mansuriyah -> Yafa'ah,Al Hudaydah,15.00062889,43.04031959
+12710,Al Hudaydah -> Al Garrahi -> Al-Jar,Al Hudaydah,15.00062889,43.04031959
+12711,Al Hudaydah -> Al Mansuriyah -> Al-Mashreq,Al Hudaydah,15.00062889,43.04031959
+12712,Hajjah -> Abs -> Shafar,Hajjah,16.27488061,43.11225315
+12713,Hajjah -> Abs -> Al-Aredh,Hajjah,16.27488061,43.11225315
+12714,Hajjah -> Abs -> Bani Dobsh,Hajjah,16.27488061,43.11225315
+12715,Hajjah -> Abs -> Al-Masarah Al-Olya,Hajjah,16.27488061,43.11225315
+12716,Al Dhale'e -> Al Azariq -> Mathad,Al Dhale'e,13.85996808,44.67423913
+12717,Al Dhale'e -> Al Azariq -> Al-Qafly,Al Dhale'e,13.85996808,44.67423913
+12718,Al Dhale'e -> Al Azariq -> Araef,Al Dhale'e,13.85996808,44.67423913
+12719,Al Dhale'e -> Al Azariq -> Al-Rawnah,Al Dhale'e,13.85996808,44.67423913
+12720,Al Dhale'e -> Al Azariq -> Tawrasah,Al Dhale'e,13.85996808,44.67423913
+12721,Al Dhale'e -> Al Azariq -> Al-Haql,Al Dhale'e,13.85996808,44.67423913
+12722,Al Hudaydah -> Bura,Al Hudaydah,15.00062889,43.04031959
+12723,Hajjah -> Wadhrah,Hajjah,16.27488061,43.11225315
+12724,Al Hudaydah -> Az Zaydiyah -> Deer Aslah,Al Hudaydah,15.00062889,43.04031959
+12725,Al Hudaydah -> Az Zaydiyah -> Deer Ghorab,Al Hudaydah,15.00062889,43.04031959
+12726,Hajjah -> Al Mahabishah,Hajjah,16.27488061,43.11225315
+12727,Hajjah -> Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
+12728,Hajjah -> Ash Shahil,Hajjah,16.27488061,43.11225315
+12729,Al Bayda -> As Sawma'ah,Al Bayda,14.21742373,45.55495025
+12730,Al Bayda -> Az Zahir,Al Bayda,14.21742373,45.55495025
+12731,Al Bayda -> At Taffah,Al Bayda,14.21742373,45.55495025
+12732,Al Jawf,Al Jawf,16.76813934,46.01014819
+12733,Marib,Marib,15.56841151,45.76081505
+12734,Al Maharah,Al Maharah,16.59344354,51.59013758
+12735,Al Hudaydah -> Zabid,Al Hudaydah,15.00062889,43.04031959
+12736,Amanat Al Asimah -> Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
+12737,Hajjah -> Mabyan,Hajjah,16.27488061,43.11225315
+12738,Amanat Al Asimah -> Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
+12739,Amanat Al Asimah -> Old City,Amanat Al Asimah,15.36598719,44.2020645
+12740,Al Jawf -> Al Maslub,Al Jawf,16.76813934,46.01014819
+12741,Taizz -> Mawza,Taizz,13.39753802,43.68772167
+12742,Al Hudaydah -> Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+12743,Al Hudaydah -> Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+12744,Al Hudaydah -> Al Mina,Al Hudaydah,15.00062889,43.04031959
+12745,Al Hudaydah -> Zabid -> Al-Baratah,Al Hudaydah,15.00062889,43.04031959
+12746,Al Hudaydah -> Al Hawak -> Al-Mandhar,Al Hudaydah,15.00062889,43.04031959
+12747,Al Hudaydah -> Az Zaydiyah -> Al-Banaya,Al Hudaydah,15.00062889,43.04031959
+12748,Al Hudaydah -> Bayt Al Faqiah -> Al-Abasy,Al Hudaydah,15.00062889,43.04031959
+12749,Al Hudaydah -> Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
+12750,Al Hudaydah -> Al Hawak,Al Hudaydah,15.00062889,43.04031959
+12751,Lahj -> Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
+12752,Taizz -> Sabir Al Mawadim,Taizz,13.39753802,43.68772167
+12753,Taizz -> Mawza -> Adeenah,Taizz,13.39753802,43.68772167
+12754,Taizz -> Al Ma'afer -> Al-Careibyah,Taizz,13.39753802,43.68772167
+12755,Lahj -> Tuban -> Al-Baruleitarya,Lahj,12.96593663,44.41733354
+12756,Taizz -> Al  Mukha -> Thabab,Taizz,13.39753802,43.68772167
+12757,Lahj -> Tuban -> Al-Mekhshabah,Lahj,12.96593663,44.41733354
+12758,Taizz -> Al Ma'afer -> Al-Anyah,Taizz,13.39753802,43.68772167
+12759,Lahj -> Al  Hawtah -> Al-Hawtah,Lahj,12.96593663,44.41733354
+12760,Taizz -> Mawza -> Al-Hameidi,Taizz,13.39753802,43.68772167
+12761,Taizz -> Ash Shamayatayn -> Al-Harthah,Taizz,13.39753802,43.68772167
+12762,Taizz -> Al  Mukha -> Al-Arjoush,Taizz,13.39753802,43.68772167
+12763,Taizz -> Al  Mukha -> Al-Cadahah,Taizz,13.39753802,43.68772167
+12764,Taizz -> Ash Shamayatayn -> Al-Ghareif,Taizz,13.39753802,43.68772167
+12765,Taizz -> Al Ma'afer -> Al-Batnah,Taizz,13.39753802,43.68772167
+12766,Taizz -> Ash Shamayatayn -> Al-Qaedah,Taizz,13.39753802,43.68772167
+12767,Taizz -> Mawza -> Al-Arary,Taizz,13.39753802,43.68772167
+12768,Aden -> Al Buraiqeh -> Aden,Aden,12.84865928,45.00201169
+12769,Abyan -> Jayshan,Abyan,13.6955485,46.50340692
+12770,Al Bayda -> Al A'rsh,Al Bayda,14.21742373,45.55495025
+12771,Aden -> Ash Shaikh Outhman,Aden,12.84865928,45.00201169
+12772,Aden -> Al Mansura,Aden,12.84865928,45.00201169
+12773,Al Dhale'e -> Al Hussein,Al Dhale'e,13.85996808,44.67423913
+12774,Al Bayda -> Wald Rabi',Al Bayda,14.21742373,45.55495025
+12775,Aden -> Al Mualla,Aden,12.84865928,45.00201169
+12776,Al Maharah -> Hawf,Al Maharah,16.59344354,51.59013758
+12777,Al Dhale'e -> Juban,Al Dhale'e,13.85996808,44.67423913
+12778,Al Bayda -> Sabah,Al Bayda,14.21742373,45.55495025
+12779,Al Hudaydah -> Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+12780,Al Dhale'e -> Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
+12781,Aden -> Attawahi,Aden,12.84865928,45.00201169
+12782,Al Maharah -> Sayhut,Al Maharah,16.59344354,51.59013758
+12783,Al Bayda -> Al Quraishyah,Al Bayda,14.21742373,45.55495025
+12784,Al Hudaydah -> Ad Dahi,Al Hudaydah,15.00062889,43.04031959
+12785,Al Hudaydah -> Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+12786,Al Hudaydah -> Al Hali,Al Hudaydah,15.00062889,43.04031959
+12787,Amran -> Iyal Surayh,Amran,16.3570904,43.87269369
+12788,Al Dhale'e -> Qa'atabah,Al Dhale'e,13.85996808,44.67423913
+12789,Amanat Al Asimah -> Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
+12790,Al Maharah -> Al Ghaydah,Al Maharah,16.59344354,51.59013758
+12791,Al Jawf -> Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
+12792,Al Hudaydah -> Alluheyah,Al Hudaydah,15.00062889,43.04031959
+12793,Al Jawf -> Al Humaydat,Al Jawf,16.76813934,46.01014819
+12794,Amran -> Maswar,Amran,16.3570904,43.87269369
+12795,Amran -> Jabal Iyal Yazid,Amran,16.3570904,43.87269369
+12796,Al Jawf -> Al Matammah,Al Jawf,16.76813934,46.01014819
+12797,Amran -> Raydah,Amran,16.3570904,43.87269369
+12798,Amanat Al Asimah -> At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
+12799,Ibb -> As Sabrah,Ibb,14.05521633,44.26319019
+12800,Amran -> Thula,Amran,16.3570904,43.87269369
+12801,Al Hudaydah -> Hays,Al Hudaydah,15.00062889,43.04031959
+12802,Hadramaut -> Ar Raydah Wa Qusayar,Hadramaut,16.80924424,48.84638589
+12803,Amran -> Dhi Bin,Amran,16.3570904,43.87269369
+12804,Amran -> Amran,Amran,16.3570904,43.87269369
+12805,Ibb -> Hubaysh,Ibb,14.05521633,44.26319019
+12806,Hadramaut -> Rumah,Hadramaut,16.80924424,48.84638589
+12807,Hadramaut -> Rakhyah,Hadramaut,16.80924424,48.84638589
+12808,Ibb -> Yarim,Ibb,14.05521633,44.26319019
+12809,Hadramaut -> Thamud,Hadramaut,16.80924424,48.84638589
+12810,Hadramaut -> Amd,Hadramaut,16.80924424,48.84638589
+12811,Lahj -> Al  Hawtah,Lahj,12.96593663,44.41733354
+12812,Ibb -> Al Dhihar,Ibb,14.05521633,44.26319019
+12813,Hadramaut -> Shibam,Hadramaut,16.80924424,48.84638589
+12814,Hadramaut -> Al Qatn,Hadramaut,16.80924424,48.84638589
+12815,Hajjah -> Midi,Hajjah,16.27488061,43.11225315
+12816,Hadramaut -> Sah,Hadramaut,16.80924424,48.84638589
+12817,Ibb -> Al Mashannah,Ibb,14.05521633,44.26319019
+12818,Lahj -> Al Had,Lahj,12.96593663,44.41733354
+12819,Hadramaut -> Hajr,Hadramaut,16.80924424,48.84638589
+12820,Ibb -> Jiblah,Ibb,14.05521633,44.26319019
+12821,Ibb -> Ar Radmah,Ibb,14.05521633,44.26319019
+12822,Lahj -> Al Maflahy,Lahj,12.96593663,44.41733354
+12823,Hajjah -> Al Miftah,Hajjah,16.27488061,43.11225315
+12824,Ibb -> As Saddah,Ibb,14.05521633,44.26319019
+12825,Lahj -> Yafa'a,Lahj,12.96593663,44.41733354
+12826,Ibb -> Ash Sha'ir,Ibb,14.05521633,44.26319019
+12827,Hajjah -> Haradh,Hajjah,16.27488061,43.11225315
+12828,Ibb -> Ba'dan,Ibb,14.05521633,44.26319019
+12829,Marib -> Al Jubah,Marib,15.56841151,45.76081505
+12830,Marib -> Bidbadah,Marib,15.56841151,45.76081505
+12831,Sa'ada -> As Safra,Sa'ada,17.25112185,43.50274965
+12832,Hajjah -> Hayran,Hajjah,16.27488061,43.11225315
+12833,Ibb -> Al Makhadir,Ibb,14.05521633,44.26319019
+12834,Marib -> Majzar,Marib,15.56841151,45.76081505
+12835,Sa'ada -> Baqim,Sa'ada,17.25112185,43.50274965
+12836,Ibb -> Al Qafr,Ibb,14.05521633,44.26319019
+12837,Lahj -> Tur Al Bahah,Lahj,12.96593663,44.41733354
+12838,Sana'a -> Sanhan,Sana'a,15.12394358,44.78727759
+12839,Ibb -> An Nadirah,Ibb,14.05521633,44.26319019
+12840,Marib -> Rahabah,Marib,15.56841151,45.76081505
+12841,Shabwah -> Ain,Shabwah,14.67178974,46.95556076
+12842,Sa'ada -> Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
+12843,Shabwah -> Bayhan,Shabwah,14.67178974,46.95556076
+12844,Shabwah -> Al Talh,Shabwah,14.67178974,46.95556076
+12845,Sana'a -> Bani Hushaysh,Sana'a,15.12394358,44.78727759
+12846,Sana'a -> Khwlan,Sana'a,15.12394358,44.78727759
+12847,Lahj -> Habil Jabr,Lahj,12.96593663,44.41733354
+12848,Sa'ada -> Sahar,Sa'ada,17.25112185,43.50274965
+12849,Shabwah -> As Said,Shabwah,14.67178974,46.95556076
+12850,Al Jawf -> Kharab Al Marashi,Al Jawf,16.76813934,46.01014819
+12851,Shabwah -> Merkhah Al Ulya,Shabwah,14.67178974,46.95556076
+12852,Shabwah -> Hatib,Shabwah,14.67178974,46.95556076
+12853,Lahj -> Yahr,Lahj,12.96593663,44.41733354
+12854,Sana'a -> Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
+12855,Taizz -> Shara'b As Salam,Taizz,13.39753802,43.68772167
+12856,Marib -> Mahliyah,Marib,15.56841151,45.76081505
+12857,Taizz -> Salh,Taizz,13.39753802,43.68772167
+12858,Sa'ada -> Majz,Sa'ada,17.25112185,43.50274965
+12859,Al Bayda -> Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
+12860,Taizz -> Hayfan,Taizz,13.39753802,43.68772167
+12861,Sana'a -> Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
+12862,Shabwah -> Jardan,Shabwah,14.67178974,46.95556076
+12863,Shabwah -> Mayfa'a,Shabwah,14.67178974,46.95556076
+12864,Shabwah -> Merkhah As Sufla,Shabwah,14.67178974,46.95556076
+12865,Shabwah -> Nisab,Shabwah,14.67178974,46.95556076
+12866,Hajjah -> Qarah,Hajjah,16.27488061,43.11225315
+12867,Aden -> Khur Maksar,Aden,12.84865928,45.00201169
+12868,Shabwah -> Usaylan,Shabwah,14.67178974,46.95556076
+12869,Shabwah -> Rudum,Shabwah,14.67178974,46.95556076
+12870,Al Maharah -> Huswain,Al Maharah,16.59344354,51.59013758
+12871,Sa'ada -> Sa'adah,Sa'ada,17.25112185,43.50274965
+12872,Sana'a -> Jihanah,Sana'a,15.12394358,44.78727759
+12873,Ibb -> Ibb,Ibb,14.05521633,44.26319019
+12874,Al Hudaydah -> Al Munirah,Al Hudaydah,15.00062889,43.04031959
+12875,Sana'a -> Nihm,Sana'a,15.12394358,44.78727759
+12876,Al Dhale'e -> Al Hussein -> Adeenah,Al Dhale'e,13.85996808,44.67423913
+12877,Al Dhale'e -> Qa'atabah -> Admah,Al Dhale'e,13.85996808,44.67423913
+12878,Lahj -> Al Musaymir -> Al-Rameedhah,Lahj,12.96593663,44.41733354
+12879,Lahj -> Al Musaymir -> Bashryah,Lahj,12.96593663,44.41733354
+12880,Lahj -> Al Musaymir -> Al-Mekhraj,Lahj,12.96593663,44.41733354
+12881,Lahj -> Al Musaymir -> Al-Maseimeer,Lahj,12.96593663,44.41733354
+12882,Taizz -> Al Ma'afer -> Al-Malekah,Taizz,13.39753802,43.68772167
+12883,Lahj -> Al Musaymir -> Habeel Hansh,Lahj,12.96593663,44.41733354
+12884,Lahj -> Al Musaymir -> Mareeb,Lahj,12.96593663,44.41733354
+12885,Taizz -> Al Ma'afer -> Al-Naqee'e,Taizz,13.39753802,43.68772167
+12886,Hajjah -> Abs -> Bani Makei,Hajjah,16.27488061,43.11225315
+12887,Lahj -> Al Musaymir -> Makeideem,Lahj,12.96593663,44.41733354
+12888,Lahj -> Al Musaymir -> Noaman,Lahj,12.96593663,44.41733354
+12889,Lahj -> Al Musaymir -> Al-Dareijah,Lahj,12.96593663,44.41733354
+12890,Taizz -> Al Ma'afer -> Sheba,Taizz,13.39753802,43.68772167
+12891,Hajjah -> Abs -> Deer Al-Ocm,Hajjah,16.27488061,43.11225315
+12892,Taizz -> Al Ma'afer -> Nejd Al-Mashraqi,Taizz,13.39753802,43.68772167
+12893,Taizz -> Al Ma'afer -> Qaeetah Al-Jabal,Taizz,13.39753802,43.68772167
+12894,Lahj -> Al Musaymir -> Shathah,Lahj,12.96593663,44.41733354
+12895,Hajjah -> Abs -> Al-Jarabyah,Hajjah,16.27488061,43.11225315
+12896,Hajjah -> Abs ->  Al-Rabou Market,Hajjah,16.27488061,43.11225315
+12897,Taizz -> Al Ma'afer -> Qayttah Al-Wadi,Taizz,13.39753802,43.68772167
+12898,Taizz -> Al Ma'afer -> Zeid Mountain,Taizz,13.39753802,43.68772167
+12899,Hajjah -> Abs -> Majar,Hajjah,16.27488061,43.11225315
+12900,Sana'a -> Al Haymah Ad Dakhiliyah -> Jabal Sharar,Sana'a,15.12394358,44.78727759
+12901,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Oshah,Sana'a,15.12394358,44.78727759
+12902,Dhamar -> Al Manar,Dhamar,14.50737016,44.42760976
+12903,Amanat Al Asimah -> As Sabain -> Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
+12904,Taizz -> Dimnat Khadir -> Al-Ajraf,Taizz,13.39753802,43.68772167
+12905,Taizz -> Dimnat Khadir -> Aamaq,Taizz,13.39753802,43.68772167
+12906,Taizz -> Dimnat Khadir -> Al-Abhoul,Taizz,13.39753802,43.68772167
+12907,Al Hudaydah -> Al Mighlaf -> Al-Mehjam,Al Hudaydah,15.00062889,43.04031959
+12908,Al Hudaydah -> Al Mighlaf -> Gheyan,Al Hudaydah,15.00062889,43.04031959
+12909,Al Hudaydah -> Al Mighlaf -> Deer Daam,Al Hudaydah,15.00062889,43.04031959
+12910,Al Hudaydah -> Al Mighlaf -> Al-Menwab,Al Hudaydah,15.00062889,43.04031959
+12911,Al Hudaydah -> Al Mighlaf -> Deer Mahdi,Al Hudaydah,15.00062889,43.04031959
+12912,Taizz -> Dhubab,Taizz,13.39753802,43.68772167
+12913,Lahj -> Tur Al Bahah -> Al-Fareeq,Lahj,12.96593663,44.41733354
+12914,Lahj -> Tur Al Bahah -> Habeel Al-Sabt,Lahj,12.96593663,44.41733354
+12915,Lahj -> Tur Al Bahah -> Al-Rafd Al-Asfla,Lahj,12.96593663,44.41733354
+12916,Lahj -> Tur Al Bahah -> Al-Gharqah,Lahj,12.96593663,44.41733354
+12917,Lahj -> Tur Al Bahah -> Al-Shuabah,Lahj,12.96593663,44.41733354
+12918,Lahj -> Tur Al Bahah -> Al-Fahsah,Lahj,12.96593663,44.41733354
+12919,Abyan -> Mudiyah -> Qarn Al-Washal,Abyan,13.6955485,46.50340692
+12920,Abyan -> Mudiyah -> Lahmar,Abyan,13.6955485,46.50340692
+12921,Abyan -> Mudiyah -> Al-Aber,Abyan,13.6955485,46.50340692
+12922,Abyan -> Mudiyah -> Cawcab,Abyan,13.6955485,46.50340692
+12923,Abyan -> Mudiyah -> Al-Salam,Abyan,13.6955485,46.50340692
+12924,Abyan -> Mudiyah -> Aal Al-Rabashi,Abyan,13.6955485,46.50340692
+12925,Abyan -> Mudiyah -> Jawar,Abyan,13.6955485,46.50340692
+12926,Al Jawf -> Al Ghayl,Al Jawf,16.76813934,46.01014819
+12927,Al Hudaydah -> Bura -> Al-Marzeim,Al Hudaydah,15.00062889,43.04031959
+12928,Al Hudaydah -> Bura -> Al-Jarn,Al Hudaydah,15.00062889,43.04031959
+12929,Al Hudaydah -> Bura -> Al-Maghrabah,Al Hudaydah,15.00062889,43.04031959
+12930,Taizz -> Al Ma'afer,Taizz,13.39753802,43.68772167
+12931,Al Hudaydah -> Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
+12932,Aden -> Al Mualla -> Aden,Aden,12.84865928,45.00201169
+12933,Amran -> Kharif -> Dhahyan,Amran,16.3570904,43.87269369
+12934,Amran -> Kharif -> Al-Dhabr,Amran,16.3570904,43.87269369
+12935,Amran -> Kharif -> Al-Demnah,Amran,16.3570904,43.87269369
+12936,Amran -> Kharif -> Al-Mahm,Amran,16.3570904,43.87269369
+12937,Amran -> Kharif -> Bait Al-Qafaf,Amran,16.3570904,43.87269369
+12938,Amran -> Kharif -> Shibrah,Amran,16.3570904,43.87269369
+12939,Amran -> Kharif -> New Al-Souq,Amran,16.3570904,43.87269369
+12940,Al Jawf -> Al Hazm,Al Jawf,16.76813934,46.01014819
+12941,Sa'ada -> Sa'adah -> Al Khameis,Sa'ada,17.25112185,43.50274965
+12942,Sa'ada -> Sahar -> Al-Sahn,Sa'ada,17.25112185,43.50274965
+12943,Aden -> Craiter -> Aden,Aden,12.84865928,45.00201169
+12944,Marib -> Raghwan,Marib,15.56841151,45.76081505
+12945,Sa'ada -> Saqayn -> Al-Qadeem,Sa'ada,17.25112185,43.50274965
+12946,Hajjah -> Bani Al Awam -> Bait Al-Jabri,Hajjah,16.27488061,43.11225315
+12947,Hajjah -> Bani Al Awam -> Namer Mountain,Hajjah,16.27488061,43.11225315
+12948,Hajjah -> Bani Al Awam -> Fus'hah,Hajjah,16.27488061,43.11225315
+12949,Hajjah -> Bani Al Awam -> Al-Barar,Hajjah,16.27488061,43.11225315
+12950,Hajjah -> Bani Al Awam -> Al-Mancab,Hajjah,16.27488061,43.11225315
+12951,Hajjah -> Bani Al Awam -> Al-Maqaweh,Hajjah,16.27488061,43.11225315
+12952,Lahj -> Habil Jabr -> Habeel Ben Jabr,Lahj,12.96593663,44.41733354
+12953,Hajjah -> Wadhrah -> Al-Shuaybah,Hajjah,16.27488061,43.11225315
+12954,Hajjah -> Wadhrah -> Al-Hanak,Hajjah,16.27488061,43.11225315
+12955,Hajjah -> Wadhrah -> Al-Malhah,Hajjah,16.27488061,43.11225315
+12956,Hajjah -> Bani Al Awam -> Dhahran,Hajjah,16.27488061,43.11225315
+12957,Hajjah -> Wadhrah -> Qalat Al-Kheyr,Hajjah,16.27488061,43.11225315
+12958,Sana'a -> Al Haymah Ad Dakhiliyah -> Mahzar,Sana'a,15.12394358,44.78727759
+12959,Sana'a -> Sa'fan -> Sahef,Sana'a,15.12394358,44.78727759
+12960,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Tharah,Sana'a,15.12394358,44.78727759
+12961,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Gheithy,Sana'a,15.12394358,44.78727759
+12962,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Abeed,Sana'a,15.12394358,44.78727759
+12963,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Rajeh,Sana'a,15.12394358,44.78727759
+12964,Sana'a -> Al Haymah Ad Dakhiliyah -> Dar Al-Bark,Sana'a,15.12394358,44.78727759
+12965,Sana'a -> Sa'fan -> Dahw Al-Dar,Sana'a,15.12394358,44.78727759
+12966,Sana'a -> Al Haymah Ad Dakhiliyah -> Hajrah Al-Fadheli,Sana'a,15.12394358,44.78727759
+12967,Sana'a -> Al Haymah Ad Dakhiliyah -> Al-Seid,Sana'a,15.12394358,44.78727759
+12968,Al Bayda -> Al A'rsh -> Al-Khudhrah,Al Bayda,14.21742373,45.55495025
+12969,Sana'a -> Al Haymah Ad Dakhiliyah -> Bait Al-Tayfi,Sana'a,15.12394358,44.78727759
+12970,Al Bayda -> Al A'rsh -> Qarn Ata'a,Al Bayda,14.21742373,45.55495025
+12971,Al Bayda -> Al A'rsh -> Qarn Al-Asad,Al Bayda,14.21742373,45.55495025
+12972,Taizz -> Salh -> Al-Masnah,Taizz,13.39753802,43.68772167
+12973,Al Hudaydah -> Al Garrahi -> Al-Hasani,Al Hudaydah,15.00062889,43.04031959
+12974,Al Hudaydah -> Al Garrahi -> Shab Al-Dali,Al Hudaydah,15.00062889,43.04031959
+12975,Al Hudaydah -> Al Mansuriyah -> Al-Calalyah,Al Hudaydah,15.00062889,43.04031959
+12976,Al Hudaydah -> Al Mansuriyah -> Al-Demnah,Al Hudaydah,15.00062889,43.04031959
+12977,Al Hudaydah -> Al Mansuriyah -> Al-Khedhar,Al Hudaydah,15.00062889,43.04031959
+12978,Al Hudaydah -> Al Mansuriyah -> Al-Mahal,Al Hudaydah,15.00062889,43.04031959
+12979,Al Hudaydah -> Al Garrahi -> Mahwa Al-Bahlol,Al Hudaydah,15.00062889,43.04031959
+12980,Al Hudaydah -> Al Mansuriyah -> Mahjour Al-Aala,Al Hudaydah,15.00062889,43.04031959
+12981,Al Hudaydah -> Al Mansuriyah -> Deer Cananh,Al Hudaydah,15.00062889,43.04031959
+12982,Al Hudaydah -> Al Garrahi -> Al-Jarahei Al-Aala,Al Hudaydah,15.00062889,43.04031959
+12983,Al Hudaydah -> Al Mansuriyah -> Al-Hajmah,Al Hudaydah,15.00062889,43.04031959
+12984,Al Hudaydah -> Al Mansuriyah -> Al-Habeel Al-Aala,Al Hudaydah,15.00062889,43.04031959
+12985,Al Hudaydah -> Al Mansuriyah -> Shatt Al-Maghawein,Al Hudaydah,15.00062889,43.04031959
+12986,Al Hudaydah -> Al Mansuriyah -> Al-Sawlah,Al Hudaydah,15.00062889,43.04031959
+12987,Al Hudaydah -> Al Mansuriyah -> Saneif Al-Manaserah,Al Hudaydah,15.00062889,43.04031959
+12988,Al Hudaydah -> Al Garrahi -> Al-Rawakeb,Al Hudaydah,15.00062889,43.04031959
+12989,Al Hudaydah -> Al Mansuriyah -> Al-Mansourah,Al Hudaydah,15.00062889,43.04031959
+12990,Al Hudaydah -> Az Zaydiyah -> Deer Ayash,Al Hudaydah,15.00062889,43.04031959
+12991,Al Hudaydah -> As Sukhnah -> Beuot Al-Boutah,Al Hudaydah,15.00062889,43.04031959
+12992,Al Hudaydah -> Az Zaydiyah -> Al-Baynyah,Al Hudaydah,15.00062889,43.04031959
+12993,Al Hudaydah -> Az Zaydiyah -> Al-Ajlanyah,Al Hudaydah,15.00062889,43.04031959
+12994,Al Hudaydah -> Az Zaydiyah -> Al-Hujrah,Al Hudaydah,15.00062889,43.04031959
+12995,Al Hudaydah -> As Sukhnah -> Mahal Al-Rowaid,Al Hudaydah,15.00062889,43.04031959
+12996,Al Hudaydah -> As Sukhnah -> Al-Batrah and Al-Meina,Al Hudaydah,15.00062889,43.04031959
+12997,Al Hudaydah -> As Sukhnah -> Deer Al-Mazbal,Al Hudaydah,15.00062889,43.04031959
+12998,Al Hudaydah -> As Sukhnah -> Deer Cadaf,Al Hudaydah,15.00062889,43.04031959
+12999,Amran -> Suwayr,Amran,16.3570904,43.87269369
+13000, Sana'a > Nihm,Sana'a,15.12394358,44.78727759
+13001, Sana'a > Bani Dhabyan,Sana'a,15.12394358,44.78727759
+13002, Taizz > Al Mudhaffar,Taizz,13.39753802,43.68772167
+13003, Al Bayda > Wald Rabi' > Homat Serar,Al Bayda,14.21742373,45.55495025
+13004, Al Bayda > Wald Rabi' > Al-Manaseh,Al Bayda,14.21742373,45.55495025
+13005, Al Dhale'e > Ash Shu'ayb,Al Dhale'e,13.85996808,44.67423913
+13006, Al Dhale'e > Juban,Al Dhale'e,13.85996808,44.67423913
+13007, Amran > Thula,Amran,16.3570904,43.87269369
+13008, Amran > Dhi Bin,Amran,16.3570904,43.87269369
+13009, Ibb > Ibb,Ibb,14.05521633,44.26319019
+13010, Ibb > As Sayyani,Ibb,14.05521633,44.26319019
+13011, Aden > Dar Sad,Aden,12.84865928,45.00201169
+13012, Al Hudaydah > Al Khawkhah,Al Hudaydah,15.00062889,43.04031959
+13013, Al Hudaydah > Ad Durayhimi,Al Hudaydah,15.00062889,43.04031959
+13014, Aden > Al Mansura,Aden,12.84865928,45.00201169
+13015, Aden > Al Buraiqeh,Aden,12.84865928,45.00201169
+13016, Al Hudaydah > Al Hali,Al Hudaydah,15.00062889,43.04031959
+13017, Al Hudaydah > Al Garrahi,Al Hudaydah,15.00062889,43.04031959
+13018, Al Hudaydah > Al Hawak,Al Hudaydah,15.00062889,43.04031959
+13019, Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
+13020, Al Hudaydah > Al Munirah,Al Hudaydah,15.00062889,43.04031959
+13021, Sana'a > Sanhan,Sana'a,15.12394358,44.78727759
+13022, Al Hudaydah > Al Hajjaylah,Al Hudaydah,15.00062889,43.04031959
+13023, Al Hudaydah > Ad Dahi,Al Hudaydah,15.00062889,43.04031959
+13024, Sana'a > Jihanah,Sana'a,15.12394358,44.78727759
+13025, Al Hudaydah > Al Mansuriyah,Al Hudaydah,15.00062889,43.04031959
+13026, Sana'a > Al Haymah Al Kharijiyah,Sana'a,15.12394358,44.78727759
+13027, Sana'a > Al Haymah Ad Dakhiliyah,Sana'a,15.12394358,44.78727759
+13028, Amanat Al Asimah > Shu'aub,Amanat Al Asimah,15.36598719,44.2020645
+13029, Sana'a > Arhab,Sana'a,15.12394358,44.78727759
+13030, Sana'a > Manakhah,Sana'a,15.12394358,44.78727759
+13031, Sana'a > Bani Hushaysh,Sana'a,15.12394358,44.78727759
+13032, Sana'a > Attyal,Sana'a,15.12394358,44.78727759
+13033, Sana'a > Al Husn,Sana'a,15.12394358,44.78727759
+13034, Sana'a > Bilad Ar Rus,Sana'a,15.12394358,44.78727759
+13035, Sana'a > Hamdan,Sana'a,15.12394358,44.78727759
+13036, Taizz > Sabir Al Mawadim,Taizz,13.39753802,43.68772167
+13037, Sana'a > Bani Matar,Sana'a,15.12394358,44.78727759
+13038, Amanat Al Asimah > At Tahrir,Amanat Al Asimah,15.36598719,44.2020645
+13039, Sana'a > Khwlan,Sana'a,15.12394358,44.78727759
+13040, Taizz > Salh,Taizz,13.39753802,43.68772167
+13041, Sana'a > Sa'fan,Sana'a,15.12394358,44.78727759
+13042, Ibb > Al Qafr,Ibb,14.05521633,44.26319019
+13043, Amanat Al Asimah > Bani Al Harith,Amanat Al Asimah,15.36598719,44.2020645
+13044, Amanat Al Asimah > As Sabain,Amanat Al Asimah,15.36598719,44.2020645
+13045, Amanat Al Asimah > Az'zal,Amanat Al Asimah,15.36598719,44.2020645
+13046, Amanat Al Asimah > Assafi'yah,Amanat Al Asimah,15.36598719,44.2020645
+13047, Amanat Al Asimah > Ma'ain > Al-Amanah,Amanat Al Asimah,15.36598719,44.2020645
+13048, Al Hudaydah > Alluheyah,Al Hudaydah,15.00062889,43.04031959
+13049, Amran > Amran,Amran,16.3570904,43.87269369
+13050, Hajjah > Hajjah City,Hajjah,16.27488061,43.11225315
+13051, Sa'ada > Monabbih,Sa'ada,17.25112185,43.50274965
+13052, Al Hudaydah > Bayt Al Faqiah,Al Hudaydah,15.00062889,43.04031959
+13053, Al Hudaydah > Zabid,Al Hudaydah,15.00062889,43.04031959
+13054, Ibb > Al Makhadir,Ibb,14.05521633,44.26319019
+13055, Ibb > Yarim,Ibb,14.05521633,44.26319019
+13056, Ibb > Ar Radmah,Ibb,14.05521633,44.26319019
+13057, Dhamar > Anss,Dhamar,14.50737016,44.42760976
+13058, Dhamar > Utmah,Dhamar,14.50737016,44.42760976
+13059, Amran > Kharif,Amran,16.3570904,43.87269369
+13060, Dhamar > Maghirib Ans,Dhamar,14.50737016,44.42760976
+13061, Dhamar > Dhamar City,Dhamar,14.50737016,44.42760976
+13062, Aden > Ash Shaikh Outhman,Aden,12.84865928,45.00201169
+13063, Amran > Jabal Iyal Yazid,Amran,16.3570904,43.87269369
+13064, Al Dhale'e > Ad Dhale'e,Al Dhale'e,13.85996808,44.67423913
+13065, Amanat Al Asimah > Ma'ain,Amanat Al Asimah,15.36598719,44.2020645
+13066, Amanat Al Asimah > Ath'thaorah,Amanat Al Asimah,15.36598719,44.2020645
+13067, Hajjah > Abs,Hajjah,16.27488061,43.11225315
+13068, Abyan > Ahwar,Abyan,13.6955485,46.50340692
+13069, Hadramaut > Ad Dis,Hadramaut,16.80924424,48.84638589
+13070, Al Mahwit > Al Khabt,Al Mahwit,15.40140161,43.59523566
+13071, Amanat Al Asimah > Al Wahdah,Amanat Al Asimah,15.36598719,44.2020645
+13072, Al Bayda > Al A'rsh,Al Bayda,14.21742373,45.55495025
+13073, Lahj > Al  Hawtah,Lahj,12.96593663,44.41733354
+13074, Sa'ada > Al Dhaher,Sa'ada,17.25112185,43.50274965
+13075, Al Jawf > Al Ghayl,Al Jawf,16.76813934,46.01014819
+13076, Ibb > Al Dhihar,Ibb,14.05521633,44.26319019
+13077, Taizz > Al  Mukha,Taizz,13.39753802,43.68772167
+13078, Al Maharah > Al Ghaydah,Al Maharah,16.59344354,51.59013758
+13079, Dhamar > Al Hada,Dhamar,14.50737016,44.42760976
+13080, Marib > Al Abdiyah,Marib,15.56841151,45.76081505
+13081, Amran > Al Ashah,Amran,16.3570904,43.87269369
+13082, Raymah > Al Jabin,Raymah,14.59985617,43.68772167
+13083, Shabwah > Ain,Shabwah,14.67178974,46.95556076
+13084, Socotra > Hidaybu,Socotra,12.493306,54.085473
+13085, Al Mahwit > Al Mahwait City,Al Mahwit,15.40140161,43.59523566
+13086, Al Hudaydah > Al Qanawis,Al Hudaydah,15.00062889,43.04031959
+13087, Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
+13088, Taizz > Shara'b As Salam,Taizz,13.39753802,43.68772167
+13089, Taizz > Al Misrakh,Taizz,13.39753802,43.68772167
+13090, Taizz > Mashra'a Wa Hadnan,Taizz,13.39753802,43.68772167
+13091, Taizz > Al Wazi'iyah,Taizz,13.39753802,43.68772167
+13092, Taizz > Ash Shamayatayn,Taizz,13.39753802,43.68772167
+13093, Abyan > Khanfir,Abyan,13.6955485,46.50340692
+13094, Al Hudaydah > Al Marawi'ah,Al Hudaydah,15.00062889,43.04031959
+13095, Al Hudaydah > As Sukhnah,Al Hudaydah,15.00062889,43.04031959
+13096, Shabwah > Ataq,Shabwah,14.67178974,46.95556076
+13097, Abyan > Lawdar,Abyan,13.6955485,46.50340692
+13098, Taizz > At Ta'iziyah,Taizz,13.39753802,43.68772167
+13099, Al Jawf > Al Hazm,Al Jawf,16.76813934,46.01014819
+13100, Taizz > Al Qahirah,Taizz,13.39753802,43.68772167
+13101, Marib > Marib City,Marib,15.56841151,45.76081505
+13102, Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
+13103, Ibb > As Saddah,Ibb,14.05521633,44.26319019
+13104, Al Hudaydah > Al Mina,Al Hudaydah,15.00062889,43.04031959
+13105, Ibb > Dhi As Sufal,Ibb,14.05521633,44.26319019
+13106, Taizz > Maqbanah,Taizz,13.39753802,43.68772167
+13107, Hajjah > Ku'aydinah,Hajjah,16.27488061,43.11225315
+13108, Taizz > Mawiyah,Taizz,13.39753802,43.68772167
+13109, Taizz > Al Mawasit,Taizz,13.39753802,43.68772167
+13110, Hajjah > Mabyan,Hajjah,16.27488061,43.11225315
+13111, Ibb > Al Mashannah,Ibb,14.05521633,44.26319019
+13112, Shabwah > Bayhan,Shabwah,14.67178974,46.95556076
+13113, Sa'ada > Sa'adah,Sa'ada,17.25112185,43.50274965
+13114, Abyan > Al Wade'a,Abyan,13.6955485,46.50340692
+13115, Sa'ada > Razih,Sa'ada,17.25112185,43.50274965
+13116, Al Hudaydah > Az Zuhrah,Al Hudaydah,15.00062889,43.04031959
+13117, Amran > Harf Sufyan,Amran,16.3570904,43.87269369
+13118, Al Dhale'e > Damt,Al Dhale'e,13.85996808,44.67423913
+13119, Hajjah > Kushar,Hajjah,16.27488061,43.11225315
+13120, Hajjah > Khayran Al Muharraq,Hajjah,16.27488061,43.11225315
+13121, Abyan > Zingibar,Abyan,13.6955485,46.50340692
+13122, Taizz > Al Ma'afer,Taizz,13.39753802,43.68772167
+13123, Taizz > Dimnat Khadir,Taizz,13.39753802,43.68772167
+13124, Ibb > Al Udayn,Ibb,14.05521633,44.26319019
+13125, Al Hudaydah > At Tuhayat,Al Hudaydah,15.00062889,43.04031959
+13126, Amran > Al Qaflah,Amran,16.3570904,43.87269369
+13127, Hajjah > Aslem,Hajjah,16.27488061,43.11225315
+13128, Al Dhale'e > Qa'atabah,Al Dhale'e,13.85996808,44.67423913
+13129, Lahj > Tuban,Lahj,12.96593663,44.41733354
+13130, Hajjah > Mustaba > Al-Sabyah,Hajjah,16.27488061,43.11225315
+13131, Hajjah > Khayran Al Muharraq > Al-Sharqi,Hajjah,16.27488061,43.11225315
+13132, Amran > Huth,Amran,16.3570904,43.87269369
+13133, Hajjah > Bakil Al Mir,Hajjah,16.27488061,43.11225315
+13134, Hajjah > Mustaba,Hajjah,16.27488061,43.11225315
+13135, Lahj > Al Musaymir,Lahj,12.96593663,44.41733354
+13136, Abyan > Sarar,Abyan,13.6955485,46.50340692
+13137, Hajjah > Midi > Al-Teenah,Hajjah,16.27488061,43.11225315
+13138, Hajjah > Midi > Al-Harajah,Hajjah,16.27488061,43.11225315
+13139, Hajjah > Aslem > Al-Mashratah,Hajjah,16.27488061,43.11225315
+13140, Hajjah > Hayran > Al-Sadah,Hajjah,16.27488061,43.11225315
+13141, Hajjah > Aslem > Al-Qudhah,Hajjah,16.27488061,43.11225315
+13142, Dhamar > Jahran,Dhamar,14.50737016,44.42760976
+13143, Marib > Harib Al Qaramish,Marib,15.56841151,45.76081505
+13144, Ibb > Jiblah,Ibb,14.05521633,44.26319019
+13145, Marib > Marib,Marib,15.56841151,45.76081505
+13146, Sa'ada > Haydan,Sa'ada,17.25112185,43.50274965
+13147, Sa'ada > As Safra,Sa'ada,17.25112185,43.50274965
+13148, Taizz > Mawza,Taizz,13.39753802,43.68772167
+13149, Sa'ada > Kitaf wa Al Boqe'e,Sa'ada,17.25112185,43.50274965
+13150, Al Bayda > Maswarah,Al Bayda,14.21742373,45.55495025
+13151, Hadramaut > Al Abr,Hadramaut,16.80924424,48.84638589
+13152, Amran > Maswar,Amran,16.3570904,43.87269369
+13153, Hajjah > Haradh,Hajjah,16.27488061,43.11225315
+13154, Hajjah > Hayran,Hajjah,16.27488061,43.11225315
+13155, Amran > Suwayr,Amran,16.3570904,43.87269369
+13156, Sa'ada > Baqim,Sa'ada,17.25112185,43.50274965
+13157, Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
+13158, Hajjah > Bani Qa'is,Hajjah,16.27488061,43.11225315
+13159, Al Bayda > As Sawma'ah,Al Bayda,14.21742373,45.55495025
+13160, Al Bayda > Wald Rabi',Al Bayda,14.21742373,45.55495025
+13161, Taizz > Dhubab,Taizz,13.39753802,43.68772167
+13162, Al Dhale'e > Al Azariq,Al Dhale'e,13.85996808,44.67423913
+13163, Al Jawf > Khabb wa ash Sha'af,Al Jawf,16.76813934,46.01014819
+13164, Al Jawf > Al Maton,Al Jawf,16.76813934,46.01014819
+13165, Marib > Harib,Marib,15.56841151,45.76081505
+13166, Sa'ada > Majz,Sa'ada,17.25112185,43.50274965
+13167, Taizz > As Silw,Taizz,13.39753802,43.68772167
+13168, Marib > Sirwah,Marib,15.56841151,45.76081505
+13169, Hajjah > Hajjah,Hajjah,16.27488061,43.11225315
+13170, Ibb > Far Al Udayn,Ibb,14.05521633,44.26319019
+13171, Lahj > Al Qabbaytah,Lahj,12.96593663,44.41733354
+13172, Al Hudaydah > Az Zaydiyah > Al-Rahmah,Al Hudaydah,15.00062889,43.04031959
+13173, Al Hudaydah > Az Zaydiyah > Deer Jalalah,Al Hudaydah,15.00062889,43.04031959
+13174, Al Hudaydah > Al Munirah > Al-Qasheeri (Al-Qashri),Al Hudaydah,15.00062889,43.04031959
+13175, Al Hudaydah > Az Zaydiyah > Bait Ata,Al Hudaydah,15.00062889,43.04031959
+13176, Al Hudaydah > Az Zaydiyah > Al-Mahdaly,Al Hudaydah,15.00062889,43.04031959
+13177, Al Hudaydah > Al Munirah > Al-Jarb,Al Hudaydah,15.00062889,43.04031959
+13178, Al Hudaydah > Az Zaydiyah > Mahal Hasan Abdallah,Al Hudaydah,15.00062889,43.04031959
+13179, Al Hudaydah > Al Munirah > Ebn Abas,Al Hudaydah,15.00062889,43.04031959
+13180, Al Hudaydah > Az Zaydiyah > Deer Abdo Rabo,Al Hudaydah,15.00062889,43.04031959
+13181, Al Hudaydah > Al Munirah > Al-Harounyah,Al Hudaydah,15.00062889,43.04031959
+13182, Al Bayda > As Sawma'ah > Al-Rahah,Al Bayda,14.21742373,45.55495025
+13183, Al Bayda > As Sawma'ah > Om Salmah,Al Bayda,14.21742373,45.55495025
+13184, Al Bayda > As Sawma'ah > Al-Majmah,Al Bayda,14.21742373,45.55495025
+13185, Al Bayda > As Sawma'ah > Al-Seilah,Al Bayda,14.21742373,45.55495025
+13186, Al Bayda > Wald Rabi' > Al-Jashm,Al Bayda,14.21742373,45.55495025
+13187, Hajjah > Abs > Al-Melakhah,Hajjah,16.27488061,43.11225315
+13188, Hajjah > Abs > Al-Khademah,Hajjah,16.27488061,43.11225315
+13189, Hajjah > Abs > Al-Medhbar,Hajjah,16.27488061,43.11225315
+13190, Hajjah > Abs > Al-Makhzan,Hajjah,16.27488061,43.11225315
+13191, Hajjah > Abs > Al-Badah,Hajjah,16.27488061,43.11225315
+13192, Hajjah > Abs > Al-Merwagh,Hajjah,16.27488061,43.11225315
+13193, Hajjah > Abs > Bani Cazabah,Hajjah,16.27488061,43.11225315
+13194, Hajjah > Abs > Shab Yaqout,Hajjah,16.27488061,43.11225315
+13195, Hajjah > Abs > Abs,Hajjah,16.27488061,43.11225315
+13196, Taizz > Sama,Taizz,13.39753802,43.68772167
+13197, Sa'ada > Sahar,Sa'ada,17.25112185,43.50274965
+13198, Hajjah > Aflah Al Yaman,Hajjah,16.27488061,43.11225315
+13199, Ibb,Ibb,14.05521633,44.26319019
+13200, Hajjah,Hajjah,16.27488061,43.11225315
+13201, Al Hudaydah,Al Hudaydah,15.00062889,43.04031959
+13202, Sa'ada,Sa'ada,17.25112185,43.50274965
+13203, Sana'a,Sana'a,15.12394358,44.78727759
+13204, Aden,Aden,12.84865928,45.00201169
+13205, Lahj > Al Milah,Lahj,12.96593663,44.41733354
+13206, Hajjah > Najrah,Hajjah,16.27488061,43.11225315
+13207, Lahj > Al Maqatirah,Lahj,12.96593663,44.41733354
+13208, Lahj > Radfan,Lahj,12.96593663,44.41733354
+13209, Dhamar > Jabal Ash sharq,Dhamar,14.50737016,44.42760976
+13210, Hadramaut > Brom Mayfa,Hadramaut,16.80924424,48.84638589
+13211, Lahj > Al Madaribah Wa Al Arah,Lahj,12.96593663,44.41733354
+13212, Lahj > Tur Al Bahah,Lahj,12.96593663,44.41733354
+13213, Taizz > Hayfan,Taizz,13.39753802,43.68772167
+13214, Abyan > Rasad,Abyan,13.6955485,46.50340692
+13215, Dhamar > Dawran Aness,Dhamar,14.50737016,44.42760976
+13216, Marib > Rahabah,Marib,15.56841151,45.76081505
+13217, Al Dhale'e > Jahaf,Al Dhale'e,13.85996808,44.67423913
+13218, Al Hudaydah > Hays,Al Hudaydah,15.00062889,43.04031959
+13219, Amran > Raydah,Amran,16.3570904,43.87269369
+13220, Raymah > As Salafiyah,Raymah,14.59985617,43.68772167
+13221, Al Mahwit > Al Mahwait,Al Mahwit,15.40140161,43.59523566
+13222, Hadramaut > Al Mukalla,Hadramaut,16.80924424,48.84638589
+13223, Al Bayda > Al Bayda,Al Bayda,14.21742373,45.55495025
+13224, Shabwah > Rudum,Shabwah,14.67178974,46.95556076
+13225, Sa'ada > Al Hashwah,Sa'ada,17.25112185,43.50274965
+13226, Al Dhale'e > Al Hussein,Al Dhale'e,13.85996808,44.67423913
+13227, Amran > Al Madan,Amran,16.3570904,43.87269369
+13228, Al Hudaydah > Az Zaydiyah,Al Hudaydah,15.00062889,43.04031959
+13229, Sa'ada > Saqayn,Sa'ada,17.25112185,43.50274965
+13230, Ibb > Mudhaykhirah,Ibb,14.05521633,44.26319019
+13231, Al Bayda > Sabah,Al Bayda,14.21742373,45.55495025
+13232, Al Hudaydah > Al Mighlaf,Al Hudaydah,15.00062889,43.04031959
+13233, Dhamar > Mayfa'at Anss,Dhamar,14.50737016,44.42760976
+13234, Al Dhale'e > Al Husha,Al Dhale'e,13.85996808,44.67423913
+13235, Al Bayda > Al Bayda City,Al Bayda,14.21742373,45.55495025
+13236, Hadramaut > Al Mukalla City,Hadramaut,16.80924424,48.84638589
+13237, Aden > Khur Maksar,Aden,12.84865928,45.00201169
+13238, Hadramaut > Sayun,Hadramaut,16.80924424,48.84638589
+13239, Al Bayda > Rada',Al Bayda,14.21742373,45.55495025
+13240, Socotra > Qulensya Wa Abd Al Kuri,Socotra,12.493306,54.085473
+13241, Hadramaut > Al Qatn,Hadramaut,16.80924424,48.84638589
+13242, Socotra,Socotra,12.493306,54.085473
+13243, Raymah,Raymah,14.59985617,43.68772167
+13244, Amran,Amran,16.3570904,43.87269369
+13245, Al Bayda,Al Bayda,14.21742373,45.55495025
+13246, Al Maharah,Al Maharah,16.59344354,51.59013758
+13247, Al Jawf,Al Jawf,16.76813934,46.01014819
+13248, Dhamar,Dhamar,14.50737016,44.42760976
+13249, Al Dhale'e,Al Dhale'e,13.85996808,44.67423913
+13250, Shabwah,Shabwah,14.67178974,46.95556076
+13251, Amanat Al Asimah,Amanat Al Asimah,15.36598719,44.2020645
+13252, Lahj,Lahj,12.96593663,44.41733354
+13253, Hadramaut,Hadramaut,16.80924424,48.84638589
+13254, Al Mahwit,Al Mahwit,15.40140161,43.59523566
+13255, Abyan,Abyan,13.6955485,46.50340692
+13256, Marib,Marib,15.56841151,45.76081505
+13257, Taizz,Taizz,13.39753802,43.68772167
+13258, Hajjah > Qarah,Hajjah,16.27488061,43.11225315
+13259, Hajjah > Washhah,Hajjah,16.27488061,43.11225315
+13260, Al Mahwit > Bani Sa'd,Al Mahwit,15.40140161,43.59523566
+13261, Dhamar > Wusab Al Ali,Dhamar,14.50737016,44.42760976
+13262, Hadramaut > Tarim,Hadramaut,16.80924424,48.84638589
+13263, Ibb > Al Mashannah > Al-Lahj,Ibb,14.05521633,44.26319019
+13264, Ibb > Al Dhihar > Al-Dhabr,Ibb,14.05521633,44.26319019
+13265, Lahj > Al Madaribah Wa Al Arah > Al-Saqya,Lahj,12.96593663,44.41733354
+13266, Lahj > Al Madaribah Wa Al Arah > Al-Aarah,Lahj,12.96593663,44.41733354
+13267, Amran > As Sudah,Amran,16.3570904,43.87269369
+13268, Al Bayda > Al Quraishyah,Al Bayda,14.21742373,45.55495025
+13269, Al Bayda > At Taffah,Al Bayda,14.21742373,45.55495025
+13270, Al Bayda > As Sawadiyah,Al Bayda,14.21742373,45.55495025
+13271, Sa'ada > Shada'a,Sa'ada,17.25112185,43.50274965
+13272, Al Jawf > Al Maslub,Al Jawf,16.76813934,46.01014819
+13273, Al Bayda > Radman Al Awad,Al Bayda,14.21742373,45.55495025
+13274, Abyan > Mudiyah,Abyan,13.6955485,46.50340692
+13275, Ibb > Ba'dan,Ibb,14.05521633,44.26319019
+13276, Hajjah > Al Maghrabah,Hajjah,16.27488061,43.11225315
+13277, Al Bayda > Mukayras,Al Bayda,14.21742373,45.55495025
+13278, Aden > Attawahi,Aden,12.84865928,45.00201169
+13279, Marib > Al Jubah,Marib,15.56841151,45.76081505
+13280, Al Bayda > Nati',Al Bayda,14.21742373,45.55495025
+13281, Abyan > Al Mahfad,Abyan,13.6955485,46.50340692
+13282, Aden > Craiter,Aden,12.84865928,45.00201169
+13283, Aden > Al Mualla,Aden,12.84865928,45.00201169
+13284, Marib > Jabal Murad,Marib,15.56841151,45.76081505
+13285, Al Hudaydah > Al Khawkhah > Al-Khoukhah,Al Hudaydah,15.00062889,43.04031959
+13286, Marib > Raghwan,Marib,15.56841151,45.76081505
+13287, Al Bayda > Az Zahir,Al Bayda,14.21742373,45.55495025
+13288, Lahj > Halimayn,Lahj,12.96593663,44.41733354
+13289, Lahj > Habil Jabr,Lahj,12.96593663,44.41733354
+13290, Lahj > Yafa'a,Lahj,12.96593663,44.41733354
+13291, Lahj > Yahr,Lahj,12.96593663,44.41733354
+13292, Lahj > Al Had,Lahj,12.96593663,44.41733354
+13293, Lahj > Al Maflahy,Lahj,12.96593663,44.41733354
+13294, Al Bayda > Al Malagim,Al Bayda,14.21742373,45.55495025
+13295, Hajjah > Ash Shahil,Hajjah,16.27488061,43.11225315
+13296, Al Bayda > Ar Ryashyyah,Al Bayda,14.21742373,45.55495025
+13297, Al Bayda > Ash Sharyah,Al Bayda,14.21742373,45.55495025
+13298, Hajjah > Kuhlan Affar,Hajjah,16.27488061,43.11225315
+13299, Hajjah > Kuhlan Ash Sharaf,Hajjah,16.27488061,43.11225315
+13300, Hajjah > Al Miftah,Hajjah,16.27488061,43.11225315
+13301, Hajjah > Ash Shaghadirah,Hajjah,16.27488061,43.11225315
+13302, Hajjah > Bani Al Awam,Hajjah,16.27488061,43.11225315
+13303, Hajjah > Aflah Ash Shawm,Hajjah,16.27488061,43.11225315
+13304, Marib > Majzar,Marib,15.56841151,45.76081505
+13305, Marib > Medghal,Marib,15.56841151,45.76081505
+13306, Hajjah > Sharas,Hajjah,16.27488061,43.11225315
+13307, Hajjah > Al Jamimah,Hajjah,16.27488061,43.11225315
+13308, Hajjah > Wadhrah,Hajjah,16.27488061,43.11225315
+13309, Raymah > Kusmah,Raymah,14.59985617,43.68772167
+13310, Ibb > Al Dhihar > Al-Aden Al-Aala,Ibb,14.05521633,44.26319019
+13311, Ibb > Al Mashannah > Akhbab,Ibb,14.05521633,44.26319019
+13312, Sa'ada > Sahar > Hafsein,Sa'ada,17.25112185,43.50274965
+13313, Sa'ada > Sahar > Beer Al-Wadi,Sa'ada,17.25112185,43.50274965
+13314, Sa'ada > Sahar > Qamal,Sa'ada,17.25112185,43.50274965
+13315, Sa'ada > As Safra > Damaj,Sa'ada,17.25112185,43.50274965
+13316, Dhamar > Jahran > Mabr,Dhamar,14.50737016,44.42760976
+13317, Amran > Khamir,Amran,16.3570904,43.87269369
+13318, Amran > Shaharah,Amran,16.3570904,43.87269369
+13319, Ibb > Hazm Al Udayn,Ibb,14.05521633,44.26319019
+13320, Abyan > Al Wade'a > Al-Wadhee'e,Abyan,13.6955485,46.50340692
+13321, Amran > As Sawd,Amran,16.3570904,43.87269369
+13322, Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
+13323, Al Mahwit > At Tawilah,Al Mahwit,15.40140161,43.59523566
+13324, Al Mahwit > Hufash,Al Mahwit,15.40140161,43.59523566
+13325, Abyan > Khanfir > Shaqrah,Abyan,13.6955485,46.50340692
+13326, Hadramaut > Thamud,Hadramaut,16.80924424,48.84638589
+13327, Amran > Habur Zulaymah,Amran,16.3570904,43.87269369
+13328, Amanat Al Asimah > Old City,Amanat Al Asimah,15.36598719,44.2020645
+13329, Shabwah > Ar Rawdah,Shabwah,14.67178974,46.95556076
+13330, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
+13331, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
+13332, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
+13333, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+13334, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
+13335, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
+13336, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+13337, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
+13338, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+13339, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
+13340, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+13341, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13342, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13343, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+13344, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13345, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13346, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13347, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+13348, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13349, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
 13350, Shabwah > Habban,Shabwah,14.67178974,46.95556076
-13351, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
-13352, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
-13353, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
-13354, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
-13355, Marib > Bidbadah,Marib,15.56841151,45.76081505
-13356, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
-13357, Marib > Mahliyah,Marib,15.56841151,45.76081505
-13358, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-13359, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-13360, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
-13361, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
-13362, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
-13363, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
-13364, Amran > Jabal Iyal Yazid > Al-Sararah,Amran,16.3570904,43.87269369
-13365, Al Jawf > Rajuzah,Al Jawf,16.76813934,46.01014819
-13366, Yemen > Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
-13367, Yemen > Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
-13368, Yemen > Abyan > Ahwar,Abyan,13.6955485,46.50340692
-13369, Al Hudaydah > Al Khawkhah > Al-Mahsharah,Al Hudaydah,15.00062889,43.04031959
-13370, Al Hudaydah > Al Khawkhah > Al-Qadheibah,Al Hudaydah,15.00062889,43.04031959
-13371, Al Jawf > Khabb wa ash Sha'af > Al-Yatamah,Al Jawf,16.76813934,46.01014819
-13372, Al Jawf > Khabb wa ash Sha'af > Al-Feradh,Al Jawf,16.76813934,46.01014819
-13373, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
-13374, Al Bayda > Na'man,Al Bayda,14.21742373,45.55495025
-13375, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
-13376, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
-13377, Hajjah > Aslem > Al-Waset,Hajjah,16.27488061,43.11225315
-13378, Sa'ada > Al Dhaher > Baitah,Sa'ada,17.25112185,43.50274965
-13379, Sa'ada > Al Dhaher > Al-Qaoud,Sa'ada,17.25112185,43.50274965
+13351, Shabwah > Arma,Shabwah,14.67178974,46.95556076
+13352, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
+13353, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
+13354, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
+13355, Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
+13356, Marib > Bidbadah,Marib,15.56841151,45.76081505
+13357, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
+13358, Marib > Mahliyah,Marib,15.56841151,45.76081505
+13359, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13360, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+13361, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+13362, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
+13363, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
+13364, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
+13365, Amran > Jabal Iyal Yazid > Al-Sararah,Amran,16.3570904,43.87269369
+13366, Al Jawf > Rajuzah,Al Jawf,16.76813934,46.01014819
+13367, Yemen > Al Hudaydah > Bajil,Al Hudaydah,15.00062889,43.04031959
+13368, Yemen > Al Hudaydah > As Salif,Al Hudaydah,15.00062889,43.04031959
+13369, Yemen > Abyan > Ahwar,Abyan,13.6955485,46.50340692
+13370, Al Hudaydah > Al Khawkhah > Al-Mahsharah,Al Hudaydah,15.00062889,43.04031959
+13371, Al Hudaydah > Al Khawkhah > Al-Qadheibah,Al Hudaydah,15.00062889,43.04031959
+13372, Al Jawf > Khabb wa ash Sha'af > Al-Yatamah,Al Jawf,16.76813934,46.01014819
+13373, Al Jawf > Khabb wa ash Sha'af > Al-Feradh,Al Jawf,16.76813934,46.01014819
+13374, Al Jawf > Khabb wa ash Sha'af > Al-Khanq,Al Jawf,16.76813934,46.01014819
+13375, Al Bayda > Na'man,Al Bayda,14.21742373,45.55495025
+13376, Hadramaut > Al Abr > Al-Abr,Hadramaut,16.80924424,48.84638589
+13377, Yemen > Lahj > Tuban,Lahj,12.96593663,44.41733354
+13378, Hajjah > Aslem > Al-Waset,Hajjah,16.27488061,43.11225315
+13379, Sa'ada > Al Dhaher > Baitah,Sa'ada,17.25112185,43.50274965
+13380, Sa'ada > Al Dhaher > Al-Qaoud,Sa'ada,17.25112185,43.50274965
