@@ -93,6 +93,7 @@ AllocationType,AllocationtypeId
 (COD) RA5-Déc 2024-Réponse multisectorielle d’urgence aux besoins prioritaires des personnes affectées par la crise dans les territoires de Kabambare (Maniema) et Kongolo (Tanganyika),138324
 (COD) RA3 – Août 2024 : Crise de longue durée dans le territoire de Djugu : une réponse intégrée et durable aux besoins des personnes déplacées et retournées,132824
 (COD) 	ST Avril 2024 - Première Allocation Standard 2024 _ Escalade de la Crise M23 au Nord et Sud Kivu : Réponse aux besoins vitaux et appui aux moyens de subsistance des communautés affectées,54024
+"(COD) RA1 - Avril 2025 - Réponse humanitaire multisectorielle aux besoins des populations déplacés retournées et communautés hôtes dans les provinces du Nord-Kivu, Sud-Kivu et Ituri",142224
 (COD) Allocation Reserve COVID - 2020,25724
 (COD) UR juin 2020 - Allocation Reserve – Mbandaka,27324
 (COD) UR août 2020 - Allocation Reserve – Ituri,28424
@@ -443,6 +444,7 @@ AllocationType,AllocationtypeId
 (SDN) 2024 - SHF Reserve for Emergencies (SHF 48h response [Rapid funding to newly emerging humanitarian needs in the wider Sudan humanitarian crisis] ),129515
 (SDN) 2024 - SHF Reserve for Emergencies (Lifesaving response to displacement and famine in Sudan),130015
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 2 ),130415
+(SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 3),132615
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 4),134015
 (SDN) 2024 - SHF Reserve for Emergencies (In kind food distributions in Zam Zam camp),134815
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of funds: SHF 48hrs response and Funds to Multual-Aid Groups),137015
@@ -569,6 +571,7 @@ AllocationType,AllocationtypeId
 (UKR) 2024 First Reserve Allocation (Winterization),128381
 (UKR) 2024 UHF Second Reserve Allocation,135481
 (UKR) 2024 First Standard Allocation,52181
+(UKR) 2025 First Reserve Allocation (Winter Response),147081
 (UKR) 2025 First Standard Allocation,138881
 (UKR) 2019 UHF 1st Standard Allocation,21781
 (UKR) 2020 UHF COVID-19 Allocation for Eastern Ukraine,24881
