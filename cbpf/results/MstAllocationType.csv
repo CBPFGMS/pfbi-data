@@ -247,6 +247,7 @@ AllocationType,AllocationtypeId
 (LBN) 2022 2nd Reserve Allocation,44471
 (LBN) 2022 1st Standard Allocation,40571
 (MLI) 2023 Standard Allocation,49486
+(MLI) 2024 Standard Allocation,133386
 (MMR) 2023 First Reserve Allocation,47459
 (MMR) 2023 Fourth Reserve Allocation,51459
 (MMR) 2023 Second Reserve Allocation,48559
@@ -502,6 +503,7 @@ AllocationType,AllocationtypeId
 (SYR) First Standard Allocation - 2024,129462
 (SYR) 2025 Third Reserve Allocation,144062
 (SYR) First Reserve Allocation 2025,139362
+(SYR) First Standard Allocation 2025,145362
 (SYR) 1st Standard Allocation-2017,9362
 (SYR) 2nd Standard Allocation 2017,13262
 (SYR) 2017 Reserve Allocation,9962
