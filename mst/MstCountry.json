@@ -4318,23 +4318,6 @@
     "AreaType": "Country"
   },
   {
-    "id": 253,
-    "PooledFundName": "Colombia (RhPF)",
-    "PooledFundNameAbbrv": "Colombia (RhPF)",
-    "RegionName": "Latin America",
-    "RegionNameArr": "Latin America",
-    "SubRegionName": "South America",
-    "ContinentName": "Americas",
-    "CountryCode": "COL",
-    "ISO2Code": "CO",
-    "latitude": 4.570868,
-    "longitude": -74.297333,
-    "CBPFFundStatus":"",
-    "CBPFId": 87,
-    "CERFId": 24,
-    "AreaType": "Country"
-  },
-  {
     "id": 254,
     "PooledFundName": "Haiti (RhPF)",
     "PooledFundNameAbbrv": "Haiti (RhPF)",
