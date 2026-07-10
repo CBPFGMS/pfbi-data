@@ -3,12 +3,12 @@
     "donors": 49,
     "funds": 22,
     "contribTotalAmt": 465300060.06560004,
-    "contribPaidAmt": 356727863.77000004,
-    "contribPledgedAmt": 108572196.29559998,
-    "allocAmt": 181736325.16,
+    "contribPaidAmt": 406727863.77000004,
+    "contribPledgedAmt": 58572196.2956,
+    "allocAmt": 193736885.57999998,
     "underApprovalAmt": "0",
     "year": "2026",
-    "projectsFunded": 98,
+    "projectsFunded": 103,
     "partnersFunded": 10,
     "partnersFundedByType": [
         {
