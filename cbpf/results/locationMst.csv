@@ -12481,51 +12481,51 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12006, Donetska > Marinskyi > Marinskyi > Kurakhove,Donetska,48.047609,37.673962
 12007, Donetska > Bakhmutskyi > Bakhmutskyi > Novoluhanske,Donetska,48.047609,37.673962
 12008, Luhanska > Sievierodonetska > Sievierodonetska > Sievierodonetsk,Luhanska,48.985485,39.017663
-12009, Donetska > Bakhmutska > Bakhmutska > Bakhmut,Donetska,48.047609,37.673962
-12010, Donetska > Toretska > Toretska > Zalizne,Donetska,48.047609,37.673962
-12011, Donetska > Bakhmutskyi > Bakhmutskyi > Myronivka,Donetska,48.047609,37.673962
-12012, Donetska > Volnovaskyi > Volnovaskyi > Pyshchevyk,Donetska,48.047609,37.673962
+12009, Donetska > Toretska > Toretska > Zalizne,Donetska,48.047609,37.673962
+12010, Donetska > Bakhmutska > Bakhmutska > Bakhmut,Donetska,48.047609,37.673962
+12011, Donetska > Volnovaskyi > Volnovaskyi > Pyshchevyk,Donetska,48.047609,37.673962
+12012, Donetska > Bakhmutskyi > Bakhmutskyi > Myronivka,Donetska,48.047609,37.673962
 12013, Donetska > Bakhmutskyi > Bakhmutskyi > Klishchiivka,Donetska,48.047609,37.673962
-12014, Donetska > Kostiantynivskyi > Kostiantynivskyi > Illinivka,Donetska,48.047609,37.673962
-12015, Donetska > Bakhmutskyi > Bakhmutskyi > Roty,Donetska,48.047609,37.673962
-12016, Donetska > Toretska > Toretska > Pivnichne,Donetska,48.047609,37.673962
-12017, Donetska > Toretska > Toretska > Druzhba,Donetska,48.047609,37.673962
-12018, Donetska > Bakhmutskyi > Bakhmutskyi > Serebrianka,Donetska,48.047609,37.673962
-12019, Donetska > Volnovaskyi > Volnovaskyi > Chernenko,Donetska,48.047609,37.673962
+12014, Donetska > Bakhmutskyi > Bakhmutskyi > Roty,Donetska,48.047609,37.673962
+12015, Donetska > Kostiantynivskyi > Kostiantynivskyi > Illinivka,Donetska,48.047609,37.673962
+12016, Donetska > Toretska > Toretska > Druzhba,Donetska,48.047609,37.673962
+12017, Donetska > Bakhmutskyi > Bakhmutskyi > Serebrianka,Donetska,48.047609,37.673962
+12018, Donetska > Volnovaskyi > Volnovaskyi > Chernenko,Donetska,48.047609,37.673962
+12019, Donetska > Toretska > Toretska > Pivnichne,Donetska,48.047609,37.673962
 12020, Donetska > Yasynuvatskyi > Yasynuvatskyi > Krasnohorivka,Donetska,48.047609,37.673962
-12021, Donetska > Bakhmutskyi > Bakhmutskyi > Vozdvyzhenka,Donetska,48.047609,37.673962
-12022, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Plotyna,Luhanska,48.985485,39.017663
-12023, Luhanska > Sievierodonetska > Sievierodonetska > Bobrove,Luhanska,48.985485,39.017663
-12024, Donetska > Marinskyi > Marinskyi > Novomykhailivka,Donetska,48.047609,37.673962
+12021, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Plotyna,Luhanska,48.985485,39.017663
+12022, Donetska > Bakhmutskyi > Bakhmutskyi > Vozdvyzhenka,Donetska,48.047609,37.673962
+12023, Donetska > Marinskyi > Marinskyi > Novomykhailivka,Donetska,48.047609,37.673962
+12024, Luhanska > Sievierodonetska > Sievierodonetska > Bobrove,Luhanska,48.985485,39.017663
 12025, Donetska > Yasynuvatskyi > Yasynuvatskyi > Netailove,Donetska,48.047609,37.673962
-12026, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pervomaiske,Donetska,48.047609,37.673962
-12027, Donetska > Bakhmutskyi > Bakhmutskyi > Zelenopillia,Donetska,48.047609,37.673962
+12026, Donetska > Bakhmutskyi > Bakhmutskyi > Zelenopillia,Donetska,48.047609,37.673962
+12027, Donetska > Yasynuvatskyi > Yasynuvatskyi > Pervomaiske,Donetska,48.047609,37.673962
 12028, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnia Vilkhova,Luhanska,48.985485,39.017663
 12029, Luhanska > Novoaidarskyi > Novoaidarskyi > Hrechyshkyne,Luhanska,48.985485,39.017663
-12030, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnia Vilkhova,Luhanska,48.985485,39.017663
-12031, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Kolesnykivka,Luhanska,48.985485,39.017663
+12030, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Kolesnykivka,Luhanska,48.985485,39.017663
+12031, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnia Vilkhova,Luhanska,48.985485,39.017663
 12032, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Artema,Luhanska,48.985485,39.017663
 12033, Donetska > Volnovaskyi > Volnovaskyi > Mykolaivka,Donetska,48.047609,37.673962
 12034, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Zolotarivka,Luhanska,48.985485,39.017663
-12035, Luhanska > Novoaidarskyi > Novoaidarskyi > Bakhmutivka,Luhanska,48.985485,39.017663
-12036, Donetska > Bakhmutskyi > Bakhmutskyi > Vesela Dolyna,Donetska,48.047609,37.673962
+12035, Donetska > Bakhmutskyi > Bakhmutskyi > Vesela Dolyna,Donetska,48.047609,37.673962
+12036, Luhanska > Novoaidarskyi > Novoaidarskyi > Bakhmutivka,Luhanska,48.985485,39.017663
 12037, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Pshenychne,Luhanska,48.985485,39.017663
 12038, Donetska > Bakhmutskyi > Bakhmutskyi > Odradivka,Donetska,48.047609,37.673962
-12039, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Yuhanivka,Luhanska,48.985485,39.017663
-12040, Donetska > Volnovaskyi > Volnovaskyi > Orlovske,Donetska,48.047609,37.673962
-12041, Donetska > Bakhmutskyi > Bakhmutskyi > Midna Ruda,Donetska,48.047609,37.673962
-12042, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnii Minchenok,Luhanska,48.985485,39.017663
-12043, Donetska > Avdiivska > Avdiivska > Avdiivka,Donetska,48.047609,37.673962
-12044, Luhanska > Novoaidarskyi > Novoaidarskyi > Trokhizbenka,Luhanska,48.985485,39.017663
+12039, Donetska > Volnovaskyi > Volnovaskyi > Orlovske,Donetska,48.047609,37.673962
+12040, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Yuhanivka,Luhanska,48.985485,39.017663
+12041, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Verkhnii Minchenok,Luhanska,48.985485,39.017663
+12042, Donetska > Bakhmutskyi > Bakhmutskyi > Midna Ruda,Donetska,48.047609,37.673962
+12043, Luhanska > Novoaidarskyi > Novoaidarskyi > Trokhizbenka,Luhanska,48.985485,39.017663
+12044, Donetska > Avdiivska > Avdiivska > Avdiivka,Donetska,48.047609,37.673962
 12045, Donetska > Bakhmutskyi > Bakhmutskyi > Semyhiria,Donetska,48.047609,37.673962
 12046, Luhanska > Popasnianskyi > Popasnianskyi > Popasna,Luhanska,48.985485,39.017663
-12047, Luhanska > Popasnianskyi > Popasnianskyi > Novotoshkivske,Luhanska,48.985485,39.017663
-12048, Donetska > Bakhmutskyi > Bakhmutskyi > Kodema,Donetska,48.047609,37.673962
+12047, Donetska > Bakhmutskyi > Bakhmutskyi > Kodema,Donetska,48.047609,37.673962
+12048, Luhanska > Popasnianskyi > Popasnianskyi > Novotoshkivske,Luhanska,48.985485,39.017663
 12049, Donetska > Bakhmutskyi > Bakhmutskyi > Pylypchatyne,Donetska,48.047609,37.673962
 12050, Luhanska > Popasnianskyi > Popasnianskyi > Vyskryva,Luhanska,48.985485,39.017663
 12051, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Malynove,Luhanska,48.985485,39.017663
-12052, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Serednoteple,Luhanska,48.985485,39.017663
-12053, Donetska > Volnovaskyi > Volnovaskyi > Novotroitske,Donetska,48.047609,37.673962
+12052, Donetska > Volnovaskyi > Volnovaskyi > Novotroitske,Donetska,48.047609,37.673962
+12053, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Serednoteple,Luhanska,48.985485,39.017663
 12054, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Nyzhnii Minchenok,Luhanska,48.985485,39.017663
 12055, Luhanska > Stanychno-Luhanskyi > Stanychno-Luhanskyi > Peredilske,Luhanska,48.985485,39.017663
 12056, Donetska > Yasynuvatskyi > Yasynuvatskyi > Oleksandropil,Donetska,48.047609,37.673962
@@ -13997,9 +13997,9 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13511, Marib > Bidbadah,Marib,15.56841151,45.76081505
 13512, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 13513, Marib > Mahliyah,Marib,15.56841151,45.76081505
-13514, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-13515, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-13516, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+13514, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+13515, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
+13516, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 13517, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 13518, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
 13519, Shabwah > Merkhah As Sufla,Shabwah,14.67178974,46.95556076
