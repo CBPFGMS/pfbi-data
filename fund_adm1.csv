@@ -302,7 +302,7 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 7,3,2025,Rajshahi,24.4611511,88.6888703,0,1
 7,3,2025,Rangpur,25.833558,88.9939966,0,1
 10,3,2014,Beni,-14,-65,0,1
-10,3,2025,Beni,-14,-65,0,1
+Bolivia (Plurinational State of),3,2025,Beni,-14,-65,0,1
 13,4,2014,Centre,19.00959214,-71.98452022,0,1
 13,4,2014,Centre-Ouest,11.9067933,-2.304480066,0,1
 13,4,2014,Est,12.2527495,0.8736106,0,1
@@ -1888,22 +1888,6 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 80,4,2024,South Kordofan,11.1990192,29.4179324,0,1
 80,4,2024,West Darfur,12.8463561,23.0011989,0,1
 80,4,2024,West Kordofan,11.898719,28.122556,0,1
-80,4,2025,Blue Nile,0,0,0,1
-80,4,2025,Central Darfur,0,0,0,1
-80,4,2025,East Darfur,14.3782747,24.9042208,0,1
-80,4,2025,Gedaref,0,0,0,1
-80,4,2025,Kassala,0,0,0,1
-80,4,2025,Khartoum,0,0,0,1
-80,4,2025,North Darfur,15.7661969,24.9042208,0,1
-80,4,2025,North Kordofan,13.8306441,29.4179324,0,1
-80,4,2025,Northern,0,0,0,1
-80,4,2025,Red Sea,0,0,0,1
-80,4,2025,Sennar,0,0,0,1
-80,4,2025,South Darfur,11.6488639,24.9042208,0,1
-80,4,2025,South Kordofan,11.1990192,29.4179324,0,1
-80,4,2025,West Darfur,12.8463561,23.0011989,0,1
-80,4,2025,West Kordofan,11.898719,28.122556,0,1
-80,4,2025,White Nile,0,0,0,1
 80,3,2014,Central Darfur,0,0,0,1
 80,3,2014,Khartoum,0,0,0,1
 80,3,2014,North Darfur,15.7661969,24.9042208,0,1
@@ -1937,6 +1921,22 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 80,3,2020,Gedaref,0,0,0,1
 80,3,2020,Kassala,0,0,0,1
 80,3,2021,West Darfur,12.8463561,23.0011989,0,1
+80,4,2025,Blue Nile,0,0,0,1
+80,4,2025,Central Darfur,0,0,0,1
+80,4,2025,East Darfur,14.3782747,24.9042208,0,1
+80,4,2025,Gedaref,0,0,0,1
+80,4,2025,Kassala,0,0,0,1
+80,4,2025,Khartoum,0,0,0,1
+80,4,2025,North Darfur,15.7661969,24.9042208,0,1
+80,4,2025,North Kordofan,13.8306441,29.4179324,0,1
+80,4,2025,Northern,0,0,0,1
+80,4,2025,Red Sea,0,0,0,1
+80,4,2025,Sennar,0,0,0,1
+80,4,2025,South Darfur,11.6488639,24.9042208,0,1
+80,4,2025,South Kordofan,11.1990192,29.4179324,0,1
+80,4,2025,West Darfur,12.8463561,23.0011989,0,1
+80,4,2025,West Kordofan,11.898719,28.122556,0,1
+80,4,2025,White Nile,0,0,0,1
 80,3,2024,Blue Nile,0,0,0,1
 80,3,2024,Central Darfur,0,0,0,1
 80,3,2024,East Darfur,14.3782747,24.9042208,0,1
@@ -2268,10 +2268,6 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 102,4,2022,Amazonas,3.36082497,-65.94378949,0,1
 102,4,2022,Apure,7.13057670,-68.80698907,0,1
 102,4,2022,Sucre,10.40997648,-63.34957604,0,1
-102,4,2025,Bolívar,6.23411231,-63.52467747,0,1
-102,4,2025,Sucre,10.40997648,-63.34957604,0,1
-102,4,2025,Táchira,7.89922084,-72.01922808,0,1
-102,4,2025,Zulia,9.89615762,-72.08659410,0,1
 102,3,2018,Anzoátegui,8.94112819,-64.42571176,0,1
 102,3,2018,Apure,7.13057670,-68.80698907,0,1
 102,3,2018,Bolívar,6.23411231,-63.52467747,0,1
@@ -2279,18 +2275,22 @@ PooledFundId,AllocationSourceId,AllocationYear,AdminLocation1,AdminLocation1Lati
 102,3,2018,Miranda,10.23749130,-66.37928634,0,1
 102,3,2018,Táchira,7.89922084,-72.01922808,0,1
 102,3,2018,Zulia,9.89615762,-72.08659410,0,1
-102,3,2025,Apure,7.13057670,-68.80698907,0,1
-102,3,2026,Distrito Capital,10.46971283,-66.99452881,0,1
-102,3,2026,La Guaira,10.54383755,-66.89969943,0,1
-102,3,2026,Miranda,10.23749130,-66.37928634,0,1
-102,3,2026,Sucre,10.40997648,-63.34957604,0,1
+Venezuela (Bolivarian Republic of),4,2025,Bolívar,6.23411231,-63.52467747,0,1
+Venezuela (Bolivarian Republic of),4,2025,Sucre,10.40997648,-63.34957604,0,1
+Venezuela (Bolivarian Republic of),4,2025,Táchira,7.89922084,-72.01922808,0,1
+Venezuela (Bolivarian Republic of),4,2025,Zulia,9.89615762,-72.08659410,0,1
+Venezuela (Bolivarian Republic of),3,2025,Apure,7.13057670,-68.80698907,0,1
+Venezuela (Bolivarian Republic of),3,2026,Distrito Capital,10.46971283,-66.99452881,0,1
+Venezuela (Bolivarian Republic of),3,2026,La Guaira,10.54383755,-66.89969943,0,1
+Venezuela (Bolivarian Republic of),3,2026,Miranda,10.23749130,-66.37928634,0,1
+Venezuela (Bolivarian Republic of),3,2026,Sucre,10.40997648,-63.34957604,0,1
+Iran (Islamic Republic of),3,2026,Tehran,35.6892523,51.3896004,0,1
 50,3,2019,Fars,29.299051,53.218456,0,1
 50,3,2019,Golestan,37.1984436,55.070672,0,1
 50,3,2019,Ilam,33.1545696,46.7576343,0,1
 50,3,2019,Khuzestan,31.5535141,49.0077168,0,1
 50,3,2019,Lorestan,33.5372643,48.2435197,0,1
 50,3,2023,West Azerbaijan,36.5260573,46.2151892,0,1
-50,3,2026,Tehran,35.6892523,51.3896004,0,1
 67,4,2014,Chin,22,93.5,0,1
 67,4,2014,Kachin,26,97.5,0,1
 67,4,2014,Rakhine,19.5,94,0,1
