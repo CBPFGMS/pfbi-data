@@ -1168,80 +1168,80 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1089, Afghanistan > Baghlan > Tala Wa Barfak,Baghlan,36.00691852,68.64517059
 780, Afghanistan > Samangan > Khuram Wa Sarbagh,Samangan,36.29707597,68.33374291
 913, Afghanistan > Laghman > Dawlatshah,Laghman,34.63364302,69.9509127
-1090, Afghanistan > Kunar > Khas Kunar,Kunar,34.87348561,71.12998779
 1024, Afghanistan > Laghman > Mehtarlam,Laghman,34.63364302,69.9509127
+1090, Afghanistan > Kunar > Khas Kunar,Kunar,34.87348561,71.12998779
 1091, Afghanistan > Farah > Shibkoh,Farah,32.23521779,62.20838147
-1092, Afghanistan > Paktya > Dand Wa Patan,Paktya,33.60166035,69.2213731
+1092, Afghanistan > Paktya > Lija Ahmad Khel,Paktya,33.60166035,69.2213731
 977, Afghanistan > Farah > Lash-e-Juwayn,Farah,32.23521779,62.20838147
-1093, Afghanistan > Paktya > Lija Ahmad Khel,Paktya,33.60166035,69.2213731
+1093, Afghanistan > Paktya > Dand Wa Patan,Paktya,33.60166035,69.2213731
 1094, Afghanistan > Ghazni > Giro,Ghazni,33.53816656,68.44471019
-1095, Afghanistan > Hirat > Pashtun Zarghun,Hirat,34.34771806,62.29626835
 864, Afghanistan > Ghazni > Jaghatu,Ghazni,33.53816656,68.44471019
+1095, Afghanistan > Hirat > Pashtun Zarghun,Hirat,34.34771806,62.29626835
 863, Afghanistan > Ghazni > Jaghuri,Ghazni,33.53816656,68.44471019
-739, Afghanistan > Farah > Bakwa,Farah,32.23521779,62.20838147
-1096, Afghanistan > Farah > Pur Chaman,Farah,32.23521779,62.20838147
 999, Afghanistan > Farah > Qala-e-Kah,Farah,32.23521779,62.20838147
+1096, Afghanistan > Farah > Pur Chaman,Farah,32.23521779,62.20838147
+739, Afghanistan > Farah > Bakwa,Farah,32.23521779,62.20838147
 1097, Afghanistan > Ghazni > Malistan,Ghazni,33.53816656,68.44471019
-1098, Afghanistan > Kabul > Khak-e-Jabbar,Kabul,34.5254379,69.13517912
+1098, Afghanistan > Ghazni > Khwaja Umari,Ghazni,33.53816656,68.44471019
 723, Afghanistan > Ghazni > Ghazni,Ghazni,33.53816656,68.44471019
-1099, Afghanistan > Ghazni > Khwaja Umari,Ghazni,33.53816656,68.44471019
+1099, Afghanistan > Kabul > Khak-e-Jabbar,Kabul,34.5254379,69.13517912
 1100, Afghanistan > Hilmand > Musa Qala,Hilmand,31.44659522,64.51959248
-1101, Afghanistan > Ghazni > Deh Yak,Ghazni,33.53816656,68.44471019
+1101, Afghanistan > Hilmand > Nahr-e-Saraj,Hilmand,31.44659522,64.51959248
 804, Afghanistan > Ghazni > Muqur,Ghazni,33.53816656,68.44471019
-1102, Afghanistan > Hilmand > Nahr-e-Saraj,Hilmand,31.44659522,64.51959248
-738, Afghanistan > Hilmand > Kajaki,Hilmand,31.44659522,64.51959248
+1102, Afghanistan > Ghazni > Deh Yak,Ghazni,33.53816656,68.44471019
 867, Afghanistan > Ghazni > Waghaz,Ghazni,33.53816656,68.44471019
+738, Afghanistan > Hilmand > Kajaki,Hilmand,31.44659522,64.51959248
 887, Afghanistan > Hirat > Ghoryan,Hirat,34.34771806,62.29626835
-796, Afghanistan > Ghazni > Gelan,Ghazni,33.53816656,68.44471019
 959, Afghanistan > Ghor > Dawlatyar,Ghor,34.72378469,65.32373978
+796, Afghanistan > Ghazni > Gelan,Ghazni,33.53816656,68.44471019
 1028, Afghanistan > Kandahar > Nesh,Kandahar,31.51268617,65.70859557
-914, Afghanistan > Khost > Qalandar,Khost,33.35905236,70.01183825
-1034, Afghanistan > Hilmand > Nawa-e-Barakzaiy,Hilmand,31.44659522,64.51959248
 893, Afghanistan > Hirat > Obe,Hirat,34.34771806,62.29626835
+1034, Afghanistan > Hilmand > Nawa-e-Barakzaiy,Hilmand,31.44659522,64.51959248
+914, Afghanistan > Khost > Qalandar,Khost,33.35905236,70.01183825
 1103, Afghanistan > Khost > Bak,Khost,33.35905236,70.01183825
 960, Afghanistan > Ghor > DoLayna,Ghor,34.72378469,65.32373978
 1104, Afghanistan > Kunar > Dara-e-Pech,Kunar,34.87348561,71.12998779
-1105, Afghanistan > Kunar > Bar Kunar,Kunar,34.87348561,71.12998779
+1105, Afghanistan > Logar > Baraki Barak,Logar,33.9737802,69.0528351
 1106, Afghanistan > Kandahar > Arghandab,Kandahar,31.51268617,65.70859557
-1107, Afghanistan > Logar > Baraki Barak,Logar,33.9737802,69.0528351
+1107, Afghanistan > Kunar > Bar Kunar,Kunar,34.87348561,71.12998779
 1108, Afghanistan > Khost > Musa Khel,Khost,33.35905236,70.01183825
 1109, Afghanistan > Hilmand > Garmser,Hilmand,31.44659522,64.51959248
 862, Afghanistan > Ghazni > Nawa,Ghazni,33.53816656,68.44471019
+1110, Afghanistan > Maidan Wardak > Daymirdad,Maidan Wardak,34.44613337,68.82466912
+1111, Afghanistan > Maidan Wardak > Jalrez,Maidan Wardak,34.44613337,68.82466912
 846, Afghanistan > Logar > Azra,Logar,33.9737802,69.0528351
-1110, Afghanistan > Maidan Wardak > Jalrez,Maidan Wardak,34.44613337,68.82466912
-1111, Afghanistan > Maidan Wardak > Daymirdad,Maidan Wardak,34.44613337,68.82466912
 812, Afghanistan > Kunar > Nari,Kunar,34.87348561,71.12998779
-1112, Afghanistan > Hilmand > Nad-e-Ali,Hilmand,31.44659522,64.51959248
+1112, Afghanistan > Khost > Sabari,Khost,33.35905236,70.01183825
 991, Afghanistan > Kabul > Guldara,Kabul,34.5254379,69.13517912
-1113, Afghanistan > Khost > Sabari,Khost,33.35905236,70.01183825
+1113, Afghanistan > Hilmand > Nad-e-Ali,Hilmand,31.44659522,64.51959248
 837, Afghanistan > Kandahar > Khakrez,Kandahar,31.51268617,65.70859557
+1114, Afghanistan > Parwan > Jabal Saraj,Parwan,34.98721774,69.14395115
+1115, Afghanistan > Paktika > Giyan,Paktika,33.21164752,68.74733968
 815, Afghanistan > Logar > Charkh,Logar,33.9737802,69.0528351
-1114, Afghanistan > Paktika > Giyan,Paktika,33.21164752,68.74733968
-1115, Afghanistan > Parwan > Jabal Saraj,Parwan,34.98721774,69.14395115
 1116, Afghanistan > Logar > Mohammad Agha,Logar,33.9737802,69.0528351
-801, Afghanistan > Hilmand > Nawzad,Hilmand,31.44659522,64.51959248
-1002, Afghanistan > Khost > Shamal,Khost,33.35905236,70.01183825
 954, Afghanistan > Logar > Kharwar,Logar,33.9737802,69.0528351
-807, Afghanistan > Kabul > Surobi,Kabul,34.5254379,69.13517912
-1117, Afghanistan > Parwan > Bagram,Parwan,34.98721774,69.14395115
+1002, Afghanistan > Khost > Shamal,Khost,33.35905236,70.01183825
+801, Afghanistan > Hilmand > Nawzad,Hilmand,31.44659522,64.51959248
 917, Afghanistan > Daykundi > Miramor,Daykundi,33.76701077,66.07141955
+1117, Afghanistan > Parwan > Bagram,Parwan,34.98721774,69.14395115
+807, Afghanistan > Kabul > Surobi,Kabul,34.5254379,69.13517912
 1118, Afghanistan > Maidan Wardak > Jaghatu,Maidan Wardak,34.44613337,68.82466912
-1119, Afghanistan > Maidan Wardak > Saydabad,Maidan Wardak,34.44613337,68.82466912
 730, Afghanistan > Paktika > Gomal,Paktika,33.21164752,68.74733968
+1119, Afghanistan > Maidan Wardak > Saydabad,Maidan Wardak,34.44613337,68.82466912
 1120, Afghanistan > Parwan > Sayed Khel,Parwan,34.98721774,69.14395115
-861, Afghanistan > Ghazni > Rashidan,Ghazni,33.53816656,68.44471019
 1121, Afghanistan > Paktika > Sharan,Paktika,33.21164752,68.74733968
+861, Afghanistan > Ghazni > Rashidan,Ghazni,33.53816656,68.44471019
 1122, Afghanistan > Maidan Wardak > Nerkh,Maidan Wardak,34.44613337,68.82466912
-1123, Afghanistan > Paktika > Dila,Paktika,33.21164752,68.74733968
 943, Afghanistan > Paktika > Urgun,Paktika,33.21164752,68.74733968
+1123, Afghanistan > Paktika > Dila,Paktika,33.21164752,68.74733968
 1124, Afghanistan > Paktika > Yahya Khel,Paktika,33.21164752,68.74733968
-1125, Afghanistan > Kapisa > Hisa-e-Awal-e-Kohistan,Kapisa,35.00899482,69.4112635
+1125, Afghanistan > Farah > Anar Dara,Farah,32.23521779,62.20838147
 1126, Afghanistan > Hirat > Kushk-e-Kuhna,Hirat,34.34771806,62.29626835
-1127, Afghanistan > Farah > Anar Dara,Farah,32.23521779,62.20838147
+1127, Afghanistan > Kapisa > Hisa-e-Awal-e-Kohistan,Kapisa,35.00899482,69.4112635
 921, Afghanistan > Paktya > Chamkani,Paktya,33.60166035,69.2213731
-1128, Afghanistan > Kunar > Dangam,Kunar,34.87348561,71.12998779
+1128, Afghanistan > Paktika > Zarghun Shahr,Paktika,33.21164752,68.74733968
 1129, Afghanistan > Paktika > Jani Khel,Paktika,33.21164752,68.74733968
-1130, Afghanistan > Paktika > Zarghun Shahr,Paktika,33.21164752,68.74733968
+1130, Afghanistan > Kunar > Dangam,Kunar,34.87348561,71.12998779
 1131, Afghanistan > Paktya > Jani Khel,Paktya,33.60166035,69.2213731
 1132, Afghanistan > Ghazni > Qara Bagh,Ghazni,33.53816656,68.44471019
 922, Afghanistan > Kabul > Estalef,Kabul,34.5254379,69.13517912
@@ -7093,7 +7093,6 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 6637,Middle Shabelle -> Aden Yabaal -> Boos-Caduur,Middle Shabelle,2.825,45.937
 6638,Middle Shabelle -> Balcad -> Istanbuul,Middle Shabelle,2.825,45.937
 6639,Middle Shabelle -> Balcad -> Cadayga Moobleen,Middle Shabelle,2.825,45.937
-6603,Middle Shabelle -> Aden Yabaal -> Adan Yabaal,Aden Yabaal,3.77837,46.246441
 6640,Banadir -> Mogadishu-Dharkenley,Banadir,2.115,45.467
 6641,Bay -> Baidoa -> Roobay,Bay,2.676,43.738
 6642,Bay -> Baidoa -> Tagaal,Bay,2.676,43.738
@@ -8330,33 +8329,33 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 7873, South Darfur > Kass (without Kass camp),South Darfur,11.6488639,24.9042208
 7874, North Kordofan,North Kordofan,13.8306441,29.4179324
 7875, Gedaref,Gedaref,14.033333,35.383333
-7876, West Darfur,West Darfur,12.8463561,23.0011989
+7876, Northern,Northern,18.4448963,30.1589303
 7877, Abyei,Abyei,9.595,28.436
-7878, Northern,Northern,18.4448963,30.1589303
+7878, East Darfur,East Darfur,14.3782747,24.9042208
 7879, Nile,Nile,18.7325598,32.1381686
-7880, North Darfur,North Darfur,15.7661969,24.9042208
+7880, Kassala,Kassala,15.45,36.4
 7881, Blue Nile,Blue Nile,11.5860078,34.1531947
-7882, East Darfur,East Darfur,14.3782747,24.9042208
-7883, White Nile,White Nile,13.2403881,32.5372741
-7884, Al Gezira,Al Gezira,14.0202857,33.0865844
-7885, Sennar,Sennar,13.567469,33.5672045
-7886, Kassala,Kassala,15.45,36.4
-7887, West Kordofan,West Kordofan,11.898719,28.122556
-7888, South Darfur,South Darfur,11.6488639,24.9042208
-7889, Red Sea,Red Sea,19.4556063,35.2148469
-7890, South Kordofan,South Kordofan,11.1990192,29.4179324
-7891, Central Darfur,Central Darfur,12.3333,23.4167
-7892, Khartoum,Khartoum,15.566667,32.516667
-7893, West Darfur > Foro Baranga(Foro Baranga & Mangarasa camps),West Darfur,12.8463561,23.0011989
-7894, Sennar > El Souki,Sennar,13.567469,33.5672045
-7895, North Darfur > Kebkabiya,North Darfur,15.7661969,24.9042208
-7896, Khartoum > Bahri,Khartoum,15.566667,32.516667
-7897, North Darfur > El Fasher,North Darfur,15.7661969,24.9042208
-7898, Sennar > Sinjja,Sennar,13.567469,33.5672045
-7899, West Darfur > Kreinik,West Darfur,12.8463561,23.0011989
-7900, Khartoum > Jebal Aulya,Khartoum,15.566667,32.516667
-7901, Red Sea > Toker,Red Sea,19.4556063,35.2148469
-7902, Red Sea > Haya,Red Sea,19.4556063,35.2148469
+7882, White Nile,White Nile,13.2403881,32.5372741
+7883, Sennar,Sennar,13.567469,33.5672045
+7884, West Kordofan,West Kordofan,11.898719,28.122556
+7885, Red Sea,Red Sea,19.4556063,35.2148469
+7886, South Kordofan,South Kordofan,11.1990192,29.4179324
+7887, Central Darfur,Central Darfur,12.3333,23.4167
+7888, Khartoum,Khartoum,15.566667,32.516667
+7889, West Darfur,West Darfur,12.8463561,23.0011989
+7890, North Darfur,North Darfur,15.7661969,24.9042208
+7891, Al Gezira,Al Gezira,14.0202857,33.0865844
+7892, South Darfur,South Darfur,11.6488639,24.9042208
+7893, Sennar > El Souki,Sennar,13.567469,33.5672045
+7894, West Darfur > Foro Baranga(Foro Baranga & Mangarasa camps),West Darfur,12.8463561,23.0011989
+7895, Khartoum > Bahri,Khartoum,15.566667,32.516667
+7896, North Darfur > Kebkabiya,North Darfur,15.7661969,24.9042208
+7897, Sennar > Sinjja,Sennar,13.567469,33.5672045
+7898, North Darfur > El Fasher,North Darfur,15.7661969,24.9042208
+7899, Khartoum > Jebal Aulya,Khartoum,15.566667,32.516667
+7900, West Darfur > Kreinik,West Darfur,12.8463561,23.0011989
+7901, Red Sea > Haya,Red Sea,19.4556063,35.2148469
+7902, Red Sea > Toker,Red Sea,19.4556063,35.2148469
 7903, North Darfur > El Sireaf,North Darfur,15.7661969,24.9042208
 7904, Khartoum > Karari,Khartoum,15.566667,32.516667
 7905, Khartoum > Um Durman,Khartoum,15.566667,32.516667
@@ -14003,8 +14002,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13516, Marib > Bidbadah,Marib,15.56841151,45.76081505
 13517, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 13518, Marib > Mahliyah,Marib,15.56841151,45.76081505
-13519, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
-13520, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+13519, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
+13520, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
 13521, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 13522, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 13523, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
