@@ -9700,7 +9700,10 @@ Burundi,2025,Rapid Response,38829,CERF-BDI-25-RR-HCR-38829,Protection,Protection
 Burundi,2025,Rapid Response,38830,CERF-BDI-25-RR-WFP-38830,Food Aid,Food Aid,100.0,850075.62
 Burundi,2025,Rapid Response,38831,CERF-BDI-25-RR-CEF-38831,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,750000.01
 Burundi,2025,Rapid Response,38833,CERF-BDI-25-RR-WHO-38833,Health,Health,100.0,500085.9
+Myanmar,2025,Underfunded Emergencies,39641,CERF-MMR-25-UF-FPA-39641,Health,Health,49.99999990566019,2649994.63
+Myanmar,2025,Underfunded Emergencies,39641,CERF-MMR-25-UF-FPA-39641,Protection,Protection,50.000000094339825,2649994.64
 Myanmar,2025,Underfunded Emergencies,39642,CERF-MMR-25-UF-HCR-39642,Protection,Protection,100.0,1600000.0
+Myanmar,2025,Underfunded Emergencies,39643,CERF-MMR-25-UF-CEF-39643,Education,Education,100.0,1800000.0
 Myanmar,2025,Underfunded Emergencies,39644,CERF-MMR-25-UF-WOM-39644,Food Aid,Food Aid,40.0,320000.0
 Myanmar,2025,Underfunded Emergencies,39644,CERF-MMR-25-UF-WOM-39644,Protection,Protection,40.0,320000.0
 Myanmar,2025,Underfunded Emergencies,39644,CERF-MMR-25-UF-WOM-39644,Shelter and Non-Food Items,Shelter and Non-Food Items,10.0,80000.0
@@ -9730,6 +9733,11 @@ Burkina Faso,2025,Underfunded Emergencies,39672,CERF-BFA-25-UF-CEF-39672,"Water,
 Burkina Faso,2025,Underfunded Emergencies,39672,CERF-BFA-25-UF-CEF-39672,Nutrition,Nutrition,39.99999984000001,1000000.0
 Burkina Faso,2025,Underfunded Emergencies,39672,CERF-BFA-25-UF-CEF-39672,Protection,Protection,20.000000319999998,500000.01
 Ethiopia,2025,Underfunded Emergencies,39677,CERF-ETH-25-UF-FAO-39677,Agriculture,Agriculture,100.0,2500000.0
+Ethiopia,2025,Underfunded Emergencies,39678,CERF-ETH-25-UF-IOM-39678,Camp Coordination and Camp Management,Camp Coordination and Camp Management,15.790000000000001,300010.0
+Ethiopia,2025,Underfunded Emergencies,39678,CERF-ETH-25-UF-IOM-39678,Shelter and Non-Food Items,Shelter and Non-Food Items,31.580000000000002,600020.0
+Ethiopia,2025,Underfunded Emergencies,39678,CERF-ETH-25-UF-IOM-39678,Multi-Purpose Cash,Multi-Purpose Cash,52.629999999999995,999970.0
+Ethiopia,2025,Underfunded Emergencies,39679,CERF-ETH-25-UF-CEF-39679,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",66.67000011110001,2000100.01
+Ethiopia,2025,Underfunded Emergencies,39679,CERF-ETH-25-UF-CEF-39679,Multi-Purpose Cash,Multi-Purpose Cash,33.329999888900005,999900.0
 Ethiopia,2025,Underfunded Emergencies,39681,CERF-ETH-25-UF-WHO-39681,Health,Health,100.0,1999999.13
 Ethiopia,2025,Underfunded Emergencies,39682,CERF-ETH-25-UF-MAS-39682,Protection,Protection,100.0,500000.05
 Ethiopia,2025,Underfunded Emergencies,39683,CERF-ETH-25-UF-HCR-39683,Protection,Protection,100.0,600000.55
@@ -9746,10 +9754,10 @@ occupied Palestinian territory,2025,Rapid Response,40134,CERF-PSE-25-RR-1489(TBD
 Syrian Arab Republic,2025,Underfunded Emergencies,40135,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,4.43
 Burkina Faso,2025,Underfunded Emergencies,40136,CERF-BFA-25-UF-1502(TBD),To be determined,To be determined,100.0,589.8
 Mali,2025,Underfunded Emergencies,40137,CERF-MLI-25-UF-1503(TBD),To be determined,To be determined,100.0,-713.55
-Myanmar,2025,Underfunded Emergencies,40138,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,7100225.77
-Haiti,2025,Underfunded Emergencies,40139,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,2000000.03
+Myanmar,2025,Underfunded Emergencies,40138,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,236.5
+Haiti,2025,Underfunded Emergencies,40139,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,0.03
 Mozambique,2025,Underfunded Emergencies,40140,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,4347.93
-Ethiopia,2025,Underfunded Emergencies,40141,CERF-ETH-25-UF-1507(TBD),To be determined,To be determined,100.0,7400000.27
+Ethiopia,2025,Underfunded Emergencies,40141,CERF-ETH-25-UF-1507(TBD),To be determined,To be determined,100.0,2500000.26
 Democratic Republic of the Congo,2025,Underfunded Emergencies,40142,CERF-COD-25-UF-1510(TBD),To be determined,To be determined,100.0,-0.03
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Camp Coordination and Camp Management,Camp Coordination and Camp Management,28.57,119994.0
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Shelter and Non-Food Items,Shelter and Non-Food Items,71.43,300006.0
@@ -9870,6 +9878,7 @@ Islamic Republic of Iran,2026,Rapid Response,39595,CERF-IRN-26-RR-UDP-39595,Heal
 Islamic Republic of Iran,2026,Rapid Response,39595,CERF-IRN-26-RR-UDP-39595,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",30.3,999900.0
 Islamic Republic of Iran,2026,Rapid Response,39596,CERF-IRN-26-RR-WHO-39596,Health,Health,100.0,2000000.0
 Islamic Republic of Iran,2026,Rapid Response,39597,CERF-IRN-26-RR-WFP-39597,Food Aid,Food Aid,100.0,2000000.0
+Haiti,2026,Underfunded Emergencies,39650,CERF-HTI-25-UF-HCR-39650,Protection,Protection,100.0,2000000.0
 Haiti,2026,Underfunded Emergencies,39651,CERF-HTI-25-UF-IOM-39651,Camp Coordination and Camp Management,Camp Coordination and Camp Management,31.4,471000.0
 Haiti,2026,Underfunded Emergencies,39651,CERF-HTI-25-UF-IOM-39651,Protection,Protection,68.60000000000001,1029000.0
 Haiti,2026,Underfunded Emergencies,39652,CERF-HTI-25-UF-FPA-39652,Protection,Protection,40.0,800000.0
@@ -9920,3 +9929,4 @@ Nigeria,2026,Rapid Response,39782,CERF-NGA-26-RR-CEF-39782,"Water, Sanitation an
 Nigeria,2026,Rapid Response,39783,CERF-NGA-26-RR-WHO-39783,Health,Health,100.0,2200000.0
 Democratic Republic of the Congo,2026,Rapid Response,40143,CERF-COD-26-RR-1547(TBD),To be determined,To be determined,100.0,10000000.0
 Venezuela,2026,Rapid Response,40144,CERF-VEN-26-RR-1555(TBD),To be determined,To be determined,100.0,15000000.0
+Central African Republic,2026,Rapid Response,40145,CERF-CAF-26-RR-1559(TBD),To be determined,To be determined,100.0,1000000.0
