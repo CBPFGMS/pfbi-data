@@ -9763,13 +9763,13 @@ Ethiopia,2025,Underfunded Emergencies,39967,CERF-ETH-25-UF-FPA-39967,Protection,
 Ethiopia,2025,Underfunded Emergencies,39967,CERF-ETH-25-UF-FPA-39967,Health,Health,3.00000019999988,45000.03
 Mali,2025,Underfunded Emergencies,39970,CERF-MLI-25-UF-WOM-39970,Protection,Protection,91.00000030000143,636996.99
 Mali,2025,Underfunded Emergencies,39970,CERF-MLI-25-UF-WOM-39970,Health,Health,8.99999969999858,62999.7
-Lebanon,2025,Rapid Response,40279,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0
-occupied Palestinian territory,2025,Rapid Response,40280,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0
-Syrian Arab Republic,2025,Underfunded Emergencies,40281,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0
-Burkina Faso,2025,Underfunded Emergencies,40282,CERF-BFA-25-UF-1502(TBD),To be determined,To be determined,100.0,589.8
-Myanmar,2025,Underfunded Emergencies,40283,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,236.5
-Haiti,2025,Underfunded Emergencies,40284,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,0.03
-Mozambique,2025,Underfunded Emergencies,40285,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,4347.93
+Lebanon,2025,Rapid Response,40752,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0
+occupied Palestinian territory,2025,Rapid Response,40753,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0
+Syrian Arab Republic,2025,Underfunded Emergencies,40754,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0
+Burkina Faso,2025,Underfunded Emergencies,40755,CERF-BFA-25-UF-1502(TBD),To be determined,To be determined,100.0,589.8
+Myanmar,2025,Underfunded Emergencies,40756,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,236.5
+Haiti,2025,Underfunded Emergencies,40757,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,0.03
+Mozambique,2025,Underfunded Emergencies,40758,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,4347.93
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Camp Coordination and Camp Management,Camp Coordination and Camp Management,28.57,119994.0
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Shelter and Non-Food Items,Shelter and Non-Food Items,71.43,300006.0
 Madagascar,2026,Rapid Response,34546,CERF-MDG-24-RR-CEF-34546,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.00000055555556,450000.0
@@ -9957,12 +9957,15 @@ Venezuela,2026,Rapid Response,40054,CERF-VEN-26-RR-CEF-40054,Education,Education
 Venezuela,2026,Rapid Response,40054,CERF-VEN-26-RR-CEF-40054,Protection,Protection,40.00000013333333,1200000.0
 Venezuela,2026,Rapid Response,40055,CERF-VEN-26-RR-WHO-40055,Health,Health,100.0,2500000.0
 Venezuela,2026,Rapid Response,40056,CERF-VEN-26-RR-IOM-40056,Shelter and Non-Food Items,Shelter and Non-Food Items,100.0,2000000.0
+Venezuela,2026,Rapid Response,40057,CERF-VEN-26-RR-HCR-40057,Protection,Protection,36.0,900000.0
+Venezuela,2026,Rapid Response,40057,CERF-VEN-26-RR-HCR-40057,Shelter and Non-Food Items,Shelter and Non-Food Items,64.0,1600000.0
 Venezuela,2026,Rapid Response,40058,CERF-VEN-26-RR-FPA-40058,Protection,Protection,45.99999989995055,1379317.84
 Venezuela,2026,Rapid Response,40058,CERF-VEN-26-RR-FPA-40058,Health,Health,54.00000010004946,1619199.21
 Venezuela,2026,Rapid Response,40059,CERF-VEN-26-RR-WFP-40059,Food Aid,Food Aid,100.0,1999997.06
-Lebanon,2026,Rapid Response,40286,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0
-Venezuela,2026,Rapid Response,40287,CERF-VEN-26-RR-1555(TBD),To be determined,To be determined,100.0,2501485.9
-South Sudan,2026,Rapid Response,40288,CERF-SSD-26-RR-1556(TBD),To be determined,To be determined,100.0,6000000.0
-Ethiopia,2026,Rapid Response,40289,CERF-ETH-26-RR-1557(TBD),To be determined,To be determined,100.0,6050000.0
-Central African Republic,2026,Rapid Response,40290,CERF-CAF-26-RR-1559(TBD),To be determined,To be determined,100.0,1000000.0
-Rwanda,2026,Rapid Response,40291,CERF-RWA-26-RR-1560(TBD),To be determined,To be determined,100.0,2000000.0
+Ethiopia,2026,Rapid Response,40131,CERF-ETH-26-RR-WFP-40131,Food Aid,Food Aid,100.0,2399999.97
+Lebanon,2026,Rapid Response,40759,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0
+South Sudan,2026,Rapid Response,40760,CERF-SSD-26-RR-1556(TBD),To be determined,To be determined,100.0,6000000.0
+Ethiopia,2026,Rapid Response,40761,CERF-ETH-26-RR-1557(TBD),To be determined,To be determined,100.0,3650000.03
+Central African Republic,2026,Rapid Response,40762,CERF-CAF-26-RR-1559(TBD),To be determined,To be determined,100.0,1000000.0
+Rwanda,2026,Rapid Response,40763,CERF-RWA-26-RR-1560(TBD),To be determined,To be determined,100.0,2000000.0
+Cameroon,2026,Rapid Response,40764,CERF-CMR-26-RR-1564(TBD),To be determined,To be determined,100.0,1000000.0
