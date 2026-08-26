@@ -1363,7 +1363,7 @@
     "id": 223,
     "donorName": "Scotland",
     "donorType": "Private",
-    "donorISO2Code": "SC"
+    "donorISO2Code": "GB-SC"
   },
   {
     "id": 224,
@@ -1381,6 +1381,6 @@
     "id": 226,
     "donorName": "Isle of Man",
     "donorType": "Regional/ Local Authorities",
-    "donorISO2Code": "XIM"
+    "donorISO2Code": "IM"
   }
 ]
