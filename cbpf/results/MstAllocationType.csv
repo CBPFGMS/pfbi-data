@@ -331,8 +331,8 @@ AllocationType,AllocationtypeId
 (PSE) 1st standard allocation oPt 2024 (Fast and Normal Tracks),132967
 (PSE) First Reserve Allocation 2025,139767
 (PSE) Second Reserve Allocation 2025,141967
-(PSE) Third Reserve Allocation 2025 [Track 2: 48-Hour Allocation],147667
 (PSE) Third Reserve Allocation 2025 [Track 1: Reserve Allocation],146767
+(PSE) Third Reserve Allocation 2025 [Track 2: 48-Hour Allocation],147667
 (PSE) Gaza Reserve allocation 2017,12067
 (PSE) 1st standard allocation 2017,11067
 (PSE) 2017 EMERGENCY WINDOW: Rolling basis,9167
@@ -426,6 +426,7 @@ AllocationType,AllocationtypeId
 (SSD) 2025 Reserve allocation 2,143019
 (SSD) 2025 Reserve allocation 1,140019
 (SSD) 2025 Reserve allocation 3,144919
+(SSD) 2025 Reserve allocation 5,152019
 (SSD) 2025 Standard allocation 1,143119
 (SSD) 2020 Reserve Allocation 1,26819
 (SSD) 2020 Reserve Allocation 2,29719
