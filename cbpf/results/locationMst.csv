@@ -1325,6 +1325,7 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 1169, Afghanistan > Kabul > Musahi,Kabul,34.5254379,69.13517912
 1170, Afghanistan > Paktika > Nika,Paktika,33.21164752,68.74733968
 775, Afghanistan > Badakhshan > Yamgan,Badakhshan,37.21417975,70.61409555
+978, Afghanistan > Nangarhar > Khogyani,Nangarhar,34.42690434,70.45503228
 993, Afghanistan > Panjsher > Bazarak,Panjsher,35.36720845,69.50453263
 778, Afghanistan > Samangan > Aybak,Samangan,36.29707597,68.33374291
 1171, Centre-Nord > Sanmatenga > Kaya,Centre-Nord,13.27107378,-0.9736234
@@ -14039,20 +14040,20 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13553, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
 13554, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
 13555, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-13556, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-13557, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+13556, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+13557, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 13558, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13559, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13560, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13561, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-13562, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13563, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13564, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-13565, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13566, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13567, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13568, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13569, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13559, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13560, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+13561, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13562, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13563, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13564, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+13565, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13566, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13567, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+13568, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13569, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 13570, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 13571, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 13572, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
