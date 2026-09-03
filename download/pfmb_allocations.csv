@@ -9765,12 +9765,16 @@ Ethiopia,2025,Underfunded Emergencies,39967,CERF-ETH-25-UF-FPA-39967,Protection,
 Ethiopia,2025,Underfunded Emergencies,39967,CERF-ETH-25-UF-FPA-39967,Health,Health,3.00000019999988,45000.03,CERF
 Mali,2025,Underfunded Emergencies,39970,CERF-MLI-25-UF-WOM-39970,Protection,Protection,91.00000030000143,636996.99,CERF
 Mali,2025,Underfunded Emergencies,39970,CERF-MLI-25-UF-WOM-39970,Health,Health,8.99999969999858,62999.7,CERF
-Lebanon,2025,Rapid Response,41085,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
-occupied Palestinian territory,2025,Rapid Response,41086,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0,CERF
-Syrian Arab Republic,2025,Underfunded Emergencies,41087,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0,CERF
-Myanmar,2025,Underfunded Emergencies,41088,CERF-MMR-25-UF-1504(TBD),To be determined,To be determined,100.0,236.5,CERF
-Haiti,2025,Underfunded Emergencies,41089,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,0.03,CERF
-Mozambique,2025,Underfunded Emergencies,41090,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,4347.93,CERF
+Mozambique,2025,Underfunded Emergencies,39971,CERF-MOZ-25-UF-FPA-39971,Health,Health,29.999999250001142,120000.18,CERF
+Mozambique,2025,Underfunded Emergencies,39971,CERF-MOZ-25-UF-FPA-39971,Protection,Protection,70.00000074999886,280000.43,CERF
+Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Protection,Protection,30.0,390000.0,CERF
+Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Agriculture,Agriculture,40.0,520000.0,CERF
+Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Multi-Purpose Cash,Multi-Purpose Cash,30.0,390000.0,CERF
+Lebanon,2025,Rapid Response,41279,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0,CERF
+occupied Palestinian territory,2025,Rapid Response,41280,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0,CERF
+Syrian Arab Republic,2025,Underfunded Emergencies,41281,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0,CERF
+Haiti,2025,Underfunded Emergencies,41282,CERF-HTI-25-UF-1505(TBD),To be determined,To be determined,100.0,0.03,CERF
+Mozambique,2025,Underfunded Emergencies,41283,CERF-MOZ-25-UF-1506(TBD),To be determined,To be determined,100.0,-395652.68,CERF
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Camp Coordination and Camp Management,Camp Coordination and Camp Management,28.57,119994.0,CERF
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Shelter and Non-Food Items,Shelter and Non-Food Items,71.43,300006.0,CERF
 Madagascar,2026,Rapid Response,34546,CERF-MDG-24-RR-CEF-34546,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.00000055555556,450000.0,CERF
@@ -9963,9 +9967,11 @@ Venezuela,2026,Rapid Response,40057,CERF-VEN-26-RR-HCR-40057,Shelter and Non-Foo
 Venezuela,2026,Rapid Response,40058,CERF-VEN-26-RR-FPA-40058,Protection,Protection,45.99999989995055,1379317.84,CERF
 Venezuela,2026,Rapid Response,40058,CERF-VEN-26-RR-FPA-40058,Health,Health,54.00000010004946,1619199.21,CERF
 Venezuela,2026,Rapid Response,40059,CERF-VEN-26-RR-WFP-40059,Food Aid,Food Aid,100.0,1999997.06,CERF
+South Sudan,2026,Rapid Response,40069,CERF-SSD-26-RR-WHO-40069,Health,Health,100.0,3036820.5,CERF
 South Sudan,2026,Rapid Response,40070,CERF-SSD-26-RR-CEF-40070,Health,Health,100.0,1250000.36,CERF
 South Sudan,2026,Rapid Response,40071,CERF-SSD-26-RR-IOM-40071,Health,Health,100.0,700000.0,CERF
 South Sudan,2026,Rapid Response,40072,CERF-SSD-26-RR-WFP-40072,Common Services,Common Services,100.0,599999.91,CERF
+South Sudan,2026,Rapid Response,40073,CERF-SSD-26-RR-HCR-40073,Health,Health,100.0,399999.94,CERF
 Ethiopia,2026,Rapid Response,40130,CERF-ETH-26-RR-HCR-40130,Common Services,Common Services,22.030000078387367,649764.93,CERF
 Ethiopia,2026,Rapid Response,40130,CERF-ETH-26-RR-HCR-40130,Health,Health,13.55999991266183,399946.09,CERF
 Ethiopia,2026,Rapid Response,40130,CERF-ETH-26-RR-HCR-40130,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",22.039999892047852,650059.87,CERF
@@ -9975,14 +9981,17 @@ Ethiopia,2026,Rapid Response,40131,CERF-ETH-26-RR-WFP-40131,Food Aid,Food Aid,10
 Ethiopia,2026,Rapid Response,40132,CERF-ETH-26-RR-WHO-40132,Health,Health,100.0,699915.36,CERF
 Central African Republic,2026,Rapid Response,40224,CERF-CAF-26-RR-WHO-40224,Health,Health,100.0,500000.0,CERF
 Central African Republic,2026,Rapid Response,40225,CERF-CAF-26-RR-CEF-40225,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,499999.23,CERF
-Lebanon,2026,Rapid Response,41091,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0,CERF
-South Sudan,2026,Rapid Response,41092,CERF-SSD-26-RR-1556(TBD),To be determined,To be determined,100.0,3449999.73,CERF
-Rwanda,2026,Rapid Response,41093,CERF-RWA-26-RR-1560(TBD),To be determined,To be determined,100.0,2000000.0,CERF
-Chad,2026,Rapid Response,41094,CERF-TCD-26-RR-1563(TBD),To be determined,To be determined,100.0,4000000.0,CERF
-Cameroon,2026,Rapid Response,41095,CERF-CMR-26-RR-1564(TBD),To be determined,To be determined,100.0,1000000.0,CERF
-Democratic Republic of the Congo,2026,Rapid Response,41096,CERF-COD-26-RR-1565(TBD),To be determined,To be determined,100.0,30500000.0,CERF
-Central African Republic,2026,Rapid Response,41097,CERF-CAF-26-RR-1570(TBD),To be determined,To be determined,100.0,3000000.0,CERF
-Djibouti,2026,Rapid Response,41098,CERF-DJI-26-RR-1571(TBD),To be determined,To be determined,100.0,2000000.0,CERF
+Rwanda,2026,Rapid Response,40234,CERF-RWA-26-RR-IOM-40234,Common Services,Common Services,100.0,300000.0,CERF
+Rwanda,2026,Rapid Response,40235,CERF-RWA-26-RR-WHO-40235,Health,Health,100.0,1099999.8,CERF
+Rwanda,2026,Rapid Response,40244,CERF-RWA-26-RR-CEF-40244,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,599984.1,CERF
+Chad,2026,Rapid Response,40796,CERF-TCD-26-RR-WHO-40796,Health,Health,100.0,1500023.05,CERF
+Lebanon,2026,Rapid Response,41284,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0,CERF
+Chad,2026,Rapid Response,41285,CERF-TCD-26-RR-1563(TBD),To be determined,To be determined,100.0,2499976.95,CERF
+Cameroon,2026,Rapid Response,41286,CERF-CMR-26-RR-1564(TBD),To be determined,To be determined,100.0,1000000.0,CERF
+Democratic Republic of the Congo,2026,Rapid Response,41287,CERF-COD-26-RR-1565(TBD),To be determined,To be determined,100.0,30500000.0,CERF
+Colombia,2026,Rapid Response,41288,CERF-COL-26-RR-1568(TBD),To be determined,To be determined,100.0,5000000.0,CERF
+Central African Republic,2026,Rapid Response,41289,CERF-CAF-26-RR-1570(TBD),To be determined,To be determined,100.0,3000000.0,CERF
+Djibouti,2026,Rapid Response,41290,CERF-DJI-26-RR-1571(TBD),To be determined,To be determined,100.0,2000000.0,CERF
 Afghanistan,2014,Reserve,298,AFG-14/ER/CCS/UN/298,Coordination and Support Services,,100.0,1000000.02,CBPF
 Afghanistan,2014,Reserve,291,AFG-14/ER/H/INGO/291,Health,,100.0,53393.0,CBPF
 Afghanistan,2014,Reserve,292,AFG-14/ER/H/INGO/292,Health,,100.0,50000.03,CBPF
@@ -13510,8 +13519,8 @@ DRC,2025,Reserve,35531,CBPF-DRC-25-R-NGO-35531,Protection,,100.0,300000.0,CBPF
 DRC,2025,Reserve,35547,CBPF-DRC-25-R-NGO-35547,Food Security,,57.0,199500.0,CBPF
 DRC,2025,Reserve,35547,CBPF-DRC-25-R-NGO-35547,Protection,,43.0,150500.0,CBPF
 DRC,2025,Reserve,35555,CBPF-DRC-25-R-NGO-35555,Emergency Shelter and NFI,,100.0,500000.0,CBPF
-DRC,2025,Reserve,35556,CBPF-DRC-25-R-NGO-35556,Multi-purpose CASH,,60.0,357939.72,CBPF
-DRC,2025,Reserve,35556,CBPF-DRC-25-R-NGO-35556,"Water, Sanitation and Hygiene",,40.0,238626.48,CBPF
+DRC,2025,Reserve,35556,CBPF-DRC-25-R-NGO-35556,Multi-purpose CASH,,60.0,387339.72,CBPF
+DRC,2025,Reserve,35556,CBPF-DRC-25-R-NGO-35556,"Water, Sanitation and Hygiene",,40.0,258226.48,CBPF
 DRC,2025,Reserve,35560,CBPF-DRC-25-R-NGO-35560,Food Security,,100.0,250000.0,CBPF
 DRC,2025,Reserve,35579,CBPF-DRC-25-R-NGO-35579,Protection,,100.0,300000.0,CBPF
 DRC,2025,Reserve,35584,CBPF-DRC-25-R-NGO-35584,Food Security,,67.0,201000.0,CBPF
@@ -15355,6 +15364,8 @@ Ethiopia,2025,Standard,36125,CBPF-ETH-25-S-NGO-36125,Education,,50.0,500000.0,CB
 Ethiopia,2025,Standard,36125,CBPF-ETH-25-S-NGO-36125,Nutrition,,25.0,250000.0,CBPF
 Ethiopia,2025,Standard,36125,CBPF-ETH-25-S-NGO-36125,"Water, Sanitation and Hygiene",,25.0,250000.0,CBPF
 Ethiopia,2025,Standard,36142,CBPF-ETH-25-S-NGO-36142,Protection,,100.0,250000.0,CBPF
+Ethiopia,2026,Reserve,40296,CBPF-ETH-26-R-INGO-40296,Health,,35.0,30800.0,CBPF
+Ethiopia,2026,Reserve,40296,CBPF-ETH-26-R-INGO-40296,"Water, Sanitation and Hygiene",,65.0,57200.0,CBPF
 Ethiopia,2026,Reserve,39270,CBPF-ETH-26-R-INGO-NSFT-39270,Health,,43.0,989000.0,CBPF
 Ethiopia,2026,Reserve,39270,CBPF-ETH-26-R-INGO-NSFT-39270,Nutrition,,57.0,1311000.0,CBPF
 Ethiopia,2026,Reserve,39273,CBPF-ETH-26-R-INGO-NSFT-39273,Food Security,,100.0,2400000.0,CBPF
@@ -16838,6 +16849,19 @@ Haiti (RhPF),2026,Reserve,39516,CBPF-HTI-26-R-UN-NSFT-39516,Emergency Shelter an
 Haiti (RhPF),2026,Reserve,39516,CBPF-HTI-26-R-UN-NSFT-39516,Health,,8.0,1465603.2,CBPF
 Haiti (RhPF),2026,Reserve,39516,CBPF-HTI-26-R-UN-NSFT-39516,Protection,,21.0,3847208.4,CBPF
 Haiti (RhPF),2026,Reserve,39516,CBPF-HTI-26-R-UN-NSFT-39516,"Water, Sanitation and Hygiene",,9.0,1648803.6,CBPF
+Haiti (RhPF),2026,Standard,39719,CBPF-HTI-26-S-INGO-39719,Emergency Shelter and NFI,,25.0,75000.0,CBPF
+Haiti (RhPF),2026,Standard,39719,CBPF-HTI-26-S-INGO-39719,Food Security,,31.0,93000.0,CBPF
+Haiti (RhPF),2026,Standard,39719,CBPF-HTI-26-S-INGO-39719,Protection,,30.0,90000.0,CBPF
+Haiti (RhPF),2026,Standard,39719,CBPF-HTI-26-S-INGO-39719,"Water, Sanitation and Hygiene",,14.0,42000.0,CBPF
+Haiti (RhPF),2026,Standard,39764,CBPF-HTI-26-S-INGO-39764,Food Security,,49.0,195999.8873,CBPF
+Haiti (RhPF),2026,Standard,39764,CBPF-HTI-26-S-INGO-39764,Health,,10.0,39999.977,CBPF
+Haiti (RhPF),2026,Standard,39764,CBPF-HTI-26-S-INGO-39764,Nutrition,,1.0,3999.9977,CBPF
+Haiti (RhPF),2026,Standard,39764,CBPF-HTI-26-S-INGO-39764,Protection,,15.0,59999.9655,CBPF
+Haiti (RhPF),2026,Standard,39764,CBPF-HTI-26-S-INGO-39764,"Water, Sanitation and Hygiene",,25.0,99999.9425,CBPF
+Haiti (RhPF),2026,Standard,39731,CBPF-HTI-26-S-NGO-39731,Emergency Shelter and NFI,,45.0,112500.0,CBPF
+Haiti (RhPF),2026,Standard,39731,CBPF-HTI-26-S-NGO-39731,Food Security,,10.0,25000.0,CBPF
+Haiti (RhPF),2026,Standard,39731,CBPF-HTI-26-S-NGO-39731,Multi-purpose CASH,,35.0,87500.0,CBPF
+Haiti (RhPF),2026,Standard,39731,CBPF-HTI-26-S-NGO-39731,Protection,,10.0,25000.0,CBPF
 Honduras,2026,Reserve,39634,CBPF-HND-26-R-INGO-NSFT-39634,Food Security,,41.0,1640000.0,CBPF
 Honduras,2026,Reserve,39634,CBPF-HND-26-R-INGO-NSFT-39634,Protection,,13.0,520000.0,CBPF
 Honduras,2026,Reserve,39634,CBPF-HND-26-R-INGO-NSFT-39634,"Water, Sanitation and Hygiene",,46.0,1840000.0,CBPF
@@ -18198,6 +18222,7 @@ Lebanon,2026,Reserve,40036,CBPF-LEB-26-R-NGO-40036,Early Recovery,,100.0,700000.
 Lebanon,2026,Reserve,40042,CBPF-LEB-26-R-NGO-40042,Food Security,,100.0,668622.0,CBPF
 Lebanon,2026,Reserve,40043,CBPF-LEB-26-R-NGO-40043,Health,,90.0,270000.0,CBPF
 Lebanon,2026,Reserve,40043,CBPF-LEB-26-R-NGO-40043,Nutrition,,10.0,30000.0,CBPF
+Lebanon,2026,Reserve,40044,CBPF-LEB-26-R-NGO-40044,Health,,100.0,249878.17,CBPF
 Lebanon,2026,Reserve,40045,CBPF-LEB-26-R-NGO-40045,Food Security,,100.0,694783.23,CBPF
 Lebanon,2026,Reserve,40064,CBPF-LEB-26-R-NGO-40064,Emergency Shelter and NFI,,100.0,459998.72,CBPF
 Lebanon,2026,Reserve,40077,CBPF-LEB-26-R-NGO-40077,Food Security,,100.0,867812.8,CBPF
@@ -24770,6 +24795,10 @@ South Sudan,2026,Reserve,39262,CBPF-SSD-26-R-NGO-NSFT-39262,Nutrition,,6.0,15206
 South Sudan,2026,Reserve,39262,CBPF-SSD-26-R-NGO-NSFT-39262,"Water, Sanitation and Hygiene",,65.0,1647362.6,CBPF
 South Sudan,2026,Reserve,39292,CBPF-SSD-26-R-NGO-NSFT-39292,Protection,,74.0,1010431.816,CBPF
 South Sudan,2026,Reserve,39292,CBPF-SSD-26-R-NGO-NSFT-39292,"Water, Sanitation and Hygiene",,26.0,355016.584,CBPF
+South Sudan,2026,Reserve,40279,CBPF-SSD-26-R-NGO-NSFT-40279,Health,,77.0,500500.0,CBPF
+South Sudan,2026,Reserve,40279,CBPF-SSD-26-R-NGO-NSFT-40279,Nutrition,,23.0,149500.0,CBPF
+South Sudan,2026,Reserve,40280,CBPF-SSD-26-R-NGO-NSFT-40280,Protection,,100.0,749998.95,CBPF
+South Sudan,2026,Reserve,40289,CBPF-SSD-26-R-NGO-NSFT-40289,Protection,,100.0,649999.96,CBPF
 South Sudan,2026,Reserve,39544,CBPF-SSD-26-R-UN-39544,Health,,100.0,2999956.79,CBPF
 South Sudan,2026,Reserve,39547,CBPF-SSD-26-R-UN-39547,Health,,100.0,1000000.0,CBPF
 South Sudan,2026,Reserve,39248,CBPF-SSD-26-R-UN-NSFT-39248,Food Security,,74.0,24200175.6148,CBPF
@@ -31429,7 +31458,9 @@ Uganda,2026,Reserve,39491,CBPF-UGA-26-R-INGO-NSFT-39491,Multi-purpose CASH,,11.0
 Uganda,2026,Reserve,39491,CBPF-UGA-26-R-INGO-NSFT-39491,Protection,,20.0,539996.012,CBPF
 Uganda,2026,Reserve,39491,CBPF-UGA-26-R-INGO-NSFT-39491,Protection,,20.0,539996.012,CBPF
 Uganda,2026,Reserve,39491,CBPF-UGA-26-R-INGO-NSFT-39491,Protection,,32.0,863993.6192,CBPF
+Uganda,2026,Reserve,40255,CBPF-UGA-26-R-INGO-NSFT-40255,Health,,100.0,1671640.77,CBPF
 Uganda,2026,Reserve,40899,CBPF-UGA-26-R-INGO-NSFT-40899,Health,,100.0,1000000.0,CBPF
+Uganda,2026,Reserve,40920,CBPF-UGA-26-R-O-NSFT-40920,Health,,100.0,499469.15,CBPF
 Uganda,2026,Reserve,39388,CBPF-UGA-26-R-UN-NSFT-39388,Food Security,,94.0,26854859.8402,CBPF
 Uganda,2026,Reserve,39388,CBPF-UGA-26-R-UN-NSFT-39388,Nutrition,,6.0,1714139.9898,CBPF
 Uganda,2026,Reserve,39455,CBPF-UGA-26-R-UN-NSFT-39455,Emergency Shelter and NFI,,37.0,9341819.2,CBPF
@@ -32679,21 +32710,21 @@ Venezuela,2025,Reserve,37491,CBPF-VEN-25-R-NGO-37491,"Water, Sanitation and Hygi
 Venezuela,2025,Reserve,37492,CBPF-VEN-25-R-NGO-37492,Health,,74.0,546542.3106,CBPF
 Venezuela,2025,Reserve,37492,CBPF-VEN-25-R-NGO-37492,Nutrition,,14.0,103399.8966,CBPF
 Venezuela,2025,Reserve,37492,CBPF-VEN-25-R-NGO-37492,"Water, Sanitation and Hygiene",,12.0,88628.4828,CBPF
-Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Health,,35.0,147000.0,CBPF
-Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Nutrition,,20.0,84000.0,CBPF
-Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Protection,,10.0,42000.0,CBPF
-Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Protection,,25.0,105000.0,CBPF
-Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,"Water, Sanitation and Hygiene",,10.0,42000.0,CBPF
-Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Education,,9.0,36000.0,CBPF
-Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Food Security,,20.0,80000.0,CBPF
-Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Protection,,28.0,112000.0,CBPF
-Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Protection,,43.0,172000.0,CBPF
+Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Health,,35.0,190246.14,CBPF
+Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Nutrition,,20.0,108712.08,CBPF
+Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Protection,,10.0,54356.04,CBPF
+Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,Protection,,25.0,135890.1,CBPF
+Venezuela,2025,Reserve,37522,CBPF-VEN-25-R-NGO-37522,"Water, Sanitation and Hygiene",,10.0,54356.04,CBPF
+Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Education,,27.0,140400.0,CBPF
+Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Food Security,,16.0,83200.0,CBPF
+Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Protection,,23.0,119600.0,CBPF
+Venezuela,2025,Reserve,37523,CBPF-VEN-25-R-NGO-37523,Protection,,34.0,176800.0,CBPF
 Venezuela,2025,Reserve,37541,CBPF-VEN-25-R-NGO-37541,Health,,60.0,299999.784,CBPF
 Venezuela,2025,Reserve,37541,CBPF-VEN-25-R-NGO-37541,Protection,,10.0,49999.964,CBPF
 Venezuela,2025,Reserve,37541,CBPF-VEN-25-R-NGO-37541,"Water, Sanitation and Hygiene",,30.0,149999.892,CBPF
-Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,10.0,36827.581,CBPF
-Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,35.0,128896.5335,CBPF
-Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,55.0,202551.6955,CBPF
+Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,10.0,44264.381,CBPF
+Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,35.0,154925.3335,CBPF
+Venezuela,2025,Reserve,37563,CBPF-VEN-25-R-NGO-37563,Protection,,55.0,243454.0955,CBPF
 Venezuela,2025,Reserve,37572,CBPF-VEN-25-R-NGO-37572,Education,,50.0,258925.84,CBPF
 Venezuela,2025,Reserve,37572,CBPF-VEN-25-R-NGO-37572,Food Security,,15.0,77677.752,CBPF
 Venezuela,2025,Reserve,37572,CBPF-VEN-25-R-NGO-37572,Protection,,35.0,181248.088,CBPF
@@ -32704,9 +32735,9 @@ Venezuela,2025,Reserve,37581,CBPF-VEN-25-R-NGO-37581,Protection,,15.0,86219.289,
 Venezuela,2025,Reserve,37581,CBPF-VEN-25-R-NGO-37581,"Water, Sanitation and Hygiene",,25.0,143698.815,CBPF
 Venezuela,2025,Reserve,37603,CBPF-VEN-25-R-NGO-37603,Nutrition,,80.0,267725.984,CBPF
 Venezuela,2025,Reserve,37603,CBPF-VEN-25-R-NGO-37603,"Water, Sanitation and Hygiene",,20.0,66931.496,CBPF
-Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,Health,,67.0,603000.0067,CBPF
-Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,Nutrition,,25.0,225000.0025,CBPF
-Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,"Water, Sanitation and Hygiene",,8.0,72000.0008,CBPF
+Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,Health,,66.0,738870.297,CBPF
+Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,Nutrition,,25.0,279875.1125,CBPF
+Venezuela,2026,Reserve,39146,CBPF-VEN-26-R-INGO-39146,"Water, Sanitation and Hygiene",,9.0,100755.0405,CBPF
 Venezuela,2026,Reserve,39153,CBPF-VEN-26-R-INGO-39153,Food Security,,48.0,335999.688,CBPF
 Venezuela,2026,Reserve,39153,CBPF-VEN-26-R-INGO-39153,Nutrition,,45.0,314999.7075,CBPF
 Venezuela,2026,Reserve,39153,CBPF-VEN-26-R-INGO-39153,"Water, Sanitation and Hygiene",,7.0,48999.9545,CBPF
@@ -32716,12 +32747,12 @@ Venezuela,2026,Reserve,39176,CBPF-VEN-26-R-INGO-39176,Nutrition,,30.0,270000.003
 Venezuela,2026,Reserve,39176,CBPF-VEN-26-R-INGO-39176,"Water, Sanitation and Hygiene",,20.0,180000.002,CBPF
 Venezuela,2026,Reserve,39147,CBPF-VEN-26-R-NGO-39147,Health,,13.0,25999.7647,CBPF
 Venezuela,2026,Reserve,39147,CBPF-VEN-26-R-NGO-39147,Protection,,87.0,173998.4253,CBPF
-Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,14.0,48998.3074,CBPF
-Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,29.0,101496.4939,CBPF
-Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,57.0,199493.1087,CBPF
-Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,Health,,50.0,250000.0,CBPF
-Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,Nutrition,,30.0,150000.0,CBPF
-Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,"Water, Sanitation and Hygiene",,20.0,100000.0,CBPF
+Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,14.0,63662.2294,CBPF
+Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,29.0,131871.7609,CBPF
+Venezuela,2026,Reserve,39162,CBPF-VEN-26-R-NGO-39162,Protection,,57.0,259196.2197,CBPF
+Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,Health,,50.0,325000.0,CBPF
+Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,Nutrition,,30.0,195000.0,CBPF
+Venezuela,2026,Reserve,39175,CBPF-VEN-26-R-NGO-39175,"Water, Sanitation and Hygiene",,20.0,130000.0,CBPF
 Venezuela,2026,Reserve,39177,CBPF-VEN-26-R-NGO-39177,Food Security,,60.0,209999.484,CBPF
 Venezuela,2026,Reserve,39177,CBPF-VEN-26-R-NGO-39177,Protection,,5.0,17499.957,CBPF
 Venezuela,2026,Reserve,39177,CBPF-VEN-26-R-NGO-39177,Protection,,10.0,34999.914,CBPF
@@ -32732,9 +32763,9 @@ Venezuela,2026,Reserve,39178,CBPF-VEN-26-R-NGO-39178,Protection,,5.0,35000.0,CBP
 Venezuela,2026,Reserve,39178,CBPF-VEN-26-R-NGO-39178,Protection,,25.0,175000.0,CBPF
 Venezuela,2026,Reserve,39191,CBPF-VEN-26-R-NGO-39191,Protection,,50.0,125000.0,CBPF
 Venezuela,2026,Reserve,39191,CBPF-VEN-26-R-NGO-39191,Protection,,50.0,125000.0,CBPF
-Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,Food Security,,40.0,199999.984,CBPF
-Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,Health,,30.0,149999.988,CBPF
-Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,"Water, Sanitation and Hygiene",,30.0,149999.988,CBPF
+Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,Food Security,,40.0,259700.248,CBPF
+Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,Health,,30.0,194775.186,CBPF
+Venezuela,2026,Reserve,39227,CBPF-VEN-26-R-NGO-39227,"Water, Sanitation and Hygiene",,30.0,194775.186,CBPF
 Venezuela,2026,Reserve,39239,CBPF-VEN-26-R-NGO-39239,Nutrition,,4.0,26579.7888,CBPF
 Venezuela,2026,Reserve,39239,CBPF-VEN-26-R-NGO-39239,Protection,,11.0,73094.4192,CBPF
 Venezuela,2026,Reserve,39239,CBPF-VEN-26-R-NGO-39239,Protection,,35.0,232573.152,CBPF
@@ -32748,9 +32779,9 @@ Venezuela,2026,Reserve,39639,CBPF-VEN-26-R-NGO-39639,Health,,24.0,109199.9976,CB
 Venezuela,2026,Reserve,39639,CBPF-VEN-26-R-NGO-39639,Protection,,6.0,27299.9994,CBPF
 Venezuela,2026,Reserve,39639,CBPF-VEN-26-R-NGO-39639,Protection,,6.0,27299.9994,CBPF
 Venezuela,2026,Reserve,39639,CBPF-VEN-26-R-NGO-39639,"Water, Sanitation and Hygiene",,37.0,168349.9963,CBPF
-Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,Food Security,,30.0,74999.913,CBPF
-Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,Health,,30.0,74999.913,CBPF
-Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,"Water, Sanitation and Hygiene",,40.0,99999.884,CBPF
+Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,Food Security,,30.0,97077.285,CBPF
+Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,Health,,30.0,97077.285,CBPF
+Venezuela,2026,Reserve,39659,CBPF-VEN-26-R-NGO-39659,"Water, Sanitation and Hygiene",,40.0,129436.38,CBPF
 Venezuela,2026,Reserve,39306,CBPF-VEN-26-R-O-39306,Health,,40.0,120000.884,CBPF
 Venezuela,2026,Reserve,39306,CBPF-VEN-26-R-O-39306,"Water, Sanitation and Hygiene",,60.0,180001.326,CBPF
 Venezuela,2021,Standard,18092,VEN-21/VEN_CBPF/SA1/EDU/NGO/18092,Education,,100.0,101286.0,CBPF
