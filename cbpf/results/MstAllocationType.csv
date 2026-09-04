@@ -44,6 +44,7 @@ AllocationType,AllocationtypeId
 (AFG) 2025 1st Reserve Allocation,6223
 (AFG) 2025 3rd Reserve Allocation: Anticipatory Action: Drought,6423
 (AFG) 2025 4th Reserve Allocation: Border Response,6523
+(AFG) 2025 7th Reserve allocation - drought,6923
 (AFG) 2025 1st Standard allocation: Localization support,6623
 (BFA) 2022 Reserve Allocation,45085
 (BFA) 2022 Standard Allocation,40085
@@ -471,6 +472,7 @@ AllocationType,AllocationtypeId
 (SDN) 2024 - SHF Reserve for Emergencies (Empowering Women and Girls: Addressing Nutritional Needs in Sudan's Crisis),127915
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of Stock),128615
 (SDN) 2025 - SHF Reserve Allocation (Emergency Shelter Response to displacements from ZamZam camp),143515
+(SDN) 2025 - SHF Reserve Allocation (Prepositioning of funds for local and rapid response),143615
 (SDN) 2025 - SHF Reserve Allocation (Anticipatory cholera response in high-risk states ahead of the 2025 rainy season),143415
 (SDN) 2025 - SHF Reserve Allocation (Sustaining Conflict Response and Stabilising Cholera Interventions in the South of Sudan),146115
 (SDN) 2025 - SHF Reserve Allocation (Multi-Sector Needs Assessment in Sudan),142315
