@@ -8879,8 +8879,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 8421, Syria > Rural Damascus > Yabroud > Yabroud,Rural Damascus,33.324514,36.216111
 8422, Syria > Rural Damascus > Al Qutayfah > Jirud,Rural Damascus,33.324514,36.216111
 8423, Syria > Dar'a > Dar'a > Da'el,Dar'a,32.624102,36.104944
-8424, Syria > Rural Damascus > At Tall > Rankus,Rural Damascus,33.324514,36.216111
-8425, Syria > Dar'a > Dar'a > Busra Esh-Sham,Dar'a,32.624102,36.104944
+8424, Syria > Dar'a > Dar'a > Busra Esh-Sham,Dar'a,32.624102,36.104944
+8425, Syria > Rural Damascus > At Tall > Rankus,Rural Damascus,33.324514,36.216111
 8426, Syria > Rural Damascus > Yabroud > Esal El-Ward,Rural Damascus,33.324514,36.216111
 8427, Syria > Dar'a > Dar'a > Mzeireb,Dar'a,32.624102,36.104944
 8428, Syria > Quneitra > Al Fiq > Fiq,Quneitra,33.086196,35.87256
@@ -13137,15 +13137,15 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 12649, Yemen > Marib > Majzar,Marib,15.56841151,45.76081505
 12650, Yemen > Aden > Khur Maksar > Aden,Aden,12.84865928,45.00201169
 12651, Yemen > Dhamar > Wusab As Safil,Dhamar,14.50737016,44.42760976
-12652, Yemen > Marib > Al Abdiyah,Marib,15.56841151,45.76081505
-12653, Yemen > Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
-12654, Yemen > Amran > Maswar,Amran,16.3570904,43.87269369
-12655, Yemen > Ibb > Yarim,Ibb,14.05521633,44.26319019
-12656, Yemen > Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-12657, Yemen > Hajjah > Midi,Hajjah,16.27488061,43.11225315
-12658, Yemen > Hajjah > Haradh,Hajjah,16.27488061,43.11225315
-12659, Yemen > Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
-12660, Yemen > Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
+12652, Yemen > Taizz > Jabal Habashy,Taizz,13.39753802,43.68772167
+12653, Yemen > Marib > Al Abdiyah,Marib,15.56841151,45.76081505
+12654, Yemen > Al Jawf > Bart Al Anan,Al Jawf,16.76813934,46.01014819
+12655, Yemen > Amran > Maswar,Amran,16.3570904,43.87269369
+12656, Yemen > Ibb > Yarim,Ibb,14.05521633,44.26319019
+12657, Yemen > Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+12658, Yemen > Hajjah > Midi,Hajjah,16.27488061,43.11225315
+12659, Yemen > Hajjah > Haradh,Hajjah,16.27488061,43.11225315
+12660, Yemen > Al Mahwit > Milhan,Al Mahwit,15.40140161,43.59523566
 12661,Ibb -> Ar Radmah -> Al-Ratmah,Ibb,14.05521633,44.26319019
 12662,Ibb -> Ar Radmah -> Thee Ashra,Ibb,14.05521633,44.26319019
 12663,Sana'a -> Sa'fan,Sana'a,15.12394358,44.78727759
@@ -14074,18 +14074,18 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13586, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
 13587, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
 13588, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13589, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13590, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13591, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-13592, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13593, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13594, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-13595, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13596, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13597, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13598, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13599, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
-13600, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13589, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+13590, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13591, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13592, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+13593, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13594, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13595, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13596, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+13597, Shabwah > Habban,Shabwah,14.67178974,46.95556076
+13598, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13599, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13600, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 13601, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 13602, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
 13603, Marib > Marib City > Mareb,Marib,15.56841151,45.76081505
@@ -14093,8 +14093,8 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13605, Marib > Bidbadah,Marib,15.56841151,45.76081505
 13606, Shabwah > Usaylan,Shabwah,14.67178974,46.95556076
 13607, Marib > Mahliyah,Marib,15.56841151,45.76081505
-13608, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
-13609, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13608, Shabwah > Nisab,Shabwah,14.67178974,46.95556076
+13609, Al Jawf > Al Khalq,Al Jawf,16.76813934,46.01014819
 13610, Shabwah > Mayfa'a,Shabwah,14.67178974,46.95556076
 13611, Al Hudaydah > Al Khawkhah > Al-Dhahyah,Al Hudaydah,15.00062889,43.04031959
 13612, Al Hudaydah > Bayt Al Faqiah > Al-Ghanemyah,Al Hudaydah,15.00062889,43.04031959
