@@ -12445,47 +12445,47 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 11960, Ukraine > Dnipropetrovska > Pavlohradskyi,Dnipropetrovska,48.45732336,34.80234992
 11961, Ukraine > Vinnytska > Tulchynskyi,Vinnytska,48.9204127,28.68555719
 11962, Ukraine > Vinnytska > Vinnytskyi,Vinnytska,48.9204127,28.68555719
-11963, Ukraine > Ternopilska > Kremenetskyi,Ternopilska,49.40182495,25.64826536
-11964, Ukraine > Chernivetska > Vyzhnytskyi,Chernivetska,48.26819792,25.97702081
-11965, Ukraine > Ivano-Frankivska > Verkhovynskyi,Ivano-Frankivska,48.70165698,24.61942916
-11966, Ukraine > Ivano-Frankivska > Kaluskyi,Ivano-Frankivska,48.70165698,24.61942916
-11967, Ukraine > Khmelnytska > Shepetivskyi,Khmelnytska,49.50734557,26.9296266
-11968, Ukraine > Ternopilska > Ternopilskyi,Ternopilska,49.40182495,25.64826536
-11969, Ukraine > Chernivetska > Chernivetskyi,Chernivetska,48.26819792,25.97702081
-11970, Ukraine > Vinnytska > Zhmerynskyi,Vinnytska,48.9204127,28.68555719
-11971, Ukraine > Khmelnytska > Kamianets-Podilskyi,Khmelnytska,49.50734557,26.9296266
-11972, Ukraine > Chernivetska > Dnistrovskyi,Chernivetska,48.26819792,25.97702081
-11973, Ukraine > Khmelnytska > Khmelnytskyi,Khmelnytska,49.50734557,26.9296266
-11974, Ukraine > Vinnytska > Mohyliv-Podilskyi,Vinnytska,48.9204127,28.68555719
-11975, Ukraine > Ivano-Frankivska > Kosivskyi,Ivano-Frankivska,48.70165698,24.61942916
-11976, Ukraine > Ternopilska > Chortkivskyi,Ternopilska,49.40182495,25.64826536
-11977, Ukraine > Zakarpatska > Uzhhorodskyi,Zakarpatska,48.4036198,23.27591388
-11978, Ukraine > Volynska > Kovelskyi,Volynska,51.19082902,24.87041451
-11979, Ukraine > Rivnenska > Rivnenskyi,Rivnenska,50.95489926,26.59275517
-11980, Ukraine > Volynska > Lutskyi,Volynska,51.19082902,24.87041451
-11981, Ukraine > Volynska > Volodymyrskyi,Volynska,51.19082902,24.87041451
-11982, Ukraine > Volynska > Kamin-Kashyrskyi,Volynska,51.19082902,24.87041451
-11983, Ukraine > Kirovohradska > Novoukrainskyi,Kirovohradska,48.47227671,32.08175027
-11984, Ukraine > Lvivska > Sambirskyi,Lvivska,49.71736367,23.91660016
-11985, Ukraine > Kirovohradska > Kropyvnytskyi,Kirovohradska,48.47227671,32.08175027
-11986, Ukraine > Kirovohradska > Holovanivskyi,Kirovohradska,48.47227671,32.08175027
-11987, Ukraine > Poltavska > Lubenskyi,Poltavska,49.73233922,33.77861246
-11988, Ukraine > Kirovohradska > Oleksandriiskyi,Kirovohradska,48.47227671,32.08175027
-11989, Ukraine > Chernihivska > Prylutskyi,Chernihivska,51.31290942,31.9028786
-11990, Ukraine > Rivnenska > Sarnenskyi,Rivnenska,50.95489926,26.59275517
-11991, Ukraine > Zhytomyrska > Zhytomyrskyi,Zhytomyrska,50.63938138,28.47556688
-11992, Ukraine > Zhytomyrska > Korostenskyi,Zhytomyrska,50.63938138,28.47556688
-11993, Ukraine > Zhytomyrska > Berdychivskyi,Zhytomyrska,50.63938138,28.47556688
-11994, Ukraine > Lvivska > Yavorivskyi,Lvivska,49.71736367,23.91660016
-11995, Ukraine > Zakarpatska > Khustskyi,Zakarpatska,48.4036198,23.27591388
-11996, Ukraine > Zakarpatska > Mukachivskyi,Zakarpatska,48.4036198,23.27591388
-11997, Ukraine > Zakarpatska > Berehivskyi,Zakarpatska,48.4036198,23.27591388
-11998, Ukraine > Rivnenska > Varaskyi,Rivnenska,50.95489926,26.59275517
-11999, Ukraine > Kyiv > Kyiv,Kyiv,50.42981047,30.55437837
-12000, Ukraine > Kyivska > Obukhivskyi,Kyivska,49.95423228,30.40499528
-12001, Ukraine > Kyivska > Bilotserkivskyi,Kyivska,49.95423228,30.40499528
-12002, Ukraine > Luhanska > Starobilskyi,Luhanska,48.9855183,39.01773069
-12003, Ukraine > Luhanska > Svativskyi,Luhanska,48.9855183,39.01773069
+11963, Ukraine > Kyiv > Kyiv,Kyiv,50.42981047,30.55437837
+11964, Ukraine > Ternopilska > Ternopilskyi,Ternopilska,49.40182495,25.64826536
+11965, Ukraine > Khmelnytska > Khmelnytskyi,Khmelnytska,49.50734557,26.9296266
+11966, Ukraine > Zakarpatska > Uzhhorodskyi,Zakarpatska,48.4036198,23.27591388
+11967, Ukraine > Kirovohradska > Kropyvnytskyi,Kirovohradska,48.47227671,32.08175027
+11968, Ukraine > Luhanska > Svativskyi,Luhanska,48.9855183,39.01773069
+11969, Ukraine > Volynska > Volodymyrskyi,Volynska,51.19082902,24.87041451
+11970, Ukraine > Chernivetska > Chernivetskyi,Chernivetska,48.26819792,25.97702081
+11971, Ukraine > Rivnenska > Rivnenskyi,Rivnenska,50.95489926,26.59275517
+11972, Ukraine > Ternopilska > Kremenetskyi,Ternopilska,49.40182495,25.64826536
+11973, Ukraine > Chernivetska > Vyzhnytskyi,Chernivetska,48.26819792,25.97702081
+11974, Ukraine > Ivano-Frankivska > Kaluskyi,Ivano-Frankivska,48.70165698,24.61942916
+11975, Ukraine > Ivano-Frankivska > Verkhovynskyi,Ivano-Frankivska,48.70165698,24.61942916
+11976, Ukraine > Khmelnytska > Shepetivskyi,Khmelnytska,49.50734557,26.9296266
+11977, Ukraine > Vinnytska > Zhmerynskyi,Vinnytska,48.9204127,28.68555719
+11978, Ukraine > Khmelnytska > Kamianets-Podilskyi,Khmelnytska,49.50734557,26.9296266
+11979, Ukraine > Chernivetska > Dnistrovskyi,Chernivetska,48.26819792,25.97702081
+11980, Ukraine > Vinnytska > Mohyliv-Podilskyi,Vinnytska,48.9204127,28.68555719
+11981, Ukraine > Ivano-Frankivska > Kosivskyi,Ivano-Frankivska,48.70165698,24.61942916
+11982, Ukraine > Ternopilska > Chortkivskyi,Ternopilska,49.40182495,25.64826536
+11983, Ukraine > Volynska > Kovelskyi,Volynska,51.19082902,24.87041451
+11984, Ukraine > Volynska > Lutskyi,Volynska,51.19082902,24.87041451
+11985, Ukraine > Volynska > Kamin-Kashyrskyi,Volynska,51.19082902,24.87041451
+11986, Ukraine > Kirovohradska > Novoukrainskyi,Kirovohradska,48.47227671,32.08175027
+11987, Ukraine > Lvivska > Sambirskyi,Lvivska,49.71736367,23.91660016
+11988, Ukraine > Kirovohradska > Holovanivskyi,Kirovohradska,48.47227671,32.08175027
+11989, Ukraine > Poltavska > Lubenskyi,Poltavska,49.73233922,33.77861246
+11990, Ukraine > Kirovohradska > Oleksandriiskyi,Kirovohradska,48.47227671,32.08175027
+11991, Ukraine > Chernihivska > Prylutskyi,Chernihivska,51.31290942,31.9028786
+11992, Ukraine > Rivnenska > Sarnenskyi,Rivnenska,50.95489926,26.59275517
+11993, Ukraine > Zhytomyrska > Zhytomyrskyi,Zhytomyrska,50.63938138,28.47556688
+11994, Ukraine > Zhytomyrska > Korostenskyi,Zhytomyrska,50.63938138,28.47556688
+11995, Ukraine > Zhytomyrska > Berdychivskyi,Zhytomyrska,50.63938138,28.47556688
+11996, Ukraine > Lvivska > Yavorivskyi,Lvivska,49.71736367,23.91660016
+11997, Ukraine > Zakarpatska > Khustskyi,Zakarpatska,48.4036198,23.27591388
+11998, Ukraine > Zakarpatska > Mukachivskyi,Zakarpatska,48.4036198,23.27591388
+11999, Ukraine > Zakarpatska > Berehivskyi,Zakarpatska,48.4036198,23.27591388
+12000, Ukraine > Rivnenska > Varaskyi,Rivnenska,50.95489926,26.59275517
+12001, Ukraine > Kyivska > Obukhivskyi,Kyivska,49.95423228,30.40499528
+12002, Ukraine > Kyivska > Bilotserkivskyi,Kyivska,49.95423228,30.40499528
+12003, Ukraine > Luhanska > Starobilskyi,Luhanska,48.9855183,39.01773069
 12004, Ukraine > Sumska > Romenskyi,Sumska,51.01631515,33.98908074
 12005, Donetska > Yasynuvatskyi > Yasynuvatskyi > Opytne,Donetska,48.047609,37.673962
 12006, Donetska > Bakhmutskyi > Bakhmutskyi > Mykolaivka Druha,Donetska,48.047609,37.673962
@@ -14106,24 +14106,24 @@ LocationID,Location,AdminLocation1,AdminLocation1Latitude,AdminLocation1Longitud
 13610, Shabwah > Al Talh,Shabwah,14.67178974,46.95556076
 13611, Ibb > Ash Sha'ir,Ibb,14.05521633,44.26319019
 13612, Sa'ada > Ghamr,Sa'ada,17.25112185,43.50274965
-13613, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
-13614, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
-13615, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
-13616, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
-13617, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
-13618, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
-13619, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
-13620, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
-13621, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
-13622, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
-13623, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
-13624, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
-13625, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
-13626, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
-13627, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
-13628, Shabwah > Arma,Shabwah,14.67178974,46.95556076
-13629, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
-13630, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13613, Al Mahwit > Shibam Kawkaban,Al Mahwit,15.40140161,43.59523566
+13614, Al Maharah > Hawf,Al Maharah,16.59344354,51.59013758
+13615, Dhamar > Al Manar,Dhamar,14.50737016,44.42760976
+13616, Hadramaut > Adh Dhlia'ah,Hadramaut,16.80924424,48.84638589
+13617, Sa'ada > Qatabir,Sa'ada,17.25112185,43.50274965
+13618, Hadramaut > Ghayl Ba Wazir,Hadramaut,16.80924424,48.84638589
+13619, Shabwah > Dhar,Shabwah,14.67178974,46.95556076
+13620, Hadramaut > Ghayl Bin Yamin,Hadramaut,16.80924424,48.84638589
+13621, Hadramaut > Ash Shihr,Hadramaut,16.80924424,48.84638589
+13622, Abyan > Khanfir > Al-Khabar,Abyan,13.6955485,46.50340692
+13623, Abyan > Jayshan > Jayshan,Abyan,13.6955485,46.50340692
+13624, Al Bayda > Dhi Na'im,Al Bayda,14.21742373,45.55495025
+13625, Hadramaut > Daw'an,Hadramaut,16.80924424,48.84638589
+13626, Hadramaut > Sah,Hadramaut,16.80924424,48.84638589
+13627, Hadramaut > Wadi Al Ayn,Hadramaut,16.80924424,48.84638589
+13628, Al Maharah > Sayhut,Al Maharah,16.59344354,51.59013758
+13629, Hadramaut > Huraidhah,Hadramaut,16.80924424,48.84638589
+13630, Shabwah > Arma,Shabwah,14.67178974,46.95556076
 13631, Shabwah > Habban,Shabwah,14.67178974,46.95556076
 13632, Ibb > Hubaysh,Ibb,14.05521633,44.26319019
 13633, Al Hudaydah > Jabal Ra's,Al Hudaydah,15.00062889,43.04031959
