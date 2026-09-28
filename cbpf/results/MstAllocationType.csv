@@ -230,6 +230,7 @@ AllocationType,AllocationtypeId
 (LBN) 2024 1st Reserve Allocation (New),134671
 (LBN) 2024 2nd Reserve Allocation,137971
 (LBN) 2024 1st Standard Allocation,54271
+(LBN) 2025 1st Reserve Allocation,139471
 (LBN) 2025 1st Standard Allocation,144571
 (LBN) 2026 2nd Reserve Allocation,157471
 (LBN) 2017 Reserve Allocation,10771
@@ -430,6 +431,7 @@ AllocationType,AllocationtypeId
 (SSD) 2025 Reserve allocation 2,143019
 (SSD) 2025 Reserve allocation 1,140019
 (SSD) 2025 Reserve allocation 3,144919
+(SSD) 2025 Reserve allocation 4,151719
 (SSD) 2025 Reserve allocation 5,152019
 (SSD) 2025 Standard allocation 1,143119
 (SSD) 2020 Reserve Allocation 1,26819
@@ -468,6 +470,7 @@ AllocationType,AllocationtypeId
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 2 ),130415
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 3),132615
 (SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 4),134015
+(SDN) 2024 - SHF Reserve for Emergencies (Rapid funding to newly emerging humanitarian needs 5),134715
 (SDN) 2024 - SHF Reserve for Emergencies (In kind food distributions in Zam Zam camp),134815
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of funds: SHF 48hrs response and Funds to Multual-Aid Groups),137015
 (SDN) 2024 - SHF Reserve for Emergencies (Area-based food production support),137115
@@ -475,10 +478,11 @@ AllocationType,AllocationtypeId
 (SDN) 2024 - SHF Reserve for Emergencies (Empowering Women and Girls: Addressing Nutritional Needs in Sudan's Crisis),127915
 (SDN) 2024 - SHF Reserve for Emergencies (Prepositioning of Stock),128615
 (SDN) 2025 - SHF Reserve Allocation (Emergency Shelter Response to displacements from ZamZam camp),143515
-(SDN) 2025 - SHF Reserve Allocation (Prepositioning of funds for local and rapid response),143615
 (SDN) 2025 - SHF Reserve Allocation (Anticipatory cholera response in high-risk states ahead of the 2025 rainy season),143415
+(SDN) 2025 - SHF Reserve Allocation (Prepositioning of funds for local and rapid response),143615
 (SDN) 2025 - SHF Reserve Allocation (Sustaining Conflict Response and Stabilising Cholera Interventions in the South of Sudan),146115
 (SDN) 2025 - SHF Reserve Allocation (Multi-Sector Needs Assessment in Sudan),142315
+"(SDN) 2025-Lifesaving NFI, WASH, and Logistics Support in Response to Displacement in and from conflict-affected zones in Sudan",151915
 (SDN) 2025 - SHF Standard Allocation ( Area-based food crisis response in Sudan),140615
 (SDN) 2025 - SHF Standard Allocation (Area-based response to Tawila/El Fasher),148015
 (SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30815
