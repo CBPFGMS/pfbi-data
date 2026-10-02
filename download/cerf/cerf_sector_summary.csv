@@ -9774,9 +9774,9 @@ Mozambique,2025,Underfunded Emergencies,39972,CERF-MOZ-25-UF-WOM-39972,Protectio
 Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Protection,Protection,30.0,390000.0
 Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Agriculture,Agriculture,40.0,520000.0
 Myanmar,2025,Underfunded Emergencies,39973,CERF-MMR-25-UF-WOM-39973,Multi-Purpose Cash,Multi-Purpose Cash,30.0,390000.0
-Lebanon,2025,Rapid Response,41776,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0
-occupied Palestinian territory,2025,Rapid Response,41777,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0
-Syrian Arab Republic,2025,Underfunded Emergencies,41778,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0
+Lebanon,2025,Rapid Response,41867,CERF-LBN-25-RR-1437(TBD),To be determined,To be determined,100.0,10000000.0
+occupied Palestinian territory,2025,Rapid Response,41868,CERF-PSE-25-RR-1489(TBD),To be determined,To be determined,100.0,20000000.0
+Syrian Arab Republic,2025,Underfunded Emergencies,41869,CERF-SYR-25-UF-1501(TBD),To be determined,To be determined,100.0,18000000.0
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Camp Coordination and Camp Management,Camp Coordination and Camp Management,28.57,119994.0
 Madagascar,2026,Rapid Response,34545,CERF-MDG-24-RR-IOM-34545,Shelter and Non-Food Items,Shelter and Non-Food Items,71.43,300006.0
 Madagascar,2026,Rapid Response,34546,CERF-MDG-24-RR-CEF-34546,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",50.00000055555556,450000.0
@@ -10011,6 +10011,17 @@ Colombia,2026,Rapid Response,41078,CERF-COL-26-RR-WHO-41078,Health,Health,75.0,6
 Colombia,2026,Rapid Response,41079,CERF-COL-26-RR-WFP-41079,Food Aid,Food Aid,100.0,1000000.0
 Colombia,2026,Rapid Response,41080,CERF-COL-26-RR-CEF-41080,Education,Education,50.00000045454546,550000.0
 Colombia,2026,Rapid Response,41080,CERF-COL-26-RR-CEF-41080,Protection,Protection,49.99999954545454,549999.99
+Chad,2026,Rapid Response,41082,CERF-TCD-26-RR-FAO-41082,Food Aid,Food Aid,100.0,552000.04
+Chad,2026,Rapid Response,41083,CERF-TCD-26-RR-CEF-41083,Education,Education,11.999999768377053,248680.02
+Chad,2026,Rapid Response,41083,CERF-TCD-26-RR-CEF-41083,Nutrition,Nutrition,33.0000000868586,683870.07
+Chad,2026,Rapid Response,41083,CERF-TCD-26-RR-CEF-41083,Protection,Protection,14.999999951745222,310850.03
+Chad,2026,Rapid Response,41083,CERF-TCD-26-RR-CEF-41083,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",40.000000193019126,828933.42
+Chad,2026,Rapid Response,41084,CERF-TCD-26-RR-FPA-41084,Protection,Protection,34.8799990697715,119987.72
+Chad,2026,Rapid Response,41084,CERF-TCD-26-RR-FPA-41084,Health,Health,65.1200009302285,224013.78
+Central African Republic,2026,Rapid Response,41233,CERF-CAF-26-RR-IOM-41233,Health,Health,100.0,500000.0
+Djibouti,2026,Rapid Response,41237,CERF-DJI-26-RR-CEF-41237,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",75.00000083318177,450081.86
+Djibouti,2026,Rapid Response,41237,CERF-DJI-26-RR-CEF-41237,Nutrition,Nutrition,13.000000299945441,78014.19
+Djibouti,2026,Rapid Response,41237,CERF-DJI-26-RR-CEF-41237,Protection,Protection,11.999998866872781,72013.09
 Yemen,2026,Rapid Response,41273,CERF-YEM-26-RR-WFP-41273,Food Aid,Food Aid,100.0,3000000.0
 Yemen,2026,Rapid Response,41274,CERF-YEM-26-RR-FAO-41274,Agriculture,Agriculture,100.0,1000000.0
 Yemen,2026,Rapid Response,41275,CERF-YEM-26-RR-WHO-41275,Health,Health,100.0,2130000.0
@@ -10018,11 +10029,25 @@ Yemen,2026,Rapid Response,41276,CERF-YEM-26-RR-FPA-41276,Protection,Protection,3
 Yemen,2026,Rapid Response,41276,CERF-YEM-26-RR-FPA-41276,Health,Health,63.5000001970803,869949.99
 Yemen,2026,Rapid Response,41278,CERF-YEM-26-RR-CEF-41278,Nutrition,Nutrition,33.33,499950.0
 Yemen,2026,Rapid Response,41278,CERF-YEM-26-RR-CEF-41278,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",66.67,1000050.0
-Lebanon,2026,Rapid Response,41779,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0
-Yemen,2026,Rapid Response,41780,CERF-YEM-26-RR-1561(TBD),To be determined,To be determined,100.0,1000000.02
-Central African Republic,2026,Rapid Response,41781,CERF-CAF-26-RR-1570(TBD),To be determined,To be determined,100.0,3000000.0
-Djibouti,2026,Rapid Response,41782,CERF-DJI-26-RR-1571(TBD),To be determined,To be determined,100.0,2000000.0
-Myanmar,2026,Rapid Response,41783,CERF-MMR-26-RR-1572(TBD),To be determined,To be determined,100.0,5000000.0
-Nepal,2026,Rapid Response,41784,CERF-NPL-26-RR-1574(TBD),To be determined,To be determined,100.0,2500000.0
-South Sudan,2026,Rapid Response,41785,CERF-SSD-26-RR-1575(TBD),To be determined,To be determined,100.0,6000000.0
-Yemen,2026,Rapid Response,41786,CERF-YEM-26-RR-1576(TBD),To be determined,To be determined,100.0,9000000.0
+Madagascar,2026,Rapid Response,41325,CERF-MDG-26-RR-CEF-41325,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",29.189999925665244,340063.54
+Madagascar,2026,Rapid Response,41325,CERF-MDG-26-RR-CEF-41325,Nutrition,Nutrition,55.79000016257509,649953.58
+Madagascar,2026,Rapid Response,41325,CERF-MDG-26-RR-CEF-41325,Protection,Protection,15.019999911759669,174983.02
+Madagascar,2026,Rapid Response,41326,CERF-MDG-26-RR-WFP-41326,Food Aid,Food Aid,71.91,1919997.0
+Madagascar,2026,Rapid Response,41326,CERF-MDG-26-RR-WFP-41326,Nutrition,Nutrition,28.09,750003.0
+Madagascar,2026,Rapid Response,41333,CERF-MDG-26-RR-FAO-41333,Agriculture,Agriculture,100.0,1539986.8
+Madagascar,2026,Rapid Response,41335,CERF-MDG-26-RR-FPA-41335,Protection,Protection,56.45,174995.0
+Madagascar,2026,Rapid Response,41335,CERF-MDG-26-RR-FPA-41335,Health,Health,43.55,135005.0
+Nepal,2026,Rapid Response,41408,CERF-NPL-26-RR-WFP-41408,Common Services,Common Services,100.0,1000000.0
+Nepal,2026,Rapid Response,41409,CERF-NPL-26-RR-CEF-41409,"Water, Sanitation and Hygiene","Water, Sanitation and Hygiene",100.0,749855.97
+Lebanon,2026,Rapid Response,41870,CERF-LBN-26-RR-1552(TBD),To be determined,To be determined,100.0,12000000.0
+Democratic Republic of the Congo,2026,Rapid Response,41871,CERF-COD-26-RR-1554(TBD),To be determined,To be determined,100.0,1000000.0
+Yemen,2026,Rapid Response,41872,CERF-YEM-26-RR-1561(TBD),To be determined,To be determined,100.0,1000000.02
+Chad,2026,Rapid Response,41873,CERF-TCD-26-RR-1569(TBD),To be determined,To be determined,100.0,655664.92
+Central African Republic,2026,Rapid Response,41874,CERF-CAF-26-RR-1570(TBD),To be determined,To be determined,100.0,2500000.0
+Djibouti,2026,Rapid Response,41875,CERF-DJI-26-RR-1571(TBD),To be determined,To be determined,100.0,1399890.86
+Myanmar,2026,Rapid Response,41876,CERF-MMR-26-RR-1572(TBD),To be determined,To be determined,100.0,5000000.0
+Madagascar,2026,Rapid Response,41877,CERF-MDG-26-RR-1573(TBD),To be determined,To be determined,100.0,315013.06
+Nepal,2026,Rapid Response,41878,CERF-NPL-26-RR-1574(TBD),To be determined,To be determined,100.0,750144.03
+South Sudan,2026,Rapid Response,41879,CERF-SSD-26-RR-1575(TBD),To be determined,To be determined,100.0,6000000.0
+Yemen,2026,Rapid Response,41880,CERF-YEM-26-RR-1576(TBD),To be determined,To be determined,100.0,9000000.0
+Zimbabwe,2026,Rapid Response,41881,CERF-ZWE-26-RR-1578(TBD),To be determined,To be determined,100.0,4000000.0
