@@ -182,7 +182,7 @@ AllocationType,AllocationtypeId
 (ETH) 2022 3rd Round Reserve Allocation,45553
 (ETH) 2022 1st Round Standard Allocation,43753
 (ETH) 2022 1st Round Standard Allocation - Envelope 3,45753
-(HTI) 2024 Première Allocation Standard,135388
+(HTI) (HTI) 2024 Première Allocation Standard,135388
 (IRQ) 2017 IHPF 2nd Reserve Allocation,10072
 (IRQ) 2017 6th Reserve Allocation Hawiga Response,13072
 (IRQ) 1st Reserve Allocation 2017-National NGOs Window Iraq,9572
@@ -488,6 +488,7 @@ AllocationType,AllocationtypeId
 "(SDN) 2025-Lifesaving NFI, WASH, and Logistics Support in Response to Displacement in and from conflict-affected zones in Sudan",151915
 (SDN) 2025 - SHF Standard Allocation ( Area-based food crisis response in Sudan),140615
 (SDN) 2025 - SHF Standard Allocation (Area-based response to Tawila/El Fasher),148015
+"(SDN) 2025 - Protection-focused multi-cluster response to Khartoum, Darfur and Kordofan States",148615
 (SDN) 2020 - SHF Reserve for Emergencies (Ethiopian Refugees),30815
 (SDN) 2020 - SHF Reserve for Emergencies (Newly accessible areas in Jebel Marra and Two Areas),30915
 (SDN) 2020 Reserve for Emergencies (Multi-Sector Needs Assessment) - IOM,28615
@@ -631,6 +632,7 @@ AllocationType,AllocationtypeId
 (VEN) Primera Asignación Ordinaria 2023,47683
 (VEN) Segunda Asignación Ordinaria 2023,50883
 (VEN) Asignación de Reserva 2024,136583
+(VEN) Primera Asignación de Reserva 2024-2024 Respuesta 48 Horas,130283
 (VEN) 2024 - Standard allocation,132283
 (VEN) Primera Asignación de Reserva 2025,142183
 (VEN) Primera asignación ordinaria 2021,31583
