@@ -4346,7 +4346,7 @@
     "latitude": 14.59,
     "longitude": 120.98,
     "CBPFFundStatus":"",
-    "CBPFId": 95,
+    "CBPFId": 97,
     "CERFId": 68,
     "AreaType": "Country"
   },{
@@ -4362,7 +4362,7 @@
     "latitude": 33.73,
     "longitude": 120.98,
     "CBPFFundStatus":"",
-    "CBPFId": 94,
+    "CBPFId": 98,
     "CERFId": 71,
     "AreaType": "Country"
   },{
@@ -4713,8 +4713,25 @@
     "latitude": 14.59,
     "longitude": 120.98,
     "CBPFFundStatus": null,
-    "CBPFId": 95,
+    "CBPFId": 97,
     "CERFId": 68,
+    "AreaType": "Country"
+  },
+  {
+    "id": 277,
+    "PooledFundName": "Sri Lanka (AP-RHPF)",
+    "PooledFundNameAbbrv": "Sri Lanka (AP-RHPF)",
+    "RegionName": "South-Eastern Asia",
+    "RegionNameArr": "Asia",
+    "SubRegionName": "South-Eastern Asia",
+    "ContinentName": "Asia",
+    "CountryCode": "LKA",
+    "ISO2Code": "LK",
+    "latitude": 7.55305600,
+    "longitude": 80.43666700,
+    "CBPFFundStatus": null,
+    "CBPFId": 506,
+    "CERFId": 75,
     "AreaType": "Country"
   }
 ]
