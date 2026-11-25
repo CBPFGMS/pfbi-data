@@ -4318,22 +4318,6 @@
     "AreaType": "Country"
   },
   {
-    "id": 254,
-    "PooledFundName": "Haiti (RhPF)",
-    "PooledFundNameAbbrv": "Haiti (RhPF)",
-    "RegionName": "Latin America",
-    "RegionNameArr": "Latin America",
-    "SubRegionName": "Caribbean",
-    "ContinentName": "Americas",
-    "CountryCode": "HTI",
-    "ISO2Code": "HT",
-    "latitude": 18.971187,
-    "longitude": -72.285215,
-    "CBPFFundStatus":"",
-    "CBPFId": 88,
-    "CERFId": 41,
-    "AreaType": "Country"
-  },{
     "id": 255,
     "PooledFundName": "Mozambique (RhPF)",
     "PooledFundNameAbbrv": "Mozambique (RhPF)",
@@ -4731,23 +4715,6 @@
     "CBPFFundStatus": null,
     "CBPFId": 95,
     "CERFId": 68,
-    "AreaType": "Country"
-  },
-  {
-    "id": 278,
-    "PooledFundName": "Haiti (RhPF)",
-    "PooledFundNameAbbrv": "Haiti (RhPF)",
-    "RegionName": "Latin America",
-    "RegionNameArr": "Latin America",
-    "SubRegionName": "Caribbean",
-    "ContinentName": "Americas",
-    "CountryCode": "HTI",
-    "ISO2Code": "HT",
-    "latitude": 18.971187,
-    "longitude": -72.285215,
-    "CBPFFundStatus": null,
-    "CBPFId": 88,
-    "CERFId": 41,
     "AreaType": "Country"
   }
 ]
